@@ -2,7 +2,7 @@
 
 This repo contains data and source code for using a machine learning model to predict academy awards.
 
-Webpage: [Predition Results for 2019](https://cseweb.ucsd.edu/~m5wan/oscar2019.html)
+Webpage: [Predition Results for 2019](https://mengtingwan.github.io/oscar2019.html)
 
 ## Data:
 Data can be accessed in [./data/](./data), where a series of pre-Oscar awards are included (see descriptions [here](award_code.csv)).
