@@ -1,217 +1,229 @@
-category, supporting feature, coefficient
-best actress leading role, SAG_outstanding female actor leading role_True_secondary, 1.538993
-best actress leading role, SAG_outstanding female actor leading role_True_primary, 1.538993
-best actress leading role, BAFTA_best leading actress_True_primary, 1.382658
-best actress leading role, BAFTA_best leading actress_True_secondary, 1.382658
-best actress leading role, GG_best actress motion picture  drama_True_primary, 1.250808
-best actress leading role, NBR_best actor_True_secondary, 0.828169
-best actress leading role, BSFCA_best supporting actress_True_secondary, 0.635587
-best actress leading role, GG_best actress motion picture  drama_True_secondary, 0.618253
-best actress leading role, CCA_best actor_False_secondary, 0.481839
-best actress leading role, BAFTA_best make up  hair_True_secondary, 0.404751
-best live action short film, BIFA_best british short_True_primary, 3.24944
-best live action short film, BIFA_best british short_False_primary, 3.236915
-best makeup and hairstyling, BAFTA_best make uphair_True_primary, 0.451723
-best makeup and hairstyling, BAFTA_best make up  hair_True_primary, 0.273393
-best makeup and hairstyling, BAFTA_best make uphair_True_secondary, 0.244098
-best makeup and hairstyling, SAG_outstanding cast motion picture_False_primary, 0.239691
-best makeup and hairstyling, NSFCA_best directing_False_primary, 0.22533
-best makeup and hairstyling, BAFTA_best sound mixing_False_primary, 0.213949
-best makeup and hairstyling, BAFTA_best costume design_False_primary, 0.21204
-best makeup and hairstyling, CCA_best young actress_False_primary, 0.208996
-best makeup and hairstyling, CCA_best actress_False_primary, 0.202981
-best makeup and hairstyling, BAFTA_best cinematography_False_primary, 0.171913
-best actor supporting role, GG_best actor supporting role motion picture_True_primary, 4.026329
-best actor supporting role, BAFTA_best supporting actor_True_primary, 3.550349
-best actor supporting role, SAG_outstanding male actor supporting role_True_primary, 3.311151
-best actor supporting role, BAFTA_best actor supporting role_False_secondary, 2.708468
-best actor supporting role, GG_best actor supporting role motion picture_True_secondary, 2.364807
-best actor supporting role, BAFTA_best supporting actor_True_secondary, 2.297992
-best actor supporting role, SAG_outstanding male actor supporting role_True_secondary, 2.056839
-best actor supporting role, WAFCA_best supporting actor_True_primary, 1.982663
-best actor supporting role, LAFCA_best supporting actor_False_primary, 1.816787
-best actor supporting role, BSFCA_best ensemble cast_True_secondary, 1.798537
-best cinematography, CAS_outstanding sound mixing for motion pictures_True_primary, 2.038165
-best cinematography, CCA_best composer_True_primary, 2.030657
-best cinematography, NSFCA_best directing_False_primary, 1.551965
-best cinematography, BAFTA_best costume design_True_primary, 1.222472
-best cinematography, ACE_best edited feature film  dramatic_False_primary, 1.104585
-best cinematography, LAFCA_best production design_True_primary, 1.054297
-best cinematography, NYFCCA_best film_False_primary, 0.971573
-best cinematography, GG_best director  motion picture_True_primary, 0.962739
-best cinematography, BAFTA_best actor supporting role_False_primary, 0.887309
-best cinematography, WAFCA_best cinematography_True_secondary, 0.82002
-best motion picture, DGA_outstanding directorial motion pictures_True_primary, 2.521662
-best motion picture, CCA_best motion picture_True_primary, 1.429863
-best motion picture, GG_best actor supporting role motion picture_False_primary, 1.38853
-best motion picture, BAFTA_best cinematography_True_primary, 0.756055
-best motion picture, SAG_outstanding cast motion picture_True_primary, 0.728138
-best motion picture, GG_best screenplay  motion picture_False_primary, 0.701295
-best motion picture, WAFCA_best acting ensemble_True_primary, 0.698612
-best motion picture, GG_best director  motion picture_False_primary, 0.597934
-best motion picture, WGA_best writing original screenplay_True_primary, 0.587952
-best motion picture, BAFTA_best actress supporting role_True_primary, 0.553312
-best animated feature film, CCA_best animated feature film_True_primary, 1.380787
-best animated feature film, NYFCCA_best animated film_True_primary, 1.080206
-best animated feature film, CAS_outstanding sound mixing for motion pictures  animated_True_primary, 0.985013
-best animated feature film, WAFCA_best animated feature film_True_primary, 0.929556
-best animated feature film, VES_outstanding created environment animated feature motion picture_True_primary, 0.8664
-best animated feature film, VES_outstanding animated character animated feature motion picture_True_primary, 0.848861
-best animated feature film, ACE_best edited animated feature film_True_primary, 0.822422
-best animated feature film, VES_outstanding animation animated feature motion picture_True_secondary, 0.805087
-best animated feature film, VES_outstanding animation animated feature motion picture_True_primary, 0.787927
-best animated feature film, BAFTA_best animated film_True_secondary, 0.744136
-best writing original screenplay, WGA_best writing original screenplay_True_primary, 1.428486
-best writing original screenplay, WGA_best writing original screenplay_True_secondary, 1.428486
-best writing original screenplay, CCA_best writing original screenplay_True_secondary, 1.352166
-best writing original screenplay, CCA_best writing original screenplay_True_primary, 1.352166
-best writing original screenplay, BAFTA_best screenplay  original_True_primary, 1.245676
-best writing original screenplay, BAFTA_best screenplay  original_True_secondary, 1.245676
-best writing original screenplay, WAFCA_best supporting actor_False_primary, 1.121796
-best writing original screenplay, BSFCA_best actor_True_primary, 1.036123
-best writing original screenplay, NSFCA_best directing_False_primary, 0.9764
-best writing original screenplay, NYFCCA_best actor_True_primary, 0.917211
-best foreign language film, NBR_best foreign language film_True_primary, 0.63046
-best foreign language film, GG_best foreign language film_True_primary, 0.582757
-best foreign language film, LAFCA_best foreign film_True_primary, 0.490875
-best foreign language film, BAFTA_best film not english language_True_primary, 0.298703
-best foreign language film, CCA_best foreignlanguage film_True_primary, 0.278232
-best foreign language film, NYFCCA_best foreign language film_True_primary, 0.272134
-best foreign language film, BIFA_best international independent film_False_primary, 0.231152
-best foreign language film, NYFCCA_best foreign language film_False_primary, 0.214022
-best foreign language film, NBR_top foreign films_True_primary, 0.178812
-best foreign language film, CCA_best foreign language film_True_primary, 0.177495
-best film editing, ACE_best edited feature film  dramatic_True_primary, 0.445802
-best film editing, ACE_best edited feature film  dramatic_True_secondary, 0.379262
-best film editing, CCA_best directing_True_primary, 0.266474
-best film editing, BAFTA_best editing_True_primary, 0.231203
-best film editing, BAFTA_best sound mixing_True_primary, 0.223236
-best film editing, WAFCA_best directing_True_primary, 0.175709
-best film editing, BAFTA_best editing_True_secondary, 0.131922
-best film editing, BAFTA_best actress supporting role_True_primary, 0.085469
-best film editing, NSFCA_best supporting actor_True_primary, 0.059377
-best film editing, CCA_best editing_True_primary, 0.056175
-best production design, BAFTA_best costume design_True_primary, 0.419829
-best production design, CCA_best directing_True_primary, 0.357278
-best production design, ACE_best edited feature film  comedy or musical_True_primary, 0.310965
-best production design, BAFTA_best production design_True_primary, 0.290628
-best production design, BAFTA_best production design_True_secondary, 0.290628
-best production design, WAFCA_best art direction_True_secondary, 0.28569
-best production design, GG_best director  motion picture_True_primary, 0.278879
-best production design, LAFCA_best production design_True_primary, 0.277682
-best production design, NSFCA_best directing_False_primary, 0.262891
-best production design, GG_best original score  motion picture_True_primary, 0.242158
-best writing adapted screenplay, CCA_best motion picture_True_primary, 0.571895
-best writing adapted screenplay, CCA_best directing_True_primary, 0.557247
-best writing adapted screenplay, GG_best motion picture  drama_True_primary, 0.497119
-best writing adapted screenplay, BSFCA_best film_True_primary, 0.323537
-best writing adapted screenplay, WGA_best writing adapted screenplay_True_primary, 0.29271
-best writing adapted screenplay, WGA_best writing adapted screenplay_True_secondary, 0.234777
-best writing adapted screenplay, SAG_outstanding cast motion picture_False_primary, 0.215917
-best writing adapted screenplay, CCA_best acting ensemble_False_primary, 0.194428
-best writing adapted screenplay, NYFCCA_best film_True_primary, 0.139226
-best writing adapted screenplay, BAFTA_best film_True_primary, 0.130543
-best sound editing, BAFTA_best sound mixing_True_primary, 0.759072
-best sound editing, NSFCA_best cinematography_False_primary, 0.632455
-best sound editing, BAFTA_best cinematography_False_primary, 0.484593
-best sound editing, GG_best director  motion picture_False_primary, 0.255275
-best sound editing, WAFCA_best film_False_primary, 0.130589
-best sound editing, ACE_best edited feature film  dramatic_True_primary, 0.10152
-best sound editing, BAFTA_best sound mixing_True_secondary, 0.081897
-best sound editing, LAFCA_best directing_False_primary, 0.059728
-best sound editing, CCA_best composer_False_primary, 0.052593
-best sound editing, DGA_outstanding directorial motion pictures_False_primary, 0.042949
-best actor leading role, SAG_outstanding male actor leading role_True_primary, 9.931027
-best actor leading role, SAG_outstanding male actor leading role_True_secondary, 9.931027
-best actor leading role, BAFTA_best film_True_secondary, 9.440793
-best actor leading role, BAFTA_best leading actor_True_primary, 9.432367
-best actor leading role, BAFTA_best leading actor_True_secondary, 9.432367
-best actor leading role, BSFCA_best actor_True_primary, 7.93622
-best actor leading role, BSFCA_best actor_True_secondary, 7.93622
-best actor leading role, BAFTA_best make up  hair_False_secondary, 7.158749
-best actor leading role, NSFCA_best screenplay_True_secondary, 7.148762
-best actor leading role, SAG_outstanding male actor supporting role_False_secondary, 6.895312
-best short film animated, AA_best animated short subject_True_primary, 0.908884
-best short film animated, BAFTA_best short film animated_False_primary, 0.702169
-best short film animated, BAFTA_best short animation_False_primary, 0.294137
-best short film animated, BAFTA_best short animation_True_primary, 0.2443
-best directing, DGA_outstanding directorial motion pictures_True_secondary, 11.59286
-best directing, DGA_outstanding directorial motion pictures_True_primary, 10.777597
-best directing, BAFTA_best cinematography_True_secondary, 8.772394
-best directing, CCA_best directing_True_secondary, 8.372243
-best directing, CCA_best directing_True_primary, 7.799383
-best directing, BAFTA_best film_True_secondary, 7.384386
-best directing, GG_best motion picture  drama_False_secondary, 5.992598
-best directing, LAFCA_best supporting actor_False_secondary, 5.12356
-best directing, WAFCA_best cinematography_True_secondary, 5.117103
-best directing, BAFTA_best sound mixing_False_secondary, 4.989845
-best music written for motion pictures original score, GG_best original score  motion picture_True_primary, 0.689937
-best music written for motion pictures original score, GG_best original score  motion picture_True_secondary, 0.575839
-best music written for motion pictures original score, BAFTA_best editing_False_primary, 0.427979
-best music written for motion pictures original score, GG_best director  motion picture_True_primary, 0.352495
-best music written for motion pictures original score, CCA_best score_True_primary, 0.352362
-best music written for motion pictures original score, BAFTA_best sound mixing_False_primary, 0.291037
-best music written for motion pictures original score, LAFCA_best music_True_primary, 0.277379
-best music written for motion pictures original score, CCA_best directing_True_primary, 0.228768
-best music written for motion pictures original score, CCA_best score_True_secondary, 0.225633
-best music written for motion pictures original score, SAG_outstanding cast motion picture_False_primary, 0.164331
-best sound mixing, BAFTA_best sound mixing_True_primary, 1.008255
-best sound mixing, ACE_best edited feature film  dramatic_True_primary, 0.538073
-best sound mixing, BAFTA_best editing_True_primary, 0.478849
-best sound mixing, WAFCA_best directing_True_primary, 0.340797
-best sound mixing, CCA_best directing_False_primary, 0.216934
-best sound mixing, WAFCA_best film_False_primary, 0.177053
-best sound mixing, CCA_best supporting actress_True_primary, 0.163894
-best sound mixing, NSFCA_best directing_False_primary, 0.154366
-best sound mixing, SAG_outstanding female actor supporting role_True_primary, 0.087226
-best sound mixing, NSFCA_best cinematography_False_primary, 0.064572
-best actress supporting role, SAG_outstanding female actor supporting role_True_primary, 11.746035
-best actress supporting role, BAFTA_best supporting actress_True_primary, 9.987767
-best actress supporting role, BAFTA_best supporting actress_True_secondary, 9.154331
-best actress supporting role, CCA_best supporting actress_True_primary, 9.126029
-best actress supporting role, SAG_outstanding female actor supporting role_True_secondary, 7.819107
-best actress supporting role, NSFCA_best supporting actress_False_primary, 7.673457
-best actress supporting role, WGA_best writing original screenplay_False_secondary, 7.275523
-best actress supporting role, BSFCA_best supporting actress_False_primary, 6.906739
-best actress supporting role, GIFA_breakthrough actor_False_secondary, 6.853607
-best actress supporting role, GG_best actress supporting role motion picture_True_primary, 6.338019
-best visual effects, BAFTA_best special visual effects_True_primary, 1.343897
-best visual effects, BAFTA_best special visual effects_True_secondary, 0.710734
-best visual effects, BAFTA_best editing_False_primary, 0.372169
-best visual effects, DGA_outstanding directorial motion pictures_False_primary, 0.208531
-best visual effects, CCA_best directing_False_primary, 0.082898
-best visual effects, CCA_best cinematography_True_primary, 0.035385
-best visual effects, BAFTA_best costume design_False_primary, 0.019901
-best visual effects, GG_best original score  motion picture_False_primary, 0.01811
-best visual effects, BAFTA_best cinematography_False_primary, 0.010926
-best visual effects, BAFTA_best production design_True_primary, 0.010598
-best documentary feature, NBR_best documentary_True_primary, 2.221319
-best documentary feature, ACE_best edited documentary  feature_True_primary, 1.754676
-best documentary feature, ACE_best edited documentary film_True_primary, 1.359088
-best documentary feature, CCA_best documentary feature_True_primary, 1.214977
-best documentary feature, BSFCA_best documentary_False_primary, 0.960166
-best documentary feature, DGA_outstanding directorial documentary_True_secondary, 0.364059
-best documentary feature, NYFCCA_best nonfiction film_False_primary, 0.318665
-best documentary feature, WGA_best documentary screenplay_True_secondary, 0.157362
-best documentary feature, WGA_best documentary screenplay_True_primary, 0.157362
-best documentary feature, GIFA_best documentary_False_primary, 0.141877
-best costume design, CCA_best costume design_True_primary, 0.510199
-best costume design, BAFTA_best costume design_True_primary, 0.440006
-best costume design, BAFTA_best costume design_True_secondary, 0.440006
-best costume design, CCA_best costume design_True_secondary, 0.379328
-best costume design, GG_best original score  motion picture_True_primary, 0.292356
-best costume design, ADG_period or fantasy film_True_primary, 0.272006
-best costume design, BAFTA_best production design_True_primary, 0.253361
-best costume design, CAS_outstanding sound mixing for motion pictures_False_primary, 0.247338
-best costume design, NSFCA_best actor_False_primary, 0.244838
-best costume design, ACE_best edited feature film  dramatic_True_primary, 0.235581
-best music written for motion pictures original song, CCA_best song_True_primary, 1.72061
-best music written for motion pictures original song, GG_best original song  motion picture_True_primary, 1.679983
-best music written for motion pictures original song, ACE_best edited animated feature film_True_primary, 0.901995
-best music written for motion pictures original song, CCA_best song_True_secondary, 0.677244
-best music written for motion pictures original song, BSFCA_best animated film_True_primary, 0.578858
-best music written for motion pictures original song, BAFTA_best actor leading role_False_primary, 0.564343
-best music written for motion pictures original song, CCA_best animated film_False_primary, 0.54509
-best music written for motion pictures original song, BAFTA_best actor supporting role_False_primary, 0.527457
-best music written for motion pictures original song, BAFTA_best animated film_True_primary, 0.509931
-best music written for motion pictures original song, BIFA_best foreign independent film_False_primary, 0.40158
+category,supporting feature,coefficient
+Best Motion Picture,DGA :: DGA Award :: Outstanding Directorial Motion Pictures :: True,0.711478
+Best Motion Picture,PGA :: PGA Award :: Outstanding Producer Theatrical Motion Pictures :: True,0.685058
+Best Motion Picture,DFWFCA :: DFWFCA Award :: Best Motion Picture :: True,0.537449
+Best Motion Picture,GG :: Golden Globe :: Best Actor Supporting Role Motion Picture :: False,0.281459
+Best Motion Picture,OFCS :: OFCS Award :: Best Supporting Actor :: False,0.259162
+Best Motion Picture,SEFCA :: SEFCA Award :: Best Directing :: False,0.176944
+Best Motion Picture,SAG :: Actor :: Outstanding Cast Motion Picture :: True,0.164648
+Best Motion Picture,SAG :: Actor :: Outstanding Male Actor Supporting Role :: False,0.161909
+Best Motion Picture,BAFTA :: BAFTA Film Award :: Best Film :: True,0.161795
+Best Motion Picture,BAFTA :: BAFTA Film Award :: Best Film :: False,0.15497
+Best Actor Leading Role,SAG :: Actor :: Outstanding Male Actor Leading Role :: True,1.15474
+Best Actor Leading Role,GG :: Golden Globe :: Best Actor Motion Picture  Drama :: True,0.586446
+Best Actor Leading Role,DFWFCA :: DFWFCA Award :: Best Actor :: True,0.514903
+Best Actor Leading Role,BAFTA :: BAFTA Film Award :: Best Leading Actor :: True,0.287228
+Best Actor Leading Role,NSFCA :: NSFC Award :: Best Actor :: False,0.278524
+Best Actor Leading Role,ALFS :: ALFS Award :: Actor :: True,0.226937
+Best Actor Leading Role,SAG :: Actor :: Outstanding Male Actor Supporting Role :: False,0.143049
+Best Actor Leading Role,BSFCA :: BSFC Award :: Best Actor :: True,0.115254
+Best Actor Leading Role,PalmSprings :: Desert Palm Achievement Award ::  :: True,0.096492
+Best Actor Leading Role,PalmSprings :: Desert Palm Achievement Award ::  :: False,0.096492
+Best Actress Leading Role,SAG :: Actor :: Outstanding Female Actor Leading Role :: True,4.705538
+Best Actress Leading Role,GG :: Golden Globe :: Best Actress Motion Picture  Drama :: True,3.692868
+Best Actress Leading Role,BAFTA :: BAFTA Film Award :: Best Leading Actress :: True,3.351558
+Best Actress Leading Role,SEFCA :: SEFCA Award :: Best Motion Picture :: False,1.37674
+Best Actress Leading Role,SEFCA :: SEFCA Award :: Best Actress :: False,1.263535
+Best Actress Leading Role,ADG :: Excellence in Production Design Award :: Contemporary Film :: False,1.241788
+Best Actress Leading Role,SDFCS :: SDFCS Award :: Best Directing :: False,1.214668
+Best Actress Leading Role,LAFCA :: LAFCA Award :: Best Actress :: False,1.019355
+Best Actress Leading Role,Satellite :: Satellite Award :: Best Costume Design :: False,0.980918
+Best Actress Leading Role,BSFCA :: BSFC Award :: Best Actress :: True,0.952628
+Best Actor Supporting Role,GG :: Golden Globe :: Best Actor Supporting Role Motion Picture :: True,2.650264
+Best Actor Supporting Role,SAG :: Actor :: Outstanding Male Actor Supporting Role :: True,1.925708
+Best Actor Supporting Role,BAFTA :: BAFTA Film Award :: Best Actor Supporting Role :: False,1.50863
+Best Actor Supporting Role,PGA :: PGA Award :: Outstanding Producer Theatrical Motion Pictures :: False,1.453406
+Best Actor Supporting Role,LAFCA :: LAFCA Award :: Best Supporting Actor :: False,1.448335
+Best Actor Supporting Role,BAFTA :: BAFTA Film Award :: Best Supporting Actor :: True,1.442523
+Best Actor Supporting Role,Satellite :: Golden Satellite Award :: Best Screenplay Adapted :: True,1.256272
+Best Actor Supporting Role,SEFCA :: SEFCA Award :: Best Supporting Actor :: False,1.131238
+Best Actor Supporting Role,WAFCA :: WAFCA Award :: Best Supporting Actor :: True,0.886098
+Best Actor Supporting Role,SAG :: Actor :: Outstanding Cast Theatrical Motion Picture :: False,0.834262
+Best Actress Supporting Role,SAG :: Actor :: Outstanding Female Actor Supporting Role :: True,1.148355
+Best Actress Supporting Role,GG :: Golden Globe :: Best Actress Supporting Role Motion Picture :: True,0.590649
+Best Actress Supporting Role,WAFCA :: WAFCA Award :: Best Supporting Actress :: True,0.364336
+Best Actress Supporting Role,SEFCA :: SEFCA Award :: Best Supporting Actress :: True,0.198031
+Best Actress Supporting Role,BAFTA :: BAFTA Film Award :: Best Supporting Actress :: True,0.0639
+Best Actress Supporting Role,DFWFCA :: DFWFCA Award :: Best Supporting Actress :: True,0.006956
+Best Actress Supporting Role,CFCA :: CFCA Award :: Best Supporting Actress :: False,0.002653
+Best Actress Supporting Role,BAFTA :: BAFTA Film Award :: Best Actress Supporting Role :: True,0.002346
+Best Actress Supporting Role,ACE :: Eddie :: Best Edited Feature Film  Dramatic :: False,0.000765
+Best Directing,DGA :: DGA Award :: Outstanding Directorial Motion Pictures :: True,3.540226
+Best Directing,BAFTA :: BAFTA Film Award :: Best Cinematography :: True,3.08701
+Best Directing,DFWFCA :: DFWFCA Award :: Best Directing :: True,2.963853
+Best Directing,BAFTA :: BAFTA Film Award :: Best Film :: True,2.588429
+Best Directing,PGA :: PGA Award :: Outstanding Producer Theatrical Motion Pictures :: True,2.527551
+Best Directing,GG :: Golden Globe :: Best Director  Motion Picture :: True,2.069865
+Best Directing,DFWFCA :: DFWFCA Award :: Best Cinematography :: True,1.804077
+Best Directing,DFWFCA :: DFWFCA Award :: Best Motion Picture :: True,1.549585
+Best Directing,DFWFCA :: DFWFCA Award :: Best Cinematography :: False,1.506355
+Best Directing,DGA :: DGA Award :: Outstanding Directorial Feature Film :: True,1.413256
+Best Writing Original Screenplay,SEFCA :: SEFCA Award :: Best Writing Original Screenplay :: True,3.666598
+Best Writing Original Screenplay,GG :: Golden Globe :: Best Screenplay  Motion Picture :: True,2.482398
+Best Writing Original Screenplay,BAFTA :: BAFTA Film Award :: Best Screenplay  Original :: True,2.218954
+Best Writing Original Screenplay,WGA :: WGA Award (Screen) :: Best Writing Original Screenplay :: True,2.152073
+Best Writing Original Screenplay,SEFCA :: SEFCA Award :: Best Writing Original Screenplay :: False,1.5886
+Best Writing Original Screenplay,DFWFCA :: DFWFCA Award :: Best Screenplay :: False,1.51595
+Best Writing Original Screenplay,GG :: Golden Globe :: Best Screenplay  Motion Picture :: False,1.257136
+Best Writing Original Screenplay,NSFCA :: NSFC Award :: Best Directing :: False,1.15222
+Best Writing Original Screenplay,DFWFCA :: DFWFCA Award :: Best Screenplay :: True,1.151384
+Best Writing Original Screenplay,BSFCA :: BSFC Award :: Best Actor :: True,1.090535
+Best Writing Adapted Screenplay,BAFTA :: BAFTA Film Award :: Best Film :: False,1.72949
+Best Writing Adapted Screenplay,SAG :: Actor :: Outstanding Cast Motion Picture :: False,1.339274
+Best Writing Adapted Screenplay,GG :: Golden Globe :: Best Motion Picture  Drama :: True,1.327875
+Best Writing Adapted Screenplay,LAFCA :: LAFCA Award :: Best Directing :: True,1.310391
+Best Writing Adapted Screenplay,SEFCA :: SEFCA Award :: Best Writing Adapted Screenplay :: True,1.216331
+Best Writing Adapted Screenplay,WGA :: WGA Award (Screen) :: Best Writing Adapted Screenplay :: True,1.186677
+Best Writing Adapted Screenplay,DFWFCA :: DFWFCA Award :: Best Directing :: True,1.185012
+Best Writing Adapted Screenplay,Satellite :: Golden Satellite Award :: Best Screenplay Adapted :: False,1.172158
+Best Writing Adapted Screenplay,GG :: Golden Globe :: Best Actor Supporting Role Motion Picture :: False,1.120436
+Best Writing Adapted Screenplay,SEFCA :: SEFCA Award :: Best Directing :: True,1.06865
+Best Cinematography,ASC :: ASC Award :: Outstanding Cinematography Theatrical Releases :: True,1.998222
+Best Cinematography,BAFTA :: BAFTA Film Award :: Best Cinematography :: True,1.976363
+Best Cinematography,CAS :: C.A.S. Award :: Outstanding Sound Mixing for Motion Pictures :: False,1.769472
+Best Cinematography,WAFCA :: WAFCA Award :: Best Cinematography :: True,1.707119
+Best Cinematography,CAS :: C.A.S. Award :: Outstanding Sound Mixing for Motion Pictures :: True,1.589709
+Best Cinematography,GG :: Golden Globe :: Best Director  Motion Picture :: True,1.418366
+Best Cinematography,BAFTA :: David Lean Award for Direction ::  :: True,1.29796
+Best Cinematography,NSFCA :: NSFC Award :: Best Directing :: False,1.249643
+Best Cinematography,BAFTA :: BAFTA Film Award :: Best Production Design :: False,1.184322
+Best Cinematography,BAFTA :: BAFTA Film Award :: Best Sound Mixing :: False,1.16071
+Best Film Editing,ACE :: Eddie :: Best Edited Feature Film  Dramatic :: True,2.961583
+Best Film Editing,BAFTA :: BAFTA Film Award :: Best Sound Mixing :: True,1.648891
+Best Film Editing,Satellite :: Satellite Award :: Best Sound Editing  Mixing :: True,1.265273
+Best Film Editing,LAFCA :: LAFCA Award :: Best Directing :: True,1.171309
+Best Film Editing,BAFTA :: BAFTA Film Award :: Best Editing :: False,1.123368
+Best Film Editing,NSFCA :: NSFC Award :: Best Supporting Actor :: True,0.940361
+Best Film Editing,BAFTA :: BAFTA Film Award :: Best Actress Supporting Role :: True,0.937024
+Best Film Editing,Satellite :: Satellite Award :: Best Sound Editing  Mixing :: False,0.924965
+Best Film Editing,SDFCS :: SDFCS Award :: Best Directing :: True,0.893419
+Best Film Editing,CDG :: CDG Award :: Excellence PeriodFantasy Film :: False,0.880379
+Best Production Design,LAFCA :: LAFCA Award :: Best Production Design :: False,0.595989
+Best Production Design,BAFTA :: BAFTA Film Award :: Best Costume Design :: False,0.546376
+Best Production Design,SDFCS :: SDFCS Award :: Best Production Design :: True,0.507661
+Best Production Design,LAFCA :: LAFCA Award :: Best Production Design :: True,0.451724
+Best Production Design,Satellite :: Satellite Award :: Best Art Direction  Production Design :: False,0.208696
+Best Production Design,GG :: Golden Globe :: Best Director  Motion Picture :: False,0.20654
+Best Production Design,BAFTA :: BAFTA Film Award :: Best Costume Design :: True,0.193712
+Best Production Design,GG :: Golden Globe :: Best Original Score  Motion Picture :: False,0.178054
+Best Production Design,SDFCS :: SDFCS Award :: Best Production Design :: False,0.154943
+Best Production Design,BAFTA :: BAFTA Film Award :: Best Special Visual Effects :: False,0.14197
+Best Costume Design,BAFTA :: BAFTA Film Award :: Best Costume Design :: True,5.712899
+Best Costume Design,PGA :: PGA Award :: Outstanding Producer Theatrical Motion Pictures :: True,4.113651
+Best Costume Design,GG :: Golden Globe :: Best Original Score  Motion Picture :: True,3.428487
+Best Costume Design,ACE :: Eddie :: Best Edited Feature Film  Dramatic :: True,3.154368
+Best Costume Design,Satellite :: Satellite Award :: Best Costume Design :: False,3.133413
+Best Costume Design,ADG :: Excellence in Production Design Award :: Period or Fantasy Film :: True,3.102414
+Best Costume Design,Satellite :: Satellite Award :: Best Art Direction  Production Design :: False,2.974526
+Best Costume Design,VES :: VES Award :: Outstanding Visual Effects Photoreal Feature :: False,2.838995
+Best Costume Design,ALFS :: ALFS Award :: Film :: False,2.778318
+Best Costume Design,LAFCA :: LAFCA Award :: Best Production Design :: True,2.755537
+Best Makeup and Hairstyling,n_review_user,1.846688
+Best Makeup and Hairstyling,Grammy :: Grammy :: Best Song Written for Visual Media :: False,1.610521
+Best Makeup and Hairstyling,n_review_critic,1.443793
+Best Makeup and Hairstyling,n_rating_user,1.369106
+Best Makeup and Hairstyling,BAFTA :: BAFTA Film Award :: Best Make UpHair :: True,1.343288
+Best Makeup and Hairstyling,SAG :: Actor :: Outstanding Cast Motion Picture :: False,1.240345
+Best Makeup and Hairstyling,CDG :: CDG Award :: Excellence PeriodFantasy Film :: True,1.228952
+Best Makeup and Hairstyling,NSFCA :: NSFC Award :: Best Directing :: False,1.096294
+Best Makeup and Hairstyling,Satellite :: Satellite Award :: Best Art Direction  Production Design :: False,0.923027
+Best Makeup and Hairstyling,NSFCA :: NSFC Award :: Best Film :: False,0.82762
+Best Music Written for Motion Pictures Original Score,GG :: Golden Globe :: Best Original Score  Motion Picture :: True,0.806498
+Best Music Written for Motion Pictures Original Score,DFWFCA :: DFWFCA Award :: Best Cinematography :: True,0.403146
+Best Music Written for Motion Pictures Original Score,SDFCS :: SDFCS Award :: Best Score :: False,0.312391
+Best Music Written for Motion Pictures Original Score,BAFTA :: David Lean Award for Direction ::  :: True,0.273778
+Best Music Written for Motion Pictures Original Score,GG :: Golden Globe :: Best Original Score  Motion Picture :: False,0.232185
+Best Music Written for Motion Pictures Original Score,SEFCA :: SEFCA Award :: Best Directing :: False,0.209181
+Best Music Written for Motion Pictures Original Score,DFWFCA :: DFWFCA Award :: Best Directing :: False,0.194875
+Best Music Written for Motion Pictures Original Score,SAG :: Actor :: Outstanding Cast Motion Picture :: False,0.192653
+Best Music Written for Motion Pictures Original Score,Satellite :: Golden Satellite Award :: Best Costume Design :: False,0.13475
+Best Music Written for Motion Pictures Original Score,OFCS :: OFCS Award :: Best Motion Picture :: False,0.124431
+Best Music Written for Motion Pictures Original Song,GG :: Golden Globe :: Best Original Song  Motion Picture :: True,1.789301
+Best Music Written for Motion Pictures Original Song,CFCA :: CFCA Award :: Most Promising Filmmaker :: False,1.294026
+Best Music Written for Motion Pictures Original Song,BAFTA :: BAFTA Children's Award :: Best Feature Film :: False,1.261131
+Best Music Written for Motion Pictures Original Song,rating_score_critic,0.889995
+Best Music Written for Motion Pictures Original Song,Grammy :: Grammy :: Best Rap Album :: False,0.786299
+Best Music Written for Motion Pictures Original Song,ADG :: Excellence in Production Design Award :: Contemporary Film :: False,0.673176
+Best Music Written for Motion Pictures Original Song,BSFCA :: BSFC Award :: Best Animated Film :: False,0.647389
+Best Music Written for Motion Pictures Original Song,ACE :: Eddie :: Best Edited Animated Feature Film :: True,0.545088
+Best Music Written for Motion Pictures Original Song,Grammy :: Grammy :: Best Song Written for Motion Picture Television or Other Visual Media :: False,0.520766
+Best Music Written for Motion Pictures Original Song,OFCS :: OFCS Award :: Best Breakthrough :: False,0.495464
+Best Sound Mixing,BAFTA :: BAFTA Film Award :: Best Sound Mixing :: True,0.981346
+Best Sound Mixing,ACE :: Eddie :: Best Edited Feature Film  Dramatic :: True,0.355752
+Best Sound Mixing,BAFTA :: BAFTA Film Award :: Best Editing :: False,0.117326
+Best Sound Mixing,BAFTA :: BAFTA Film Award :: Best Editing :: True,0.071483
+Best Sound Mixing,BAFTA :: BAFTA Film Award :: Best Sound Mixing :: False,0.030235
+Best Sound Mixing,DFWFCA :: DFWFCA Award :: Best Motion Picture :: False,0.023096
+Best Sound Mixing,DGA :: DGA Award :: Outstanding Directorial Motion Pictures :: False,0.004678
+Best Sound Mixing,BSFCA :: BSFC Award :: Best Film Editing :: False,0.000998
+Best Sound Editing,BAFTA :: BAFTA Film Award :: Best Sound Mixing :: True,0.346817
+Best Sound Editing,ACE :: Eddie :: Best Edited Feature Film  Dramatic :: False,0.25369
+Best Sound Editing,DFWFCA :: DFWFCA Award :: Best Directing :: False,0.062046
+Best Sound Editing,BAFTA :: BAFTA Film Award :: Best Editing :: False,0.017472
+Best Sound Editing,DFWFCA :: DFWFCA Award :: Best Motion Picture :: False,0.010881
+Best Sound Editing,NSFCA :: NSFC Award :: Best Cinematography :: False,0.007179
+Best Sound Editing,BAFTA :: BAFTA Film Award :: Best Cinematography :: False,0.001956
+Best Sound Editing,BAFTA :: BAFTA Film Award :: Best Sound Mixing :: False,0.00098
+Best Sound Editing,SEFCA :: SEFCA Award :: Best Motion Picture :: False,0.000596
+Best Sound Editing,ACE :: Eddie :: Best Edited Feature Film  Dramatic :: True,0.000353
+Best Visual Effects,BAFTA :: BAFTA Film Award :: Best Special Visual Effects :: True,27.499764
+Best Visual Effects,Satellite :: Satellite Award :: Best Visual Effects :: True,11.607882
+Best Visual Effects,Satellite :: Satellite Award :: Best Cinematography :: False,9.598415
+Best Visual Effects,GG :: Golden Globe :: Best Original Score  Motion Picture :: False,9.093136
+Best Visual Effects,BAFTA :: Anthony Asquith Award for Film Music ::  :: False,8.950469
+Best Visual Effects,Satellite :: Golden Satellite Award :: Best Actor Supporting Role Drama :: False,8.570484
+Best Visual Effects,Satellite :: Satellite Award :: Best Motion Picture Animated or Mixed Media :: False,8.468066
+Best Visual Effects,VES :: VES Award :: Outstanding Created Environment Live Action Motion Picture :: True,8.291873
+Best Visual Effects,BAFTA :: BAFTA Film Award :: Best Film :: False,8.015456
+Best Visual Effects,CFCA :: CFCA Award :: Best Original Score :: False,7.776187
+Best Documentary Feature,ACE :: Eddie :: Best Edited Documentary  Feature :: True,1.296304
+Best Documentary Feature,DFWFCA :: DFWFCA Award :: Best Documentary :: True,1.165949
+Best Documentary Feature,n_rating_user,1.003304
+Best Documentary Feature,ACE :: Eddie :: Best Edited Documentary Film :: True,1.000965
+Best Documentary Feature,n_review_critic,0.773673
+Best Documentary Feature,CCDA :: Critics' Choice Documentary Award :: Best Sports Documentary :: True,0.755485
+Best Documentary Feature,BSFCA :: BSFC Award :: Best Documentary :: False,0.75535
+Best Documentary Feature,CHIFILM :: Gold Hugo :: Best Documentary :: True,0.696398
+Best Documentary Feature,NBR :: NBR Award :: Best Documentary :: True,0.682188
+Best Documentary Feature,NBR :: NBR Award :: Best Documentary :: False,0.682188
+Best Documentary Short Subject,n_rating_user,0.713375
+Best Animated Feature Film,DFWFCA :: DFWFCA Award :: Best Animated Film :: True,8.643406
+Best Animated Feature Film,ACE :: Eddie :: Best Edited Animated Feature Film :: True,6.622383
+Best Animated Feature Film,BAFTA :: BAFTA Film Award :: Best Animated Film :: True,5.325707
+Best Animated Feature Film,OFCS :: OFCS Award :: Best Animated Feature Film :: True,5.072162
+Best Animated Feature Film,VES :: VES Award :: Outstanding Animated Character Animated Feature Motion Picture :: True,5.013072
+Best Animated Feature Film,VES :: VES Award :: Outstanding Created Environment Animated Feature Motion Picture :: True,4.98537
+Best Animated Feature Film,PGA :: PGA Award :: Outstanding Producer Animated Theatrical Motion Pictures :: True,4.799811
+Best Animated Feature Film,DFWFCA :: DFWFCA Award :: Best Animated Film :: False,4.691147
+Best Animated Feature Film,VES :: VES Award :: Outstanding Animation Animated Feature Motion Picture :: True,4.175829
+Best Animated Feature Film,CAS :: C.A.S. Award :: Outstanding Sound Mixing for Motion Pictures  Animated :: True,4.110337
+Best Short Film Animated,CHIFILM :: Gold Hugo :: Best Short Film :: False,4.433562
+Best Short Film Animated,n_review_critic,4.073872
+Best Short Film Animated,rating_score_user,3.94521
+Best Short Film Animated,VES :: VES Award :: Best Character Animation Animated Motion Picture :: True,2.815064
+Best Short Film Animated,VES :: VES Award :: Best Character Animation Animated Motion Picture :: False,2.815064
+Best Short Film Animated,n_rating_user,2.596264
+Best Short Film Animated,AA :: Annie :: Best Animated Short Subject :: True,2.498455
+Best Short Film Animated,Annecy :: The Annecy Cristal ::  :: True,2.110814
+Best Short Film Animated,BAFTA :: BAFTA Film Award :: Best Short Film Animated :: False,2.101631
+Best Short Film Animated,Clermont-Ferrand :: Best Animation :: International Competition :: True,1.883084
+Best Live Action Short Film,n_rating_user,8.59751
+Best Live Action Short Film,BIFA :: British Independent Film Award :: Best British Short :: False,3.062041
+Best Live Action Short Film,Clermont-Ferrand :: Audience Award :: International Competition :: False,2.601919
+Best Live Action Short Film,Clermont-Ferrand :: Audience Award :: International Competition :: True,2.601919
+Best Live Action Short Film,n_review_critic,2.48847
+Best Live Action Short Film,PalmSpringsShort :: Jury Award of Merit ::  :: False,2.441617
+Best Live Action Short Film,PalmSpringsShort :: Jury Award of Merit ::  :: True,2.441617
+Best Live Action Short Film,PalmSpringsShort :: Student Award :: Best Live Action Over 15 Minutes :: False,2.313467
+Best Live Action Short Film,PalmSpringsShort :: Student Award :: Best Live Action Over 15 Minutes :: True,2.313467
+Best Live Action Short Film,ALFS :: ALFS Award :: BritishIrish Short Film :: True,2.029623
+Best Foreign Language Film,ISA :: Independent Spirit Award :: Best International Film :: True,10.819914
+Best Foreign Language Film,PalmSprings :: Audience Award :: Best Narrative Feature :: True,8.730072
+Best Foreign Language Film,NYFCCA :: NYFCC Award :: Best Foreign Language Film :: False,7.11873
+Best Foreign Language Film,LAFCA :: LAFCA Award :: Best Foreign Film :: True,6.326749
+Best Foreign Language Film,GG :: Golden Globe :: Best Foreign Language Film :: True,6.157244
+Best Foreign Language Film,LAFCA :: LAFCA Award :: Best Foreign Film :: False,5.841832
+Best Foreign Language Film,ISA :: Independent Spirit Award :: Best International Film :: False,5.085546
+Best Foreign Language Film,BAFTA :: Carl Foreman Award for the Most Promising Newcomer ::  :: False,4.960939
+Best Foreign Language Film,Cannes :: Best Screenplay ::  :: False,4.952635
+Best Foreign Language Film,Cannes :: Best Screenplay ::  :: True,4.952635

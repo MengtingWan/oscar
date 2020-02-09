@@ -1,4 +1,6 @@
 ev0000003, AMPAS, Academy Awards, 奥斯卡
+ev0000681, Venice, Venice Film Festival, 威尼斯电影节
+ev0000147, Cannes, Cannes Film Festival, 戛纳电影节
 ev0000349, ISA, Independent Spirit Awards, 美国电影独立精神奖
 ev0000175, CAS, Cinema Audio Society Awards, 美国声音效果协会奖
 ev0000123, BAFTA, British Academy of Film and Television Arts, 英国电影学院奖
@@ -11,6 +13,8 @@ ev0000618, ADG, Art Directors Guild Awards, 美国艺术指导工会奖
 ev0000017, ACE, American Cinema Editors Awards, 剪辑工会奖
 ev0000598, SAG, Screen Actors Guild Awards, 演员工会奖
 ev0000531, PGA, Producers Guild Awards, 制片人工会奖
+ev0000190, CDG, Costume Designers Guild Awards, 服装设计工会奖
+ev0000618, ADG, Art Directors Guild Awards, 艺术指导工会奖
 ev0000133, CCA, Critics’ Choice Awards, 评论家选择奖
 ev0000292, GG, Golden Globe Awards, 金球奖
 ev0000471, NSFCA, National Society of Film Critics Awards, 国家影评人协会奖
@@ -19,5 +23,28 @@ ev0000127, BIFA, British Independent Film Awards, 英国独立电影奖
 ev0001400, WAFCA, Washington DC Area Film Critics Awards, 华盛顿影评人协会奖
 ev0000407, LAFCA, Los Angeles Film Critics Association, 洛杉矶影评人协会奖
 ev0000484, NYFCCA, New York Film Critics Circle Awards, 纽约影评人协会奖
+ev0000580, SDFCS, San Diego Film Critics Society Awards, 圣地亚哥影评人协会奖
 ev0000464, NBR, National Board of Review, 美国国家评论奖
 ev0000298, GIFA, Gotham Independent Film Awards, 哥谭独立电影奖
+ev0000452, MPSE, Motion Picture Sound Editors, 电影剪辑人奖
+ev0000201, DFWFCA, Dallas-Fort Worth Film Critics Association Awards, 达拉斯影评人协会奖
+ev0000163, CFCA, Chicago Film Critics Association Awards, 芝加哥影评人协会奖
+ev0000004, Saturn, Academy of Science Fiction Fantasy & Horror Films, 土星奖
+ev0000296, Satellite, Satellite Awards, 卫星奖
+ev0000521, PalmSprings, Palm Springs International Film Festival, 棕榈泉国际电影节
+ev0000522, PalmSpringsShort, Palm Springs International ShortFest, 棕榈泉国际短片电影节
+ev0000403, ALFS, London Critics Circle Film Awards, 伦敦影评人协会奖
+ev0000620, SEFCA, Southeastern Film Critics Association Awards, 东南影评人协会奖
+ev0000301, Grammy, Grammy Awards, 格莱美奖
+ev0000351, IDA, International Documentary Association, 国际纪录片协会奖
+ev0001823, CinemaEye, Cinema Eye Honors Awards, 电影之眼奖
+ev0000631, Sundance, Sundance Film Festival, 太阳之舞电影节
+ev0000493, Emmy, News & Documentary Emmy Awards, 新闻纪录片艾美奖
+ev0000511, OFCS, Online Film Critics Society Awards, 美国在线影评人协会奖
+ev0000031, Annecy, Annecy International Animated Film Festival, 安锡国际动画电影节
+ev0000165, CHIFILM, Chicago International Film Festival, 芝加哥国际电影节
+ev0000584, SFFILM, San Francisco International Film Festival, 旧金山国际电影节
+ev0000184, Clermont-Ferrand, Clermont-Ferrand International Short Film Festival, 克莱蒙费朗国际短片电影节
+ev0000629, SAA, Student Academy Awards, 学生学院奖
+ev0000551, RIFILM, Rhode Island International Film Festival, 罗德岛国际电影节
+ev0004059, CCDA, Critics' Choice Documentary Awards, 评论家选择纪录片奖

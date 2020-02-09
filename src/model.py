@@ -1,109 +1,153 @@
 import numpy as np
-from sklearn import linear_model
-import load_data
+from sklearn import linear_model, metrics
+from dataset import load_data
+import pandas as pd
 import re
+import sys
+import json
+
 
 def softmax(x):
     e_x = np.exp(x - np.max(x))
     return e_x / e_x.sum(axis=0)
 
+
 def sigmoid(x):
     p_s = 1.0/(1.0 + np.exp(-x))
     return p_s
 
-def run_each_category(X_raw1, X_raw2, y, c_raw, n_raw, yr, cName, last_yr, eps=1e-10):
-    y_c, X_mat, yr_c, featureNames, n_c = load_data.extract_features_per_category(X_raw1, X_raw2, y, c_raw, n_raw, yr, cName)
-    x_test = X_mat[yr_c==2019,:]
-    n_test = n_c[yr_c==2019,:]
-    
-    # start leave-one-out training
+
+def run_each_category(df_cate, year_pred, featureNames, eps=1e-10):
+
+    x_test = df_cate[df_cate['year'] == year_pred][featureNames].values
+    nomination_test = df_cate[df_cate['year'] == year_pred]['string'].apply(lambda x : json.loads(x)).values
+
+    print('leave-one-out training ...')
+    sys.stdout.flush()
     lbda_set = [0.001, 0.005, 0.01, 0.05, 0.1, 0.5, 1.0, 5.0, 10.0]
     l1_set = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
-    para_list = [(lb,l1) for lb in lbda_set for l1 in l1_set]
-    validation_metric = []
+    para_list = [(lb, l1) for lb in lbda_set for l1 in l1_set]
+    validation_accr = []
+    validation_auc = []
     for (lbda, l1_ratio) in para_list:
-        _validation_metric = []
-        for _yr in range(2010, last_yr):
-            train_id = np.where((yr_c!=last_yr)&(yr_c!=_yr))[0]
-            validation_id = np.where(yr_c==_yr)[0]
-            x_train = X_mat[train_id,:]
-            y_train = y_c[train_id]
-            x_validation = X_mat[validation_id,:]
-            y_validation = y_c[validation_id]
+        _validation_accr = []
+        _validation_auc = []
+        for _yr in range(2010, year_pred):
+            sys.stdout.flush()
+            idx_train = (df_cate['year'] != _yr) & (df_cate['year'] != year_pred)
+            idx_validation = (df_cate['year'] == _yr)
+            x_train = df_cate[idx_train][featureNames].values
+            y_train = df_cate[idx_train]['label'].values
+            x_validation = df_cate[idx_validation][featureNames].values
+            y_validation = df_cate[idx_validation]['label'].values
+
             model = linear_model.SGDClassifier(loss='log', penalty='elasticnet', alpha=lbda,
-                                               l1_ratio=l1_ratio, max_iter=100, tol=1e-5)
+                                            l1_ratio=l1_ratio, tol=1e-3)
             model.fit(x_train, y_train)
+            
+            y_score_validation = model.decision_function(x_validation)
+            j = np.argmax(y_score_validation)
+            auc_validation = metrics.roc_auc_score(y_validation, y_score_validation)
 
-            y_score_validation = softmax(model.decision_function(x_validation))
-            ce_validation = np.sum(y_validation*np.log(y_score_validation+eps))
-            _validation_metric.append(ce_validation)
-        validation_metric.append(_validation_metric)
-    validation_metric = np.array(validation_metric)
-    vali_mean = validation_metric.mean(axis=1)
+            _validation_accr.append(y_validation[j])
+            _validation_auc.append(auc_validation)
+
+        validation_accr.append(_validation_accr)
+        validation_auc.append(_validation_auc)
+
+    validation_accr = np.array(validation_accr)
+    validation_auc = np.array(validation_auc)
+    vali_mean = validation_auc.mean(axis=1)
     i_best = np.argmax(vali_mean)
+    validation_auc_best = validation_auc[i_best,:].mean()
+    validation_accr_best = validation_accr[i_best,:].mean()
     lbda_best, l1_best = para_list[i_best]
-
     
-    train_id = np.where(yr_c!=last_yr)[0]
-    x_train = X_mat[train_id,:]
-    y_train = y_c[train_id]
+    print('selected hyper-parameters: lbda={0}, l1={1}'.format(lbda_best, l1_best)) 
+    print("best avg. AUC="+(str(validation_auc_best.round(2))), '; best avg. Accr='+str(validation_accr_best.round(2)))
+    print('generating predictions ...')
+    sys.stdout.flush()
+    x_train = df_cate[df_cate['year'] != year_pred][featureNames].values
+    y_train = df_cate[df_cate['year'] != year_pred]['label'].values
     y_score_test = []
     coef_list = []
-    for k in range(50):
+    n_sample = 20
+    for k in range(n_sample):
         model = linear_model.SGDClassifier(loss='log', penalty='elasticnet', alpha=lbda_best,
-                                           l1_ratio=l1_best, max_iter=100, tol=1e-5)
+                                           l1_ratio=l1_best, tol=1e-4)
         model.fit(x_train, y_train)
         y_score_test_ = model.decision_function(x_test)
         y_score_test.append(y_score_test_)
-        coef_list.append(model.coef_[0,:])
-    
-    # softmax normalization
-    y_prob_test = softmax(np.array(y_score_test).mean(axis=0))
-    # get sigmoid first, then normalize the probability
-#    y_prob_test = sigmoid(np.array(y_score_test).mean(axis=0))
-#    y_prob_test /= np.sum(y_prob_test)
+        coef_list.append(model.coef_[0, :])
+
+    y_test = np.array(y_score_test).mean(axis=0)
+    y_test = y_test - y_test.mean()
+    y_prob_test = softmax(y_test)
+    y_test_se = np.array(y_score_test).std(axis=0)/np.sqrt(n_sample-1)
     coef = np.array(coef_list).mean(axis=0)
-    signals = [(featureNames[k], coef[k]) for k in np.argsort(coef)[-10:][::-1] if coef[k]>0]
-    return n_test, y_prob_test, signals
     
 
-def run_all():
-    data_raw = load_data.load_data()
-    data, data_oscar, featureNames, dataFeature, const_map = load_data.preprocess(data_raw)
-    X_raw1, X_raw2, y, c_raw, n_raw, yr = load_data.prepare_raw_features(data, data_oscar, dataFeature)
+    signals = [(featureNames[k], coef[k])
+               for k in np.argsort(coef)[-10:][::-1] if coef[k] > 0]
+    print('done!')
+    sys.stdout.flush()
+    return nomination_test, y_test, y_test_se, y_prob_test, signals, validation_auc_best, validation_accr_best
+
+
+def run_all(min_year = 2000, year_pred = 2020):
+    df_data, featureNames, const_map = load_data(min_year)
+    df_data = df_data[df_data['year'] >= min_year]
+    cateNames = df_data['category'].unique()
     
-    # predicting year 2019
-    last_yr = 2019
-    
-    cName_list = list(set(c_raw))
+    print('Predicting Year of', year_pred)
+    print('===========================')
+
     results = []
-    print("start training ...")
-    for cName in cName_list:
-        print("current category: ", cName)
-        n_test, y_prob_test, signals = run_each_category(X_raw1, X_raw2, y, c_raw, n_raw, yr, cName, last_yr)
+    for _category in cateNames:
+        print("[Current Category]: ", _category)
+        sys.stdout.flush()
+
+        df_cate = df_data[df_data['category'] == _category]
+        nomination_test, y_test, y_test_se, y_prob_test, signals, validation_auc_best, validation_accr_best = run_each_category(df_cate, year_pred, featureNames)
+
         res = {}
-        res["category"] = cName
+        res["category"] = _category
         prediction = []
         for i in range(len(y_prob_test)):
-            c1 = ""
-            c2 = ""
-            if n_test[i][0] in const_map:
-                c1 = re.sub(r'[^\w\s]', '', const_map[n_test[i][0]])
-            if n_test[i][1] in const_map:
-                c2 = re.sub(r'[^\w\s]', '', const_map[n_test[i][1]])
-            prediction.append([c1, c2, y_prob_test[i]])
+            c1 = []
+            url = []
+            code1 = nomination_test[i]['primaryNominees']
+            for _code in code1:
+                if _code in const_map:
+                    c1.append(const_map[_code]['name'])
+                    url.append(const_map[_code]['imageUrl'])
+            c2 = []
+            code2 = nomination_test[i]['secondaryNominees']
+            for _code in code2:
+                if _code in const_map:
+                    c2.append(const_map[_code]['name'])
+            prediction.append(['; '.join(c1), '; '.join(c2), code1, code2, url[0], validation_auc_best, validation_accr_best, y_test[i], y_test_se[i], y_prob_test[i]])
         res["prediction"] = prediction
         res["evidence"] = signals
+        i_max = np.argmax(y_prob_test)
+        print('Winner:', prediction[np.argmax(y_prob_test)][0], '({0});'.format(prediction[i_max][1]), 'Chance:', y_prob_test[i_max].round(3))
+        print('===========================')
+        sys.stdout.flush()
         results.append(res)
     print("done!")
-    
-    results_flat = [["category", "primary nomination", "secondary nomination", "chance of winning"]]
-    results_flat.extend([[res["category"], pred[0], pred[1], np.round(pred[2], decimals=6)] for res in results for pred in res["prediction"]])
-    evidence_flat = [["category", "supporting feature", "coefficient"]]
-    evidence_flat.extend([[res["category"], s[0], np.round(s[1], decimals=6)] for res in results for s in res["evidence"]])
-    np.savetxt("results_flat.csv", results_flat, fmt="%s", delimiter=", ")
-    np.savetxt("evidence_flat.csv", evidence_flat, fmt="%s", delimiter=", ")
-    
-if __name__== "__main__":
+
+    with open('../results/from_'+str(min_year)+'.predict_'+str(year_pred)+'.results.json', 'w') as fout:
+        for res in results:
+            fout.write(json.dumps(res)+'\n')
+
+    results_flat = pd.DataFrame([[res["category"], pred[0], pred[1], pred[-1]] for res in results for pred in res["prediction"]],
+                            columns = ["category", "primary nomination", "secondary nomination", "chance of winning"])
+    evidence_flat = pd.DataFrame([[res["category"], s[0], np.round(
+        s[1], decimals=6)] for res in results for s in res["evidence"]],
+                                columns= ["category", "supporting feature", "coefficient"])
+    results_flat.to_csv('../results/results_flat.csv', index=False)
+    evidence_flat.to_csv('../results/evidence_flat.csv', index=False)
+
+
+if __name__ == "__main__":
     run_all()
-    
