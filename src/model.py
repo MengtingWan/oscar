@@ -1,11 +1,28 @@
 import numpy as np
 from sklearn import linear_model, metrics
-from dataset import load_data
 import pandas as pd
 import re
 import sys
 import json
 
+def load_data(min_year = 2000):
+    min_year = 2000
+    df_meta = pd.read_csv('../data/df_meta.csv')
+    df_labels = pd.read_csv('../data/df_labels.csv')
+    df_features = pd.read_csv('../data/df_features.csv')
+
+    featureNames = list(df_features.columns)
+
+    df_data = df_features
+    df_data['category'] = df_labels['newCategoryName']
+    df_data['year'] = df_labels['year']
+    df_data['label'] = df_labels['isWinner'].astype(int)
+    df_data['string'] = df_labels['string']
+
+    const_map = df_meta.groupby('const')[['name', 'imageUrl']].apply(lambda x: {'name': x['name'].iloc[0], 'imageUrl': x['imageUrl'].iloc[0]}).to_dict()
+    
+    df_data = df_data[df_data['year'] >= min_year]
+    return df_data, featureNames, const_map
 
 def softmax(x):
     e_x = np.exp(x - np.max(x))
@@ -85,7 +102,7 @@ def run_each_category(df_cate, year_pred, featureNames, eps=1e-10):
     y_prob_test = softmax(y_test)
     y_test_se = np.array(y_score_test).std(axis=0)/np.sqrt(n_sample-1)
     coef = np.array(coef_list).mean(axis=0)
-    
+    coef = (coef - coef.min()) / (coef.max() - coef.min())
 
     signals = [(featureNames[k], coef[k])
                for k in np.argsort(coef)[-10:][::-1] if coef[k] > 0]
@@ -94,7 +111,7 @@ def run_each_category(df_cate, year_pred, featureNames, eps=1e-10):
     return nomination_test, y_test, y_test_se, y_prob_test, signals, validation_auc_best, validation_accr_best
 
 
-def run_all(min_year = 2000, year_pred = 2020):
+def run_all(min_year = 2000, year_pred = 2021):
     df_data, featureNames, const_map = load_data(min_year)
     df_data = df_data[df_data['year'] >= min_year]
     cateNames = df_data['category'].unique()
@@ -126,9 +143,11 @@ def run_all(min_year = 2000, year_pred = 2020):
             for _code in code2:
                 if _code in const_map:
                     c2.append(const_map[_code]['name'])
-            prediction.append(['; '.join(c1), '; '.join(c2), code1, code2, url[0], validation_auc_best, validation_accr_best, y_test[i], y_test_se[i], y_prob_test[i]])
+            prediction.append(['; '.join(c1), '; '.join(c2), code1, code2, url[0], y_test[i], y_test_se[i], y_prob_test[i]])
         res["prediction"] = prediction
         res["evidence"] = signals
+        res['avg_auc'] = validation_auc_best
+        res['avg_accr'] = validation_accr_best
         i_max = np.argmax(y_prob_test)
         print('Winner:', prediction[np.argmax(y_prob_test)][0], '({0});'.format(prediction[i_max][1]), 'Chance:', y_prob_test[i_max].round(3))
         print('===========================')

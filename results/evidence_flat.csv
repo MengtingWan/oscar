@@ -1,229 +1,231 @@
 category,supporting feature,coefficient
-Best Motion Picture,DGA :: DGA Award :: Outstanding Directorial Motion Pictures :: True,0.711478
-Best Motion Picture,PGA :: PGA Award :: Outstanding Producer Theatrical Motion Pictures :: True,0.685058
-Best Motion Picture,DFWFCA :: DFWFCA Award :: Best Motion Picture :: True,0.537449
-Best Motion Picture,GG :: Golden Globe :: Best Actor Supporting Role Motion Picture :: False,0.281459
-Best Motion Picture,OFCS :: OFCS Award :: Best Supporting Actor :: False,0.259162
-Best Motion Picture,SEFCA :: SEFCA Award :: Best Directing :: False,0.176944
-Best Motion Picture,SAG :: Actor :: Outstanding Cast Motion Picture :: True,0.164648
-Best Motion Picture,SAG :: Actor :: Outstanding Male Actor Supporting Role :: False,0.161909
-Best Motion Picture,BAFTA :: BAFTA Film Award :: Best Film :: True,0.161795
-Best Motion Picture,BAFTA :: BAFTA Film Award :: Best Film :: False,0.15497
-Best Actor Leading Role,SAG :: Actor :: Outstanding Male Actor Leading Role :: True,1.15474
-Best Actor Leading Role,GG :: Golden Globe :: Best Actor Motion Picture  Drama :: True,0.586446
-Best Actor Leading Role,DFWFCA :: DFWFCA Award :: Best Actor :: True,0.514903
-Best Actor Leading Role,BAFTA :: BAFTA Film Award :: Best Leading Actor :: True,0.287228
-Best Actor Leading Role,NSFCA :: NSFC Award :: Best Actor :: False,0.278524
-Best Actor Leading Role,ALFS :: ALFS Award :: Actor :: True,0.226937
-Best Actor Leading Role,SAG :: Actor :: Outstanding Male Actor Supporting Role :: False,0.143049
-Best Actor Leading Role,BSFCA :: BSFC Award :: Best Actor :: True,0.115254
-Best Actor Leading Role,PalmSprings :: Desert Palm Achievement Award ::  :: True,0.096492
-Best Actor Leading Role,PalmSprings :: Desert Palm Achievement Award ::  :: False,0.096492
-Best Actress Leading Role,SAG :: Actor :: Outstanding Female Actor Leading Role :: True,4.705538
-Best Actress Leading Role,GG :: Golden Globe :: Best Actress Motion Picture  Drama :: True,3.692868
-Best Actress Leading Role,BAFTA :: BAFTA Film Award :: Best Leading Actress :: True,3.351558
-Best Actress Leading Role,SEFCA :: SEFCA Award :: Best Motion Picture :: False,1.37674
-Best Actress Leading Role,SEFCA :: SEFCA Award :: Best Actress :: False,1.263535
-Best Actress Leading Role,ADG :: Excellence in Production Design Award :: Contemporary Film :: False,1.241788
-Best Actress Leading Role,SDFCS :: SDFCS Award :: Best Directing :: False,1.214668
-Best Actress Leading Role,LAFCA :: LAFCA Award :: Best Actress :: False,1.019355
-Best Actress Leading Role,Satellite :: Satellite Award :: Best Costume Design :: False,0.980918
-Best Actress Leading Role,BSFCA :: BSFC Award :: Best Actress :: True,0.952628
-Best Actor Supporting Role,GG :: Golden Globe :: Best Actor Supporting Role Motion Picture :: True,2.650264
-Best Actor Supporting Role,SAG :: Actor :: Outstanding Male Actor Supporting Role :: True,1.925708
-Best Actor Supporting Role,BAFTA :: BAFTA Film Award :: Best Actor Supporting Role :: False,1.50863
-Best Actor Supporting Role,PGA :: PGA Award :: Outstanding Producer Theatrical Motion Pictures :: False,1.453406
-Best Actor Supporting Role,LAFCA :: LAFCA Award :: Best Supporting Actor :: False,1.448335
-Best Actor Supporting Role,BAFTA :: BAFTA Film Award :: Best Supporting Actor :: True,1.442523
-Best Actor Supporting Role,Satellite :: Golden Satellite Award :: Best Screenplay Adapted :: True,1.256272
-Best Actor Supporting Role,SEFCA :: SEFCA Award :: Best Supporting Actor :: False,1.131238
-Best Actor Supporting Role,WAFCA :: WAFCA Award :: Best Supporting Actor :: True,0.886098
-Best Actor Supporting Role,SAG :: Actor :: Outstanding Cast Theatrical Motion Picture :: False,0.834262
-Best Actress Supporting Role,SAG :: Actor :: Outstanding Female Actor Supporting Role :: True,1.148355
-Best Actress Supporting Role,GG :: Golden Globe :: Best Actress Supporting Role Motion Picture :: True,0.590649
-Best Actress Supporting Role,WAFCA :: WAFCA Award :: Best Supporting Actress :: True,0.364336
-Best Actress Supporting Role,SEFCA :: SEFCA Award :: Best Supporting Actress :: True,0.198031
-Best Actress Supporting Role,BAFTA :: BAFTA Film Award :: Best Supporting Actress :: True,0.0639
-Best Actress Supporting Role,DFWFCA :: DFWFCA Award :: Best Supporting Actress :: True,0.006956
-Best Actress Supporting Role,CFCA :: CFCA Award :: Best Supporting Actress :: False,0.002653
-Best Actress Supporting Role,BAFTA :: BAFTA Film Award :: Best Actress Supporting Role :: True,0.002346
-Best Actress Supporting Role,ACE :: Eddie :: Best Edited Feature Film  Dramatic :: False,0.000765
-Best Directing,DGA :: DGA Award :: Outstanding Directorial Motion Pictures :: True,3.540226
-Best Directing,BAFTA :: BAFTA Film Award :: Best Cinematography :: True,3.08701
-Best Directing,DFWFCA :: DFWFCA Award :: Best Directing :: True,2.963853
-Best Directing,BAFTA :: BAFTA Film Award :: Best Film :: True,2.588429
-Best Directing,PGA :: PGA Award :: Outstanding Producer Theatrical Motion Pictures :: True,2.527551
-Best Directing,GG :: Golden Globe :: Best Director  Motion Picture :: True,2.069865
-Best Directing,DFWFCA :: DFWFCA Award :: Best Cinematography :: True,1.804077
-Best Directing,DFWFCA :: DFWFCA Award :: Best Motion Picture :: True,1.549585
-Best Directing,DFWFCA :: DFWFCA Award :: Best Cinematography :: False,1.506355
-Best Directing,DGA :: DGA Award :: Outstanding Directorial Feature Film :: True,1.413256
-Best Writing Original Screenplay,SEFCA :: SEFCA Award :: Best Writing Original Screenplay :: True,3.666598
-Best Writing Original Screenplay,GG :: Golden Globe :: Best Screenplay  Motion Picture :: True,2.482398
-Best Writing Original Screenplay,BAFTA :: BAFTA Film Award :: Best Screenplay  Original :: True,2.218954
-Best Writing Original Screenplay,WGA :: WGA Award (Screen) :: Best Writing Original Screenplay :: True,2.152073
-Best Writing Original Screenplay,SEFCA :: SEFCA Award :: Best Writing Original Screenplay :: False,1.5886
-Best Writing Original Screenplay,DFWFCA :: DFWFCA Award :: Best Screenplay :: False,1.51595
-Best Writing Original Screenplay,GG :: Golden Globe :: Best Screenplay  Motion Picture :: False,1.257136
-Best Writing Original Screenplay,NSFCA :: NSFC Award :: Best Directing :: False,1.15222
-Best Writing Original Screenplay,DFWFCA :: DFWFCA Award :: Best Screenplay :: True,1.151384
-Best Writing Original Screenplay,BSFCA :: BSFC Award :: Best Actor :: True,1.090535
-Best Writing Adapted Screenplay,BAFTA :: BAFTA Film Award :: Best Film :: False,1.72949
-Best Writing Adapted Screenplay,SAG :: Actor :: Outstanding Cast Motion Picture :: False,1.339274
-Best Writing Adapted Screenplay,GG :: Golden Globe :: Best Motion Picture  Drama :: True,1.327875
-Best Writing Adapted Screenplay,LAFCA :: LAFCA Award :: Best Directing :: True,1.310391
-Best Writing Adapted Screenplay,SEFCA :: SEFCA Award :: Best Writing Adapted Screenplay :: True,1.216331
-Best Writing Adapted Screenplay,WGA :: WGA Award (Screen) :: Best Writing Adapted Screenplay :: True,1.186677
-Best Writing Adapted Screenplay,DFWFCA :: DFWFCA Award :: Best Directing :: True,1.185012
-Best Writing Adapted Screenplay,Satellite :: Golden Satellite Award :: Best Screenplay Adapted :: False,1.172158
-Best Writing Adapted Screenplay,GG :: Golden Globe :: Best Actor Supporting Role Motion Picture :: False,1.120436
-Best Writing Adapted Screenplay,SEFCA :: SEFCA Award :: Best Directing :: True,1.06865
-Best Cinematography,ASC :: ASC Award :: Outstanding Cinematography Theatrical Releases :: True,1.998222
-Best Cinematography,BAFTA :: BAFTA Film Award :: Best Cinematography :: True,1.976363
-Best Cinematography,CAS :: C.A.S. Award :: Outstanding Sound Mixing for Motion Pictures :: False,1.769472
-Best Cinematography,WAFCA :: WAFCA Award :: Best Cinematography :: True,1.707119
-Best Cinematography,CAS :: C.A.S. Award :: Outstanding Sound Mixing for Motion Pictures :: True,1.589709
-Best Cinematography,GG :: Golden Globe :: Best Director  Motion Picture :: True,1.418366
-Best Cinematography,BAFTA :: David Lean Award for Direction ::  :: True,1.29796
-Best Cinematography,NSFCA :: NSFC Award :: Best Directing :: False,1.249643
-Best Cinematography,BAFTA :: BAFTA Film Award :: Best Production Design :: False,1.184322
-Best Cinematography,BAFTA :: BAFTA Film Award :: Best Sound Mixing :: False,1.16071
-Best Film Editing,ACE :: Eddie :: Best Edited Feature Film  Dramatic :: True,2.961583
-Best Film Editing,BAFTA :: BAFTA Film Award :: Best Sound Mixing :: True,1.648891
-Best Film Editing,Satellite :: Satellite Award :: Best Sound Editing  Mixing :: True,1.265273
-Best Film Editing,LAFCA :: LAFCA Award :: Best Directing :: True,1.171309
-Best Film Editing,BAFTA :: BAFTA Film Award :: Best Editing :: False,1.123368
-Best Film Editing,NSFCA :: NSFC Award :: Best Supporting Actor :: True,0.940361
-Best Film Editing,BAFTA :: BAFTA Film Award :: Best Actress Supporting Role :: True,0.937024
-Best Film Editing,Satellite :: Satellite Award :: Best Sound Editing  Mixing :: False,0.924965
-Best Film Editing,SDFCS :: SDFCS Award :: Best Directing :: True,0.893419
-Best Film Editing,CDG :: CDG Award :: Excellence PeriodFantasy Film :: False,0.880379
-Best Production Design,LAFCA :: LAFCA Award :: Best Production Design :: False,0.595989
-Best Production Design,BAFTA :: BAFTA Film Award :: Best Costume Design :: False,0.546376
-Best Production Design,SDFCS :: SDFCS Award :: Best Production Design :: True,0.507661
-Best Production Design,LAFCA :: LAFCA Award :: Best Production Design :: True,0.451724
-Best Production Design,Satellite :: Satellite Award :: Best Art Direction  Production Design :: False,0.208696
-Best Production Design,GG :: Golden Globe :: Best Director  Motion Picture :: False,0.20654
-Best Production Design,BAFTA :: BAFTA Film Award :: Best Costume Design :: True,0.193712
-Best Production Design,GG :: Golden Globe :: Best Original Score  Motion Picture :: False,0.178054
-Best Production Design,SDFCS :: SDFCS Award :: Best Production Design :: False,0.154943
-Best Production Design,BAFTA :: BAFTA Film Award :: Best Special Visual Effects :: False,0.14197
-Best Costume Design,BAFTA :: BAFTA Film Award :: Best Costume Design :: True,5.712899
-Best Costume Design,PGA :: PGA Award :: Outstanding Producer Theatrical Motion Pictures :: True,4.113651
-Best Costume Design,GG :: Golden Globe :: Best Original Score  Motion Picture :: True,3.428487
-Best Costume Design,ACE :: Eddie :: Best Edited Feature Film  Dramatic :: True,3.154368
-Best Costume Design,Satellite :: Satellite Award :: Best Costume Design :: False,3.133413
-Best Costume Design,ADG :: Excellence in Production Design Award :: Period or Fantasy Film :: True,3.102414
-Best Costume Design,Satellite :: Satellite Award :: Best Art Direction  Production Design :: False,2.974526
-Best Costume Design,VES :: VES Award :: Outstanding Visual Effects Photoreal Feature :: False,2.838995
-Best Costume Design,ALFS :: ALFS Award :: Film :: False,2.778318
-Best Costume Design,LAFCA :: LAFCA Award :: Best Production Design :: True,2.755537
-Best Makeup and Hairstyling,n_review_user,1.846688
-Best Makeup and Hairstyling,Grammy :: Grammy :: Best Song Written for Visual Media :: False,1.610521
-Best Makeup and Hairstyling,n_review_critic,1.443793
-Best Makeup and Hairstyling,n_rating_user,1.369106
-Best Makeup and Hairstyling,BAFTA :: BAFTA Film Award :: Best Make UpHair :: True,1.343288
-Best Makeup and Hairstyling,SAG :: Actor :: Outstanding Cast Motion Picture :: False,1.240345
-Best Makeup and Hairstyling,CDG :: CDG Award :: Excellence PeriodFantasy Film :: True,1.228952
-Best Makeup and Hairstyling,NSFCA :: NSFC Award :: Best Directing :: False,1.096294
-Best Makeup and Hairstyling,Satellite :: Satellite Award :: Best Art Direction  Production Design :: False,0.923027
-Best Makeup and Hairstyling,NSFCA :: NSFC Award :: Best Film :: False,0.82762
-Best Music Written for Motion Pictures Original Score,GG :: Golden Globe :: Best Original Score  Motion Picture :: True,0.806498
-Best Music Written for Motion Pictures Original Score,DFWFCA :: DFWFCA Award :: Best Cinematography :: True,0.403146
-Best Music Written for Motion Pictures Original Score,SDFCS :: SDFCS Award :: Best Score :: False,0.312391
-Best Music Written for Motion Pictures Original Score,BAFTA :: David Lean Award for Direction ::  :: True,0.273778
-Best Music Written for Motion Pictures Original Score,GG :: Golden Globe :: Best Original Score  Motion Picture :: False,0.232185
-Best Music Written for Motion Pictures Original Score,SEFCA :: SEFCA Award :: Best Directing :: False,0.209181
-Best Music Written for Motion Pictures Original Score,DFWFCA :: DFWFCA Award :: Best Directing :: False,0.194875
-Best Music Written for Motion Pictures Original Score,SAG :: Actor :: Outstanding Cast Motion Picture :: False,0.192653
-Best Music Written for Motion Pictures Original Score,Satellite :: Golden Satellite Award :: Best Costume Design :: False,0.13475
-Best Music Written for Motion Pictures Original Score,OFCS :: OFCS Award :: Best Motion Picture :: False,0.124431
-Best Music Written for Motion Pictures Original Song,GG :: Golden Globe :: Best Original Song  Motion Picture :: True,1.789301
-Best Music Written for Motion Pictures Original Song,CFCA :: CFCA Award :: Most Promising Filmmaker :: False,1.294026
-Best Music Written for Motion Pictures Original Song,BAFTA :: BAFTA Children's Award :: Best Feature Film :: False,1.261131
-Best Music Written for Motion Pictures Original Song,rating_score_critic,0.889995
-Best Music Written for Motion Pictures Original Song,Grammy :: Grammy :: Best Rap Album :: False,0.786299
-Best Music Written for Motion Pictures Original Song,ADG :: Excellence in Production Design Award :: Contemporary Film :: False,0.673176
-Best Music Written for Motion Pictures Original Song,BSFCA :: BSFC Award :: Best Animated Film :: False,0.647389
-Best Music Written for Motion Pictures Original Song,ACE :: Eddie :: Best Edited Animated Feature Film :: True,0.545088
-Best Music Written for Motion Pictures Original Song,Grammy :: Grammy :: Best Song Written for Motion Picture Television or Other Visual Media :: False,0.520766
-Best Music Written for Motion Pictures Original Song,OFCS :: OFCS Award :: Best Breakthrough :: False,0.495464
-Best Sound Mixing,BAFTA :: BAFTA Film Award :: Best Sound Mixing :: True,0.981346
-Best Sound Mixing,ACE :: Eddie :: Best Edited Feature Film  Dramatic :: True,0.355752
-Best Sound Mixing,BAFTA :: BAFTA Film Award :: Best Editing :: False,0.117326
-Best Sound Mixing,BAFTA :: BAFTA Film Award :: Best Editing :: True,0.071483
-Best Sound Mixing,BAFTA :: BAFTA Film Award :: Best Sound Mixing :: False,0.030235
-Best Sound Mixing,DFWFCA :: DFWFCA Award :: Best Motion Picture :: False,0.023096
-Best Sound Mixing,DGA :: DGA Award :: Outstanding Directorial Motion Pictures :: False,0.004678
-Best Sound Mixing,BSFCA :: BSFC Award :: Best Film Editing :: False,0.000998
-Best Sound Editing,BAFTA :: BAFTA Film Award :: Best Sound Mixing :: True,0.346817
-Best Sound Editing,ACE :: Eddie :: Best Edited Feature Film  Dramatic :: False,0.25369
-Best Sound Editing,DFWFCA :: DFWFCA Award :: Best Directing :: False,0.062046
-Best Sound Editing,BAFTA :: BAFTA Film Award :: Best Editing :: False,0.017472
-Best Sound Editing,DFWFCA :: DFWFCA Award :: Best Motion Picture :: False,0.010881
-Best Sound Editing,NSFCA :: NSFC Award :: Best Cinematography :: False,0.007179
-Best Sound Editing,BAFTA :: BAFTA Film Award :: Best Cinematography :: False,0.001956
-Best Sound Editing,BAFTA :: BAFTA Film Award :: Best Sound Mixing :: False,0.00098
-Best Sound Editing,SEFCA :: SEFCA Award :: Best Motion Picture :: False,0.000596
-Best Sound Editing,ACE :: Eddie :: Best Edited Feature Film  Dramatic :: True,0.000353
-Best Visual Effects,BAFTA :: BAFTA Film Award :: Best Special Visual Effects :: True,27.499764
-Best Visual Effects,Satellite :: Satellite Award :: Best Visual Effects :: True,11.607882
-Best Visual Effects,Satellite :: Satellite Award :: Best Cinematography :: False,9.598415
-Best Visual Effects,GG :: Golden Globe :: Best Original Score  Motion Picture :: False,9.093136
-Best Visual Effects,BAFTA :: Anthony Asquith Award for Film Music ::  :: False,8.950469
-Best Visual Effects,Satellite :: Golden Satellite Award :: Best Actor Supporting Role Drama :: False,8.570484
-Best Visual Effects,Satellite :: Satellite Award :: Best Motion Picture Animated or Mixed Media :: False,8.468066
-Best Visual Effects,VES :: VES Award :: Outstanding Created Environment Live Action Motion Picture :: True,8.291873
-Best Visual Effects,BAFTA :: BAFTA Film Award :: Best Film :: False,8.015456
-Best Visual Effects,CFCA :: CFCA Award :: Best Original Score :: False,7.776187
-Best Documentary Feature,ACE :: Eddie :: Best Edited Documentary  Feature :: True,1.296304
-Best Documentary Feature,DFWFCA :: DFWFCA Award :: Best Documentary :: True,1.165949
-Best Documentary Feature,n_rating_user,1.003304
-Best Documentary Feature,ACE :: Eddie :: Best Edited Documentary Film :: True,1.000965
-Best Documentary Feature,n_review_critic,0.773673
-Best Documentary Feature,CCDA :: Critics' Choice Documentary Award :: Best Sports Documentary :: True,0.755485
-Best Documentary Feature,BSFCA :: BSFC Award :: Best Documentary :: False,0.75535
-Best Documentary Feature,CHIFILM :: Gold Hugo :: Best Documentary :: True,0.696398
-Best Documentary Feature,NBR :: NBR Award :: Best Documentary :: True,0.682188
-Best Documentary Feature,NBR :: NBR Award :: Best Documentary :: False,0.682188
-Best Documentary Short Subject,n_rating_user,0.713375
-Best Animated Feature Film,DFWFCA :: DFWFCA Award :: Best Animated Film :: True,8.643406
-Best Animated Feature Film,ACE :: Eddie :: Best Edited Animated Feature Film :: True,6.622383
-Best Animated Feature Film,BAFTA :: BAFTA Film Award :: Best Animated Film :: True,5.325707
-Best Animated Feature Film,OFCS :: OFCS Award :: Best Animated Feature Film :: True,5.072162
-Best Animated Feature Film,VES :: VES Award :: Outstanding Animated Character Animated Feature Motion Picture :: True,5.013072
-Best Animated Feature Film,VES :: VES Award :: Outstanding Created Environment Animated Feature Motion Picture :: True,4.98537
-Best Animated Feature Film,PGA :: PGA Award :: Outstanding Producer Animated Theatrical Motion Pictures :: True,4.799811
-Best Animated Feature Film,DFWFCA :: DFWFCA Award :: Best Animated Film :: False,4.691147
-Best Animated Feature Film,VES :: VES Award :: Outstanding Animation Animated Feature Motion Picture :: True,4.175829
-Best Animated Feature Film,CAS :: C.A.S. Award :: Outstanding Sound Mixing for Motion Pictures  Animated :: True,4.110337
-Best Short Film Animated,CHIFILM :: Gold Hugo :: Best Short Film :: False,4.433562
-Best Short Film Animated,n_review_critic,4.073872
-Best Short Film Animated,rating_score_user,3.94521
-Best Short Film Animated,VES :: VES Award :: Best Character Animation Animated Motion Picture :: True,2.815064
-Best Short Film Animated,VES :: VES Award :: Best Character Animation Animated Motion Picture :: False,2.815064
-Best Short Film Animated,n_rating_user,2.596264
-Best Short Film Animated,AA :: Annie :: Best Animated Short Subject :: True,2.498455
-Best Short Film Animated,Annecy :: The Annecy Cristal ::  :: True,2.110814
-Best Short Film Animated,BAFTA :: BAFTA Film Award :: Best Short Film Animated :: False,2.101631
-Best Short Film Animated,Clermont-Ferrand :: Best Animation :: International Competition :: True,1.883084
-Best Live Action Short Film,n_rating_user,8.59751
-Best Live Action Short Film,BIFA :: British Independent Film Award :: Best British Short :: False,3.062041
-Best Live Action Short Film,Clermont-Ferrand :: Audience Award :: International Competition :: False,2.601919
-Best Live Action Short Film,Clermont-Ferrand :: Audience Award :: International Competition :: True,2.601919
-Best Live Action Short Film,n_review_critic,2.48847
-Best Live Action Short Film,PalmSpringsShort :: Jury Award of Merit ::  :: False,2.441617
-Best Live Action Short Film,PalmSpringsShort :: Jury Award of Merit ::  :: True,2.441617
-Best Live Action Short Film,PalmSpringsShort :: Student Award :: Best Live Action Over 15 Minutes :: False,2.313467
-Best Live Action Short Film,PalmSpringsShort :: Student Award :: Best Live Action Over 15 Minutes :: True,2.313467
-Best Live Action Short Film,ALFS :: ALFS Award :: BritishIrish Short Film :: True,2.029623
-Best Foreign Language Film,ISA :: Independent Spirit Award :: Best International Film :: True,10.819914
-Best Foreign Language Film,PalmSprings :: Audience Award :: Best Narrative Feature :: True,8.730072
-Best Foreign Language Film,NYFCCA :: NYFCC Award :: Best Foreign Language Film :: False,7.11873
-Best Foreign Language Film,LAFCA :: LAFCA Award :: Best Foreign Film :: True,6.326749
-Best Foreign Language Film,GG :: Golden Globe :: Best Foreign Language Film :: True,6.157244
-Best Foreign Language Film,LAFCA :: LAFCA Award :: Best Foreign Film :: False,5.841832
-Best Foreign Language Film,ISA :: Independent Spirit Award :: Best International Film :: False,5.085546
-Best Foreign Language Film,BAFTA :: Carl Foreman Award for the Most Promising Newcomer ::  :: False,4.960939
-Best Foreign Language Film,Cannes :: Best Screenplay ::  :: False,4.952635
-Best Foreign Language Film,Cannes :: Best Screenplay ::  :: True,4.952635
+Best Performance by an Actor in a Leading Role,Screen Actors Guild Awards :: Actor :: Outstanding Performance by a Male Actor in a Leading Role :: Winner,1.0
+Best Performance by an Actor in a Leading Role,Boston Society of Film Critics Awards :: BSFC Award :: Best Actor :: Winner,0.890989
+Best Performance by an Actor in a Leading Role,Golden Globes :: Golden Globe :: Best Performance by an Actor in a Motion Picture - Drama :: Winner,0.887188
+Best Performance by an Actor in a Leading Role,BAFTA Awards :: BAFTA Film Award :: Best Leading Actor :: Winner,0.875824
+Best Performance by an Actor in a Leading Role,Broadcast Film Critics Association Awards :: Critics Choice Award :: Best Actor :: Winner,0.831922
+Best Performance by an Actor in a Leading Role,numRatings,0.787201
+Best Performance by an Actor in a Leading Role,Los Angeles Film Critics Association Awards :: LAFCA Award :: Best Actor :: Winner,0.734387
+Best Performance by an Actor in a Leading Role,Palm Springs International Film Festival :: Desert Palm Achievement Award :: Desert Palm Achievement Award :: Winner,0.733249
+Best Performance by an Actor in a Leading Role,Washington DC Area Film Critics Association Awards :: WAFCA Award :: Best Director :: Winner,0.71913
+Best Performance by an Actor in a Leading Role,Costume Designers Guild Awards :: CDG Award :: Excellence in Period Film :: Nominated,0.717206
+Best Performance by an Actor in a Supporting Role,Golden Globes :: Golden Globe :: Best Performance by an Actor in a Supporting Role in a Motion Picture :: Winner,1.0
+Best Performance by an Actor in a Supporting Role,Screen Actors Guild Awards :: Actor :: Outstanding Performance by a Male Actor in a Supporting Role :: Winner,0.88479
+Best Performance by an Actor in a Supporting Role,"Satellite Awards :: Golden Satellite Award :: Best Screenplay, Adapted :: Winner",0.784485
+Best Performance by an Actor in a Supporting Role,BAFTA Awards :: BAFTA Film Award :: Best Supporting Actor :: Winner,0.773099
+Best Performance by an Actor in a Supporting Role,numUserReviews,0.75169
+Best Performance by an Actor in a Supporting Role,numRatings,0.729602
+Best Performance by an Actor in a Supporting Role,BAFTA Awards :: BAFTA Film Award :: Best Actor in a Supporting Role :: Nominated,0.690026
+Best Performance by an Actor in a Supporting Role,BAFTA Awards :: BAFTA Film Award :: Best Actress in a Supporting Role :: Nominated,0.671015
+Best Performance by an Actor in a Supporting Role,Los Angeles Film Critics Association Awards :: LAFCA Award :: Best Supporting Actor :: Winner,0.669856
+Best Performance by an Actor in a Supporting Role,Chicago Film Critics Association Awards :: CFCA Award :: Best Supporting Actor :: Winner,0.648432
+Best Performance by an Actress in a Leading Role,Screen Actors Guild Awards :: Actor :: Outstanding Performance by a Female Actor in a Leading Role :: Winner,1.0
+Best Performance by an Actress in a Leading Role,Golden Globes :: Golden Globe :: Best Performance by an Actress in a Motion Picture - Drama :: Winner,0.930677
+Best Performance by an Actress in a Leading Role,BAFTA Awards :: BAFTA Film Award :: Best Leading Actress :: Winner,0.897184
+Best Performance by an Actress in a Leading Role,Los Angeles Film Critics Association Awards :: LAFCA Award :: Best Actress :: Winner,0.444472
+Best Performance by an Actress in a Leading Role,Broadcast Film Critics Association Awards :: Critics Choice Award :: Best Actress :: Winner,0.348882
+Best Performance by an Actress in a Leading Role,London Critics Circle Film Awards :: ALFS Award :: Actress of the Year :: Winner,0.294913
+Best Performance by an Actress in a Leading Role,San Francisco International Film Festival :: Golden Gate Award :: Documentary Short Subject :: Winner,0.282244
+Best Performance by an Actress in a Leading Role,Chicago Film Critics Association Awards :: CFCA Award :: Best Documentary :: Nominated,0.282244
+Best Performance by an Actress in a Leading Role,Boston Society of Film Critics Awards :: BSFC Award :: Best Documentary :: Nominated,0.282244
+Best Performance by an Actress in a Leading Role,Chicago International Film Festival :: Silver Hugo :: Best Documentary :: Winner,0.282244
+Best Performance by an Actress in a Supporting Role,Screen Actors Guild Awards :: Actor :: Outstanding Performance by a Female Actor in a Supporting Role :: Winner,1.0
+Best Performance by an Actress in a Supporting Role,BAFTA Awards :: BAFTA Film Award :: Best Supporting Actress :: Winner,0.985946
+Best Performance by an Actress in a Supporting Role,Broadcast Film Critics Association Awards :: Critics Choice Award :: Best Supporting Actress :: Winner,0.883641
+Best Performance by an Actress in a Supporting Role,"Satellite Awards :: Golden Satellite Award :: Best Actor in a Motion Picture, Drama :: Nominated",0.783822
+Best Performance by an Actress in a Supporting Role,Golden Globes :: Golden Globe :: Best Performance by an Actress in a Supporting Role in a Motion Picture :: Winner,0.761594
+Best Performance by an Actress in a Supporting Role,National Society of Film Critics Awards :: NSFC Award :: Best Supporting Actress :: Nominated,0.692714
+Best Performance by an Actress in a Supporting Role,BAFTA Awards :: BAFTA Film Award :: Best Actress in a Supporting Role :: Winner,0.66686
+Best Performance by an Actress in a Supporting Role,Writers Guild of America :: WGA Award (Screen) :: Best Original Screenplay :: Nominated,0.658264
+Best Performance by an Actress in a Supporting Role,New York Film Critics Circle Awards :: NYFCC Award :: Best Supporting Actress :: Winner,0.625983
+Best Performance by an Actress in a Supporting Role,Satellite Awards :: Satellite Award :: Best Original Score :: Nominated,0.619994
+Best Achievement in Production Design,Los Angeles Film Critics Association Awards :: LAFCA Award :: Best Production Design :: Winner,1.0
+Best Achievement in Production Design,Broadcast Film Critics Association Awards :: Critics Choice Award :: Best Production Design :: Winner,0.614397
+Best Achievement in Production Design,numUserReviews,0.143875
+Best Achievement in Production Design,numCriticReviews,0.134455
+Best Achievement in Production Design,BAFTA Awards :: BAFTA Film Award :: Best Costume Design :: Winner,0.111382
+Best Achievement in Production Design,Online Film Critics Society Awards :: OFCS Award :: Best Director :: Nominated,0.071721
+Best Achievement in Production Design,American Society of Cinematographers :: ASC Award :: Outstanding Achievement in Cinematography in Theatrical Releases :: Nominated,0.039089
+Best Achievement in Production Design,National Society of Film Critics Awards :: NSFC Award :: Best Cinematography :: Nominated,0.035278
+Best Achievement in Production Design,BAFTA Awards :: BAFTA Film Award :: Best Production Design :: Winner,0.033859
+Best Achievement in Production Design,BAFTA Awards :: BAFTA Film Award :: Best Achievement in Special Visual Effects :: Nominated,0.020146
+Best Achievement in Cinematography,BAFTA Awards :: BAFTA Film Award :: Best Cinematography :: Winner,1.0
+Best Achievement in Cinematography,Broadcast Film Critics Association Awards :: Critics Choice Award :: Best Composer :: Winner,0.912926
+Best Achievement in Cinematography,Cinema Audio Society :: C.A.S. Award :: Outstanding Achievement in Sound Mixing for Motion Pictures :: Winner,0.859605
+Best Achievement in Cinematography,Broadcast Film Critics Association Awards :: Critics Choice Award :: Best Cinematography :: Winner,0.857968
+Best Achievement in Cinematography,American Society of Cinematographers :: ASC Award :: Outstanding Achievement in Cinematography in Theatrical Releases :: Winner,0.843079
+Best Achievement in Cinematography,National Society of Film Critics Awards :: NSFC Award :: Best Director :: Nominated,0.834043
+Best Achievement in Cinematography,BAFTA Awards :: David Lean Award for Direction :: David Lean Award for Direction :: Winner,0.811852
+Best Achievement in Cinematography,American Cinema Editors :: Eddie :: Best Edited Feature Film - Dramatic :: Nominated,0.788021
+Best Achievement in Cinematography,Los Angeles Film Critics Association Awards :: LAFCA Award :: Best Production Design :: Winner,0.779784
+Best Achievement in Cinematography,Golden Globes :: Golden Globe :: Best Director - Motion Picture :: Winner,0.751288
+Best Achievement in Costume Design,Broadcast Film Critics Association Awards :: Critics Choice Award :: Best Costume Design :: Winner,1.0
+Best Achievement in Costume Design,BAFTA Awards :: BAFTA Film Award :: Best Costume Design :: Winner,0.862521
+Best Achievement in Costume Design,numRatings,0.360105
+Best Achievement in Costume Design,PGA Awards :: PGA Award :: Outstanding Producer of Theatrical Motion Pictures :: Winner,0.070313
+Best Achievement in Costume Design,Golden Globes :: Golden Globe :: Best Original Score - Motion Picture :: Winner,0.050644
+Best Achievement in Costume Design,Grammy Awards :: Grammy :: Best Long Form Music Video :: Winner,0.04926
+Best Achievement in Costume Design,Dallas-Fort Worth Film Critics Association Awards :: DFWFCA Award :: Best Documentary :: Winner,0.04926
+Best Achievement in Costume Design,New York Film Critics Circle Awards :: NYFCC Award :: Best Non-Fiction Film :: Nominated,0.04926
+Best Achievement in Costume Design,Los Angeles Film Critics Association Awards :: LAFCA Award :: Best Documentary/Non-Fiction Film :: Nominated,0.04926
+Best Achievement in Costume Design,Film Independent Spirit Awards :: Independent Spirit Award :: Best Documentary :: Winner,0.04926
+Best Achievement in Directing,Broadcast Film Critics Association Awards :: Critics Choice Award :: Best Director :: Winner,1.0
+Best Achievement in Directing,BAFTA Awards :: BAFTA Film Award :: Best Cinematography :: Winner,0.671222
+Best Achievement in Directing,Directors Guild of America :: DGA Award :: Outstanding Directorial Achievement in Motion Pictures :: Winner,0.669489
+Best Achievement in Directing,numRatings,0.455129
+Best Achievement in Directing,PGA Awards :: PGA Award :: Outstanding Producer of Theatrical Motion Pictures :: Winner,0.255475
+Best Achievement in Directing,Golden Globes :: Golden Globe :: Best Director - Motion Picture :: Winner,0.223486
+Best Achievement in Directing,BAFTA Awards :: BAFTA Film Award :: Best Film :: Winner,0.199091
+Best Achievement in Directing,Broadcast Film Critics Association Awards :: Critics Choice Award :: Best Picture :: Winner,0.171393
+Best Achievement in Directing,American Cinema Editors :: Eddie :: Best Edited Feature Film - Dramatic :: Nominated,0.165125
+Best Achievement in Directing,BAFTA Awards :: David Lean Award for Direction :: David Lean Award for Direction :: Winner,0.160167
+Best Documentary Feature,Broadcast Film Critics Association Awards :: Critics Choice Award :: Best Documentary Feature :: Winner,1.0
+Best Documentary Feature,American Cinema Editors :: Eddie :: Best Edited Documentary - Feature :: Winner,0.996198
+Best Documentary Feature,American Cinema Editors :: Eddie :: Best Edited Documentary Film :: Winner,0.989751
+Best Documentary Feature,Critics' Choice Documentary Awards :: Critics' Choice Documentary Award :: Best Sports Documentary :: Winner,0.894757
+Best Documentary Feature,"Satellite Awards :: Golden Satellite Award :: Best Motion Picture, Documentary :: Nominated",0.773447
+Best Documentary Feature,Directors Guild of America :: DGA Award :: Outstanding Directorial Achievement in Documentary :: Winner,0.750138
+Best Documentary Feature,Chicago International Film Festival :: Gold Hugo :: Best Documentary :: Winner,0.700622
+Best Documentary Feature,numCriticReviews,0.670974
+Best Documentary Feature,Los Angeles Film Critics Association Awards :: LAFCA Award :: Best Documentary/Non-Fiction Film :: Winner,0.652914
+Best Documentary Feature,New York Film Critics Circle Awards :: NYFCC Award :: Best Non-Fiction Film :: Nominated,0.635627
+Best Documentary Short Subject,rating,1.0
+Best Documentary Short Subject,San Francisco International Film Festival :: Golden Gate Award :: Film & Video - Society & Culture U.S. :: Winner,0.751548
+Best Documentary Short Subject,News & Documentary Emmy Awards :: Emmy :: Outstanding Informational Programming - Long Form :: Nominated,0.748359
+Best Documentary Short Subject,Sundance Film Festival :: Grand Jury Prize :: Documentary :: Nominated,0.728819
+Best Documentary Short Subject,"Motion Picture Sound Editors :: Golden Reel Award :: Best Sound Editing - Sound Effects, Foley, Dialogue and ADR in Short Form Documentary in Television :: Nominated",0.689843
+Best Documentary Short Subject,BAFTA Awards :: BAFTA Film Award :: Best British Short Film :: Winner,0.652714
+Best Documentary Short Subject,International Documentary Association :: IDA Award :: Best Short :: Winner,0.456974
+Best Documentary Short Subject,numCriticReviews,0.456001
+Best Documentary Short Subject,Palm Springs International ShortFest :: Jury Award :: Best Documentary :: Winner,0.448872
+Best Documentary Short Subject,numUserReviews,0.349397
+Best Sound,BAFTA Awards :: BAFTA Film Award :: Best Sound :: Winner,1.0
+Best Sound,American Cinema Editors :: Eddie :: Best Edited Feature Film - Dramatic :: Winner,0.821369
+Best Sound,National Society of Film Critics Awards :: NSFC Award :: Best Cinematography :: Nominated,0.815925
+Best Sound,BAFTA Awards :: BAFTA Film Award :: Best Editing :: Winner,0.618734
+Best Sound,Broadcast Film Critics Association Awards :: Critics Choice Award :: Best Actor in an Action Movie :: Winner,0.588368
+Best Sound,Broadcast Film Critics Association Awards :: Critics Choice Award :: Best Director :: Nominated,0.585337
+Best Sound,Visual Effects Society Awards :: VES Award :: Outstanding Compositing in a Motion Picture :: Nominated,0.535563
+Best Sound,Golden Globes :: Golden Globe :: Best Director - Motion Picture :: Nominated,0.525601
+Best Sound,Broadcast Film Critics Association Awards :: Critics Choice Award :: Best Supporting Actress :: Winner,0.507112
+Best Sound,BAFTA Awards :: BAFTA Film Award :: Best Cinematography :: Nominated,0.497971
+Best Achievement in Visual Effects,BAFTA Awards :: BAFTA Film Award :: Best Achievement in Special Visual Effects :: Winner,1.0
+Best Achievement in Visual Effects,Chicago Film Critics Association Awards :: CFCA Award :: Best Original Score :: Nominated,0.694392
+Best Achievement in Visual Effects,Academy of Science Fiction :: Saturn Award :: Best Director :: Winner,0.659923
+Best Achievement in Visual Effects,Broadcast Film Critics Association Awards :: Critics Choice Award :: Best Sci-Fi/Horror Movie :: Winner,0.638052
+Best Achievement in Visual Effects,Broadcast Film Critics Association Awards :: Critics Choice Award :: Best Cinematography :: Winner,0.632425
+Best Achievement in Visual Effects,Golden Globes :: Golden Globe :: Best Original Score - Motion Picture :: Nominated,0.625568
+Best Achievement in Visual Effects,Online Film Critics Society Awards :: OFCS Award :: Best Cinematography :: Nominated,0.612439
+Best Achievement in Visual Effects,Chicago Film Critics Association Awards :: CFCA Award :: Best Cinematography :: Nominated,0.611492
+Best Achievement in Visual Effects,"Satellite Awards :: Golden Satellite Award :: Best Actor in a Supporting Role, Drama :: Nominated",0.608115
+Best Achievement in Visual Effects,Academy of Science Fiction :: Saturn Award :: Best Science Fiction Film :: Winner,0.607516
+Best Achievement in Film Editing,American Cinema Editors :: Eddie :: Best Edited Feature Film - Dramatic :: Winner,1.0
+Best Achievement in Film Editing,Motion Picture Sound Editors :: Golden Reel Award :: Best Sound Editing - Music in a Feature Film :: Nominated,0.785232
+Best Achievement in Film Editing,Satellite Awards :: Satellite Award :: Best Sound (Editing & Mixing) :: Winner,0.698433
+Best Achievement in Film Editing,London Critics Circle Film Awards :: ALFS Award :: Film of the Year :: Nominated,0.691119
+Best Achievement in Film Editing,BAFTA Awards :: BAFTA Film Award :: Best Cinematography :: Nominated,0.681839
+Best Achievement in Film Editing,BAFTA Awards :: BAFTA Film Award :: Best Sound :: Winner,0.658103
+Best Achievement in Film Editing,BAFTA Awards :: BAFTA Film Award :: Best Editing :: Winner,0.645595
+Best Achievement in Film Editing,Broadcast Film Critics Association Awards :: Critics Choice Award :: Best Director :: Winner,0.64189
+Best Achievement in Film Editing,Satellite Awards :: Satellite Award :: Best Art Direction & Production Design :: Nominated,0.596823
+Best Achievement in Film Editing,BAFTA Awards :: BAFTA Film Award :: Best Screenplay (Adapted) :: Winner,0.577816
+Best International Feature Film,Film Independent Spirit Awards :: Independent Spirit Award :: Best International Film :: Winner,1.0
+Best International Feature Film,Palm Springs International Film Festival :: Audience Award :: Best Narrative Feature :: Winner,0.894103
+Best International Feature Film,numCriticReviews,0.798472
+Best International Feature Film,Golden Globes :: Golden Globe :: Best Foreign Language Film :: Winner,0.770443
+Best International Feature Film,Cannes Film Festival :: Best Screenplay :: Best Screenplay :: Winner,0.662329
+Best International Feature Film,Broadcast Film Critics Association Awards :: Critics Choice Award :: Best Foreign-Language Film :: Winner,0.625884
+Best International Feature Film,Los Angeles Film Critics Association Awards :: LAFCA Award :: Best Foreign Film :: Winner,0.580278
+Best International Feature Film,BAFTA Awards :: BAFTA Film Award :: Best Film Not in the English Language :: Winner,0.574625
+Best International Feature Film,BAFTA Awards :: Carl Foreman Award for the Most Promising Newcomer :: Carl Foreman Award for the Most Promising Newcomer :: Nominated,0.504673
+Best International Feature Film,British Independent Film Awards :: British Independent Film Award :: Best Foreign Film :: Nominated,0.43317
+Best Achievement in Makeup and Hairstyling,numCriticReviews,1.0
+Best Achievement in Makeup and Hairstyling,BAFTA Awards :: BAFTA Film Award :: Best Make Up/Hair :: Winner,0.965161
+Best Achievement in Makeup and Hairstyling,Academy of Science Fiction :: Saturn Award :: Best Production Design :: Nominated,0.759942
+Best Achievement in Makeup and Hairstyling,Broadcast Film Critics Association Awards :: Critics Choice Award :: Best Actress in an Action Movie :: Winner,0.726107
+Best Achievement in Makeup and Hairstyling,Costume Designers Guild Awards :: CDG Award :: Excellence in Period/Fantasy Film :: Winner,0.722165
+Best Achievement in Makeup and Hairstyling,Academy of Science Fiction :: Saturn Award :: Best Make-Up :: Nominated,0.71976
+Best Achievement in Makeup and Hairstyling,Academy of Science Fiction :: Saturn Award :: Best Make-Up :: Winner,0.697989
+Best Achievement in Makeup and Hairstyling,Academy of Science Fiction :: Saturn Award :: Best Writing :: Nominated,0.685772
+Best Achievement in Makeup and Hairstyling,Broadcast Film Critics Association Awards :: Critics Choice Award :: Best Young Actress :: Nominated,0.683944
+Best Achievement in Makeup and Hairstyling,Broadcast Film Critics Association Awards :: Critics Choice Award :: Best Actress :: Nominated,0.682389
+Best Achievement in Music Written for Motion Pictures (Original Score),Golden Globes :: Golden Globe :: Best Original Score - Motion Picture :: Winner,1.0
+Best Achievement in Music Written for Motion Pictures (Original Score),BAFTA Awards :: BAFTA Film Award :: Best Editing :: Nominated,0.345212
+Best Achievement in Music Written for Motion Pictures (Original Score),Broadcast Film Critics Association Awards :: Critics Choice Award :: Best Score :: Winner,0.132018
+Best Achievement in Music Written for Motion Pictures (Original Score),numUserReviews,0.123464
+Best Achievement in Music Written for Motion Pictures (Original Score),American Society of Cinematographers :: ASC Award :: Outstanding Achievement in Cinematography in Theatrical Releases :: Nominated,0.08472
+Best Achievement in Music Written for Motion Pictures (Original Score),Golden Globes :: Golden Globe :: Best Director - Motion Picture :: Winner,0.068619
+Best Achievement in Music Written for Motion Pictures (Original Score),Online Film Critics Society Awards :: OFCS Award :: Best Picture :: Nominated,0.054532
+Best Achievement in Music Written for Motion Pictures (Original Score),BAFTA Awards :: David Lean Award for Direction :: David Lean Award for Direction :: Winner,0.032489
+Best Achievement in Music Written for Motion Pictures (Original Score),numRatings,0.031465
+Best Achievement in Music Written for Motion Pictures (Original Score),BAFTA Awards :: BAFTA Film Award :: Best Sound :: Nominated,0.020396
+Best Achievement in Music Written for Motion Pictures (Original Song),Golden Globes :: Golden Globe :: Best Original Song - Motion Picture :: Winner,1.0
+Best Achievement in Music Written for Motion Pictures (Original Song),Broadcast Film Critics Association Awards :: Critics Choice Award :: Best Song :: Winner,0.974829
+Best Achievement in Music Written for Motion Pictures (Original Song),metacriticScore,0.739079
+Best Achievement in Music Written for Motion Pictures (Original Song),Academy of Science Fiction :: Saturn Award :: Best Writing :: Nominated,0.59009
+Best Achievement in Music Written for Motion Pictures (Original Song),Satellite Awards :: Satellite Award :: Best Sound (Editing & Mixing) :: Nominated,0.571146
+Best Achievement in Music Written for Motion Pictures (Original Song),Online Film Critics Society Awards :: OFCS Award :: Best Breakthrough Performance :: Nominated,0.570242
+Best Achievement in Music Written for Motion Pictures (Original Song),"Grammy Awards :: Grammy :: Best Song Written for Motion Picture, Television or Other Visual Media :: Nominated",0.561949
+Best Achievement in Music Written for Motion Pictures (Original Song),BAFTA Awards :: BAFTA Children's Award :: Best Feature Film :: Nominated,0.560313
+Best Achievement in Music Written for Motion Pictures (Original Song),numRatings,0.557269
+Best Achievement in Music Written for Motion Pictures (Original Song),BAFTA Awards :: BAFTA Film Award :: Best Screenplay (Adapted) :: Nominated,0.537572
+Best Motion Picture of the Year,Directors Guild of America :: DGA Award :: Outstanding Directorial Achievement in Motion Pictures :: Winner,1.0
+Best Motion Picture of the Year,PGA Awards :: PGA Award :: Outstanding Producer of Theatrical Motion Pictures :: Winner,0.845919
+Best Motion Picture of the Year,Golden Globes :: Golden Globe :: Best Performance by an Actor in a Supporting Role in a Motion Picture :: Nominated,0.758829
+Best Motion Picture of the Year,Broadcast Film Critics Association Awards :: Critics Choice Award :: Best Picture :: Winner,0.728451
+Best Motion Picture of the Year,Screen Actors Guild Awards :: Actor :: Outstanding Performance by a Cast in a Motion Picture :: Winner,0.71785
+Best Motion Picture of the Year,National Society of Film Critics Awards :: NSFC Award :: Best Director :: Nominated,0.630424
+Best Motion Picture of the Year,Online Film Critics Society Awards :: OFCS Award :: Best Supporting Actor :: Nominated,0.597308
+Best Motion Picture of the Year,Golden Globes :: Golden Globe :: Best Screenplay - Motion Picture :: Nominated,0.590244
+Best Motion Picture of the Year,Golden Globes :: Golden Globe :: Best Director - Motion Picture :: Nominated,0.580403
+Best Motion Picture of the Year,BAFTA Awards :: BAFTA Film Award :: Best Actress in a Supporting Role :: Winner,0.579067
+Best Animated Short Film,rating,1.0
+Best Animated Short Film,Annecy International Animated Film Festival :: The Annecy Cristal :: The Annecy Cristal :: Winner,0.915013
+Best Animated Short Film,Sundance Film Festival :: Short Filmmaking Award - Honorable Mention :: Short Filmmaking Award - Honorable Mention :: Winner,0.853811
+Best Animated Short Film,BAFTA Awards :: BAFTA Film Award :: Best Animated Short Film :: Nominated,0.798548
+Best Animated Short Film,Visual Effects Society Awards :: VES Award :: Best Character Animation in an Animated Motion Picture :: Winner,0.785505
+Best Animated Short Film,Chicago International Film Festival :: Gold Hugo :: Best Short Film :: Nominated,0.776806
+Best Animated Short Film,Annie Awards :: Annie :: Best Animated Short Subject :: Winner,0.714772
+Best Animated Short Film,Clermont-Ferrand International Short Film Festival :: Best Animation :: International Competition :: Winner,0.699893
+Best Animated Short Film,numUserReviews,0.520544
+Best Animated Short Film,Annecy International Animated Film Festival :: Special Jury Award :: Short Films :: Winner,0.520126
+Best Live Action Short Film,numUserReviews,1.0
+Best Live Action Short Film,numRatings,0.781943
+Best Live Action Short Film,numCriticReviews,0.058339
+Best Live Action Short Film,metacriticScore,0.056053
+Best Live Action Short Film,Film Independent Spirit Awards :: Independent Spirit Award :: Best Documentary :: Nominated,0.056053
+Best Live Action Short Film,New York Film Critics Circle Awards :: NYFCC Award :: Best Non-Fiction Film :: Nominated,0.056053
+Best Live Action Short Film,Los Angeles Film Critics Association Awards :: LAFCA Award :: Best Documentary/Non-Fiction Film :: Nominated,0.056053
+Best Live Action Short Film,Film Independent Spirit Awards :: Independent Spirit Award :: Best Documentary :: Winner,0.056053
+Best Live Action Short Film,Cannes Film Festival :: 55th Anniversary Prize :: 55th Anniversary Prize :: Winner,0.056053
+Best Live Action Short Film,Grammy Awards :: Grammy :: Best Long Form Music Video :: Winner,0.056053
+Best Original Screenplay,National Society of Film Critics Awards :: NSFC Award :: Best Director :: Nominated,1.0
+Best Original Screenplay,BAFTA Awards :: BAFTA Film Award :: Best Screenplay (Original) :: Winner,0.983457
+Best Original Screenplay,Writers Guild of America :: WGA Award (Screen) :: Best Original Screenplay :: Winner,0.95838
+Best Original Screenplay,Golden Globes :: Golden Globe :: Best Screenplay - Motion Picture :: Winner,0.920553
+Best Original Screenplay,Boston Society of Film Critics Awards :: BSFC Award :: Best Actor :: Winner,0.890212
+Best Original Screenplay,Los Angeles Film Critics Association Awards :: LAFCA Award :: Best Screenplay :: Nominated,0.879187
+Best Original Screenplay,Broadcast Film Critics Association Awards :: Critics Choice Award :: Best Original Screenplay :: Winner,0.849444
+Best Original Screenplay,Online Film Critics Society Awards :: OFCS Award :: Best Supporting Actor :: Nominated,0.842086
+Best Original Screenplay,BAFTA Awards :: BAFTA Film Award :: Best Film :: Nominated,0.820151
+Best Original Screenplay,Online Film Critics Society Awards :: OFCS Award :: Best Picture :: Winner,0.786418
+Best Adapted Screenplay,Broadcast Film Critics Association Awards :: Critics Choice Award :: Best Director :: Winner,1.0
+Best Adapted Screenplay,BAFTA Awards :: BAFTA Film Award :: Best Screenplay (Adapted) :: Winner,0.963491
+Best Adapted Screenplay,Broadcast Film Critics Association Awards :: Critics Choice Award :: Best Picture :: Winner,0.953174
+Best Adapted Screenplay,Screen Actors Guild Awards :: Actor :: Outstanding Performance by a Cast in a Motion Picture :: Nominated,0.893959
+Best Adapted Screenplay,Golden Globes :: Golden Globe :: Best Motion Picture - Drama :: Winner,0.884143
+Best Adapted Screenplay,Writers Guild of America :: WGA Award (Screen) :: Best Adapted Screenplay :: Winner,0.868336
+Best Adapted Screenplay,Los Angeles Film Critics Association Awards :: LAFCA Award :: Best Director :: Winner,0.803829
+Best Adapted Screenplay,Chicago Film Critics Association Awards :: CFCA Award :: Most Promising Performer :: Nominated,0.762819
+Best Adapted Screenplay,Boston Society of Film Critics Awards :: BSFC Award :: Best Film :: Winner,0.730782
+Best Adapted Screenplay,PGA Awards :: PGA Award :: Outstanding Producer of Theatrical Motion Pictures :: Winner,0.722635
+Best Animated Feature Film,Cinema Audio Society :: C.A.S. Award :: Outstanding Achievement in Sound Mixing for Motion Pictures - Animated :: Winner,1.0
+Best Animated Feature Film,American Cinema Editors :: Eddie :: Best Edited Animated Feature Film :: Winner,0.992058
+Best Animated Feature Film,Los Angeles Film Critics Association Awards :: LAFCA Award :: Best Animation :: Winner,0.933057
+Best Animated Feature Film,Broadcast Film Critics Association Awards :: Critics Choice Award :: Best Animated Feature :: Winner,0.908739
+Best Animated Feature Film,Visual Effects Society Awards :: VES Award :: Outstanding Created Environment in an Animated Feature Motion Picture :: Winner,0.895582
+Best Animated Feature Film,Online Film Critics Society Awards :: OFCS Award :: Best Animated Feature :: Winner,0.894761
+Best Animated Feature Film,New York Film Critics Circle Awards :: NYFCC Award :: Best Animated Film :: Winner,0.832495
+Best Animated Feature Film,BAFTA Awards :: BAFTA Film Award :: Best Animated Film :: Winner,0.809381
+Best Animated Feature Film,numRatings,0.782466
+Best Animated Feature Film,PGA Awards :: PGA Award :: Outstanding Producer of Animated Theatrical Motion Pictures :: Winner,0.777003
