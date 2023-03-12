@@ -2,7 +2,7 @@
 
 This repo contains data and source code for using a machine learning model to predict academy awards.
 
-Webpage: [Predition Results for 2020](https://mengtingwan.github.io/oscars/oscar2020.html)
+Webpage: [Predition Results for 2021](https://mengtingwan.github.io/oscars/oscar2021.html)
 
 ## Data:
 Data can be accessed in [./data/](./data), where a series of pre-Oscar awards are included (see descriptions [here](./data/award_code.csv)).
