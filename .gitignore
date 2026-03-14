@@ -118,3 +118,4 @@ dmypy.json
 html/
 
 .project
+.DS_Store

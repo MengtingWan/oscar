@@ -42,7 +42,7 @@ def run_each_category(df_cate, year_pred, featureNames, eps=1e-10):
     print('leave-one-out training ...')
     sys.stdout.flush()
     lbda_set = [0.001, 0.005, 0.01, 0.05, 0.1, 0.5, 1.0, 5.0, 10.0]
-    l1_set = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
+    l1_set = [0.1, 0.2, 0.3, 0.4, 0.5]
     para_list = [(lb, l1) for lb in lbda_set for l1 in l1_set]
     validation_accr = []
     validation_auc = []
