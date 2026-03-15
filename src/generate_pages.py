@@ -33,7 +33,7 @@ TRANS = {
     'subtitle': 'Four-model ensemble prediction for all 24 categories',
     'badge': 'Ceremony: March 15, 2026',
     'oscar_title': 'Oscar 2026',
-    'commentary_title': 'Commentary',
+    'commentary_title': 'Preface',
     'commentary_body': 'I first started predicting the Oscars with ML about nine years ago during my PhD. After a few iterations the methodology stabilized and the project went dormant. After the ChatGPT moment, I briefly revisited it in early 2023 using a minimal setup: GPT-3.5 with zero-shot prompting and some handcrafted context, but no tools. The results ended up quite similar to what I previously got with a traditional ML pipeline.\nThis year I ran the project again as an experiment with the recent wave of coding agents. I let an agent (Claude Code) handle the full workflow: scraping historical awards-season data, doing feature engineering, training models, running some qualitative analysis via web search, and generating a website to present the results. The repo and the site this year were written entirely by the agent, though heavily prompted and guided by me.\nFrankly, it wasn\'t dramatically faster than doing it myself. Website generation is where agents clearly shine, but most other parts of the data and ML pipeline still required my guidance: natural-language debugging, asking questions, and explaining the math behind things. Part of that is probably my own baseline. I\'ve been trained to do this kind of work for years and already have a lot of muscle memory for the traditional workflow.\nI\'m no longer in academia, but I still care about how data science education might evolve. For students entering this new environment, the experience may look quite different. Projects like this have always been nice exercises because they cover the full data science workflow end to end. But as AI agents start automating more of the implementation, the core skill may shift: less about implementing models, more about asking the right questions, choosing sound technical directions, designing evaluations, and interpreting results. Students will likely need to learn not only how to design and implement models, but also how to guide agents and critically review what they produce. The fundamentals still matter. Depth and critical thinking may matter even more, and the kind of muscle memory we build may start to look very different.\n<em>ps: since this run wasn\'t much faster than doing it myself, I ended up packaging the workflow into an agent skill so it can be automated more easily next time. Not entirely sure what I\'m doing here\u2026 maybe slowly displacing myself.</em>',
     'tab_predictions': 'Predictions',
     'tab_methods': 'Prediction Methods',
@@ -137,7 +137,7 @@ TRANS = {
     'subtitle': '四模型集成预测，覆盖全部24个奖项',
     'badge': '颁奖典礼：2026年3月15日',
     'oscar_title': '奥斯卡 2026',
-    'commentary_title': '评论',
+    'commentary_title': '序言',
     'commentary_body': '九年前我还在读博士的时候，第一次想到可以做一个用机器学习预测奥斯卡的小项目。做了几轮之后方法逐渐稳定，这个项目也就慢慢停了下来。ChatGPT 出现之后，我在 2023 年初又简单试了一次：用一个丐版的 GPT-3.5，加上一些手写的 context，做 zero-shot prompting，没有接任何外部工具，结果和以前用传统 ML pipeline 做出来的效果其实差不多。\n今年重新做这个项目，是想试试最近这一波 coding agent 到底能做到什么程度。我基本把整个流程交给了一个 agent（Claude Code）：爬取历年的颁奖季数据、做 feature engineering、训练模型、通过 web search 做一些定性分析，最后生成一个网站展示结果。今年的 repo 和网站基本都是 AI agent 写的，不过需要我大量的提示、引导和修正。\n坦白说，整体并没有比我自己做快很多。做网站确实是 agent 非常擅长的一件事，但数据和机器学习流程里的大多数步骤，仍然需要我不断指导、用自然语言一起调试、反复追问，以及解释背后的数学逻辑。某种程度上这可能也和我自己的基线有关——从本科到博士我已经被训练做这样的事情太多年，对传统 workflow 有很强的"肌肉记忆"。\n虽然已经毕业很久了，但我其实一直挺关心数据科学相关的高等教育会怎么发展。奥斯卡预测这样的项目其实是非常好的课程作业，因为它几乎完整覆盖了数据科学从头到尾的流程，而学生来做的体验肯定会和我很不一样。但当 AI agent 开始自动完成越来越多实现细节时，我们需要培养的核心能力可能也会发生变化：不再只是实现模型，而是提出正确的问题、选择合理的技术方向、设计可靠的评估方法，以及解释结果。学生可能不仅需要学会怎么做模型，也需要学会怎么引导 agent，以及批判性地看它产出的东西。基础仍然重要，但深度和判断力可能会更重要，而未来形成的"肌肉记忆"也可能会很不一样。\n<em>ps: 既然这次跑下来并没有比我自己做快多少，于是我把这个流程做成了一个 agent skill，方便以后自动化运行（可能是在一步步把自己替换掉…）</em>',
     'tab_predictions': '预测结果',
     'tab_methods': '预测方法',
@@ -552,9 +552,9 @@ def build_page(t):
   background: none;
   border: none;
   border-bottom: 2px solid transparent;
-  padding: 4px 12px;
+  padding: 5px 14px;
   font-family: var(--sans);
-  font-size: .78rem;
+  font-size: .88rem;
   font-weight: 500;
   color: var(--text-muted);
   cursor: pointer;
@@ -574,9 +574,9 @@ def build_page(t):
   flex-wrap: wrap;
 }}
 .stab {{
-  padding: 3px 10px;
-  border-radius: 4px;
-  font-size: .7rem;
+  padding: 4px 12px;
+  border-radius: 5px;
+  font-size: .8rem;
   font-weight: 500;
   color: var(--text-muted);
   background: var(--bg-warm);
@@ -596,35 +596,53 @@ def build_page(t):
 .panel {{ display: none; }}
 .panel.on {{ display: block; }}
 
-/* ── Commentary ── */
-.commentary {{
+/* ── Source line ── */
+.source-line {{
   font-size: .82rem;
   color: var(--text-muted);
-  margin: 0 0 .6em;
+  margin: 0 0 .8em;
   padding: 0;
 }}
-.commentary a {{
+.source-line a {{
   color: var(--gold);
 }}
+
+/* ── Commentary / Preface ── */
 .commentary-details {{
-  margin: 0 0 1.2em;
+  margin: 0 0 1.8em;
   background: var(--bg-warm);
   border: 1px solid var(--border-light);
+  border-left: 3px solid var(--gold);
   border-radius: 4px;
 }}
 .commentary-details summary {{
-  font-size: .82rem;
-  color: var(--text-light);
-  padding: .5em .8em;
+  font-family: var(--serif);
+  font-size: 1.05em;
+  font-weight: 600;
+  color: var(--gold);
+  padding: .7em 1em;
 }}
 .commentary-details > div {{
-  padding: .4em 1em 1em;
-  font-size: .86rem;
+  padding: .5em 1.2em 1.2em;
+  font-size: .93rem;
   color: var(--text);
-  line-height: 1.85;
+  line-height: 1.9;
 }}
 .commentary-details > div p {{
-  margin-bottom: .7em;
+  margin-bottom: .8em;
+}}
+.commentary-details > div em {{
+  color: var(--text-light);
+}}
+.preface-hint {{
+  font-family: var(--sans);
+  font-size: .75em;
+  font-weight: 400;
+  color: var(--text-muted);
+  font-style: italic;
+}}
+.commentary-details[open] .preface-hint {{
+  display: none;
 }}
 
 /* ── Nominee Grid ── */
@@ -717,14 +735,14 @@ def build_page(t):
 }}
 .nbody {{ padding: 5px 7px 7px; }}
 .nname {{
-  font-size: .76rem;
+  font-size: .82rem;
   font-weight: 600;
-  line-height: 1.25;
+  line-height: 1.3;
   color: var(--charcoal);
 }}
 .ncard.win .nname {{ color: var(--gold); font-weight: 700; }}
 .nfilm {{
-  font-size: .65rem;
+  font-size: .72rem;
   color: var(--text-light);
   font-style: italic;
   overflow: hidden;
@@ -1168,9 +1186,9 @@ def build_page(t):
 </div>
 
 <!-- ── Commentary (compact) ── -->
-<p class="commentary"><a href="https://github.com/MengtingWan/oscar/tree/master">{t['source_code']}</a>. {t['source_note']}</p>
+<p class="source-line"><a href="https://github.com/MengtingWan/oscar/tree/master">{t['source_code']}</a> &middot; {t['source_note']}</p>
 <details class="commentary-details">
-  <summary>{t['commentary_title']}</summary>
+  <summary>{t['commentary_title']} <span class="preface-hint">{'(click to expand)' if not is_cn else '（点击展开）'}</span></summary>
   <div>{''.join('<p>' + p + '</p>' for p in t['commentary_body'].split(chr(10)) if p.strip())}</div>
 </details>
 
