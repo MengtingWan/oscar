@@ -283,13 +283,12 @@ CN_DOUBAN = {
 }
 
 
-# ── CN LLM Rationale Translations ─────────────────────────────────────────────
-# Keyed by nominee name. Used when LANG==='cn' for LLM/Overall rationale display.
+# ── CN LLM Rationale Translations (nested by category_key → name) ─────────────
 CN_RATIONALES = {
-    # Best Picture
+"picture": {
     "One Battle After Another": "横扫DGA、PGA、BAFTA最佳影片、金球奖（喜剧/音乐类）、评论家选择奖、WGA改编剧本及ACE Eddie等全部传统制度性前哨奖。在偏好投票制时代，这一组合从未失手。排名投票中，本片是《罪人》选民的共识次选，确保了较高的票仓下限。",
-    "Sinners": "获得SAG最佳群戏（SAG中最直接的最佳影片预测指标）、ACE Eddie（剧情类）、WGA最佳原创剧本，并以破纪录的16项提名领跑。历史上还没有同时获得SAG群戏+WGA原创+ACE剧情类的影片在最佳影片中落败。",
-    "Hamnet": "获金球奖最佳剧情片，表演和技术类奖项均有斩获，但工会大奖被《一战再战》和《罪人》瓜分。需排名投票中的大规模选票转移方有可能获最佳影片。",
+    "Sinners": "获得SAG最佳群戏（SAG中最直接的最佳影片预测指标）、ACE Eddie（剧情类）、WGA最佳原创剧本，并以破纪录的16项提名领跑。历史上同时获得SAG群戏+WGA原创+ACE剧情类的影片从未在最佳影片中落败。",
+    "Hamnet": "获金球奖最佳剧情片，表演和技术类奖项均有斩获，但工会大奖被两部领跑影片瓜分。需排名投票中的大规模选票转移方有可能获最佳影片。",
     "Train Dreams": "获独立精神奖最佳影片，口碑极佳的独立电影，但缺乏最佳影片的主要工会奖项支持。",
     "Sentimental Value": "获9项奥斯卡提名，深受国际选民青睐，但缺乏最佳影片方面的工会奖项支持。",
     "F1: The Movie": "技术类提名强劲（音效、视觉效果、剪辑），但并非最佳影片的有力竞争者。",
@@ -297,49 +296,136 @@ CN_RATIONALES = {
     "The Secret Agent": "巴西影片，获表演和国际影片提名，但非最佳影片竞争对象。",
     "Marty Supreme": "萨弗迪兄弟的话题之作，在表演和编剧类别有实力，但缺乏最佳影片的制度性支持。",
     "Bugonia": "在最佳影片竞争中存在感较低。",
-    # Best Actor
+},
+"actor": {
     "Michael B. Jordan": "获得SAG最佳男主角——最具决定性的工会同行投票。SAG揭晓后在预测市场暴涨48点。同一部影片同时斩获SAG最佳男主角与SAG最佳群戏，构成极其强劲的信号组合。",
-    "Leonardo DiCaprio": "虽无前哨奖获奖，但在行业媒体的学院选民访谈中被频繁提及为「暗马」。凭数十年学院好感度积累，在匿名选民调查中被多人提及为实际投票对象。",
+    "Timoth\u00e9e Chalamet": "获评论家选择奖和金球奖（喜剧/音乐类）最佳男主角，此前数月一直是大热门。SAG落败后预测急剧下滑，但仍拥有早期投票学院成员的重要支持。",
+    "Leonardo DiCaprio": "虽无前哨奖获奖，但在行业媒体的学院选民访谈中被频繁提及为暗马。凭数十年学院好感度积累，在匿名选民调查中被多人提及。",
     "Ethan Hawke": "林克莱特作品的影迷最爱，获得强烈的「应该赢」呼声，但缺乏前哨奖支持。",
     "Wagner Moura": "获金球奖（剧情类）最佳男主角，凭巴西演员身份获得国际选民支持。",
-    # Best Actress
-    "Jessie Buckley": "横扫四大前哨奖：评论家选择奖、金球奖（剧情类）、BAFTA和SAG最佳女主角。评论界近乎一致认定她在赵婷执导的《哈姆奈特》中贡献了本季最具标志性的女性表演。拥有这一组合历史上从未有人失手。",
-    "Renate Reinsve": "被视为共识的第二选择，凭借挪威剧情片《情感价值》中的表演深受学院成员喜爱。",
+},
+"actress": {
+    "Jessie Buckley": "横扫四大前哨奖：评论家选择奖、金球奖（剧情类）、BAFTA和SAG最佳女主角。拥有这一组合历史上从未有人失手。",
+    "Renate Reinsve": "被视为共识第二选择，凭《情感价值》中的表演深受学院成员喜爱。",
     "Rose Byrne": "获独立精神奖最佳主演表演，金球奖喜剧类提名，但无重要工会奖获奖。",
-    "Emma Stone": "两届奥斯卡影后，凭《拯救地球》获提名，但本周期内前哨奖表现平平。",
+    "Emma Stone": "两届奥斯卡影后，凭《拯救地球》获提名，但本周期前哨奖表现平平。",
     "Kate Hudson": "职业生涯回归叙事加持，但无重要前哨奖获奖。",
-    # Best Supporting Actor
-    "Sean Penn": "同时获得SAG最佳男配角和BAFTA最佳男配角——该类别中最具预测力的两个工会信号。两届奥斯卡影帝，拥有深厚的学院认可度。与最佳影片领跑者《一战再战》捆绑。",
-    "Delroy Lindo": "无任何正式前哨奖获奖，但拥有学院成员的强大热情票仓。在SAG及其他工会遗憾落选的情况下仍获奥斯卡提名——表明学院选民对其有异常强烈的支持。",
+},
+"supp_actor": {
+    "Sean Penn": "同时获得SAG和BAFTA最佳男配角——该类别中最具预测力的两个工会信号。两届奥斯卡影帝，拥有深厚的学院认可度。",
+    "Delroy Lindo": "无任何正式前哨奖获奖，但在工会全部落选情况下仍获奥斯卡提名——表明学院选民有异常强烈的热情支持。",
+    "Stellan Skarsg\u00e5rd": "获金球奖最佳男配角，但SAG遗珠。瑞典资深演员在《情感价值》中的表演备受赞誉。",
     "Jacob Elordi": "获评论家选择奖最佳男配角，在《弗兰肯斯坦》中饰演怪物一角广受好评。",
     "Benicio Del Toro": "资深演员在多个影评人协会奖中胜出，但在SAG和BAFTA中被分流。",
-    # Best Supporting Actress
-    "Amy Madigan": "性格演员的突破表现，在工会奖项中稳定获奖，凭作品整体热度受益。",
-    "Wunmi Mosaku": "凭《罪人》获BAFTA最佳女配角和WGA相关奖项提名，是最受关注的黑马之一。",
-    "Teyana Taylor": "获金球奖和评论家选择奖最佳女配角提名，凭《一战再战》中的表演获认可。",
-    # Best Director
-    "Paul Thomas Anderson": "罕见地横扫DGA、BAFTA、金球奖和评论家选择奖四大最佳导演奖。DGA是最强的单一预测指标（历史准确率93%），几乎锁定最佳导演。",
-    "Ryan Coogler": "《罪人》16项提名破纪录，是最受瞩目的技术成就。但DGA未获奖，历史上DGA落选者在奥斯卡获胜的概率极低。",
-    # Best Original Screenplay
-    "Sinners": "获WGA最佳原创剧本，这是该类别最具预测力的单一指标（历史准确率77%）。瑞恩·库格勒独自编剧。",
-    # Best Adapted Screenplay
-    "One Battle After Another": "获WGA最佳改编剧本，保罗·托马斯·安德森编剧。WGA与奥斯卡改编剧本的历史关联度极高。",
-    # Best Animated Feature
-    "KPop Demon Hunters": "获金球奖和评论家选择奖最佳动画长片，Netflix上映后创下观看纪录。K-POP女团猎魔的设定在全球引发热潮，是近年最具突破性的动画作品之一。",
-    "Zootopia 2": "迪士尼续集，全球票房大爆，中国票房超过45亿元。在商业上极其成功但在奖项竞争中通常让位于更具艺术性的作品。",
-    # Best Score
-    "Sinners": "路德维格·约兰森的配乐获金球奖和评论家选择奖最佳原创配乐，蓝调和爵士乐元素交织的恐怖氛围音乐广受赞誉。",
-    # Best Documentary
-    "The Perfect Neighbor": "获圣丹斯评审团大奖，讲述佛罗里达邻里纠纷升级为致命冲突的真实故事。Gold Derby共识大热。",
-    # Best International
-    "The Secret Agent": "克莱伯·门多萨·菲略执导的巴西政治惊悚片，获戛纳最佳导演和最佳男演员双料大奖。以1977年巴西军事独裁为背景。",
-    # Best VFX
-    "Avatar: Fire and Ash": "詹姆斯·卡梅隆的视觉效果标杆，获VES视效工会奖。潘多拉星球的CG世界依然是业界顶尖水平。",
-    # Chalamet gets a special one since he appears in both actor and screenplay contexts
+},
+"supp_actress": {
+    "Amy Madigan": "获SAG和评论家选择奖最佳女配角。性格演员的突破表现，凭作品整体热度受益。",
+    "Wunmi Mosaku": "凭《罪人》获BAFTA最佳女配角，是最受关注的黑马之一。",
+    "Teyana Taylor": "获金球奖最佳女配角。凭《一战再战》中的表演获认可。",
+    "Elle Fanning": "在《情感价值》中表现出色，但缺乏前哨奖支持。",
+    "Inga Ibsdotter Lilleaas": "挪威演员凭《情感价值》获提名，前哨奖支持有限。",
+},
+"director": {
+    "Paul Thomas Anderson": "罕见地横扫DGA、BAFTA、金球奖和评论家选择奖四大最佳导演奖。DGA是最强单一预测指标（历史准确率93%），几乎锁定最佳导演。",
+    "Ryan Coogler": "《罪人》16项提名破纪录。但DGA未获奖，历史上DGA落选者在奥斯卡获胜的概率极低。",
+    "Chlo\u00e9 Zhao": "前奥斯卡最佳导演得主（2021年《无依之地》）。《哈姆奈特》获多项提名但缺乏导演奖前哨支持。",
+    "Joachim Trier": "凭《情感价值》获戛纳评审团大奖，但在好莱坞工会系统中存在感有限。",
+    "Josh Safdie": "首次独立执导提名。影迷和评论界高度评价，但缺乏工会支持。",
+},
+"original_screenplay": {
+    "Sinners": "横扫WGA原创剧本、BAFTA原创剧本和评论家选择奖——三大前哨奖全部获胜，历史准确率极高。",
+    "Marty Supreme": "萨弗迪/布隆斯坦编剧。影迷和编剧分会高度认可，但主要前哨奖未获胜。",
+    "Sentimental Value": "情感细腻的剧本。无主要前哨奖获胜。",
+    "Blue Moon": "林克莱特的对话驱动型作品，编剧分会友好但缺乏前哨奖。",
+    "It Was Just an Accident": "前哨奖存在感较低。",
+},
+"adapted_screenplay": {
+    "One Battle After Another": "横扫评论家选择奖、金球奖、WGA改编剧本等全部主要改编剧本前哨奖。",
+    "Hamnet": "优秀的文学改编，原著小说口碑极佳。第二选择的共识位置。",
+    "Train Dreams": "获独立精神奖相关提名，精美的独立改编作品，但前哨奖有限。",
+    "Bugonia": "改编剧本提名，但前哨奖存在感较低。",
+    "Frankenstein": "德尔·托罗的情怀之作，并非编剧类竞争者。",
+},
+"cinematography": {
+    "One Battle After Another": "获ASC奖、BAFTA和评论家选择奖最佳摄影——三大前哨奖全部获胜。",
+    "Sinners": "在影评人协会奖中表现突出，但ASC和BAFTA输给了《一战再战》。",
+    "Train Dreams": "获独立精神奖最佳摄影，自然风光摄影诗意盎然。",
+    "Frankenstein": "哥特视觉风格强烈，但摄影前哨奖归属他片。",
+    "Marty Supreme": "视觉风格受到好评，但无主要摄影前哨奖。",
+},
+"editing": {
+    "One Battle After Another": "获ACE Eddie（喜剧/音乐类）和BAFTA剪辑。与最佳影片领跑地位吻合。",
+    "F1: The Movie": "赛车场景的动态剪辑节奏获得业界认可。",
+    "Sinners": "获ACE Eddie（剧情类）——与《一战再战》的喜剧/音乐类形成直接竞争信号。",
+    "Marty Supreme": "乒乓球比赛场景的剪辑极具张力，但无前哨奖获胜。",
+    "Sentimental Value": "欧洲奖项有认可，但奥斯卡剪辑类获奖概率较低。",
+},
+"production_design": {
+    "Frankenstein": "获ADG年代片类大奖——该类别最重要的前哨指标。",
+    "One Battle After Another": "获ADG当代片类大奖。如果最佳影片获奖者同时参与美术设计竞争，往往有加成效应。",
+    "Hamnet": "莎士比亚时代英格兰的精细场景还原。",
+    "Sinners": "1930年代美国南方的氛围营造。",
+    "Marty Supreme": "纽约时代感的美术风格。",
+},
+"costume": {
+    "Frankenstein": "获CDG年代片类、BAFTA和评论家选择奖最佳服装设计。三大前哨全部获胜。",
+    "Sinners": "露丝·E·卡特是多次奥斯卡得主，1930年代南方服装设计精良。",
+    "Hamnet": "伊丽莎白时代的精美服装还原。",
+    "Marty Supreme": "街头时尚风格的独特服装设计。",
+    "Avatar: Fire and Ash": "科幻/奇幻类服装设计。无前哨奖获胜。",
+},
+"sound": {
+    "F1: The Movie": "获CAS（电影声音工会）、BAFTA和评论家选择奖最佳音效。赛车音效设计是本片最大技术亮点。",
+    "Sinners": "获两项MPSE金卷轴奖。在音效分会有强烈的支持。",
+    "Frankenstein": "获MPSE效果/拟音奖，但并非领跑者。",
+    "One Battle After Another": "获提名但无主要音效前哨奖。",
+    "Sirat": "沙漠战争的沉浸式音景。在技术分会中是可信的黑马。",
+},
+"makeup": {
+    "Frankenstein": "获MUAHS特效化妆假肢奖——最相关的子类别。怪物角色的化妆是本届标志性的技术成就。",
+    "Sinners": "获MUAHS年代角色化妆和年代角色发型两项大奖。但与《弗兰肯斯坦》的特效化妆相比可能略逊。",
+},
+"score": {
+    "Sinners": "路德维格·约兰森的配乐横扫BAFTA、金球奖、评论家选择奖和格莱美奖。蓝调和爵士元素交织的恐怖氛围音乐广受赞誉。",
+    "One Battle After Another": "高水准氛围配乐，但面对约兰森的全面横扫缺乏竞争力。",
+},
+"song": {
+    "KPop Demon Hunters": "「Golden」获金球奖和评论家选择奖最佳原创歌曲。K-POP风格的洗脑旋律在全球爆火。",
+    "Sinners": "蓝调风格的「I Lied to You」与影片气质高度契合，但在格莱美未获奖。",
+},
+"visual_effects": {
+    "Avatar: Fire and Ash": "获VES视效工会最佳真人视效大奖。卡梅隆的潘多拉星球CG世界依然是业界标杆。",
+    "Sinners": "获VES辅助视效奖。实拍与数字融合的超自然效果令人印象深刻。",
+    "F1: The Movie": "真实F1赛车场景的实拍与CG结合。",
+},
+"documentary": {
+    "The Perfect Neighbor": "获评论家选择奖最佳纪录片，是观众最广泛接触的提名作品。Gold Derby共识大热。",
+    "Mr. Nobody Against Putin": "获BAFTA最佳纪录片——纪录片类别最强的制度性信号。",
+    "Cutting Through Rocks": "历史性的首部获奥斯卡提名的伊朗纪录片。感人的女性视角叙事。",
+    "Come See Me in the Good Light": "圣丹斯观众最爱。如果情感因素占上风则是黑马。",
+    "The Alabama Solution": "美国刑事司法/死刑题材。前哨奖存在感有限。",
+},
+"animated": {
+    "KPop Demon Hunters": "获Annie奖（10项全中的压倒性横扫）、金球奖和评论家选择奖最佳动画长片。近年最具突破性的动画作品之一。",
+    "Zootopia 2": "迪士尼续集，票房大爆。但在奖项竞争中通常让位于更具艺术性的作品。",
+    "Arco": "欧洲艺术院线动画，电影节路线的宠儿。",
+    "Elio": "皮克斯出品，但在所有主要前哨奖中均败给了《猎魔女团》。",
+},
+"international": {
+    "Sentimental Value": "获BAFTA最佳非英语影片——该类别最强的制度性信号。在多个国际影评人协会奖中胜出。",
+    "The Secret Agent": "获金球奖最佳非英语影片。瓦格纳·莫拉获戛纳最佳男演员。巴西政治惊悚片。",
+    "Sirat": "西班牙代表。同时获音效提名。沙漠战争的沉浸式氛围。",
+    "The Voice of Hind Rajab": "突尼斯代表。巴以冲突相关的政治影片。同情票可能发挥作用。",
+    "It Was Just an Accident": "法国代表。道德惊悚片。同时获原创剧本提名。",
+},
+"cast": {
+    "Sinners": "获SAG最佳群戏——选角类别最直接的预测指标。16项提名证明了整体选角的深度和广度。",
+    "Hamnet": "真兄弟出演莎士比亚兄妹的选角决定广受赞誉。",
+    "One Battle After Another": "SAG男配角获奖者西恩·潘领衔，星光闪耀的群戏阵容。",
+    "The Secret Agent": "国际阵容的精准组合。瓦格纳·莫拉获最佳男主角提名。",
+    "Marty Supreme": "非演员为主的独特选角（阿贝尔·费拉拉、大卫·马梅特、彼得·丁拉基等），萨弗迪式的选角风格。",
+},
 }
-# Add Chalamet separately to avoid key collision with other categories
-CN_RATIONALES["Timoth\u00e9e Chalamet"] = "获评论家选择奖和金球奖（喜剧/音乐类）最佳男主角，此前数月一直是大热门。SAG落败后预测急剧下滑，但仍拥有早期投票学院成员的重要支持。"
-CN_RATIONALES["Stellan Skarsg\u00e5rd"] = "获金球奖最佳男配角，但SAG遗珠。瑞典资深演员在《情感价值》中的表演备受赞誉。"
 
 
 def build_page(t):
@@ -1171,7 +1257,7 @@ function getProb(cat,nom,method){{
 function topNom(cat,method){{let b=null,bp=-1;cat.nominees.forEach(n=>{{const p=getProb(cat,n,method);if(p>bp){{bp=p;b=n;}}}});return b;}}
 
 /* ── Rationale per method ── */
-function getRationale(nom,method){{
+function getRationale(nom,method,catKey){{
   if(method==='st'){{
     const r=nom.stats_rationale;if(!r)return'';
     const wins=r.season_wins.map(w=>evTag(w.award+'::'+w.category+'::W'));
@@ -1185,25 +1271,22 @@ function getRationale(nom,method){{
     const fs=r.features.slice(0,4).map(f=>f.display+' ('+(f.coefficient>0?'+':'')+f.coefficient.toFixed(2)+')');
     return(LANG==='cn'?'\\u5173\\u952e\\u7279\\u5f81\\uff1a':'Key features: ')+fs.join('; ')+(r.model_selected?' ['+r.model_selected+']':'');
   }}
-  if(method==='ll'){{
-    const cr=CN_RAT[nom.name];
-    if(LANG==='cn'&&cr)return cr;
-    return nom.llm_rationale.reasoning||'';
+  if(method==='ll'||method==='ov'){{
+    // CN: use category-specific translation if available
+    const cnCat=CN_RAT[catKey];
+    if(LANG==='cn'&&cnCat&&cnCat[nom.name])return cnCat[nom.name];
+    const llm=nom.llm_rationale.reasoning||'';
+    if(llm)return llm;
+    if(method==='ov'){{
+      const sw=nom.stats_rationale.season_wins;
+      if(sw&&sw.length)return(LANG==='cn'?'\\u83b7\\u5f97\\uff1a':'Won: ')+sw.map(w=>evTag(w.award+'::'+w.category+'::W')).join(', ');
+    }}
+    return'';
   }}
   if(method==='cr'){{
     const r=nom.gd_rationale;if(!r||r.raw_odds==null)return'';
     return(LANG==='cn'?'\\u4e13\\u5bb6\\u5171\\u8bc6\\uff1a':'Expert consensus: ')+pct(r.raw_odds)+' ('+
       (LANG==='cn'?'\\u6392\\u540d':'rank')+' '+r.odds_rank+'/'+r.n_candidates+')';
-  }}
-  if(method==='ov'){{
-    // Holistic: CN translation if available, else LLM reasoning, else stats wins
-    const cr=CN_RAT[nom.name];
-    if(LANG==='cn'&&cr)return cr;
-    const llm=nom.llm_rationale.reasoning||'';
-    if(llm)return llm;
-    const sw=nom.stats_rationale.season_wins;
-    if(sw&&sw.length)return(LANG==='cn'?'\\u83b7\\u5f97\\uff1a':'Won: ')+sw.map(w=>evTag(w.award+'::'+w.category+'::W')).join(', ');
-    return'';
   }}
   return'';
 }}
@@ -1278,11 +1361,11 @@ function buildPredictions(){{
     body.appendChild(grid);
     // Rationale — item-by-item, collapsible (using details/summary styled by oscar.css)
     const sorted=[...cat.nominees].sort((a,b)=>getProb(cat,b,m)-getProb(cat,a,m));
-    const hasAny=sorted.some(nom=>getRationale(nom,m));
+    const hasAny=sorted.some(nom=>getRationale(nom,m,cat.category_key));
     if(hasAny){{
       const rw=document.createElement('div');rw.className='rat-wrap';
       sorted.forEach((nom,ri)=>{{
-        const reason=getRationale(nom,m);
+        const reason=getRationale(nom,m,cat.category_key);
         const p=getProb(cat,nom,m),isW=nom===w;
         const rdet=document.createElement('details');
         if(ri===0)rdet.setAttribute('open','');
