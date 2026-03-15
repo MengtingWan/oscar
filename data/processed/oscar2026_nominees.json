@@ -1,0 +1,2604 @@
+[
+  {
+    "category": "Best Motion Picture of the Year",
+    "nominations": [
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt16311594"
+        ],
+        "primaryNames": [
+          "F1: The Movie"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNGI0MDI4NjEtOWU3ZS00ODQyLWFhYTgtNGYxM2ZkM2Q2YjE3XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0648288",
+          "nm0000093",
+          "nm0306890",
+          "nm1250070",
+          "nm2676052",
+          "nm0000988"
+        ],
+        "secondaryNames": [
+          "Chad Oman",
+          "Brad Pitt",
+          "Dede Gardner",
+          "Jeremy Kleiner",
+          "Joseph Kosinski",
+          "Jerry Bruckheimer"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt1312221"
+        ],
+        "primaryNames": [
+          "Frankenstein"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0868219",
+          "nm0197703",
+          "nm0835959"
+        ],
+        "secondaryNames": [
+          "Guillermo del Toro",
+          "J. Miles Dale",
+          "Scott Stuber"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt14905854"
+        ],
+        "primaryNames": [
+          "Hamnet"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMDQ5ZmY0OWYtOTYzZi00Mzg5LWE3N2EtMjYwZTAzZmJhYjkyXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0551017",
+          "nm0365208",
+          "nm1868038",
+          "nm0000229",
+          "nm0005222"
+        ],
+        "secondaryNames": [
+          "Liza Marshall",
+          "Pippa Harris",
+          "Nicolas Gonda",
+          "Steven Spielberg",
+          "Sam Mendes"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt32916440"
+        ],
+        "primaryNames": [
+          "Marty Supreme"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BZTRhYjI1MTItMWYwMi00MjY5LWI1OTktMzQwNzA3MWJlN2QyXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm4791912",
+          "nm2563482",
+          "nm1343394",
+          "nm0441097",
+          "nm3154303"
+        ],
+        "secondaryNames": [
+          "Eli Bush",
+          "Ronald Bronstein",
+          "Josh Safdie",
+          "Anthony Katagas",
+          "Timoth\u00e9e Chalamet"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt30144839"
+        ],
+        "primaryNames": [
+          "One Battle After Another"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0814114",
+          "nm2072976",
+          "nm0000759"
+        ],
+        "secondaryNames": [
+          "Adam Somner",
+          "Sara Murphy",
+          "Paul Thomas Anderson"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt27714581"
+        ],
+        "primaryNames": [
+          "Sentimental Value"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNTMwMTk0Y2QtY2VhNy00OGYwLThkMjMtZjkwMGI3MTJiMjAyXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm2250929",
+          "nm5269292"
+        ],
+        "secondaryNames": [
+          "Maria Ekerhovd",
+          "Andrea Berentsen Ottmar"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt31193180"
+        ],
+        "primaryNames": [
+          "Sinners"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm3362858",
+          "nm3539578",
+          "nm3363032"
+        ],
+        "secondaryNames": [
+          "Zinzi Coogler",
+          "Sev Ohanian",
+          "Ryan Coogler"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt29768334"
+        ],
+        "primaryNames": [
+          "Train Dreams"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BZDkzNzkyNTktYzNhMi00YjhiLWI5YmUtZjliMTY0ZDc5NmMyXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0997470",
+          "nm3267061",
+          "nm1052666",
+          "nm4328012",
+          "nm5715332"
+        ],
+        "secondaryNames": [
+          "Marissa McMahon",
+          "Teddy Schwarzman",
+          "Will Janowitz",
+          "Ashley Schlaifer",
+          "Michael Heimler"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt27847051"
+        ],
+        "primaryNames": [
+          "The Secret Agent"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNDlkMzNhYzgtNTk1Yi00M2I1LTlkOTMtY2RmZGU3YzVmMzE2XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm2201794"
+        ],
+        "secondaryNames": [
+          "Emilie Lesclaux"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt12300742"
+        ],
+        "primaryNames": [
+          "Bugonia"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNzIzNWQxMjEtZmQ3MS00OTk2LWFlZjktZDUyYWRkM2M3NWVlXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0347384",
+          "nm1103466",
+          "nm0487166",
+          "nm1297015",
+          "nm1185381"
+        ],
+        "secondaryNames": [
+          "Ed Guiney",
+          "Andrew Lowe",
+          "Yorgos Lanthimos",
+          "Emma Stone",
+          "Lars Knudsen"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Best Performance by an Actor in a Leading Role",
+    "nominations": [
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "nm3154303"
+        ],
+        "primaryNames": [
+          "Timoth\u00e9e Chalamet"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BZTIyZWY4ZjktOGJiZi00NGFkLTllMjctZjJjMmNiMjIxOTY2XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "tt32916440"
+        ],
+        "secondaryNames": [
+          "Marty Supreme"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "nm0000138"
+        ],
+        "primaryNames": [
+          "Leonardo DiCaprio"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMjI0MTg3MzI0M15BMl5BanBnXkFtZTcwMzQyODU2Mw@@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "tt30144839"
+        ],
+        "secondaryNames": [
+          "One Battle After Another"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "nm0000160"
+        ],
+        "primaryNames": [
+          "Ethan Hawke"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMTk4NDMxMTI0MF5BMl5BanBnXkFtZTYwMjE3ODE0._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "tt32536315"
+        ],
+        "secondaryNames": [
+          "Blue Moon"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "nm0430107"
+        ],
+        "primaryNames": [
+          "Michael B. Jordan"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMjExOTY3NzExM15BMl5BanBnXkFtZTgwOTg1OTAzMTE@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "tt31193180"
+        ],
+        "secondaryNames": [
+          "Sinners"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "nm0609944"
+        ],
+        "primaryNames": [
+          "Wagner Moura"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNzE0YTA3MWEtY2ZiYi00ZDFmLTgyY2QtMTUzZDIwOWU5NGFhXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "tt27847051"
+        ],
+        "secondaryNames": [
+          "The Secret Agent"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Best Performance by an Actress in a Leading Role",
+    "nominations": [
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "nm2976580"
+        ],
+        "primaryNames": [
+          "Jessie Buckley"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNTFlZWIwMjQtNmNiOS00ZDc3LTkxZDgtYTE0YjQ3ODU5ZGIyXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "tt14905854"
+        ],
+        "secondaryNames": [
+          "Hamnet"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "nm0126284"
+        ],
+        "primaryNames": [
+          "Rose Byrne"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMTc0MDA2Njc0OF5BMl5BanBnXkFtZTcwNzc3NDU3Mw@@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "tt18382850"
+        ],
+        "secondaryNames": [
+          "If I Had Legs I'd Kick You"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "nm4561559"
+        ],
+        "primaryNames": [
+          "Renate Reinsve"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BZDliODgyNzctZjE3ZC00NDA1LWFhYTItZWNlMTcwMzc4MjFmXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "tt27714581"
+        ],
+        "secondaryNames": [
+          "Sentimental Value"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "nm1297015"
+        ],
+        "primaryNames": [
+          "Emma Stone"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMjI4NjM1NDkyN15BMl5BanBnXkFtZTgwODgyNTY1MjE@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "tt12300742"
+        ],
+        "secondaryNames": [
+          "Bugonia"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "nm0005028"
+        ],
+        "primaryNames": [
+          "Kate Hudson"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMTA1NTk0MjMyOTFeQTJeQWpwZ15BbWU3MDA4NzEzMTM@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "tt30343021"
+        ],
+        "secondaryNames": [
+          "Song Sung Blue"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Best Performance by an Actor in a Supporting Role",
+    "nominations": [
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "nm0001125"
+        ],
+        "primaryNames": [
+          "Benicio Del Toro"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMTkzODQ4NzU1N15BMl5BanBnXkFtZTcwOTUzMzc5Mg@@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "tt30144839"
+        ],
+        "secondaryNames": [
+          "One Battle After Another"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "nm0000576"
+        ],
+        "primaryNames": [
+          "Sean Penn"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMTc1NjMzMjY3NF5BMl5BanBnXkFtZTcwMzkxNjQzMg@@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "tt30144839"
+        ],
+        "secondaryNames": [
+          "One Battle After Another"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "nm0001745"
+        ],
+        "primaryNames": [
+          "Stellan Skarsg\u00e5rd"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNTA5MmNiNzMtOTQ1MC00ZDc5LTg3NzItNTZjNWY1MjI2MGM3XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "tt27714581"
+        ],
+        "secondaryNames": [
+          "Sentimental Value"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "nm8624059"
+        ],
+        "primaryNames": [
+          "Jacob Elordi"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BOTUyNTBhYzYtNGEyNC00NjlhLWI4YWUtNzA5OTg1YjkyZDQxXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "tt1312221"
+        ],
+        "secondaryNames": [
+          "Frankenstein"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "nm0005148"
+        ],
+        "primaryNames": [
+          "Delroy Lindo"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMjEzOTg3NDQ5OF5BMl5BanBnXkFtZTYwMzA3NTY2._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "tt31193180"
+        ],
+        "secondaryNames": [
+          "Sinners"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Best Performance by an Actress in a Supporting Role",
+    "nominations": [
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "nm1102577"
+        ],
+        "primaryNames": [
+          "Elle Fanning"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BZmY4ZTUxOTEtZWI4ZC00NDAzLTllZTgtMjQ4MDUwNWYyNTkxXkEyXkFqcGc@._V1_CR520,59,1221,1832_.jpg"
+        ],
+        "secondaryCodes": [
+          "tt27714581"
+        ],
+        "secondaryNames": [
+          "Sentimental Value"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "nm6635521"
+        ],
+        "primaryNames": [
+          "Inga Ibsdotter Lilleaas"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNWUzOGU4YmEtMDAwYy00OWQ4LTkyYmQtMGU4OWJmMTgyM2M0XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "tt27714581"
+        ],
+        "secondaryNames": [
+          "Sentimental Value"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "nm0001496"
+        ],
+        "primaryNames": [
+          "Amy Madigan"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BYTU4Y2IwYzUtMDBmMC00YjQ0LTljNmMtYTAzZTdhMzgzODFiXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "tt26581740"
+        ],
+        "secondaryNames": [
+          "Weapons"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "nm3692520"
+        ],
+        "primaryNames": [
+          "Teyana Taylor"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMzBjNjZiODgtZWU1Yy00MzJlLTg3NmEtMTU3MjcwN2Q3ZmU4XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "tt30144839"
+        ],
+        "secondaryNames": [
+          "One Battle After Another"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "nm2148911"
+        ],
+        "primaryNames": [
+          "Wunmi Mosaku"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BZTViMjhmNzYtZjNlYi00ZDk3LTlkODEtNGEyYjc4NjEyYWVkXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "tt31193180"
+        ],
+        "secondaryNames": [
+          "Sinners"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Best Achievement in Directing",
+    "nominations": [
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "nm2125482"
+        ],
+        "primaryNames": [
+          "Chlo\u00e9 Zhao"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMThiYmE2NDYtYjg0NS00ZDAwLWJmODUtYzlhYzFhNGM1NTJhXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "tt14905854"
+        ],
+        "secondaryNames": [
+          "Hamnet"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "nm0000759"
+        ],
+        "primaryNames": [
+          "Paul Thomas Anderson"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMTQwNjc5NjY2NV5BMl5BanBnXkFtZTcwNDIxMzg1MQ@@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "tt30144839"
+        ],
+        "secondaryNames": [
+          "One Battle After Another"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "nm3363032"
+        ],
+        "primaryNames": [
+          "Ryan Coogler"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMjI2MTYyNzU1MV5BMl5BanBnXkFtZTgwNTE4NzI5NzE@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "tt31193180"
+        ],
+        "secondaryNames": [
+          "Sinners"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "nm1258686"
+        ],
+        "primaryNames": [
+          "Joachim Trier"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMTkxMjcxMDI5OF5BMl5BanBnXkFtZTYwMDYwMzU0._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "tt27714581"
+        ],
+        "secondaryNames": [
+          "Sentimental Value"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "nm1343394"
+        ],
+        "primaryNames": [
+          "Josh Safdie"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMTUyMzgzMzE2MV5BMl5BanBnXkFtZTgwMjkxMDQwMzI@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "tt32916440"
+        ],
+        "secondaryNames": [
+          "Marty Supreme"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Best Original Screenplay",
+    "nominations": [
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt32536315"
+        ],
+        "primaryNames": [
+          "Blue Moon"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BODQ0NjNlN2MtNGRmZi00OGYzLWFjNGYtMjkyMTlmMWFkNTQ2XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm2904878"
+        ],
+        "secondaryNames": [
+          "Robert Kaplow"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt36491653"
+        ],
+        "primaryNames": [
+          "It Was Just an Accident"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMWJkZmZlNjUtM2Q1OC00MmNjLWFkOWEtNjRhN2FkM2ZlMjI3XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0070159",
+          "nm2158640",
+          "nm9824985",
+          "nm18145788"
+        ],
+        "secondaryNames": [
+          "Jafar Panahi",
+          "Shadmehr Rastin",
+          "Nader Saeivar",
+          "Mehdi Mahmoudian"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt32916440"
+        ],
+        "primaryNames": [
+          "Marty Supreme"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BZTRhYjI1MTItMWYwMi00MjY5LWI1OTktMzQwNzA3MWJlN2QyXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm1343394",
+          "nm2563482"
+        ],
+        "secondaryNames": [
+          "Josh Safdie",
+          "Ronald Bronstein"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt27714581"
+        ],
+        "primaryNames": [
+          "Sentimental Value"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNTMwMTk0Y2QtY2VhNy00OGYwLThkMjMtZjkwMGI3MTJiMjAyXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm1258686",
+          "nm1258777"
+        ],
+        "secondaryNames": [
+          "Joachim Trier",
+          "Eskil Vogt"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt31193180"
+        ],
+        "primaryNames": [
+          "Sinners"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm3363032"
+        ],
+        "secondaryNames": [
+          "Ryan Coogler"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Best Adapted Screenplay",
+    "nominations": [
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt12300742"
+        ],
+        "primaryNames": [
+          "Bugonia"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNzIzNWQxMjEtZmQ3MS00OTk2LWFlZjktZDUyYWRkM2M3NWVlXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm4301557"
+        ],
+        "secondaryNames": [
+          "Will Tracy"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt1312221"
+        ],
+        "primaryNames": [
+          "Frankenstein"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0868219"
+        ],
+        "secondaryNames": [
+          "Guillermo del Toro"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt14905854"
+        ],
+        "primaryNames": [
+          "Hamnet"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMDQ5ZmY0OWYtOTYzZi00Mzg5LWE3N2EtMjYwZTAzZmJhYjkyXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm9133641",
+          "nm2125482"
+        ],
+        "secondaryNames": [
+          "Maggie O'Farrell",
+          "Chlo\u00e9 Zhao"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt30144839"
+        ],
+        "primaryNames": [
+          "One Battle After Another"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0000759"
+        ],
+        "secondaryNames": [
+          "Paul Thomas Anderson"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt29768334"
+        ],
+        "primaryNames": [
+          "Train Dreams"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BZDkzNzkyNTktYzNhMi00YjhiLWI5YmUtZjliMTY0ZDc5NmMyXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm3286079",
+          "nm3613117"
+        ],
+        "secondaryNames": [
+          "Clint Bentley",
+          "Greg Kwedar"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Best Achievement in Cinematography",
+    "nominations": [
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt1312221"
+        ],
+        "primaryNames": [
+          "Frankenstein"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0491565"
+        ],
+        "secondaryNames": [
+          "Dan Laustsen"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt32916440"
+        ],
+        "primaryNames": [
+          "Marty Supreme"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BZTRhYjI1MTItMWYwMi00MjY5LWI1OTktMzQwNzA3MWJlN2QyXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0451787"
+        ],
+        "secondaryNames": [
+          "Darius Khondji"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt30144839"
+        ],
+        "primaryNames": [
+          "One Battle After Another"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0062177"
+        ],
+        "secondaryNames": [
+          "Michael Bauman"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt31193180"
+        ],
+        "primaryNames": [
+          "Sinners"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm2557161"
+        ],
+        "secondaryNames": [
+          "Autumn Durald Arkapaw"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt29768334"
+        ],
+        "primaryNames": [
+          "Train Dreams"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BZDkzNzkyNTktYzNhMi00YjhiLWI5YmUtZjliMTY0ZDc5NmMyXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm4110224"
+        ],
+        "secondaryNames": [
+          "Adolpho Veloso"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Best Achievement in Film Editing",
+    "nominations": [
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt16311594"
+        ],
+        "primaryNames": [
+          "F1: The Movie"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNGI0MDI4NjEtOWU3ZS00ODQyLWFhYTgtNGYxM2ZkM2Q2YjE3XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0592537"
+        ],
+        "secondaryNames": [
+          "Stephen Mirrione"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt32916440"
+        ],
+        "primaryNames": [
+          "Marty Supreme"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BZTRhYjI1MTItMWYwMi00MjY5LWI1OTktMzQwNzA3MWJlN2QyXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm2563482",
+          "nm1343394"
+        ],
+        "secondaryNames": [
+          "Ronald Bronstein",
+          "Josh Safdie"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt30144839"
+        ],
+        "primaryNames": [
+          "One Battle After Another"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm1425140"
+        ],
+        "secondaryNames": [
+          "Andy Jurgensen"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt31193180"
+        ],
+        "primaryNames": [
+          "Sinners"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm4019350"
+        ],
+        "secondaryNames": [
+          "Michael P. Shawver"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt27714581"
+        ],
+        "primaryNames": [
+          "Sentimental Value"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNTMwMTk0Y2QtY2VhNy00OGYwLThkMjMtZjkwMGI3MTJiMjAyXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm1256846"
+        ],
+        "secondaryNames": [
+          "Olivier Bugge Coutt\u00e9"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Best Achievement in Production Design",
+    "nominations": [
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt1312221"
+        ],
+        "primaryNames": [
+          "Frankenstein"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0222383",
+          "nm0896580"
+        ],
+        "secondaryNames": [
+          "Tamara Deverell",
+          "Shane Vieau"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt14905854"
+        ],
+        "primaryNames": [
+          "Hamnet"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMDQ5ZmY0OWYtOTYzZi00Mzg5LWE3N2EtMjYwZTAzZmJhYjkyXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm2356249",
+          "nm1818912"
+        ],
+        "secondaryNames": [
+          "Fiona Crombie",
+          "Alice Felton"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt32916440"
+        ],
+        "primaryNames": [
+          "Marty Supreme"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BZTRhYjI1MTItMWYwMi00MjY5LWI1OTktMzQwNzA3MWJlN2QyXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0279926",
+          "nm1853964"
+        ],
+        "secondaryNames": [
+          "Jack Fisk",
+          "Adam Willis"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt31193180"
+        ],
+        "primaryNames": [
+          "Sinners"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm1667545",
+          "nm3053001"
+        ],
+        "secondaryNames": [
+          "Hannah Beachler",
+          "Monique Champagne"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt30144839"
+        ],
+        "primaryNames": [
+          "One Battle After Another"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm3151515",
+          "nm2518113"
+        ],
+        "secondaryNames": [
+          "Florencia Martin",
+          "Anthony Carlino"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Best Achievement in Costume Design",
+    "nominations": [
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt1312221"
+        ],
+        "primaryNames": [
+          "Frankenstein"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm1661457"
+        ],
+        "secondaryNames": [
+          "Kate Hawley"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt14905854"
+        ],
+        "primaryNames": [
+          "Hamnet"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMDQ5ZmY0OWYtOTYzZi00Mzg5LWE3N2EtMjYwZTAzZmJhYjkyXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm3018027"
+        ],
+        "secondaryNames": [
+          "Malgosia Turzanska"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt31193180"
+        ],
+        "primaryNames": [
+          "Sinners"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0141921"
+        ],
+        "secondaryNames": [
+          "Ruth E. Carter"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt32916440"
+        ],
+        "primaryNames": [
+          "Marty Supreme"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BZTRhYjI1MTItMWYwMi00MjY5LWI1OTktMzQwNzA3MWJlN2QyXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm7279887"
+        ],
+        "secondaryNames": [
+          "Miyako Bellizzi"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt1757678"
+        ],
+        "primaryNames": [
+          "Avatar: Fire and Ash"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0779045"
+        ],
+        "secondaryNames": [
+          "Deborah L. Scott"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Best Sound",
+    "nominations": [
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt16311594"
+        ],
+        "primaryNames": [
+          "F1: The Movie"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNGI0MDI4NjEtOWU3ZS00ODQyLWFhYTgtNGYxM2ZkM2Q2YjE3XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0424163",
+          "nm0625131",
+          "nm0946705",
+          "nm0729886",
+          "nm0672752"
+        ],
+        "secondaryNames": [
+          "Gareth John",
+          "Al Nelson",
+          "Gwendolyn Yates Whittle",
+          "Gary A. Rizzo",
+          "Juan Peralta"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt1312221"
+        ],
+        "primaryNames": [
+          "Frankenstein"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0152382",
+          "nm0733255",
+          "nm0274399",
+          "nm0177397",
+          "nm0957576"
+        ],
+        "secondaryNames": [
+          "Greg Chapman",
+          "Nathan Robitaille",
+          "Nelson Ferreira",
+          "Christian T. Cooke",
+          "Brad Zoern"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt30144839"
+        ],
+        "primaryNames": [
+          "One Battle After Another"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0306223",
+          "nm0769042",
+          "nm4878340"
+        ],
+        "secondaryNames": [
+          "Jos\u00e9 Antonio Garc\u00eda",
+          "Christopher Scarabosio",
+          "Tony Villaflor"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt31193180"
+        ],
+        "primaryNames": [
+          "Sinners"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm2597982",
+          "nm8991894",
+          "nm8395675",
+          "nm0698367",
+          "nm0006655"
+        ],
+        "secondaryNames": [
+          "Chris Welcker",
+          "Benjamin A. Burtt",
+          "Felipe Pacheco",
+          "Brandon Proctor",
+          "Steve Boeddeker"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt32298285"
+        ],
+        "primaryNames": [
+          "Sirat"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNzA1OTkyN2MtMGZjYy00NTcxLTg4Y2ItZjc4NjM2NmQzMzdjXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm1072367",
+          "nm4349901",
+          "nm2015411"
+        ],
+        "secondaryNames": [
+          "Amanda Villavieja",
+          "Laia Casanovas",
+          "Yasmina Praderas"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Best Achievement in Makeup and Hairstyling",
+    "nominations": [
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt1312221"
+        ],
+        "primaryNames": [
+          "Frankenstein"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm2432825",
+          "nm0760397",
+          "nm1691633"
+        ],
+        "secondaryNames": [
+          "Mike Hill",
+          "Jordan Samuel",
+          "Cliona Furey"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt35231039"
+        ],
+        "primaryNames": [
+          "Kokuho"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMzIzNzZlMGItMzg3OC00MmI0LWE4NGEtNzQwZDczOGI0NGIwXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0870318",
+          "nm18145741",
+          "nm18145742"
+        ],
+        "secondaryNames": [
+          "Ky\u00f4ko Toyokawa",
+          "Naomi Hibino",
+          "Tadashi Nishimatsu"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt31193180"
+        ],
+        "primaryNames": [
+          "Sinners"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0225004",
+          "nm2885534",
+          "nm2675680"
+        ],
+        "secondaryNames": [
+          "Ken Diaz",
+          "Michael Fontaine",
+          "Shunika Terry"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt11214558"
+        ],
+        "primaryNames": [
+          "The Smashing Machine"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BOWYxZTM1ZGMtMjg5MC00NzcyLTk0ZTEtZWI0ZThkNDJiYjZmXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0875308",
+          "nm0341205",
+          "nm0716790"
+        ],
+        "secondaryNames": [
+          "Kazu Hiro",
+          "Glen P. Griffin",
+          "Bj\u00f6rn Rehbein"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt29344903"
+        ],
+        "primaryNames": [
+          "The Ugly Stepsister"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BYzk2MjdkZDMtNmU0ZC00ZTEyLTk0ZTAtZDM1MmFhNDdhMjFiXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm1237707",
+          "nm0766611"
+        ],
+        "secondaryNames": [
+          "Thomas Foldberg",
+          "Anne Cathrine Sauerberg"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Best Achievement in Music Written for Motion Pictures (Original Score)",
+    "nominations": [
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt12300742"
+        ],
+        "primaryNames": [
+          "Bugonia"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNzIzNWQxMjEtZmQ3MS00OTk2LWFlZjktZDUyYWRkM2M3NWVlXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm14930772"
+        ],
+        "secondaryNames": [
+          "Jerskin Fendrix"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt1312221"
+        ],
+        "primaryNames": [
+          "Frankenstein"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0006035"
+        ],
+        "secondaryNames": [
+          "Alexandre Desplat"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt14905854"
+        ],
+        "primaryNames": [
+          "Hamnet"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMDQ5ZmY0OWYtOTYzZi00Mzg5LWE3N2EtMjYwZTAzZmJhYjkyXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm2068037"
+        ],
+        "secondaryNames": [
+          "Max Richter"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt31193180"
+        ],
+        "primaryNames": [
+          "Sinners"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm3234869"
+        ],
+        "secondaryNames": [
+          "Ludwig G\u00f6ransson"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt30144839"
+        ],
+        "primaryNames": [
+          "One Battle After Another"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0339351"
+        ],
+        "secondaryNames": [
+          "Jonny Greenwood"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Best Achievement in Music Written for Motion Pictures (Original Song)",
+    "nominations": [
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt14588692"
+        ],
+        "primaryNames": [
+          "Diane Warren: Relentless"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMTQ3YzZhMjctYTM3MC00YjZhLWE1ZjQtOGRlNjM2OTRmZGE3XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0005534"
+        ],
+        "secondaryNames": [
+          "Diane Warren"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt14205554"
+        ],
+        "primaryNames": [
+          "KPop Demon Hunters"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNTBiYWJlMjQtOTIyMy00NTY4LWFhOWItOWZhNzc3NGMyMjc2XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm12363614",
+          "nm5196834",
+          "nm17958850",
+          "nm17958851",
+          "nm17958853",
+          "nm10259072",
+          "nm15612471"
+        ],
+        "secondaryNames": [
+          "EJAE",
+          "Mark Sonnenblick",
+          "Joong Gyu-kwak",
+          "Lee Yu-han",
+          "Nam Hee-dong",
+          "Teddy Park",
+          "24"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt31193180"
+        ],
+        "primaryNames": [
+          "Sinners"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm3234869",
+          "nm1277289"
+        ],
+        "secondaryNames": [
+          "Ludwig G\u00f6ransson",
+          "Raphael Saadiq"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt3595454"
+        ],
+        "primaryNames": [
+          "Viva Verdi!"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BYTQxMjZlNmItYmNkZS00ZmI3LTljZjYtYjQxODEyYzcwZDM1XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0006229"
+        ],
+        "secondaryNames": [
+          "Nicholas Pike"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt29768334"
+        ],
+        "primaryNames": [
+          "Train Dreams"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BZDkzNzkyNTktYzNhMi00YjhiLWI5YmUtZjliMTY0ZDc5NmMyXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0147022",
+          "nm2425842"
+        ],
+        "secondaryNames": [
+          "Nick Cave",
+          "Bryce Dessner"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Best Achievement in Visual Effects",
+    "nominations": [
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt1757678"
+        ],
+        "primaryNames": [
+          "Avatar: Fire and Ash"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0504784",
+          "nm0051824",
+          "nm0756590",
+          "nm2280778"
+        ],
+        "secondaryNames": [
+          "Joe Letteri",
+          "Richard Baneham",
+          "Eric Saindon",
+          "Daniel Barrett"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt16311594"
+        ],
+        "primaryNames": [
+          "F1: The Movie"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNGI0MDI4NjEtOWU3ZS00ODQyLWFhYTgtNGYxM2ZkM2Q2YjE3XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0876095",
+          "nm1349988",
+          "nm7301327",
+          "nm1337882"
+        ],
+        "secondaryNames": [
+          "Ryan Tudhope",
+          "Nicolas Chevallier",
+          "Robert Harrington",
+          "Keith Dawson"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt31036941"
+        ],
+        "primaryNames": [
+          "Jurassic World: Rebirth"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNjg2NTcwYWQtYzk4NS00MTJhLWEzZjItMzIxNjk3YzlkYzU0XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm1316134",
+          "nm0032064",
+          "nm2683373",
+          "nm0179273"
+        ],
+        "secondaryNames": [
+          "David Vickery",
+          "Stephen Aplin",
+          "Charmaine Chan",
+          "Neil Corbould"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt21103218"
+        ],
+        "primaryNames": [
+          "The Lost Bus"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BZTIzNmQzYzUtNTdlNi00NmY5LThmNTYtMGFmZjUxMTgzOGNmXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0633563",
+          "nm3973854",
+          "nm3923070",
+          "nm0572287"
+        ],
+        "secondaryNames": [
+          "Charlie Noble",
+          "David Zaretti",
+          "Russell Bowen",
+          "Brandon K. McLaughlin"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt31193180"
+        ],
+        "primaryNames": [
+          "Sinners"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm1677432",
+          "nm2256596",
+          "nm3083445",
+          "nm3185336"
+        ],
+        "secondaryNames": [
+          "Michael Ralla",
+          "Espen Nordahl",
+          "Guido Wolter",
+          "Donnie Dean"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Best Documentary Feature",
+    "nominations": [
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt35307139"
+        ],
+        "primaryNames": [
+          "The Alabama Solution"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BZDYwZjE5Y2UtN2RiYS00MGE0LThlNzEtMTAxMzM1YmU4YzU2XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm1285613",
+          "nm0442110"
+        ],
+        "secondaryNames": [
+          "Andrew Jarecki",
+          "Charlotte Kaufman"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt34966013"
+        ],
+        "primaryNames": [
+          "Come See Me in the Good Light"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BZTEwNjRiMzUtMmU1OC00OWE5LTkwYjItMGE1NTQwMTFiM2NmXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm1713913",
+          "nm5357937",
+          "nm0449299",
+          "nm1936366"
+        ],
+        "secondaryNames": [
+          "Ryan White",
+          "Jessica Hargrave",
+          "Tig Notaro",
+          "Stef Willen"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt10196414"
+        ],
+        "primaryNames": [
+          "Cutting Through Rocks"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BYmZkZmU2OTctM2U4Ny00NmMyLWFmZTktMjk4MDJkY2QyZDdiXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm5328353",
+          "nm6746115"
+        ],
+        "secondaryNames": [
+          "Sara Khaki",
+          "Mohammadreza Eyni"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt34965515"
+        ],
+        "primaryNames": [
+          "Mr. Nobody Against Putin"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BYWVjNGQ5NjYtZDk2My00NzgxLWE1NDMtOGEzYTQzMjAxODIxXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm1318821",
+          "nm8853469",
+          "nm16820317",
+          "nm6018607"
+        ],
+        "secondaryNames": [
+          "Helle Faber",
+          "Alzbeta Karaskova",
+          "Pavel Talankin",
+          "David Borenstein"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt34962891"
+        ],
+        "primaryNames": [
+          "The Perfect Neighbor"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BZmYxZjA5YmItMjJkYi00NzllLWJjMzgtZjFjZjBlZGQwMmRkXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0304135",
+          "nm10749368",
+          "nm6098670",
+          "nm0083851"
+        ],
+        "secondaryNames": [
+          "Geeta Gandbhir",
+          "Alisa Payne",
+          "Nikon Kwantu",
+          "Sam Bisbee"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Best Animated Feature Film",
+    "nominations": [
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt14883538"
+        ],
+        "primaryNames": [
+          "Arco"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BM2IzNjdiNzUtNTJjMy00Mjk5LTg3MzItNzA2ZjYzOWE2MGIyXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm4589136",
+          "nm5064713",
+          "nm0556021",
+          "nm0000204"
+        ],
+        "secondaryNames": [
+          "Ugo Bienvenu",
+          "F\u00e9lix de Givry",
+          "Sophie Mas",
+          "Natalie Portman"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt14205554"
+        ],
+        "primaryNames": [
+          "KPop Demon Hunters"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNTBiYWJlMjQtOTIyMy00NTY4LWFhOWItOWZhNzc3NGMyMjc2XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm3133422",
+          "nm2282774",
+          "nm7970662"
+        ],
+        "secondaryNames": [
+          "Maggie Kang",
+          "Chris Appelhans",
+          "Michelle Wong"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt29313285"
+        ],
+        "primaryNames": [
+          "Little Am\u00e9lie or the Character of Rain"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNjMxMDU3ZGEtMzMyMi00OGZiLWFlZTAtMTAyMmYwOWYxZmIxXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm4922823",
+          "nm3442046",
+          "nm4751170",
+          "nm1436417"
+        ],
+        "secondaryNames": [
+          "Ma\u00eflys Vallade",
+          "Liane-Cho Han Jin Kuang",
+          "Nidia Santiago",
+          "Henri Magalon"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt26443597"
+        ],
+        "primaryNames": [
+          "Zootopia 2"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BYjg1Mjc3MjQtMTZjNy00YWVlLWFhMWEtMWI3ZTgxYjJmNmRlXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm1158544",
+          "nm0397174",
+          "nm2486917"
+        ],
+        "secondaryNames": [
+          "Jared Bush",
+          "Byron Howard",
+          "Yvett Merino"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt4900148"
+        ],
+        "primaryNames": [
+          "Elio"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BOWE5ZDMyMWEtOTZjMi00YzFhLWE4OTEtNDc3MDMzZjFmMmIzXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm6461347",
+          "nm7626019",
+          "nm2937122",
+          "nm1216321"
+        ],
+        "secondaryNames": [
+          "Madeline Sharafian",
+          "Domee Shi",
+          "Adrian Molina",
+          "Mary Alice Drumm"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Best Animated Short Film",
+    "nominations": [
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt30970587"
+        ],
+        "primaryNames": [
+          "Papillon"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BYTAyZDNkNDEtZTE4YS00YTM5LWI5YmUtYzNiNTQwZDEwMzY4XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0583939",
+          "nm1054433"
+        ],
+        "secondaryNames": [
+          "Florence Miailhe",
+          "Ron Dyens"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt36454323"
+        ],
+        "primaryNames": [
+          "Forevergreen"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BYzcxOGVhMzEtYWJkMi00MGY4LWFmYmMtZThhN2E1NzQ0Y2M4XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm2920776",
+          "nm3728874"
+        ],
+        "secondaryNames": [
+          "Nathan Engelhardt",
+          "Jeremy Spears"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt36956820"
+        ],
+        "primaryNames": [
+          "The Girl Who Cried Pearls"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BOGZhMWIwYmEtN2MyMS00OGFjLWIxYWMtNDMyMWNkZTAyMWI3XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm2650321",
+          "nm2649299"
+        ],
+        "secondaryNames": [
+          "Chris Lavis",
+          "Maciek Szczerbowski"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt33019507"
+        ],
+        "primaryNames": [
+          "Retirement Plan"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BZjkyYjUxYWEtZDU0NC00NmRkLThjOTYtZDgyZTlhMDI1OTQ4XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm16359334",
+          "nm1737306"
+        ],
+        "secondaryNames": [
+          "John Kelly",
+          "Andrew Freedman"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt35676079"
+        ],
+        "primaryNames": [
+          "The Three Sisters"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMzM3MjZlYjUtMTU3Ni00MWVjLWEzNjItODNiNDQ2NzFjYTdkXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0111588"
+        ],
+        "secondaryNames": [
+          "Konstantin Bronzit"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Best Live Action Short Film",
+    "nominations": [
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt39232815"
+        ],
+        "primaryNames": [
+          "Butcher's Stain"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BYTQ2NDM4MzYtYjM5ZS00YTcyLWI2ZjktN2U4YjdmMzAxZDEzXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm18040407",
+          "nm5328550"
+        ],
+        "secondaryNames": [
+          "Meyer Levinson-Blount",
+          "Oron Caspi"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt35489516"
+        ],
+        "primaryNames": [
+          "A Friend of Dorothy"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMTkxYmE4ODQtYzA4Zi00MmEzLWI4MmUtOGViN2VkZjczY2NlXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm5241260",
+          "nm1444721"
+        ],
+        "secondaryNames": [
+          "Lee Knight",
+          "James Dean"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt31171760"
+        ],
+        "primaryNames": [
+          "Jane Austen's Period Drama"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMDE1MTc4Y2ItZDRkMi00YzllLTlmNTUtZjA3MzQ5ODcxY2UyXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm2539508",
+          "nm7448751"
+        ],
+        "secondaryNames": [
+          "Julia Aks",
+          "Steve Pinder"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt33508491"
+        ],
+        "primaryNames": [
+          "The Singers"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMTI2NmQwMmMtOGFlMS00YjAyLTk0ZDQtM2IyZmRjOWUzNTIzXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm4085454",
+          "nm2990059"
+        ],
+        "secondaryNames": [
+          "Sam A. Davis",
+          "Jack Piatt"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt33365259"
+        ],
+        "primaryNames": [
+          "Two People Exchanging Saliva"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMmJjYzIzNjQtMDhlYy00YjEzLTg0NzgtZjFkZDcyZDA4ODg1XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm10306972",
+          "nm10306973"
+        ],
+        "secondaryNames": [
+          "Alexandre Singh",
+          "Natalie Musteata"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Best Documentary Short Film",
+    "nominations": [
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt37798645"
+        ],
+        "primaryNames": [
+          "All the Empty Rooms"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNjg5ZTJjOGEtMThkMy00MTY0LTk2YjctMWY5ZmU5YTZjZjI0XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0781733",
+          "nm2261114"
+        ],
+        "secondaryNames": [
+          "Joshua Seftel",
+          "Conall Jones"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt35515733"
+        ],
+        "primaryNames": [
+          "Armed Only with a Camera: The Life and Death of Brent Renaud"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BZTc2YmQzZmMtYjQxYS00ZTYzLThhMDEtNzhlMjVhMTNiYmQ1XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm1867345",
+          "nm3743017"
+        ],
+        "secondaryNames": [
+          "Craig Renaud",
+          "Juan Arredondo"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt38691874"
+        ],
+        "primaryNames": [
+          "Children No More: Were and Are Gone"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BOGMwMDJlMzAtNThhMS00MTYxLWE2MGItOTE2OGNmM2UxOWFhXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm1857245",
+          "nm0627521"
+        ],
+        "secondaryNames": [
+          "Hilla Medalia",
+          "Sheila Nevins"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt34205548"
+        ],
+        "primaryNames": [
+          "The Devil Is Busy"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNGM4ZGEzMTQtN2YzMC00NjAzLWJmNjUtY2Y5OTkyM2ZmNDBjXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm3654746",
+          "nm0304135"
+        ],
+        "secondaryNames": [
+          "Christalyn Hampton",
+          "Geeta Gandbhir"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt32205767"
+        ],
+        "primaryNames": [
+          "Perfectly a Strangeness"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BZmMwYTA4ODYtZjM0ZS00Y2Q2LWIyNzctOTQxZGFmZjk3ZDRiXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm3226817"
+        ],
+        "secondaryNames": [
+          "Alison McAlpine"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Best International Feature Film",
+    "nominations": [
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt27847051"
+        ],
+        "primaryNames": [
+          "The Secret Agent"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNDlkMzNhYzgtNTk1Yi00M2I1LTlkOTMtY2RmZGU3YzVmMzE2XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [],
+        "secondaryNames": []
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt36491653"
+        ],
+        "primaryNames": [
+          "It Was Just an Accident"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMWJkZmZlNjUtM2Q1OC00MmNjLWFkOWEtNjRhN2FkM2ZlMjI3XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [],
+        "secondaryNames": []
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt27714581"
+        ],
+        "primaryNames": [
+          "Sentimental Value"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNTMwMTk0Y2QtY2VhNy00OGYwLThkMjMtZjkwMGI3MTJiMjAyXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [],
+        "secondaryNames": []
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt32298285"
+        ],
+        "primaryNames": [
+          "Sirat"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNzA1OTkyN2MtMGZjYy00NTcxLTg4Y2ItZjc4NjM2NmQzMzdjXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [],
+        "secondaryNames": []
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt36943034"
+        ],
+        "primaryNames": [
+          "The Voice of Hind Rajab"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BZWVlM2RjYTctODU4Mi00NTQzLWEzMDktZGVmYTQ2NTEwOWFiXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [],
+        "secondaryNames": []
+      }
+    ]
+  },
+  {
+    "category": "Best Casting",
+    "nominations": [
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt14905854"
+        ],
+        "primaryNames": [
+          "Hamnet"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMDQ5ZmY0OWYtOTYzZi00Mzg5LWE3N2EtMjYwZTAzZmJhYjkyXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0002274"
+        ],
+        "secondaryNames": [
+          "Nina Gold"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt32916440"
+        ],
+        "primaryNames": [
+          "Marty Supreme"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BZTRhYjI1MTItMWYwMi00MjY5LWI1OTktMzQwNzA3MWJlN2QyXkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm1204539"
+        ],
+        "secondaryNames": [
+          "Jennifer Venditti"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt30144839"
+        ],
+        "primaryNames": [
+          "One Battle After Another"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0474697"
+        ],
+        "secondaryNames": [
+          "Cassandra Kulukundis"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt27847051"
+        ],
+        "primaryNames": [
+          "The Secret Agent"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNDlkMzNhYzgtNTk1Yi00M2I1LTlkOTMtY2RmZGU3YzVmMzE2XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm7681192"
+        ],
+        "secondaryNames": [
+          "Gabriel Domingues"
+        ]
+      },
+      {
+        "isWinner": false,
+        "primaryCodes": [
+          "tt31193180"
+        ],
+        "primaryNames": [
+          "Sinners"
+        ],
+        "imgUrls": [
+          "https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_.jpg"
+        ],
+        "secondaryCodes": [
+          "nm0537892"
+        ],
+        "secondaryNames": [
+          "Francine Maisler"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,3623 @@
+{
+  "method": "stats",
+  "year": 2026,
+  "categories": {
+    "Best Motion Picture of the Year": [
+      {
+        "name": "F1: The Movie",
+        "probability": 0.0303,
+        "rationale": {
+          "score_raw": 0.0625,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "PGA Awards",
+              "category": "picture",
+              "weight": 0.0625
+            }
+          ]
+        }
+      },
+      {
+        "name": "Frankenstein",
+        "probability": 0.0374,
+        "rationale": {
+          "score_raw": 0.2712,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Golden Globes, USA",
+              "category": "picture",
+              "weight": 0.1325
+            },
+            {
+              "award": "PGA Awards",
+              "category": "picture",
+              "weight": 0.0625
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "picture",
+              "weight": 0.0762
+            }
+          ]
+        }
+      },
+      {
+        "name": "Hamnet",
+        "probability": 0.0531,
+        "rationale": {
+          "score_raw": 0.6213,
+          "season_wins": [
+            {
+              "award": "Golden Globes, USA",
+              "category": "picture",
+              "weight": 0.2368
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "picture",
+              "weight": 0.0909
+            },
+            {
+              "award": "PGA Awards",
+              "category": "picture",
+              "weight": 0.0625
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "picture",
+              "weight": 0.1549
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "picture",
+              "weight": 0.0762
+            }
+          ]
+        }
+      },
+      {
+        "name": "Marty Supreme",
+        "probability": 0.0478,
+        "rationale": {
+          "score_raw": 0.517,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Golden Globes, USA",
+              "category": "picture",
+              "weight": 0.1325
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "picture",
+              "weight": 0.0909
+            },
+            {
+              "award": "PGA Awards",
+              "category": "picture",
+              "weight": 0.0625
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "picture",
+              "weight": 0.1549
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "picture",
+              "weight": 0.0762
+            }
+          ]
+        }
+      },
+      {
+        "name": "One Battle After Another",
+        "probability": 0.4522,
+        "rationale": {
+          "score_raw": 2.7639,
+          "season_wins": [
+            {
+              "award": "National Society of Film Critics Awards, USA",
+              "category": "picture",
+              "weight": 0.4118
+            },
+            {
+              "award": "PGA Awards",
+              "category": "picture",
+              "weight": 0.6364
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "picture",
+              "weight": 0.5
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "picture",
+              "weight": 0.5789
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "picture",
+              "weight": 0.4
+            },
+            {
+              "award": "Golden Globes, USA",
+              "category": "picture",
+              "weight": 0.2368
+            }
+          ],
+          "season_nominations": []
+        }
+      },
+      {
+        "name": "Sentimental Value",
+        "probability": 0.1468,
+        "rationale": {
+          "score_raw": 1.6392,
+          "season_wins": [
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "picture",
+              "weight": 0.5
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "picture",
+              "weight": 0.4
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "Golden Globes, USA",
+              "category": "picture",
+              "weight": 0.1325
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "picture",
+              "weight": 0.0909
+            },
+            {
+              "award": "PGA Awards",
+              "category": "picture",
+              "weight": 0.0625
+            },
+            {
+              "award": "National Society of Film Critics Awards, USA",
+              "category": "picture",
+              "weight": 0.2222
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "picture",
+              "weight": 0.1549
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "picture",
+              "weight": 0.0762
+            }
+          ]
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.0597,
+        "rationale": {
+          "score_raw": 0.7392,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "PGA Awards",
+              "category": "picture",
+              "weight": 0.0625
+            },
+            {
+              "award": "Golden Globes, USA",
+              "category": "picture",
+              "weight": 0.1325
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "picture",
+              "weight": 0.0909
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "picture",
+              "weight": 0.1549
+            },
+            {
+              "award": "National Society of Film Critics Awards, USA",
+              "category": "picture",
+              "weight": 0.2222
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "picture",
+              "weight": 0.0762
+            }
+          ]
+        }
+      },
+      {
+        "name": "Train Dreams",
+        "probability": 0.0359,
+        "rationale": {
+          "score_raw": 0.2296,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "picture",
+              "weight": 0.0909
+            },
+            {
+              "award": "PGA Awards",
+              "category": "picture",
+              "weight": 0.0625
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "picture",
+              "weight": 0.0762
+            }
+          ]
+        }
+      },
+      {
+        "name": "The Secret Agent",
+        "probability": 0.0994,
+        "rationale": {
+          "score_raw": 1.2491,
+          "season_wins": [
+            {
+              "award": "National Society of Film Critics Awards, USA",
+              "category": "picture",
+              "weight": 0.4118
+            },
+            {
+              "award": "Golden Globes, USA",
+              "category": "picture",
+              "weight": 0.2368
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "Golden Globes, USA",
+              "category": "picture",
+              "weight": 0.1325
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "picture",
+              "weight": 0.0909
+            },
+            {
+              "award": "National Society of Film Critics Awards, USA",
+              "category": "picture",
+              "weight": 0.2222
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "picture",
+              "weight": 0.1549
+            }
+          ]
+        }
+      },
+      {
+        "name": "Bugonia",
+        "probability": 0.0374,
+        "rationale": {
+          "score_raw": 0.2712,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Golden Globes, USA",
+              "category": "picture",
+              "weight": 0.1325
+            },
+            {
+              "award": "PGA Awards",
+              "category": "picture",
+              "weight": 0.0625
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "picture",
+              "weight": 0.0762
+            }
+          ]
+        }
+      }
+    ],
+    "Best Performance by an Actor in a Leading Role": [
+      {
+        "name": "Timoth\u00e9e Chalamet",
+        "probability": 0.6233,
+        "rationale": {
+          "score_raw": 4.3435,
+          "season_wins": [
+            {
+              "award": "ev0000163",
+              "category": "actor",
+              "weight": 0.3333
+            },
+            {
+              "award": "Golden Globes, USA",
+              "category": "actor",
+              "weight": 0.5152
+            },
+            {
+              "award": "ev0000598",
+              "category": "actor",
+              "weight": 0.5
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "actor",
+              "weight": 0.6087
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "ev0000133",
+              "category": "actor",
+              "weight": 0.2222
+            },
+            {
+              "award": "ev0001400",
+              "category": "actor",
+              "weight": 0.3333
+            },
+            {
+              "award": "ev0000580",
+              "category": "actor",
+              "weight": 0.3333
+            },
+            {
+              "award": "ev0000201",
+              "category": "actor",
+              "weight": 0.25
+            },
+            {
+              "award": "ev0000004",
+              "category": "actor",
+              "weight": 0.5
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "actor",
+              "weight": 0.0893
+            },
+            {
+              "award": "ev0000292",
+              "category": "actor",
+              "weight": 0.1111
+            },
+            {
+              "award": "Satellite Awards",
+              "category": "actor",
+              "weight": 0.1915
+            },
+            {
+              "award": "ev0000123",
+              "category": "actor",
+              "weight": 0.1111
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "actor",
+              "weight": 0.1961
+            },
+            {
+              "award": "Screen Actors Guild Awards",
+              "category": "actor",
+              "weight": 0.0484
+            }
+          ]
+        }
+      },
+      {
+        "name": "Leonardo DiCaprio",
+        "probability": 0.036,
+        "rationale": {
+          "score_raw": 1.4911,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "actor",
+              "weight": 0.0833
+            },
+            {
+              "award": "ev0001400",
+              "category": "actor",
+              "weight": 0.3333
+            },
+            {
+              "award": "ev0000580",
+              "category": "actor",
+              "weight": 0.3333
+            },
+            {
+              "award": "Screen Actors Guild Awards",
+              "category": "actor",
+              "weight": 0.0484
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "actor",
+              "weight": 0.0893
+            },
+            {
+              "award": "Golden Globes, USA",
+              "category": "actor",
+              "weight": 0.0741
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "actor",
+              "weight": 0.1961
+            },
+            {
+              "award": "ev0000163",
+              "category": "actor",
+              "weight": 0.3333
+            }
+          ]
+        }
+      },
+      {
+        "name": "Ethan Hawke",
+        "probability": 0.0761,
+        "rationale": {
+          "score_raw": 2.2411,
+          "season_wins": [
+            {
+              "award": "National Society of Film Critics Awards, USA",
+              "category": "actor",
+              "weight": 0.5
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "actor",
+              "weight": 0.0833
+            },
+            {
+              "award": "ev0001400",
+              "category": "actor",
+              "weight": 0.3333
+            },
+            {
+              "award": "ev0000201",
+              "category": "actor",
+              "weight": 0.25
+            },
+            {
+              "award": "ev0000620",
+              "category": "actor",
+              "weight": 0.3333
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "actor",
+              "weight": 0.0893
+            },
+            {
+              "award": "Screen Actors Guild Awards",
+              "category": "actor",
+              "weight": 0.0484
+            },
+            {
+              "award": "Golden Globes, USA",
+              "category": "actor",
+              "weight": 0.0741
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "actor",
+              "weight": 0.1961
+            },
+            {
+              "award": "ev0000163",
+              "category": "actor",
+              "weight": 0.3333
+            }
+          ]
+        }
+      },
+      {
+        "name": "Michael B. Jordan",
+        "probability": 0.221,
+        "rationale": {
+          "score_raw": 3.3067,
+          "season_wins": [
+            {
+              "award": "Screen Actors Guild Awards",
+              "category": "actor",
+              "weight": 0.8571
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "actor",
+              "weight": 0.5
+            },
+            {
+              "award": "ev0000580",
+              "category": "actor",
+              "weight": 0.3333
+            },
+            {
+              "award": "ev0001400",
+              "category": "actor",
+              "weight": 0.3333
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "actor",
+              "weight": 0.0833
+            },
+            {
+              "award": "National Society of Film Critics Awards, USA",
+              "category": "actor",
+              "weight": 0.2222
+            },
+            {
+              "award": "ev0000201",
+              "category": "actor",
+              "weight": 0.25
+            },
+            {
+              "award": "Golden Globes, USA",
+              "category": "actor",
+              "weight": 0.0741
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "actor",
+              "weight": 0.0893
+            },
+            {
+              "award": "ev0000163",
+              "category": "actor",
+              "weight": 0.3333
+            },
+            {
+              "award": "Academy of Science Fiction, Fantasy & Horror Films, USA",
+              "category": "actor",
+              "weight": 0.2308
+            }
+          ]
+        }
+      },
+      {
+        "name": "Wagner Moura",
+        "probability": 0.0436,
+        "rationale": {
+          "score_raw": 1.6834,
+          "season_wins": [
+            {
+              "award": "Golden Globes, USA",
+              "category": "actor",
+              "weight": 0.5152
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "actor",
+              "weight": 0.0833
+            },
+            {
+              "award": "National Society of Film Critics Awards, USA",
+              "category": "actor",
+              "weight": 0.2222
+            },
+            {
+              "award": "ev0000580",
+              "category": "actor",
+              "weight": 0.3333
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "actor",
+              "weight": 0.1961
+            },
+            {
+              "award": "ev0000163",
+              "category": "actor",
+              "weight": 0.3333
+            }
+          ]
+        }
+      }
+    ],
+    "Best Performance by an Actress in a Leading Role": [
+      {
+        "name": "Jessie Buckley",
+        "probability": 0.5586,
+        "rationale": {
+          "score_raw": 2.8771,
+          "season_wins": [
+            {
+              "award": "Screen Actors Guild Awards",
+              "category": "actress",
+              "weight": 0.6818
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "actress",
+              "weight": 0.4643
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "actress",
+              "weight": 0.75
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "actress",
+              "weight": 0.4667
+            },
+            {
+              "award": "Golden Globes, USA",
+              "category": "actress",
+              "weight": 0.5143
+            }
+          ],
+          "season_nominations": []
+        }
+      },
+      {
+        "name": "Rose Byrne",
+        "probability": 0.1866,
+        "rationale": {
+          "score_raw": 1.7806,
+          "season_wins": [
+            {
+              "award": "Golden Globes, USA",
+              "category": "actress",
+              "weight": 0.5143
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "Screen Actors Guild Awards",
+              "category": "actress",
+              "weight": 0.1034
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "actress",
+              "weight": 0.1167
+            },
+            {
+              "award": "National Society of Film Critics Awards, USA",
+              "category": "actress",
+              "weight": 0.4091
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "actress",
+              "weight": 0.234
+            },
+            {
+              "award": "ev0001400",
+              "category": "actress",
+              "weight": 0.3333
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "actress",
+              "weight": 0.0698
+            }
+          ]
+        }
+      },
+      {
+        "name": "Renate Reinsve",
+        "probability": 0.1098,
+        "rationale": {
+          "score_raw": 1.2506,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "actress",
+              "weight": 0.1167
+            },
+            {
+              "award": "National Society of Film Critics Awards, USA",
+              "category": "actress",
+              "weight": 0.4091
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "actress",
+              "weight": 0.234
+            },
+            {
+              "award": "Golden Globes, USA",
+              "category": "actress",
+              "weight": 0.0877
+            },
+            {
+              "award": "ev0001400",
+              "category": "actress",
+              "weight": 0.3333
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "actress",
+              "weight": 0.0698
+            }
+          ]
+        }
+      },
+      {
+        "name": "Emma Stone",
+        "probability": 0.1041,
+        "rationale": {
+          "score_raw": 1.1974,
+          "season_wins": [
+            {
+              "award": "Satellite Awards",
+              "category": "actress",
+              "weight": 0.3636
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "actress",
+              "weight": 0.1167
+            },
+            {
+              "award": "Screen Actors Guild Awards",
+              "category": "actress",
+              "weight": 0.1034
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "actress",
+              "weight": 0.234
+            },
+            {
+              "award": "Golden Globes, USA",
+              "category": "actress",
+              "weight": 0.0877
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "actress",
+              "weight": 0.0698
+            },
+            {
+              "award": "Academy of Science Fiction, Fantasy & Horror Films, USA",
+              "category": "actress",
+              "weight": 0.2222
+            }
+          ]
+        }
+      },
+      {
+        "name": "Kate Hudson",
+        "probability": 0.0408,
+        "rationale": {
+          "score_raw": 0.2609,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "BAFTA Awards",
+              "category": "actress",
+              "weight": 0.0698
+            },
+            {
+              "award": "Golden Globes, USA",
+              "category": "actress",
+              "weight": 0.0877
+            },
+            {
+              "award": "Screen Actors Guild Awards",
+              "category": "actress",
+              "weight": 0.1034
+            }
+          ]
+        }
+      }
+    ],
+    "Best Performance by an Actor in a Supporting Role": [
+      {
+        "name": "Benicio Del Toro",
+        "probability": 0.3997,
+        "rationale": {
+          "score_raw": 3.425,
+          "season_wins": [
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "supp_actor",
+              "weight": 0.6
+            },
+            {
+              "award": "National Society of Film Critics Awards, USA",
+              "category": "supp_actor",
+              "weight": 0.5
+            },
+            {
+              "award": "London Critics Circle Film Awards",
+              "category": "supp_actor",
+              "weight": 0.2941
+            },
+            {
+              "award": "Screen Actors Guild Awards",
+              "category": "supp_actor",
+              "weight": 0.7273
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "supp_actor",
+              "weight": 0.5652
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "London Critics Circle Film Awards",
+              "category": "supp_actor",
+              "weight": 0.1892
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "supp_actor",
+              "weight": 0.0909
+            },
+            {
+              "award": "Screen Actors Guild Awards",
+              "category": "supp_actor",
+              "weight": 0.1
+            },
+            {
+              "award": "Golden Globes, USA",
+              "category": "supp_actor",
+              "weight": 0.1154
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "supp_actor",
+              "weight": 0.1429
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "supp_actor",
+              "weight": 0.1
+            }
+          ]
+        }
+      },
+      {
+        "name": "Sean Penn",
+        "probability": 0.3997,
+        "rationale": {
+          "score_raw": 3.425,
+          "season_wins": [
+            {
+              "award": "London Critics Circle Film Awards",
+              "category": "supp_actor",
+              "weight": 0.2941
+            },
+            {
+              "award": "Screen Actors Guild Awards",
+              "category": "supp_actor",
+              "weight": 0.7273
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "supp_actor",
+              "weight": 0.5652
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "supp_actor",
+              "weight": 0.6
+            },
+            {
+              "award": "National Society of Film Critics Awards, USA",
+              "category": "supp_actor",
+              "weight": 0.5
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "supp_actor",
+              "weight": 0.0909
+            },
+            {
+              "award": "Golden Globes, USA",
+              "category": "supp_actor",
+              "weight": 0.1154
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "supp_actor",
+              "weight": 0.1
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "supp_actor",
+              "weight": 0.1429
+            },
+            {
+              "award": "Screen Actors Guild Awards",
+              "category": "supp_actor",
+              "weight": 0.1
+            },
+            {
+              "award": "London Critics Circle Film Awards",
+              "category": "supp_actor",
+              "weight": 0.1892
+            }
+          ]
+        }
+      },
+      {
+        "name": "Stellan Skarsg\u00e5rd",
+        "probability": 0.0773,
+        "rationale": {
+          "score_raw": 1.7821,
+          "season_wins": [
+            {
+              "award": "Golden Globes, USA",
+              "category": "supp_actor",
+              "weight": 0.625
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "National Society of Film Critics Awards, USA",
+              "category": "supp_actor",
+              "weight": 0.2778
+            },
+            {
+              "award": "Academy of Science Fiction, Fantasy & Horror Films, USA",
+              "category": "supp_actor",
+              "weight": 0.5455
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "supp_actor",
+              "weight": 0.0909
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "supp_actor",
+              "weight": 0.1
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "supp_actor",
+              "weight": 0.1429
+            }
+          ]
+        }
+      },
+      {
+        "name": "Jacob Elordi",
+        "probability": 0.0796,
+        "rationale": {
+          "score_raw": 1.812,
+          "season_wins": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "supp_actor",
+              "weight": 0.619
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "London Critics Circle Film Awards",
+              "category": "supp_actor",
+              "weight": 0.1892
+            },
+            {
+              "award": "Academy of Science Fiction, Fantasy & Horror Films, USA",
+              "category": "supp_actor",
+              "weight": 0.5455
+            },
+            {
+              "award": "Screen Actors Guild Awards",
+              "category": "supp_actor",
+              "weight": 0.1
+            },
+            {
+              "award": "Golden Globes, USA",
+              "category": "supp_actor",
+              "weight": 0.1154
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "supp_actor",
+              "weight": 0.1429
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "supp_actor",
+              "weight": 0.1
+            }
+          ]
+        }
+      },
+      {
+        "name": "Delroy Lindo",
+        "probability": 0.0437,
+        "rationale": {
+          "score_raw": 1.2125,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "National Society of Film Critics Awards, USA",
+              "category": "supp_actor",
+              "weight": 0.2778
+            },
+            {
+              "award": "London Critics Circle Film Awards",
+              "category": "supp_actor",
+              "weight": 0.1892
+            },
+            {
+              "award": "Academy of Science Fiction, Fantasy & Horror Films, USA",
+              "category": "supp_actor",
+              "weight": 0.5455
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "supp_actor",
+              "weight": 0.1
+            },
+            {
+              "award": "Screen Actors Guild Awards",
+              "category": "supp_actor",
+              "weight": 0.1
+            }
+          ]
+        }
+      }
+    ],
+    "Best Performance by an Actress in a Supporting Role": [
+      {
+        "name": "Elle Fanning",
+        "probability": 0.1179,
+        "rationale": {
+          "score_raw": 1.6697,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "supp_actress",
+              "weight": 0.1452
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "supp_actress",
+              "weight": 0.25
+            },
+            {
+              "award": "Golden Globes, USA",
+              "category": "supp_actress",
+              "weight": 0.1475
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "supp_actress",
+              "weight": 0.1224
+            },
+            {
+              "award": "London Critics Circle Film Awards",
+              "category": "supp_actress",
+              "weight": 0.2963
+            },
+            {
+              "award": "ev0001400",
+              "category": "supp_actress",
+              "weight": 0.3333
+            },
+            {
+              "award": "National Society of Film Critics Awards, USA",
+              "category": "supp_actress",
+              "weight": 0.375
+            }
+          ]
+        }
+      },
+      {
+        "name": "Inga Ibsdotter Lilleaas",
+        "probability": 0.1179,
+        "rationale": {
+          "score_raw": 1.6697,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "London Critics Circle Film Awards",
+              "category": "supp_actress",
+              "weight": 0.2963
+            },
+            {
+              "award": "National Society of Film Critics Awards, USA",
+              "category": "supp_actress",
+              "weight": 0.375
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "supp_actress",
+              "weight": 0.1452
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "supp_actress",
+              "weight": 0.25
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "supp_actress",
+              "weight": 0.1224
+            },
+            {
+              "award": "ev0001400",
+              "category": "supp_actress",
+              "weight": 0.3333
+            },
+            {
+              "award": "Golden Globes, USA",
+              "category": "supp_actress",
+              "weight": 0.1475
+            }
+          ]
+        }
+      },
+      {
+        "name": "Amy Madigan",
+        "probability": 0.3873,
+        "rationale": {
+          "score_raw": 2.8594,
+          "season_wins": [
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "supp_actress",
+              "weight": 0.3529
+            },
+            {
+              "award": "London Critics Circle Film Awards",
+              "category": "supp_actress",
+              "weight": 0.4118
+            },
+            {
+              "award": "Screen Actors Guild Awards",
+              "category": "supp_actress",
+              "weight": 0.7727
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "supp_actress",
+              "weight": 0.619
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "ev0001400",
+              "category": "supp_actress",
+              "weight": 0.3333
+            },
+            {
+              "award": "Golden Globes, USA",
+              "category": "supp_actress",
+              "weight": 0.1475
+            },
+            {
+              "award": "Academy of Science Fiction, Fantasy & Horror Films, USA",
+              "category": "supp_actress",
+              "weight": 0.2222
+            }
+          ]
+        }
+      },
+      {
+        "name": "Teyana Taylor",
+        "probability": 0.1477,
+        "rationale": {
+          "score_raw": 1.8951,
+          "season_wins": [
+            {
+              "award": "Golden Globes, USA",
+              "category": "supp_actress",
+              "weight": 0.619
+            },
+            {
+              "award": "National Society of Film Critics Awards, USA",
+              "category": "supp_actress",
+              "weight": 0.3684
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "London Critics Circle Film Awards",
+              "category": "supp_actress",
+              "weight": 0.2963
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "supp_actress",
+              "weight": 0.1452
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "supp_actress",
+              "weight": 0.25
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "supp_actress",
+              "weight": 0.1224
+            },
+            {
+              "award": "Screen Actors Guild Awards",
+              "category": "supp_actress",
+              "weight": 0.0938
+            }
+          ]
+        }
+      },
+      {
+        "name": "Wunmi Mosaku",
+        "probability": 0.2292,
+        "rationale": {
+          "score_raw": 2.3348,
+          "season_wins": [
+            {
+              "award": "BAFTA Awards",
+              "category": "supp_actress",
+              "weight": 0.619
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "supp_actress",
+              "weight": 0.1452
+            },
+            {
+              "award": "National Society of Film Critics Awards, USA",
+              "category": "supp_actress",
+              "weight": 0.375
+            },
+            {
+              "award": "London Critics Circle Film Awards",
+              "category": "supp_actress",
+              "weight": 0.2963
+            },
+            {
+              "award": "ev0001400",
+              "category": "supp_actress",
+              "weight": 0.3333
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "supp_actress",
+              "weight": 0.25
+            },
+            {
+              "award": "Screen Actors Guild Awards",
+              "category": "supp_actress",
+              "weight": 0.0938
+            },
+            {
+              "award": "Academy of Science Fiction, Fantasy & Horror Films, USA",
+              "category": "supp_actress",
+              "weight": 0.2222
+            }
+          ]
+        }
+      }
+    ],
+    "Best Achievement in Directing": [
+      {
+        "name": "Chlo\u00e9 Zhao",
+        "probability": 0.0446,
+        "rationale": {
+          "score_raw": 0.7599,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "director",
+              "weight": 0.1224
+            },
+            {
+              "award": "Golden Globes, USA",
+              "category": "director",
+              "weight": 0.1915
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "director",
+              "weight": 0.186
+            },
+            {
+              "award": "Directors Guild of America, USA",
+              "category": "director",
+              "weight": 0.0517
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "director",
+              "weight": 0.2083
+            }
+          ]
+        }
+      },
+      {
+        "name": "Paul Thomas Anderson",
+        "probability": 0.8388,
+        "rationale": {
+          "score_raw": 3.6941,
+          "season_wins": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "director",
+              "weight": 0.6842
+            },
+            {
+              "award": "Directors Guild of America, USA",
+              "category": "director",
+              "weight": 0.8182
+            },
+            {
+              "award": "National Society of Film Critics Awards, USA",
+              "category": "director",
+              "weight": 0.2667
+            },
+            {
+              "award": "Golden Globes, USA",
+              "category": "director",
+              "weight": 0.6
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "director",
+              "weight": 0.625
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "director",
+              "weight": 0.7
+            }
+          ],
+          "season_nominations": []
+        }
+      },
+      {
+        "name": "Ryan Coogler",
+        "probability": 0.0446,
+        "rationale": {
+          "score_raw": 0.7599,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "director",
+              "weight": 0.1224
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "director",
+              "weight": 0.186
+            },
+            {
+              "award": "Directors Guild of America, USA",
+              "category": "director",
+              "weight": 0.0517
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "director",
+              "weight": 0.2083
+            },
+            {
+              "award": "Golden Globes, USA",
+              "category": "director",
+              "weight": 0.1915
+            }
+          ]
+        }
+      },
+      {
+        "name": "Joachim Trier",
+        "probability": 0.0352,
+        "rationale": {
+          "score_raw": 0.5222,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "director",
+              "weight": 0.1224
+            },
+            {
+              "award": "Golden Globes, USA",
+              "category": "director",
+              "weight": 0.1915
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "director",
+              "weight": 0.2083
+            }
+          ]
+        }
+      },
+      {
+        "name": "Josh Safdie",
+        "probability": 0.0368,
+        "rationale": {
+          "score_raw": 0.5684,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "director",
+              "weight": 0.1224
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "director",
+              "weight": 0.186
+            },
+            {
+              "award": "Directors Guild of America, USA",
+              "category": "director",
+              "weight": 0.0517
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "director",
+              "weight": 0.2083
+            }
+          ]
+        }
+      }
+    ],
+    "Best Original Screenplay": [
+      {
+        "name": "Blue Moon",
+        "probability": 0.061,
+        "rationale": {
+          "score_raw": 0.0,
+          "season_wins": [],
+          "season_nominations": []
+        }
+      },
+      {
+        "name": "It Was Just an Accident",
+        "probability": 0.0766,
+        "rationale": {
+          "score_raw": 0.2273,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "original_screenplay",
+              "weight": 0.2273
+            }
+          ]
+        }
+      },
+      {
+        "name": "Marty Supreme",
+        "probability": 0.107,
+        "rationale": {
+          "score_raw": 0.5618,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "original_screenplay",
+              "weight": 0.1053
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "original_screenplay",
+              "weight": 0.2273
+            },
+            {
+              "award": "Writers Guild of America, USA",
+              "category": "original_screenplay",
+              "weight": 0.0625
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "original_screenplay",
+              "weight": 0.1667
+            }
+          ]
+        }
+      },
+      {
+        "name": "Sentimental Value",
+        "probability": 0.1005,
+        "rationale": {
+          "score_raw": 0.4993,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "original_screenplay",
+              "weight": 0.1053
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "original_screenplay",
+              "weight": 0.2273
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "original_screenplay",
+              "weight": 0.1667
+            }
+          ]
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.6549,
+        "rationale": {
+          "score_raw": 2.3735,
+          "season_wins": [
+            {
+              "award": "Writers Guild of America, USA",
+              "category": "original_screenplay",
+              "weight": 0.7143
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "original_screenplay",
+              "weight": 0.6667
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "original_screenplay",
+              "weight": 0.5714
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "original_screenplay",
+              "weight": 0.4211
+            }
+          ],
+          "season_nominations": []
+        }
+      }
+    ],
+    "Best Adapted Screenplay": [
+      {
+        "name": "Bugonia",
+        "probability": 0.0591,
+        "rationale": {
+          "score_raw": 0.9548,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "ev0001400",
+              "category": "adapted_screenplay",
+              "weight": 0.3333
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "adapted_screenplay",
+              "weight": 0.2051
+            },
+            {
+              "award": "Writers Guild of America, USA",
+              "category": "adapted_screenplay",
+              "weight": 0.0638
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "adapted_screenplay",
+              "weight": 0.2045
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "adapted_screenplay",
+              "weight": 0.1481
+            }
+          ]
+        }
+      },
+      {
+        "name": "Frankenstein",
+        "probability": 0.0415,
+        "rationale": {
+          "score_raw": 0.6022,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "ev0001400",
+              "category": "adapted_screenplay",
+              "weight": 0.3333
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "adapted_screenplay",
+              "weight": 0.2051
+            },
+            {
+              "award": "Writers Guild of America, USA",
+              "category": "adapted_screenplay",
+              "weight": 0.0638
+            }
+          ]
+        }
+      },
+      {
+        "name": "Hamnet",
+        "probability": 0.1151,
+        "rationale": {
+          "score_raw": 1.6214,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "ev0001400",
+              "category": "adapted_screenplay",
+              "weight": 0.3333
+            },
+            {
+              "award": "ev0000580",
+              "category": "adapted_screenplay",
+              "weight": 0.3333
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "adapted_screenplay",
+              "weight": 0.2051
+            },
+            {
+              "award": "Writers Guild of America, USA",
+              "category": "adapted_screenplay",
+              "weight": 0.0638
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "adapted_screenplay",
+              "weight": 0.2045
+            },
+            {
+              "award": "ev0000163",
+              "category": "adapted_screenplay",
+              "weight": 0.3333
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "adapted_screenplay",
+              "weight": 0.1481
+            }
+          ]
+        }
+      },
+      {
+        "name": "One Battle After Another",
+        "probability": 0.3527,
+        "rationale": {
+          "score_raw": 2.7413,
+          "season_wins": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "adapted_screenplay",
+              "weight": 0.3846
+            },
+            {
+              "award": "Writers Guild of America, USA",
+              "category": "adapted_screenplay",
+              "weight": 0.6957
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "adapted_screenplay",
+              "weight": 0.4444
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "adapted_screenplay",
+              "weight": 0.55
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "ev0000580",
+              "category": "adapted_screenplay",
+              "weight": 0.3333
+            },
+            {
+              "award": "ev0000298",
+              "category": "adapted_screenplay",
+              "weight": 0.3333
+            }
+          ]
+        }
+      },
+      {
+        "name": "Train Dreams",
+        "probability": 0.4316,
+        "rationale": {
+          "score_raw": 2.9434,
+          "season_wins": [
+            {
+              "award": "ev0000464",
+              "category": "adapted_screenplay",
+              "weight": 0.3333
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "ev0000580",
+              "category": "adapted_screenplay",
+              "weight": 0.3333
+            },
+            {
+              "award": "ev0001400",
+              "category": "adapted_screenplay",
+              "weight": 0.3333
+            },
+            {
+              "award": "ev0000298",
+              "category": "adapted_screenplay",
+              "weight": 0.3333
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "adapted_screenplay",
+              "weight": 0.2051
+            },
+            {
+              "award": "Writers Guild of America, USA",
+              "category": "adapted_screenplay",
+              "weight": 0.0638
+            },
+            {
+              "award": "ev0000620",
+              "category": "adapted_screenplay",
+              "weight": 0.3333
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "adapted_screenplay",
+              "weight": 0.2045
+            },
+            {
+              "award": "ev0000163",
+              "category": "adapted_screenplay",
+              "weight": 0.3333
+            },
+            {
+              "award": "ev0000133",
+              "category": "adapted_screenplay",
+              "weight": 0.1429
+            },
+            {
+              "award": "ev0000123",
+              "category": "adapted_screenplay",
+              "weight": 0.1111
+            },
+            {
+              "award": "Satellite Awards",
+              "category": "adapted_screenplay",
+              "weight": 0.2162
+            }
+          ]
+        }
+      }
+    ],
+    "Best Achievement in Cinematography": [
+      {
+        "name": "Frankenstein",
+        "probability": 0.0924,
+        "rationale": {
+          "score_raw": 0.623,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "cinematography",
+              "weight": 0.2889
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "cinematography",
+              "weight": 0.0588
+            },
+            {
+              "award": "American Society of Cinematographers, USA",
+              "category": "cinematography",
+              "weight": 0.1324
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "cinematography",
+              "weight": 0.1429
+            }
+          ]
+        }
+      },
+      {
+        "name": "Marty Supreme",
+        "probability": 0.0653,
+        "rationale": {
+          "score_raw": 0.2753,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "American Society of Cinematographers, USA",
+              "category": "cinematography",
+              "weight": 0.1324
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "cinematography",
+              "weight": 0.1429
+            }
+          ]
+        }
+      },
+      {
+        "name": "One Battle After Another",
+        "probability": 0.3479,
+        "rationale": {
+          "score_raw": 1.9485,
+          "season_wins": [
+            {
+              "award": "BAFTA Awards",
+              "category": "cinematography",
+              "weight": 0.6667
+            },
+            {
+              "award": "American Society of Cinematographers, USA",
+              "category": "cinematography",
+              "weight": 0.5217
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "cinematography",
+              "weight": 0.2889
+            },
+            {
+              "award": "National Society of Film Critics Awards, USA",
+              "category": "cinematography",
+              "weight": 0.28
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "cinematography",
+              "weight": 0.0588
+            },
+            {
+              "award": "American Society of Cinematographers, USA",
+              "category": "cinematography",
+              "weight": 0.1324
+            }
+          ]
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.1454,
+        "rationale": {
+          "score_raw": 1.0759,
+          "season_wins": [
+            {
+              "award": "National Society of Film Critics Awards, USA",
+              "category": "cinematography",
+              "weight": 0.3529
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "cinematography",
+              "weight": 0.3889
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "cinematography",
+              "weight": 0.0588
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "cinematography",
+              "weight": 0.1429
+            },
+            {
+              "award": "American Society of Cinematographers, USA",
+              "category": "cinematography",
+              "weight": 0.1324
+            }
+          ]
+        }
+      },
+      {
+        "name": "Train Dreams",
+        "probability": 0.3491,
+        "rationale": {
+          "score_raw": 1.9519,
+          "season_wins": [
+            {
+              "award": "Film Independent Spirit Awards",
+              "category": "cinematography",
+              "weight": 0.3077
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "cinematography",
+              "weight": 0.8
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "cinematography",
+              "weight": 0.2889
+            },
+            {
+              "award": "National Society of Film Critics Awards, USA",
+              "category": "cinematography",
+              "weight": 0.28
+            },
+            {
+              "award": "American Society of Cinematographers, USA",
+              "category": "cinematography",
+              "weight": 0.1324
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "cinematography",
+              "weight": 0.1429
+            }
+          ]
+        }
+      }
+    ],
+    "Best Achievement in Film Editing": [
+      {
+        "name": "F1: The Movie",
+        "probability": 0.2108,
+        "rationale": {
+          "score_raw": 1.1307,
+          "season_wins": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "editing",
+              "weight": 0.5385
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "BAFTA Awards",
+              "category": "editing",
+              "weight": 0.1915
+            },
+            {
+              "award": "American Cinema Editors, USA",
+              "category": "editing",
+              "weight": 0.1639
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "editing",
+              "weight": 0.2368
+            }
+          ]
+        }
+      },
+      {
+        "name": "Marty Supreme",
+        "probability": 0.1531,
+        "rationale": {
+          "score_raw": 0.811,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "editing",
+              "weight": 0.2188
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "editing",
+              "weight": 0.1915
+            },
+            {
+              "award": "American Cinema Editors, USA",
+              "category": "editing",
+              "weight": 0.1639
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "editing",
+              "weight": 0.2368
+            }
+          ]
+        }
+      },
+      {
+        "name": "One Battle After Another",
+        "probability": 0.3714,
+        "rationale": {
+          "score_raw": 1.697,
+          "season_wins": [
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "editing",
+              "weight": 0.4615
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "editing",
+              "weight": 0.6667
+            },
+            {
+              "award": "American Cinema Editors, USA",
+              "category": "editing",
+              "weight": 0.35
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "editing",
+              "weight": 0.2188
+            }
+          ]
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.1845,
+        "rationale": {
+          "score_raw": 0.9971,
+          "season_wins": [
+            {
+              "award": "American Cinema Editors, USA",
+              "category": "editing",
+              "weight": 0.35
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "editing",
+              "weight": 0.2188
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "editing",
+              "weight": 0.1915
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "editing",
+              "weight": 0.2368
+            }
+          ]
+        }
+      },
+      {
+        "name": "Sentimental Value",
+        "probability": 0.0802,
+        "rationale": {
+          "score_raw": 0.1639,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "American Cinema Editors, USA",
+              "category": "editing",
+              "weight": 0.1639
+            }
+          ]
+        }
+      }
+    ],
+    "Best Achievement in Production Design": [
+      {
+        "name": "Frankenstein",
+        "probability": 0.8115,
+        "rationale": {
+          "score_raw": 3.5856,
+          "season_wins": [
+            {
+              "award": "ev0000580",
+              "category": "production_design",
+              "weight": 0.3333
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "production_design",
+              "weight": 0.4762
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "production_design",
+              "weight": 0.6667
+            },
+            {
+              "award": "ev0000163",
+              "category": "production_design",
+              "weight": 0.3333
+            },
+            {
+              "award": "Art Directors Guild",
+              "category": "production_design",
+              "weight": 0.3721
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "ev0001400",
+              "category": "production_design",
+              "weight": 0.4
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "production_design",
+              "weight": 0.2667
+            },
+            {
+              "award": "Satellite Awards",
+              "category": "production_design",
+              "weight": 0.2812
+            },
+            {
+              "award": "ev0000133",
+              "category": "production_design",
+              "weight": 0.2222
+            },
+            {
+              "award": "ev0000123",
+              "category": "production_design",
+              "weight": 0.1111
+            },
+            {
+              "award": "Art Directors Guild",
+              "category": "production_design",
+              "weight": 0.1228
+            }
+          ]
+        }
+      },
+      {
+        "name": "Hamnet",
+        "probability": 0.0662,
+        "rationale": {
+          "score_raw": 1.0796,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "ev0001400",
+              "category": "production_design",
+              "weight": 0.4
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "production_design",
+              "weight": 0.1026
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "production_design",
+              "weight": 0.1875
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "production_design",
+              "weight": 0.2667
+            },
+            {
+              "award": "Art Directors Guild",
+              "category": "production_design",
+              "weight": 0.1228
+            }
+          ]
+        }
+      },
+      {
+        "name": "Marty Supreme",
+        "probability": 0.0444,
+        "rationale": {
+          "score_raw": 0.6796,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "production_design",
+              "weight": 0.1026
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "production_design",
+              "weight": 0.1875
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "production_design",
+              "weight": 0.2667
+            },
+            {
+              "award": "Art Directors Guild",
+              "category": "production_design",
+              "weight": 0.1228
+            }
+          ]
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.0385,
+        "rationale": {
+          "score_raw": 0.5379,
+          "season_wins": [
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "production_design",
+              "weight": 0.125
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "BAFTA Awards",
+              "category": "production_design",
+              "weight": 0.1875
+            },
+            {
+              "award": "Art Directors Guild",
+              "category": "production_design",
+              "weight": 0.1228
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "production_design",
+              "weight": 0.1026
+            }
+          ]
+        }
+      },
+      {
+        "name": "One Battle After Another",
+        "probability": 0.0394,
+        "rationale": {
+          "score_raw": 0.5596,
+          "season_wins": [
+            {
+              "award": "Art Directors Guild",
+              "category": "production_design",
+              "weight": 0.3721
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "BAFTA Awards",
+              "category": "production_design",
+              "weight": 0.1875
+            }
+          ]
+        }
+      }
+    ],
+    "Best Achievement in Costume Design": [
+      {
+        "name": "Frankenstein",
+        "probability": 0.4984,
+        "rationale": {
+          "score_raw": 2.509,
+          "season_wins": [
+            {
+              "award": "Costume Designers Guild Awards",
+              "category": "costume",
+              "weight": 0.3438
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "costume",
+              "weight": 0.8462
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "costume",
+              "weight": 0.7
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "costume",
+              "weight": 0.2857
+            },
+            {
+              "award": "ev0000580",
+              "category": "costume",
+              "weight": 0.3333
+            }
+          ]
+        }
+      },
+      {
+        "name": "Hamnet",
+        "probability": 0.107,
+        "rationale": {
+          "score_raw": 0.9707,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "BAFTA Awards",
+              "category": "costume",
+              "weight": 0.0962
+            },
+            {
+              "award": "Costume Designers Guild Awards",
+              "category": "costume",
+              "weight": 0.1698
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "costume",
+              "weight": 0.2857
+            },
+            {
+              "award": "ev0000580",
+              "category": "costume",
+              "weight": 0.3333
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "costume",
+              "weight": 0.0857
+            }
+          ]
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.2871,
+        "rationale": {
+          "score_raw": 1.9574,
+          "season_wins": [
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "costume",
+              "weight": 0.4286
+            },
+            {
+              "award": "Costume Designers Guild Awards",
+              "category": "costume",
+              "weight": 0.3438
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "BAFTA Awards",
+              "category": "costume",
+              "weight": 0.0962
+            },
+            {
+              "award": "Costume Designers Guild Awards",
+              "category": "costume",
+              "weight": 0.1698
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "costume",
+              "weight": 0.0857
+            },
+            {
+              "award": "ev0000163",
+              "category": "costume",
+              "weight": 0.5
+            },
+            {
+              "award": "ev0000580",
+              "category": "costume",
+              "weight": 0.3333
+            }
+          ]
+        }
+      },
+      {
+        "name": "Marty Supreme",
+        "probability": 0.0594,
+        "rationale": {
+          "score_raw": 0.3819,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "BAFTA Awards",
+              "category": "costume",
+              "weight": 0.0962
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "costume",
+              "weight": 0.2857
+            }
+          ]
+        }
+      },
+      {
+        "name": "Avatar: Fire and Ash",
+        "probability": 0.048,
+        "rationale": {
+          "score_raw": 0.1698,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Costume Designers Guild Awards",
+              "category": "costume",
+              "weight": 0.1698
+            }
+          ]
+        }
+      }
+    ],
+    "Best Sound": [
+      {
+        "name": "F1: The Movie",
+        "probability": 0.7622,
+        "rationale": {
+          "score_raw": 3.7406,
+          "season_wins": [
+            {
+              "award": "BAFTA Awards",
+              "category": "sound",
+              "weight": 0.6765
+            },
+            {
+              "award": "Cinema Audio Society, USA",
+              "category": "sound",
+              "weight": 0.4091
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "sound",
+              "weight": 0.5556
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "sound",
+              "weight": 0.6667
+            },
+            {
+              "award": "ev0000123",
+              "category": "sound",
+              "weight": 0.75
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "ev0000580",
+              "category": "sound",
+              "weight": 0.5
+            },
+            {
+              "award": "Cinema Audio Society, USA",
+              "category": "sound",
+              "weight": 0.1827
+            }
+          ]
+        }
+      },
+      {
+        "name": "Frankenstein",
+        "probability": 0.0596,
+        "rationale": {
+          "score_raw": 1.1927,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "sound",
+              "weight": 0.3571
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "sound",
+              "weight": 0.1529
+            },
+            {
+              "award": "ev0000580",
+              "category": "sound",
+              "weight": 0.5
+            },
+            {
+              "award": "Cinema Audio Society, USA",
+              "category": "sound",
+              "weight": 0.1827
+            }
+          ]
+        }
+      },
+      {
+        "name": "One Battle After Another",
+        "probability": 0.0362,
+        "rationale": {
+          "score_raw": 0.6927,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Cinema Audio Society, USA",
+              "category": "sound",
+              "weight": 0.1827
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "sound",
+              "weight": 0.3571
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "sound",
+              "weight": 0.1529
+            }
+          ]
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.1162,
+        "rationale": {
+          "score_raw": 1.8594,
+          "season_wins": [
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "sound",
+              "weight": 0.6667
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "ev0000580",
+              "category": "sound",
+              "weight": 0.5
+            },
+            {
+              "award": "Cinema Audio Society, USA",
+              "category": "sound",
+              "weight": 0.1827
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "sound",
+              "weight": 0.3571
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "sound",
+              "weight": 0.1529
+            }
+          ]
+        }
+      },
+      {
+        "name": "Sirat",
+        "probability": 0.0259,
+        "rationale": {
+          "score_raw": 0.3571,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "sound",
+              "weight": 0.3571
+            }
+          ]
+        }
+      }
+    ],
+    "Best Achievement in Makeup and Hairstyling": [
+      {
+        "name": "Frankenstein",
+        "probability": 0.5948,
+        "rationale": {
+          "score_raw": 1.9314,
+          "season_wins": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "makeup",
+              "weight": 0.6667
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "makeup",
+              "weight": 0.7647
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "makeup",
+              "weight": 0.5
+            }
+          ],
+          "season_nominations": []
+        }
+      },
+      {
+        "name": "Kokuho",
+        "probability": 0.0862,
+        "rationale": {
+          "score_raw": 0.0,
+          "season_wins": [],
+          "season_nominations": []
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.1236,
+        "rationale": {
+          "score_raw": 0.3603,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "BAFTA Awards",
+              "category": "makeup",
+              "weight": 0.125
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "makeup",
+              "weight": 0.2353
+            }
+          ]
+        }
+      },
+      {
+        "name": "The Smashing Machine",
+        "probability": 0.1091,
+        "rationale": {
+          "score_raw": 0.2353,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "makeup",
+              "weight": 0.2353
+            }
+          ]
+        }
+      },
+      {
+        "name": "The Ugly Stepsister",
+        "probability": 0.0862,
+        "rationale": {
+          "score_raw": 0.0,
+          "season_wins": [],
+          "season_nominations": []
+        }
+      }
+    ],
+    "Best Achievement in Music Written for Motion Pictures (Original Score)": [
+      {
+        "name": "Bugonia",
+        "probability": 0.0238,
+        "rationale": {
+          "score_raw": 0.1667,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "BAFTA Awards",
+              "category": "score",
+              "weight": 0.1667
+            }
+          ]
+        }
+      },
+      {
+        "name": "Frankenstein",
+        "probability": 0.043,
+        "rationale": {
+          "score_raw": 0.7602,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Golden Globes, USA",
+              "category": "score",
+              "weight": 0.1818
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "score",
+              "weight": 0.1176
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "score",
+              "weight": 0.1667
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "score",
+              "weight": 0.2941
+            }
+          ]
+        }
+      },
+      {
+        "name": "Hamnet",
+        "probability": 0.0321,
+        "rationale": {
+          "score_raw": 0.4661,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "score",
+              "weight": 0.1176
+            },
+            {
+              "award": "Golden Globes, USA",
+              "category": "score",
+              "weight": 0.1818
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "score",
+              "weight": 0.1667
+            }
+          ]
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.8581,
+        "rationale": {
+          "score_raw": 3.7526,
+          "season_wins": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "score",
+              "weight": 0.7692
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "score",
+              "weight": 0.4545
+            },
+            {
+              "award": "Golden Globes, USA",
+              "category": "score",
+              "weight": 0.65
+            },
+            {
+              "award": "Grammy Awards",
+              "category": "score",
+              "weight": 0.5455
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "score",
+              "weight": 0.6667
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "ev0000163",
+              "category": "score",
+              "weight": 0.6667
+            }
+          ]
+        }
+      },
+      {
+        "name": "One Battle After Another",
+        "probability": 0.043,
+        "rationale": {
+          "score_raw": 0.7602,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Golden Globes, USA",
+              "category": "score",
+              "weight": 0.1818
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "score",
+              "weight": 0.2941
+            },
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "score",
+              "weight": 0.1176
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "score",
+              "weight": 0.1667
+            }
+          ]
+        }
+      }
+    ],
+    "Best Achievement in Music Written for Motion Pictures (Original Song)": [
+      {
+        "name": "Diane Warren: Relentless",
+        "probability": 0.1019,
+        "rationale": {
+          "score_raw": 0.1852,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Satellite Awards",
+              "category": "song",
+              "weight": 0.1852
+            }
+          ]
+        }
+      },
+      {
+        "name": "KPop Demon Hunters",
+        "probability": 0.5619,
+        "rationale": {
+          "score_raw": 1.8929,
+          "season_wins": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "song",
+              "weight": 0.75
+            },
+            {
+              "award": "Golden Globes, USA",
+              "category": "song",
+              "weight": 0.7143
+            },
+            {
+              "award": "Grammy Awards",
+              "category": "song",
+              "weight": 0.4286
+            }
+          ],
+          "season_nominations": []
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.1414,
+        "rationale": {
+          "score_raw": 0.5135,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "song",
+              "weight": 0.1667
+            },
+            {
+              "award": "Golden Globes, USA",
+              "category": "song",
+              "weight": 0.0968
+            },
+            {
+              "award": "Grammy Awards",
+              "category": "song",
+              "weight": 0.25
+            }
+          ]
+        }
+      },
+      {
+        "name": "Viva Verdi!",
+        "probability": 0.0846,
+        "rationale": {
+          "score_raw": 0.0,
+          "season_wins": [],
+          "season_nominations": []
+        }
+      },
+      {
+        "name": "Train Dreams",
+        "probability": 0.1102,
+        "rationale": {
+          "score_raw": 0.2635,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "song",
+              "weight": 0.1667
+            },
+            {
+              "award": "Golden Globes, USA",
+              "category": "song",
+              "weight": 0.0968
+            }
+          ]
+        }
+      }
+    ],
+    "Best Achievement in Visual Effects": [
+      {
+        "name": "Avatar: Fire and Ash",
+        "probability": 0.3446,
+        "rationale": {
+          "score_raw": 1.4822,
+          "season_wins": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "visual_effects",
+              "weight": 0.5385
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "visual_effects",
+              "weight": 0.7619
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "visual_effects",
+              "weight": 0.1818
+            }
+          ]
+        }
+      },
+      {
+        "name": "F1: The Movie",
+        "probability": 0.1362,
+        "rationale": {
+          "score_raw": 0.5542,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "visual_effects",
+              "weight": 0.25
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "visual_effects",
+              "weight": 0.1818
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "visual_effects",
+              "weight": 0.1224
+            }
+          ]
+        }
+      },
+      {
+        "name": "Jurassic World: Rebirth",
+        "probability": 0.1994,
+        "rationale": {
+          "score_raw": 0.9353,
+          "season_wins": [
+            {
+              "award": "Satellite Awards",
+              "category": "visual_effects",
+              "weight": 0.5385
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "Visual Effects Society Awards",
+              "category": "visual_effects",
+              "weight": 0.1607
+            },
+            {
+              "award": "ev0000133",
+              "category": "visual_effects",
+              "weight": 0.125
+            },
+            {
+              "award": "ev0000123",
+              "category": "visual_effects",
+              "weight": 0.1111
+            }
+          ]
+        }
+      },
+      {
+        "name": "The Lost Bus",
+        "probability": 0.0885,
+        "rationale": {
+          "score_raw": 0.1224,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "BAFTA Awards",
+              "category": "visual_effects",
+              "weight": 0.1224
+            }
+          ]
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.2313,
+        "rationale": {
+          "score_raw": 1.0833,
+          "season_wins": [
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "visual_effects",
+              "weight": 0.8333
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "visual_effects",
+              "weight": 0.25
+            }
+          ]
+        }
+      }
+    ],
+    "Best Documentary Feature": [
+      {
+        "name": "The Alabama Solution",
+        "probability": 0.0487,
+        "rationale": {
+          "score_raw": 0.3974,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "PGA Awards",
+              "category": "documentary",
+              "weight": 0.1905
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "documentary",
+              "weight": 0.2069
+            }
+          ]
+        }
+      },
+      {
+        "name": "Come See Me in the Good Light",
+        "probability": 0.0339,
+        "rationale": {
+          "score_raw": 0.0357,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Film Independent Spirit Awards",
+              "category": "documentary",
+              "weight": 0.0357
+            }
+          ]
+        }
+      },
+      {
+        "name": "Cutting Through Rocks",
+        "probability": 0.0328,
+        "rationale": {
+          "score_raw": 0.0,
+          "season_wins": [],
+          "season_nominations": []
+        }
+      },
+      {
+        "name": "Mr. Nobody Against Putin",
+        "probability": 0.0733,
+        "rationale": {
+          "score_raw": 0.8059,
+          "season_wins": [
+            {
+              "award": "BAFTA Awards",
+              "category": "documentary",
+              "weight": 0.6154
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "PGA Awards",
+              "category": "documentary",
+              "weight": 0.1905
+            }
+          ]
+        }
+      },
+      {
+        "name": "The Perfect Neighbor",
+        "probability": 0.8112,
+        "rationale": {
+          "score_raw": 3.2096,
+          "season_wins": [
+            {
+              "award": "Film Independent Spirit Awards",
+              "category": "documentary",
+              "weight": 0.4667
+            },
+            {
+              "award": "London Critics Circle Film Awards",
+              "category": "documentary",
+              "weight": 0.5
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "documentary",
+              "weight": 0.6
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "BAFTA Awards",
+              "category": "documentary",
+              "weight": 0.2857
+            },
+            {
+              "award": "PGA Awards",
+              "category": "documentary",
+              "weight": 0.1905
+            },
+            {
+              "award": "ev0000493",
+              "category": "documentary",
+              "weight": 0.6667
+            },
+            {
+              "award": "ev0000123",
+              "category": "documentary",
+              "weight": 0.5
+            }
+          ]
+        }
+      }
+    ],
+    "Best Animated Feature Film": [
+      {
+        "name": "Arco",
+        "probability": 0.0629,
+        "rationale": {
+          "score_raw": 0.2224,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "animated",
+              "weight": 0.1
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "animated",
+              "weight": 0.1224
+            }
+          ]
+        }
+      },
+      {
+        "name": "KPop Demon Hunters",
+        "probability": 0.5518,
+        "rationale": {
+          "score_raw": 2.3936,
+          "season_wins": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "animated",
+              "weight": 0.8235
+            },
+            {
+              "award": "PGA Awards",
+              "category": "animated",
+              "weight": 0.8333
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "animated",
+              "weight": 0.7368
+            }
+          ],
+          "season_nominations": []
+        }
+      },
+      {
+        "name": "Little Am\u00e9lie or the Character of Rain",
+        "probability": 0.0777,
+        "rationale": {
+          "score_raw": 0.4329,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "animated",
+              "weight": 0.1
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "animated",
+              "weight": 0.2105
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "animated",
+              "weight": 0.1224
+            }
+          ]
+        }
+      },
+      {
+        "name": "Zootopia 2",
+        "probability": 0.2198,
+        "rationale": {
+          "score_raw": 1.473,
+          "season_wins": [
+            {
+              "award": "BAFTA Awards",
+              "category": "animated",
+              "weight": 0.7
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "animated",
+              "weight": 0.1
+            },
+            {
+              "award": "PGA Awards",
+              "category": "animated",
+              "weight": 0.122
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "animated",
+              "weight": 0.1224
+            },
+            {
+              "award": "ev0000531",
+              "category": "animated",
+              "weight": 0.4286
+            }
+          ]
+        }
+      },
+      {
+        "name": "Elio",
+        "probability": 0.0878,
+        "rationale": {
+          "score_raw": 0.5549,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "animated",
+              "weight": 0.1
+            },
+            {
+              "award": "BAFTA Awards",
+              "category": "animated",
+              "weight": 0.2105
+            },
+            {
+              "award": "PGA Awards",
+              "category": "animated",
+              "weight": 0.122
+            },
+            {
+              "award": "Online Film Critics Society Awards",
+              "category": "animated",
+              "weight": 0.1224
+            }
+          ]
+        }
+      }
+    ],
+    "Best Animated Short Film": [
+      {
+        "name": "Papillon",
+        "probability": 0.2,
+        "rationale": {
+          "score_raw": 0.0,
+          "season_wins": [],
+          "season_nominations": []
+        }
+      },
+      {
+        "name": "Forevergreen",
+        "probability": 0.2,
+        "rationale": {
+          "score_raw": 0.0,
+          "season_wins": [],
+          "season_nominations": []
+        }
+      },
+      {
+        "name": "The Girl Who Cried Pearls",
+        "probability": 0.2,
+        "rationale": {
+          "score_raw": 0.0,
+          "season_wins": [],
+          "season_nominations": []
+        }
+      },
+      {
+        "name": "Retirement Plan",
+        "probability": 0.2,
+        "rationale": {
+          "score_raw": 0.0,
+          "season_wins": [],
+          "season_nominations": []
+        }
+      },
+      {
+        "name": "The Three Sisters",
+        "probability": 0.2,
+        "rationale": {
+          "score_raw": 0.0,
+          "season_wins": [],
+          "season_nominations": []
+        }
+      }
+    ],
+    "Best Live Action Short Film": [
+      {
+        "name": "Butcher's Stain",
+        "probability": 0.2,
+        "rationale": {
+          "score_raw": 0.0,
+          "season_wins": [],
+          "season_nominations": []
+        }
+      },
+      {
+        "name": "A Friend of Dorothy",
+        "probability": 0.2,
+        "rationale": {
+          "score_raw": 0.0,
+          "season_wins": [],
+          "season_nominations": []
+        }
+      },
+      {
+        "name": "Jane Austen's Period Drama",
+        "probability": 0.2,
+        "rationale": {
+          "score_raw": 0.0,
+          "season_wins": [],
+          "season_nominations": []
+        }
+      },
+      {
+        "name": "The Singers",
+        "probability": 0.2,
+        "rationale": {
+          "score_raw": 0.0,
+          "season_wins": [],
+          "season_nominations": []
+        }
+      },
+      {
+        "name": "Two People Exchanging Saliva",
+        "probability": 0.2,
+        "rationale": {
+          "score_raw": 0.0,
+          "season_wins": [],
+          "season_nominations": []
+        }
+      }
+    ],
+    "Best Documentary Short Film": [
+      {
+        "name": "All the Empty Rooms",
+        "probability": 0.2,
+        "rationale": {
+          "score_raw": 0.0,
+          "season_wins": [],
+          "season_nominations": []
+        }
+      },
+      {
+        "name": "Armed Only with a Camera: The Life and Death of Brent Renaud",
+        "probability": 0.2,
+        "rationale": {
+          "score_raw": 0.0,
+          "season_wins": [],
+          "season_nominations": []
+        }
+      },
+      {
+        "name": "Children No More: Were and Are Gone",
+        "probability": 0.2,
+        "rationale": {
+          "score_raw": 0.0,
+          "season_wins": [],
+          "season_nominations": []
+        }
+      },
+      {
+        "name": "The Devil Is Busy",
+        "probability": 0.2,
+        "rationale": {
+          "score_raw": 0.0,
+          "season_wins": [],
+          "season_nominations": []
+        }
+      },
+      {
+        "name": "Perfectly a Strangeness",
+        "probability": 0.2,
+        "rationale": {
+          "score_raw": 0.0,
+          "season_wins": [],
+          "season_nominations": []
+        }
+      }
+    ],
+    "Best International Feature Film": [
+      {
+        "name": "The Secret Agent",
+        "probability": 0.5399,
+        "rationale": {
+          "score_raw": 2.1224,
+          "season_wins": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "international",
+              "weight": 0.75
+            },
+            {
+              "award": "Film Independent Spirit Awards",
+              "category": "international",
+              "weight": 0.75
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "Palm Springs International Film Festival",
+              "category": "international",
+              "weight": 0.2414
+            },
+            {
+              "award": "London Critics Circle Film Awards",
+              "category": "international",
+              "weight": 0.381
+            }
+          ]
+        }
+      },
+      {
+        "name": "It Was Just an Accident",
+        "probability": 0.1192,
+        "rationale": {
+          "score_raw": 0.6118,
+          "season_wins": [],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "international",
+              "weight": 0.2308
+            },
+            {
+              "award": "London Critics Circle Film Awards",
+              "category": "international",
+              "weight": 0.381
+            }
+          ]
+        }
+      },
+      {
+        "name": "Sentimental Value",
+        "probability": 0.1143,
+        "rationale": {
+          "score_raw": 0.5694,
+          "season_wins": [
+            {
+              "award": "London Critics Circle Film Awards",
+              "category": "international",
+              "weight": 0.4444
+            },
+            {
+              "award": "Palm Springs International Film Festival",
+              "category": "international",
+              "weight": 0.125
+            }
+          ],
+          "season_nominations": []
+        }
+      },
+      {
+        "name": "Sirat",
+        "probability": 0.162,
+        "rationale": {
+          "score_raw": 0.9186,
+          "season_wins": [
+            {
+              "award": "Palm Springs International Film Festival",
+              "category": "international",
+              "weight": 0.125
+            }
+          ],
+          "season_nominations": [
+            {
+              "award": "Broadcast Film Critics Association Awards",
+              "category": "international",
+              "weight": 0.2308
+            },
+            {
+              "award": "London Critics Circle Film Awards",
+              "category": "international",
+              "weight": 0.381
+            },
+            {
+              "award": "Film Independent Spirit Awards",
+              "category": "international",
+              "weight": 0.1818
+            }
+          ]
+        }
+      },
+      {
+        "name": "The Voice of Hind Rajab",
+        "probability": 0.0647,
+        "rationale": {
+          "score_raw": 0.0,
+          "season_wins": [],
+          "season_nominations": []
+        }
+      }
+    ],
+    "Best Casting": [
+      {
+        "name": "Hamnet",
+        "probability": 0.2,
+        "rationale": {
+          "score_raw": 0.0,
+          "season_wins": [],
+          "season_nominations": []
+        }
+      },
+      {
+        "name": "Marty Supreme",
+        "probability": 0.2,
+        "rationale": {
+          "score_raw": 0.0,
+          "season_wins": [],
+          "season_nominations": []
+        }
+      },
+      {
+        "name": "One Battle After Another",
+        "probability": 0.2,
+        "rationale": {
+          "score_raw": 0.0,
+          "season_wins": [],
+          "season_nominations": []
+        }
+      },
+      {
+        "name": "The Secret Agent",
+        "probability": 0.2,
+        "rationale": {
+          "score_raw": 0.0,
+          "season_wins": [],
+          "season_nominations": []
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.2,
+        "rationale": {
+          "score_raw": 0.0,
+          "season_wins": [],
+          "season_nominations": []
+        }
+      }
+    ]
+  }
+}

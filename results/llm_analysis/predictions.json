@@ -1,0 +1,532 @@
+{
+  "method": "llm_analysis",
+  "year": 2026,
+  "note": "Independent LLM analysis via web research (March 14, 2026, one day before ceremony). No stats/ML/GD model outputs were used as primary sources. Guild awards, BAFTA, trades, and anonymous voter coverage were researched independently.",
+  "categories": {
+    "Best Motion Picture of the Year": [
+      {
+        "name": "One Battle After Another",
+        "probability": 0.55,
+        "rationale": {
+          "reasoning": "Swept every traditional institutional season award: DGA, PGA, BAFTA Best Film, Golden Globe (Comedy/Musical), Critics Choice, WGA Adapted, and ACE Eddie (Comedy). This combination has never lost Best Picture in the preferential ballot era. Under ranked-choice voting, One Battle is the consensus second-choice film for Sinners voters, giving it a high floor.",
+          "key_signals": ["Won DGA Award (strongest single predictor)", "Won PGA Darryl F. Zanuck Award", "Won BAFTA Best Film", "Won Golden Globe Best Picture (Comedy/Musical)", "Won Critics Choice Best Film", "Won WGA Adapted Screenplay", "Won ACE Eddie (Comedy/Musical)"],
+          "uncertainty": "Sinners is the most credible threat in years — won SAG Ensemble (best direct BP predictor), ACE Drama, WGA Original. Variety and multiple anonymous ballots favor Sinners. Genuine 50/50 between two films."
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.40,
+        "rationale": {
+          "reasoning": "Won SAG Ensemble (the most direct Best Picture predictor from SAG), ACE Drama, WGA Original Screenplay, and holds a record 16 Oscar nominations. The SAG Ensemble win is historically the best single-signal predictor within SAG categories. No film that won SAG Ensemble + WGA Original + ACE Drama has ever lost Best Picture.",
+          "key_signals": ["Won SAG Ensemble Cast (most direct BP predictor)", "Won ACE Eddie (Drama)", "Won WGA Original Screenplay", "Record 16 Oscar nominations"],
+          "uncertainty": "Has not won the DGA or PGA — both of which have near-perfect BP alignment. Under ranked-choice, OBAA's broader appeal may prevail."
+        }
+      },
+      {"name": "Hamnet", "probability": 0.02, "rationale": {"reasoning": "Won Golden Globe Best Drama, strong in acting and craft, but guild sweep went to OBAA/Sinners. BP path requires massive ranked-choice redistribution.", "key_signals": ["Won Golden Globe Best Drama Picture"], "uncertainty": ""}},
+      {"name": "Train Dreams", "probability": 0.01, "rationale": {"reasoning": "Won Spirit Award Best Feature; beloved independent film but no major BP institutional support.", "key_signals": ["Won Spirit Award Best Feature"], "uncertainty": ""}},
+      {"name": "Sentimental Value", "probability": 0.01, "rationale": {"reasoning": "9 Oscar nominations across multiple categories; beloved by international voters but lacks BP guild support.", "key_signals": ["9 Oscar nominations total"], "uncertainty": ""}},
+      {"name": "F1: The Movie", "probability": 0.005, "rationale": {"reasoning": "Strong craft nominee (Sound, VFX, Editing) but not a Best Picture contender.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Frankenstein", "probability": 0.005, "rationale": {"reasoning": "Dominated craft categories; not a BP contender.", "key_signals": [], "uncertainty": ""}},
+      {"name": "The Secret Agent", "probability": 0.005, "rationale": {"reasoning": "Brazilian film with acting and international nominations; not competing for BP outright.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Marty Supreme", "probability": 0.003, "rationale": {"reasoning": "Buzzy Safdie film; strong in acting/screenplay but no institutional BP support.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Bugonia", "probability": 0.002, "rationale": {"reasoning": "Minimal presence in BP conversations.", "key_signals": [], "uncertainty": ""}}
+    ],
+    "Best Performance by an Actor in a Leading Role": [
+      {
+        "name": "Michael B. Jordan",
+        "probability": 0.65,
+        "rationale": {
+          "reasoning": "Won SAG/Actor Award Best Lead Actor — the decisive guild peer vote. Surged 48 points in prediction markets immediately after the Actor Awards. The combination of SAG Lead Actor + SAG Ensemble for the same film is an extraordinarily powerful signal.",
+          "key_signals": ["Won SAG/Actor Award Best Lead Actor", "Sinners won SAG Ensemble (same film)", "Decisive late-breaking momentum in final week"],
+          "uncertainty": "Timothée Chalamet (Critics Choice, Golden Globe Comedy) was the frontrunner for months and still has significant support. Leonardo DiCaprio (The Secret Agent) is most-cited dark horse. This is the most volatile acting category."
+        }
+      },
+      {
+        "name": "Timoth\u00e9e Chalamet",
+        "probability": 0.25,
+        "rationale": {
+          "reasoning": "Won Critics Choice and Golden Globe (Comedy/Musical) — was the frontrunner for months. Lost SAG to Jordan, dropping sharply in predictions. Still has meaningful support from early-voting Academy members.",
+          "key_signals": ["Won Critics Choice Best Actor", "Won Golden Globe Best Actor (Comedy/Musical)", "Long-time frontrunner before SAG"],
+          "uncertainty": "SAG loss to Jordan is a significant signal shift. Still has ~25% real chance."
+        }
+      },
+      {
+        "name": "Leonardo DiCaprio",
+        "probability": 0.06,
+        "rationale": {
+          "reasoning": "No season award wins but consistent 'dark horse' citation by Academy voter outreach in trade publications. Deep institutional goodwill after decades without a win (pre-The Revenant). Anonymous voters frequently cite him as their actual ballot choice.",
+          "key_signals": ["Most-cited dark horse by voter outreach", "Deep institutional Academy goodwill"],
+          "uncertainty": "Zero season award wins make an upset statistically unlikely."
+        }
+      },
+      {"name": "Ethan Hawke", "probability": 0.02, "rationale": {"reasoning": "Linklater film; cinephile favorite with 'should win' sentiment but no season award support.", "key_signals": ["Strong cinephile/critics support for Blue Moon"], "uncertainty": ""}},
+      {"name": "Wagner Moura", "probability": 0.02, "rationale": {"reasoning": "Won Golden Globe Drama Best Actor; Brazilian contingent and international voter support.", "key_signals": ["Won Golden Globe Best Actor (Drama)"], "uncertainty": ""}}
+    ],
+    "Best Performance by an Actress in a Leading Role": [
+      {
+        "name": "Jessie Buckley",
+        "probability": 0.96,
+        "rationale": {
+          "reasoning": "Swept all four major season awards: Critics Choice, Golden Globe (Drama), BAFTA, and SAG/Actor Award. Near-universal critical consensus as the season's defining female performance in Chloé Zhao's Hamnet. No statistical precedent for losing with this combination.",
+          "key_signals": ["Won SAG/Actor Award Best Lead Actress", "Won BAFTA Best Actress", "Won Golden Globe Drama Best Actress", "Won Critics Choice Best Actress"],
+          "uncertainty": "Renate Reinsve (Sentimental Value) is the consensus second-choice. Buckley is among the safest predictions of the night."
+        }
+      },
+      {"name": "Renate Reinsve", "probability": 0.02, "rationale": {"reasoning": "Consistent second-choice mention; Norwegian drama beloved by Academy members in Sentimental Value.", "key_signals": ["Strong second-place consensus"], "uncertainty": ""}},
+      {"name": "Rose Byrne", "probability": 0.01, "rationale": {"reasoning": "Won Spirit Award Best Lead Performance; Golden Globe Comedy area; no major guild wins.", "key_signals": ["Won Spirit Award Best Lead Performance"], "uncertainty": ""}},
+      {"name": "Emma Stone", "probability": 0.005, "rationale": {"reasoning": "Two-time Oscar winner; Bugonia film; minimal season award traction this cycle.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Kate Hudson", "probability": 0.005, "rationale": {"reasoning": "Career-comeback narrative; no major season award wins.", "key_signals": [], "uncertainty": ""}}
+    ],
+    "Best Performance by an Actor in a Supporting Role": [
+      {
+        "name": "Sean Penn",
+        "probability": 0.50,
+        "rationale": {
+          "reasoning": "Won both SAG/Actor Award Supporting Actor and BAFTA Supporting Actor — the two most predictive guild signals for this category. Two-time prior Oscar winner with deep institutional credibility. Strong alignment with Best Picture frontrunner (One Battle After Another).",
+          "key_signals": ["Won SAG/Actor Award Best Supporting Actor", "Won BAFTA Best Supporting Actor", "Two-time prior Oscar winner"],
+          "uncertainty": "Most unpredictable supporting category. Delroy Lindo (zero season awards, massive passion vote), Stellan Skarsgård (Golden Globe, SAG snub), Jacob Elordi (Critics Choice), and Benicio Del Toro (most critics' wins) all viable."
+        }
+      },
+      {
+        "name": "Delroy Lindo",
+        "probability": 0.20,
+        "rationale": {
+          "reasoning": "Zero formal season award wins but massive passion-vote support from Academy members. Was Oscar-nominated despite being snubbed at SAG and other guilds — suggesting extraordinary Academy voter enthusiasm. Historic underdog narrative in Sinners.",
+          "key_signals": ["Oscar nomination despite zero guild wins (suggests extraordinary Academy passion)", "Strong advocacy from multiple anonymous voters in trade coverage"],
+          "uncertainty": "Pure passion vote with no institutional support; highest-risk, highest-reward bet."
+        }
+      },
+      {
+        "name": "Stellan Skarsg\u00e5rd",
+        "probability": 0.15,
+        "rationale": {
+          "reasoning": "Won Golden Globe Supporting Actor but was snubbed at SAG — a significant red flag. Still has credible support from Sentimental Value's overall presence across the ballot.",
+          "key_signals": ["Won Golden Globe Best Supporting Actor"],
+          "uncertainty": "SAG snub is a major concern; Golden Globe alone rarely wins without guild support."
+        }
+      },
+      {
+        "name": "Jacob Elordi",
+        "probability": 0.12,
+        "rationale": {
+          "reasoning": "Won Critics Choice Supporting Actor for Frankenstein. Strong critical support but limited broader season award wins.",
+          "key_signals": ["Won Critics Choice Best Supporting Actor"],
+          "uncertainty": "Critics Choice alone without guild support is historically insufficient."
+        }
+      },
+      {
+        "name": "Benicio Del Toro",
+        "probability": 0.03,
+        "rationale": {
+          "reasoning": "Accumulated the most individual critics' circle wins of any nominee but missed the major guild awards. Cinephile darling.",
+          "key_signals": ["Most individual critics' circle wins among nominees"],
+          "uncertainty": "No major guild wins limits statistical probability."
+        }
+      }
+    ],
+    "Best Performance by an Actress in a Supporting Role": [
+      {
+        "name": "Amy Madigan",
+        "probability": 0.45,
+        "rationale": {
+          "reasoning": "Won SAG/Actor Award Supporting Actress and Critics Choice Supporting Actress. Long-overdue narrative (40 years between nominations) resonates with Academy voters. SAG win is the strongest direct peer endorsement from the acting community.",
+          "key_signals": ["Won SAG/Actor Award Best Supporting Actress", "Won Critics Choice Best Supporting Actress", "Long-overdue narrative: 40 years since first Oscar nomination"],
+          "uncertainty": "Three-way genuine race: Mosaku (BAFTA, Sinners wave) and Taylor (Golden Globe, One Battle alignment) are real threats. Most uncertain of the acting categories."
+        }
+      },
+      {
+        "name": "Wunmi Mosaku",
+        "probability": 0.30,
+        "rationale": {
+          "reasoning": "Won BAFTA Supporting Actress and is part of the Sinners SAG Ensemble. If Sinners sweeps acting on Oscar night, Mosaku benefits. BAFTA win is a strong institutional signal.",
+          "key_signals": ["Won BAFTA Best Supporting Actress", "Part of SAG Ensemble (Sinners)"],
+          "uncertainty": "Three-way race; Mosaku benefits from any Sinners wave momentum."
+        }
+      },
+      {
+        "name": "Teyana Taylor",
+        "probability": 0.22,
+        "rationale": {
+          "reasoning": "Won Golden Globe Supporting Actress. Strong narrative alignment with Best Picture frontrunner One Battle After Another. If OBAA sweeps, Taylor may follow.",
+          "key_signals": ["Won Golden Globe Best Supporting Actress"],
+          "uncertainty": "Golden Globe win + BP frontrunner alignment is compelling but SAG loss is concerning."
+        }
+      },
+      {"name": "Elle Fanning", "probability": 0.02, "rationale": {"reasoning": "Praised critically in Sentimental Value; no major season award wins.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Inga Ibsdotter Lilleaas", "probability": 0.01, "rationale": {"reasoning": "Norwegian supporting performance in Sentimental Value; minimal season award presence.", "key_signals": [], "uncertainty": ""}}
+    ],
+    "Best Achievement in Directing": [
+      {
+        "name": "Paul Thomas Anderson",
+        "probability": 0.75,
+        "rationale": {
+          "reasoning": "Swept DGA, BAFTA, Golden Globe, and Critics Choice directing prizes — every major directing guild. Has 11 Oscar nominations without a win, creating significant Academy sentiment for a long-overdue coronation. Director and Picture almost always align.",
+          "key_signals": ["Won DGA Award (February 2026)", "Won BAFTA Best Director", "Won Golden Globe Best Director", "Won Critics Choice Best Director", "11 Oscar nominations without a win — long-overdue narrative"],
+          "uncertainty": "Ryan Coogler has genuine voter passion and is cited by anonymous ballots. If Sinners wins Picture, Coogler wins Director."
+        }
+      },
+      {
+        "name": "Ryan Coogler",
+        "probability": 0.20,
+        "rationale": {
+          "reasoning": "Strong voter passion for Coogler documented by IndieWire and Variety anonymous ballots. Multiple Academy members cite 'the filmmaker of the future' framing and the technical ambition of Sinners. Genuinely the only real alternative.",
+          "key_signals": ["Strong anonymous voter support documented in trades", "Sinners co-frontrunner for Best Picture"],
+          "uncertainty": "Has not won any directing guilds; no DGA/BAFTA/GG wins puts statistical probability firmly in second place."
+        }
+      },
+      {"name": "Chlo\u00e9 Zhao", "probability": 0.03, "rationale": {"reasoning": "Former Best Director winner (Nomadland); Hamnet is her film; no guild wins for direction this season.", "key_signals": ["Prior Oscar winner (Nomadland)"], "uncertainty": ""}},
+      {"name": "Joachim Trier", "probability": 0.01, "rationale": {"reasoning": "Critically acclaimed for Sentimental Value; no major guild wins for direction.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Josh Safdie", "probability": 0.01, "rationale": {"reasoning": "First solo directorial nomination; strong critical support but no guild traction.", "key_signals": [], "uncertainty": ""}}
+    ],
+    "Best Original Screenplay": [
+      {
+        "name": "Sinners",
+        "probability": 0.92,
+        "rationale": {
+          "reasoning": "Swept all three major original screenplay season awards: WGA Original, BAFTA Original Screenplay, and Critics Choice Original Screenplay. Full clean sweep with no other nominee winning any of these prizes. Near-lock.",
+          "key_signals": ["Won WGA Award Best Original Screenplay", "Won BAFTA Best Original Screenplay", "Won Critics Choice Best Original Screenplay"],
+          "uncertainty": "Marty Supreme (Safdie/Bronstein) has strong cinephile love. No realistic upset candidate with any major season award."
+        }
+      },
+      {"name": "Marty Supreme", "probability": 0.04, "rationale": {"reasoning": "Safdie/Bronstein; strong cinephile and writing-branch love; no season award wins.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Sentimental Value", "probability": 0.02, "rationale": {"reasoning": "Emotionally precise screenplay; no major season award wins.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Blue Moon", "probability": 0.01, "rationale": {"reasoning": "Richard Linklater dialogue showcase; writing-branch friendly but no wins.", "key_signals": [], "uncertainty": ""}},
+      {"name": "It Was Just an Accident", "probability": 0.01, "rationale": {"reasoning": "Minimal season award presence.", "key_signals": [], "uncertainty": ""}}
+    ],
+    "Best Adapted Screenplay": [
+      {
+        "name": "One Battle After Another",
+        "probability": 0.94,
+        "rationale": {
+          "reasoning": "First adapted screenplay to sweep all major season awards — Critics Choice, Golden Globe, BAFTA, WGA, USC — since The Social Network in 2010. Trade publications describe 'virtually no room for an upset.' A definitive clean sweep.",
+          "key_signals": ["Won WGA Award Best Adapted Screenplay", "Won BAFTA Best Adapted Screenplay", "Won Golden Globe Best Screenplay", "Won Critics Choice Best Adapted Screenplay", "First full adapted sweep since The Social Network (2010)"],
+          "uncertainty": "Hamnet and Train Dreams are second-place candidates with minimal real upset potential. Anderson win is essentially certain."
+        }
+      },
+      {"name": "Hamnet", "probability": 0.03, "rationale": {"reasoning": "Strong literary adaptation; compelling source novel; second-best screenplay narrative.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Train Dreams", "probability": 0.02, "rationale": {"reasoning": "Spirit Award winning film; beautiful independent adaptation loved by indie cinema voters.", "key_signals": ["Spirit Award Best Feature (film)"], "uncertainty": ""}},
+      {"name": "Frankenstein", "probability": 0.005, "rationale": {"reasoning": "del Toro passion project; not a screenplay contender.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Bugonia", "probability": 0.005, "rationale": {"reasoning": "Minimal screenplay presence.", "key_signals": [], "uncertainty": ""}}
+    ],
+    "Best Achievement in Cinematography": [
+      {
+        "name": "One Battle After Another",
+        "probability": 0.72,
+        "rationale": {
+          "reasoning": "Michael Bauman won ASC Award, BAFTA Cinematography, and British Society of Cinematographers — the full season award trifecta. Every film with this three-award combination in the modern era has won the Oscar.",
+          "key_signals": ["Won ASC Award (primary guild predictor)", "Won BAFTA Best Cinematography", "Won British Society of Cinematographers Award"],
+          "uncertainty": "Autumn Durald Arkapaw (Sinners) would make history as the first woman of color to win Best Cinematography — dominated critics' awards. A Sinners sweep could carry her through."
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.20,
+        "rationale": {
+          "reasoning": "Autumn Durald Arkapaw dominated the critics' circuit and would make history as the first woman of color to win Best Cinematography. Spirit Award Cinematography went to Train Dreams. A Sinners sweep on Oscar night could carry Arkapaw.",
+          "key_signals": ["Dominated critics' cinematography awards", "Historic potential (first woman of color)", "Strong Sinners wave support"],
+          "uncertainty": "ASC + BAFTA for OBAA is a very difficult combination to beat statistically."
+        }
+      },
+      {"name": "Train Dreams", "probability": 0.04, "rationale": {"reasoning": "Won Spirit Award Best Cinematography (Adolpho Veloso); beautiful pastoral imagery.", "key_signals": ["Won Spirit Award Best Cinematography"], "uncertainty": ""}},
+      {"name": "Frankenstein", "probability": 0.02, "rationale": {"reasoning": "Strong craft film but cinematography season awards went to OBAA.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Marty Supreme", "probability": 0.02, "rationale": {"reasoning": "Highly praised visually; no major season awards.", "key_signals": [], "uncertainty": ""}}
+    ],
+    "Best Achievement in Film Editing": [
+      {
+        "name": "One Battle After Another",
+        "probability": 0.68,
+        "rationale": {
+          "reasoning": "Andy Jurgensen won ACE Eddie (Musical/Comedy Feature) and BAFTA Best Editing. ACE + BAFTA for the same film is a consistently strong predictor of the Oscar.",
+          "key_signals": ["Won ACE Eddie Award — Musical/Comedy Feature Film Editing", "Won BAFTA Best Editing"],
+          "uncertainty": "Michael P. Shawver (Sinners) won ACE Drama — a competing signal. F1's kinetic editing held second place in predictions for months. A Sinners sweep could carry Shawver."
+        }
+      },
+      {
+        "name": "F1: The Movie",
+        "probability": 0.20,
+        "rationale": {
+          "reasoning": "High-octane sport editing praised for visceral kinetic craft. Was the pre-ACE frontrunner for months due to racing sequence energy. Credible alternative if BAFTA/ACE alignment doesn't hold.",
+          "key_signals": ["Pre-ACE frontrunner based on craft reputation"],
+          "uncertainty": "Lost both ACE categories; second-tier probability."
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.10,
+        "rationale": {
+          "reasoning": "Won ACE Eddie Drama — a genuine competing signal to OBAA's Comedy ACE. If Sinners sweeps acting/screenplay, editing could follow.",
+          "key_signals": ["Won ACE Eddie Award — Drama Feature Film Editing"],
+          "uncertainty": "Two ACE sub-category split between OBAA and Sinners creates real ambiguity."
+        }
+      },
+      {"name": "Marty Supreme", "probability": 0.01, "rationale": {"reasoning": "Street-film energy editing; no major season awards.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Sentimental Value", "probability": 0.01, "rationale": {"reasoning": "European awards recognition; minimal Oscar editing probability.", "key_signals": [], "uncertainty": ""}}
+    ],
+    "Best Achievement in Production Design": [
+      {
+        "name": "Frankenstein",
+        "probability": 0.60,
+        "rationale": {
+          "reasoning": "Won ADG Award for Period Feature Film — the primary predictor for Best Production Design. Frankenstein's gothic Victorian period design is the most visually distinctive of the nominees. ADG winners have predicted the Oscar in the majority of years since 1996.",
+          "key_signals": ["Won ADG Award — Period Feature Film", "Most visually distinctive period design of nominees"],
+          "uncertainty": "One Battle After Another won ADG Contemporary. The Oscar doesn't split period/contemporary, creating ambiguity about which ADG sub-winner translates to the Oscar."
+        }
+      },
+      {
+        "name": "One Battle After Another",
+        "probability": 0.25,
+        "rationale": {
+          "reasoning": "Won ADG Contemporary Feature Film. If Best Picture winner carries its craft sweep, production design could go to OBAA. Strong sprawling American production design.",
+          "key_signals": ["Won ADG Award — Contemporary Feature Film"],
+          "uncertainty": "ADG Contemporary win is a legitimate competing signal."
+        }
+      },
+      {"name": "Hamnet", "probability": 0.10, "rationale": {"reasoning": "Period English production design; Shakespeare-era visual work; strong second alternative.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Sinners", "probability": 0.03, "rationale": {"reasoning": "1930s Deep South period design; strong atmospheric production.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Marty Supreme", "probability": 0.02, "rationale": {"reasoning": "NYC-set period-adjacent design.", "key_signals": [], "uncertainty": ""}}
+    ],
+    "Best Achievement in Costume Design": [
+      {
+        "name": "Frankenstein",
+        "probability": 0.92,
+        "rationale": {
+          "reasoning": "Kate Hawley swept CDG Period Film, BAFTA Costume Design, and Critics Choice Costume Design — a complete season award triple. Prediction markets at 92% consensus. Gothic Victorian/period costume work in a high-profile del Toro film is exactly what the costume branch rewards.",
+          "key_signals": ["Won CDG Award — Period Film", "Won BAFTA Best Costume Design", "Won Critics Choice Best Costume Design", "92% prediction market consensus"],
+          "uncertainty": "Ruth E. Carter (Sinners) is a multiple Oscar winner for her 1930s period Southern work, but CDG + BAFTA + Critics Choice is essentially definitive."
+        }
+      },
+      {"name": "Sinners", "probability": 0.05, "rationale": {"reasoning": "Ruth E. Carter is a multiple Oscar winner; 1930s Deep South period costuming is admired but all season awards went to Frankenstein.", "key_signals": ["Ruth E. Carter: multiple prior Oscar winner"], "uncertainty": ""}},
+      {"name": "Hamnet", "probability": 0.02, "rationale": {"reasoning": "Period English Elizabethan costuming; Malgosia Turzanska received mention but no wins.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Marty Supreme", "probability": 0.005, "rationale": {"reasoning": "Street-fashion distinctive costuming; no season award wins.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Avatar: Fire and Ash", "probability": 0.005, "rationale": {"reasoning": "Sci-fi/fantasy costuming; unusual nominee; no season award wins.", "key_signals": [], "uncertainty": ""}}
+    ],
+    "Best Sound": [
+      {
+        "name": "F1: The Movie",
+        "probability": 0.88,
+        "rationale": {
+          "reasoning": "Won CAS (Cinema Audio Society), BAFTA Sound, Critics Choice Sound, and AMPS — four major sound season awards. The CAS + BAFTA combination has predicted the Oscar winner with perfect accuracy since 2013 (Gravity, Bohemian Rhapsody, Sound of Metal, Dune).",
+          "key_signals": ["Won CAS Award (Cinema Audio Society — primary guild predictor)", "Won BAFTA Best Sound", "Won Critics Choice Sound", "Won AMPS Award", "CAS + BAFTA combination: perfect predictor since 2013"],
+          "uncertainty": "Sinners won two MPSE Golden Reel Awards (music editing, dialogue/ADR). Frankenstein won MPSE effects/foley. Both suggest branch enthusiasm but F1's four-award sweep is overwhelming."
+        }
+      },
+      {"name": "Sinners", "probability": 0.06, "rationale": {"reasoning": "Won two MPSE Golden Reel Awards; passionate branch support for the blues/gospel soundscape.", "key_signals": ["Won MPSE Golden Reel — Music Editing", "Won MPSE Golden Reel — Dialogue/ADR"], "uncertainty": ""}},
+      {"name": "Frankenstein", "probability": 0.03, "rationale": {"reasoning": "Won MPSE effects/foley; strong craft but not the leader.", "key_signals": ["Won MPSE Golden Reel — Effects/Foley"], "uncertainty": ""}},
+      {"name": "One Battle After Another", "probability": 0.02, "rationale": {"reasoning": "Nominated but no major sound season award wins.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Sirat", "probability": 0.01, "rationale": {"reasoning": "Intense desert warfare soundscape; credible dark horse in a Sinners-wave year.", "key_signals": [], "uncertainty": ""}}
+    ],
+    "Best Achievement in Makeup and Hairstyling": [
+      {
+        "name": "Frankenstein",
+        "probability": 0.65,
+        "rationale": {
+          "reasoning": "Won MUAHS Special Makeup Prosthetics (most relevant sub-category) and BAFTA Makeup & Hairstyling. The creature design in del Toro's Frankenstein is the defining transformative makeup achievement of the year — exactly the kind of work the branch has historically rewarded.",
+          "key_signals": ["Won MUAHS Award — Special Makeup Prosthetics", "Won BAFTA Makeup and Hairstyling"],
+          "uncertainty": "Sinners won MUAHS Period Makeup AND Period Hairstyling — a powerful double signal. The Ugly Stepsister is a potential 'audacious' branch-specific choice for extreme fairy-tale transformation."
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.20,
+        "rationale": {
+          "reasoning": "Won MUAHS Period Character Makeup AND Period Character Hairstyling — a strong double signal. If Sinners sweeps on the night, makeup could follow.",
+          "key_signals": ["Won MUAHS — Period Character Makeup", "Won MUAHS — Period Character Hairstyling"],
+          "uncertainty": "The double MUAHS Period win is a genuine competing signal to Frankenstein's Special Prosthetics win."
+        }
+      },
+      {"name": "The Ugly Stepsister", "probability": 0.08, "rationale": {"reasoning": "Extreme fairy-tale transformation work; potential branch-specific 'audacious' choice.", "key_signals": [], "uncertainty": ""}},
+      {"name": "The Smashing Machine", "probability": 0.04, "rationale": {"reasoning": "Wrestling/athlete body transformation makeup work.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Kokuho", "probability": 0.03, "rationale": {"reasoning": "Japanese film with noted makeup work; limited information in season award coverage.", "key_signals": [], "uncertainty": ""}}
+    ],
+    "Best Achievement in Music Written for Motion Pictures (Original Score)": [
+      {
+        "name": "Sinners",
+        "probability": 0.95,
+        "rationale": {
+          "reasoning": "Ludwig Göransson's score swept BAFTA, Golden Globe, Critics Choice, Hollywood Music in Media Award, and Society of Composers & Lyricists Award — a complete five-award sweep. Described as one of the most praised scores in recent years for its blues/gospel/horror synthesis.",
+          "key_signals": ["Won BAFTA Best Original Score", "Won Golden Globe Best Original Score", "Won Critics Choice Best Original Score", "Won Hollywood Music in Media Award", "Won Society of Composers & Lyricists Award"],
+          "uncertainty": "No realistic competition. This is among the safest predictions of the ceremony."
+        }
+      },
+      {"name": "One Battle After Another", "probability": 0.02, "rationale": {"reasoning": "High quality atmospheric score; no season award wins against Göransson.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Frankenstein", "probability": 0.01, "rationale": {"reasoning": "Strong gothic atmosphere; no season award wins.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Hamnet", "probability": 0.01, "rationale": {"reasoning": "Emotional orchestral work; no major wins.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Bugonia", "probability": 0.01, "rationale": {"reasoning": "Listed nominee; minimal season award presence.", "key_signals": [], "uncertainty": ""}}
+    ],
+    "Best Achievement in Music Written for Motion Pictures (Original Song)": [
+      {
+        "name": "KPop Demon Hunters",
+        "probability": 0.80,
+        "rationale": {
+          "reasoning": "'Golden' from KPop Demon Hunters won the Golden Globe Best Original Song, Critics Choice Best Original Song, and Grammy Award for Best Song Written for Visual Media — the complete music season award trifecta. Described as 'the song that defined 2025' and a cultural phenomenon.",
+          "key_signals": ["Won Golden Globe Best Original Song", "Won Critics Choice Best Original Song", "Won Grammy Award — Best Song Written for Visual Media", "Cultural phenomenon status"],
+          "uncertainty": "'I Lied to You' from Sinners (Göransson/Saadiq) revealed significant anonymous voter support in Variety ballot coverage. A Sinners sweep night could push this category."
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.12,
+        "rationale": {
+          "reasoning": "'I Lied to You' (Raphael Saadiq & Ludwig Göransson) has meaningful anonymous voter support per Variety ballot reporting. If Sinners sweeps acting and score, this category could follow the wave.",
+          "key_signals": ["Significant anonymous voter support documented in Variety", "Co-composer with score frontrunner (Göransson)"],
+          "uncertainty": "KPop Demon Hunters has a complete season award sweep; upset requires full Sinners wave night."
+        }
+      },
+      {"name": "Train Dreams", "probability": 0.04, "rationale": {"reasoning": "Nick Cave & Bryce Dessner composition; beloved names; Spirit Award film; dark horse.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Diane Warren: Relentless", "probability": 0.03, "rationale": {"reasoning": "Warren's 17th nomination; described as the annual 'sentimental vote' but not expected to win.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Viva Verdi!", "probability": 0.01, "rationale": {"reasoning": "Opera film song; niche but beautiful; minimal season award presence.", "key_signals": [], "uncertainty": ""}}
+    ],
+    "Best Achievement in Visual Effects": [
+      {
+        "name": "Avatar: Fire and Ash",
+        "probability": 0.78,
+        "rationale": {
+          "reasoning": "Won VES Award for Outstanding Visual Effects in a Photoreal Feature — the primary guild predictor for this Oscar category. The Avatar franchise's photorealistic underwater and alien environment VFX pedigree is unmatched in the industry.",
+          "key_signals": ["Won VES Award — Outstanding Visual Effects in a Photoreal Feature", "Avatar franchise VFX pedigree and industry respect"],
+          "uncertainty": "Jurassic World: Rebirth and F1 are strong VFX entries. Sinners won VES Supporting VFX for its practical-meets-digital approach. But VES Photoreal Feature is the definitive signal."
+        }
+      },
+      {"name": "Jurassic World: Rebirth", "probability": 0.12, "rationale": {"reasoning": "Franchise dinosaur VFX; respected but second tier to Avatar.", "key_signals": [], "uncertainty": ""}},
+      {"name": "F1: The Movie", "probability": 0.06, "rationale": {"reasoning": "Photoreal racing VFX; strong craft but lost VES to Avatar.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Sinners", "probability": 0.03, "rationale": {"reasoning": "Won VES Supporting VFX; praised for practical + digital blending.", "key_signals": ["Won VES Award — Outstanding Supporting VFX"], "uncertainty": ""}},
+      {"name": "The Lost Bus", "probability": 0.01, "rationale": {"reasoning": "Limited information on VFX scope.", "key_signals": [], "uncertainty": ""}}
+    ],
+    "Best Documentary Feature": [
+      {
+        "name": "The Perfect Neighbor",
+        "probability": 0.45,
+        "rationale": {
+          "reasoning": "Won Critics Choice Documentary and is the most widely seen of the nominees (~50M Netflix streams). Wide Academy viewership is decisive when documentary sub-committee votes extend to the broader membership — voters who haven't seen an obscure documentary default to what they've already watched on Netflix.",
+          "key_signals": ["Won Critics Choice Documentary", "~50 million Netflix streams — most widely seen nominee", "Netflix distribution ensures Academy-wide accessibility"],
+          "uncertainty": "Most unpredictable category on the ballot. Mr. Nobody Against Putin (BAFTA Documentary) is a strong institutional alternative. Cutting Through Rocks (historic first Iranian nomination) has milestone appeal."
+        }
+      },
+      {
+        "name": "Mr. Nobody Against Putin",
+        "probability": 0.25,
+        "rationale": {
+          "reasoning": "Won BAFTA Documentary — the strongest institutional signal for this category. Political urgency and strong documentary community support.",
+          "key_signals": ["Won BAFTA Documentary"],
+          "uncertainty": "Netflix reach of The Perfect Neighbor is a powerful counterforce."
+        }
+      },
+      {"name": "Cutting Through Rocks", "probability": 0.15, "rationale": {"reasoning": "Historic first Iranian documentary nominated for an Oscar; milestone appeal could motivate Academy voters.", "key_signals": ["Historic first Iranian documentary Oscar nomination"], "uncertainty": ""}},
+      {"name": "Come See Me in the Good Light", "probability": 0.10, "rationale": {"reasoning": "Ryan White; Sundance audience darling; emotional wildcard if political documentaries split votes.", "key_signals": ["Sundance audience favorite"], "uncertainty": ""}},
+      {"name": "The Alabama Solution", "probability": 0.05, "rationale": {"reasoning": "American criminal justice/death penalty subject; limited season award presence.", "key_signals": [], "uncertainty": ""}}
+    ],
+    "Best Animated Feature Film": [
+      {
+        "name": "KPop Demon Hunters",
+        "probability": 0.97,
+        "rationale": {
+          "reasoning": "Won Annie Award (10 for 10 at the ceremony — dominant sweep), PGA Award for Outstanding Animated Feature, Golden Globe Animated, Critics Choice Animated, and BAFTA Animated. A complete five-season award clean sweep. Likely the biggest lock on the entire ballot.",
+          "key_signals": ["Won Annie Award — 10 for 10 dominant sweep (all categories entered)", "Won PGA Award — Outstanding Animated Feature", "Won Golden Globe Best Animated Feature", "Won Critics Choice Best Animated Feature", "Won BAFTA Best Animated Feature"],
+          "uncertainty": "Zootopia 2 has massive commercial reach; Elio carries Pixar prestige. No realistic upset."
+        }
+      },
+      {"name": "Zootopia 2", "probability": 0.015, "rationale": {"reasoning": "Disney sequel with massive box office; second in most predictions.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Arco", "probability": 0.005, "rationale": {"reasoning": "European art house animation; festival circuit favorite.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Elio", "probability": 0.005, "rationale": {"reasoning": "Pixar entry; strong studio pedigree but lost all major season awards.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Little Am\u00e9lie or the Character of Rain", "probability": 0.005, "rationale": {"reasoning": "Hand-drawn French-style animation; festival darling but no major wins.", "key_signals": [], "uncertainty": ""}}
+    ],
+    "Best Animated Short Film": [
+      {
+        "name": "The Girl Who Cried Pearls",
+        "probability": 0.35,
+        "rationale": {
+          "reasoning": "From the Oscar-nominated team behind Madame Tutli-Putli (Chris Lavis & Maciek Szczerbowski). National Film Board of Canada pedigree — historically strong with the animation branch. Variety's predicted winner with strong critical consensus.",
+          "key_signals": ["From Oscar-nominated directors (Madame Tutli-Putli team)", "National Film Board of Canada — historically strong with animation voters", "Variety's predicted winner"],
+          "uncertainty": "Retirement Plan (The New Yorker) is cited by multiple outlets as the most likely winner. Papillon (Florence Miailhe) is a strong European hand-drawn alternative. Short film categories are the least predictable of the Oscars."
+        }
+      },
+      {
+        "name": "Retirement Plan",
+        "probability": 0.30,
+        "rationale": {
+          "reasoning": "The New Yorker cartoon-style sensibility; cited by multiple outlets as a co-frontrunner. John Kelly's signature style may resonate with animation branch voters.",
+          "key_signals": ["Multiple outlets cite as most likely winner", "Distinctive New Yorker sensibility"],
+          "uncertainty": "Co-frontrunner status with Girl Who Cried Pearls; genuinely unpredictable."
+        }
+      },
+      {"name": "Papillon", "probability": 0.20, "rationale": {"reasoning": "Florence Miailhe; European hand-drawn animation; strong pedigree; 'could win' per multiple sources.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Forevergreen", "probability": 0.10, "rationale": {"reasoning": "Most 'should win' sentiment on artistic merit; less institutional support.", "key_signals": [], "uncertainty": ""}},
+      {"name": "The Three Sisters", "probability": 0.05, "rationale": {"reasoning": "Timur Kognov; some voter buzz but minimal prediction presence.", "key_signals": [], "uncertainty": ""}}
+    ],
+    "Best Live Action Short Film": [
+      {
+        "name": "Two People Exchanging Saliva",
+        "probability": 0.40,
+        "rationale": {
+          "reasoning": "Described by every major outlet as 'the film to beat' — most discussed, most widely screened, most distinctively memorable short on the circuit. Stars internationally known actress Zar Amir Ebrahimi (Cannes Best Actress for Holy Spider). High-concept dark comedy dystopia stands out for voters.",
+          "key_signals": ["Most-predicted winner by short film specialists across all outlets", "Stars Cannes Best Actress winner Zar Amir Ebrahimi", "Most widely screened at Academy qualifying screenings", "Distinctive high-concept premise maximizes recall"],
+          "uncertainty": "The Singers (Netflix) has strong distribution and crowd-pleasing appeal. A Friend of Dorothy has LGBTQ+ community backing. No formal guild season awards make this category genuinely unpredictable."
+        }
+      },
+      {"name": "The Singers", "probability": 0.25, "rationale": {"reasoning": "Netflix distribution ensures wide accessibility; crowd-pleasing sing-off premise; strong campaign.", "key_signals": ["Netflix distribution and campaign support"], "uncertainty": ""}},
+      {"name": "A Friend of Dorothy", "probability": 0.20, "rationale": {"reasoning": "LGBTQ+-themed; strong advocacy community support; resonant subject for Academy's diverse membership.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Jane Austen's Period Drama", "probability": 0.10, "rationale": {"reasoning": "Period comedy about menstruation in Austen fiction; polarizing but memorable.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Butcher's Stain", "probability": 0.05, "rationale": {"reasoning": "Limited prediction presence in short film specialist coverage.", "key_signals": [], "uncertainty": ""}}
+    ],
+    "Best Documentary Short Film": [
+      {
+        "name": "All the Empty Rooms",
+        "probability": 0.40,
+        "rationale": {
+          "reasoning": "Netflix distribution makes it the most widely accessible nominee to the full Academy membership. Covers the empty bedrooms of school shooting victims — an emotionally resonant American subject. Produced by CBS News for credibility. Most outlets' predicted winner.",
+          "key_signals": ["Netflix distribution — most accessible to all voters", "American subject matter (school shootings) with universal Academy resonance", "CBS News / Netflix production credibility", "Most outlets' top prediction"],
+          "uncertainty": "Deeply unpredictable category. The Devil Is Busy (abortion clinic) is highly politically timely. Armed Only With a Camera (tribute to Brent Renaud) has strong nonfiction community support."
+        }
+      },
+      {"name": "The Devil Is Busy", "probability": 0.25, "rationale": {"reasoning": "Atlanta abortion clinic under protest siege — highly politically timely in current climate; emotionally charged.", "key_signals": ["Politically timely subject"], "uncertainty": ""}},
+      {"name": "Armed Only with a Camera: The Life and Death of Brent Renaud", "probability": 0.20, "rationale": {"reasoning": "Personal tribute to first American journalist killed covering Ukraine; strong nonfiction filmmaking community support.", "key_signals": ["Journalism community support", "Personal tribute to landmark figure"], "uncertainty": ""}},
+      {"name": "Children No More: Were and Are Gone", "probability": 0.10, "rationale": {"reasoning": "Gaza children memorial vigils; politically charged subject that could mobilize specific voting blocs.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Perfectly a Strangeness", "probability": 0.05, "rationale": {"reasoning": "Meditative observational short (donkeys at an observatory); least conventional of nominees.", "key_signals": [], "uncertainty": ""}}
+    ],
+    "Best International Feature Film": [
+      {
+        "name": "Sentimental Value",
+        "probability": 0.58,
+        "rationale": {
+          "reasoning": "Won BAFTA Best Film Not in the English Language — the strongest institutional signal. Has 9 Oscar nominations including Best Picture, creating enormous cross-ballot visibility. The cross-nomination presence in Director, Actress, Supporting Actor, Supporting Actress means most Academy members will engage with this film repeatedly during the ceremony.",
+          "key_signals": ["Won BAFTA Best Film Not in the English Language", "9 Oscar nominations including Best Picture", "Cross-ballot presence across acting and directing categories"],
+          "uncertainty": "The Secret Agent (Brazil) won Golden Globe International and has Wagner Moura's Best Actor nomination. Variety calls it 'Brazil vs. Norway' — a genuine two-film race."
+        }
+      },
+      {
+        "name": "The Secret Agent",
+        "probability": 0.32,
+        "rationale": {
+          "reasoning": "Won Golden Globe Best Non-English Language Film. Wagner Moura's Best Actor nomination keeps Brazil's film visible throughout the night. Strong political urgency with passionate Academy advocates.",
+          "key_signals": ["Won Golden Globe Best Non-English Language Film", "Wagner Moura Best Actor nominated (keeps film visible)"],
+          "uncertainty": "Most credible alternative to Sentimental Value; genuine race."
+        }
+      },
+      {"name": "Sirat", "probability": 0.05, "rationale": {"reasoning": "Spain; Sound nomination as well; intense desert warfare atmosphere.", "key_signals": [], "uncertainty": ""}},
+      {"name": "The Voice of Hind Rajab", "probability": 0.03, "rationale": {"reasoning": "Tunisia; Palestinian-adjacent political film; sympathy votes possible but institutional support limited.", "key_signals": [], "uncertainty": ""}},
+      {"name": "It Was Just an Accident", "probability": 0.02, "rationale": {"reasoning": "France; moral thriller; also nominated in Original Screenplay; limited International season award wins.", "key_signals": [], "uncertainty": ""}}
+    ],
+    "Best Casting": [
+      {
+        "name": "Sinners",
+        "probability": 0.60,
+        "rationale": {
+          "reasoning": "Sinners won SAG/Actor Award Best Ensemble Cast — the most direct peer validation of casting quality from the acting community, which is the voter pool most aligned with the new Casting branch. Casting director Francine Maisler would win the first competitive casting Oscar ever awarded. The discovery casting of debut musician Miles Caton alongside veterans is exactly what the branch may celebrate.",
+          "key_signals": ["Won SAG/Actor Award Best Ensemble Cast — direct peer casting validation", "Breakthrough discovery casting (Miles Caton debut)", "Inaugural year: voters likely to favor most celebrated ensemble", "Francine Maisler's industry-wide reputation"],
+          "uncertainty": "Hamnet's fraternal casting of Jacobi and Noah Jupe (real-life brothers cast as Hamnet and Hamlet) is a poetic real-life choice that could be exactly what the new Casting branch rewards."
+        }
+      },
+      {
+        "name": "Hamnet",
+        "probability": 0.20,
+        "rationale": {
+          "reasoning": "The decision to cast real-life brothers Jacobi and Noah Jupe as Hamnet and Hamlet — the ghost and the living — is described as a genius casting choice that speaks directly to the category's purpose. Could be the Casting branch's inaugural statement winner.",
+          "key_signals": ["Casting of real-life Jupe brothers as Hamnet and Hamlet (poetic real-world connection)", "Casting choice directly resonates with the new category's purpose"],
+          "uncertainty": "No formal season award win for casting; Sinners' SAG Ensemble remains the stronger signal."
+        }
+      },
+      {"name": "One Battle After Another", "probability": 0.12, "rationale": {"reasoning": "SAG Supporting Actor winner Sean Penn; strong ensemble of acclaimed actors across PTA's film.", "key_signals": ["Contains SAG Supporting Actor winner (Sean Penn)"], "uncertainty": ""}},
+      {"name": "The Secret Agent", "probability": 0.05, "rationale": {"reasoning": "International cast; Wagner Moura Best Actor nomination; gravitas of cross-national casting.", "key_signals": [], "uncertainty": ""}},
+      {"name": "Marty Supreme", "probability": 0.03, "rationale": {"reasoning": "Eclectic non-actor-heavy cast (Abel Ferrara, David Mamet, Penn Jillette, Fran Drescher); unconventional philosophy.", "key_signals": [], "uncertainty": ""}}
+    ]
+  }
+}

@@ -1,0 +1,1304 @@
+{
+  "method": "goldderby",
+  "year": 2026,
+  "categories": {
+    "Best Motion Picture of the Year": [
+      {
+        "name": "F1: The Movie",
+        "probability": 0.0005,
+        "rationale": {
+          "raw_odds": 0.0005,
+          "gd_key": "F1: The Movie",
+          "odds_rank": 10,
+          "n_candidates": 10
+        }
+      },
+      {
+        "name": "Frankenstein",
+        "probability": 0.0019,
+        "rationale": {
+          "raw_odds": 0.0019,
+          "gd_key": "Frankenstein",
+          "odds_rank": 8,
+          "n_candidates": 10
+        }
+      },
+      {
+        "name": "Hamnet",
+        "probability": 0.0124,
+        "rationale": {
+          "raw_odds": 0.0124,
+          "gd_key": "Hamnet",
+          "odds_rank": 3,
+          "n_candidates": 10
+        }
+      },
+      {
+        "name": "Marty Supreme",
+        "probability": 0.0033,
+        "rationale": {
+          "raw_odds": 0.0033,
+          "gd_key": "Marty Supreme",
+          "odds_rank": 7,
+          "n_candidates": 10
+        }
+      },
+      {
+        "name": "One Battle After Another",
+        "probability": 0.7584,
+        "rationale": {
+          "raw_odds": 0.7583,
+          "gd_key": "One Battle After Another",
+          "odds_rank": 1,
+          "n_candidates": 10
+        }
+      },
+      {
+        "name": "Sentimental Value",
+        "probability": 0.0038,
+        "rationale": {
+          "raw_odds": 0.0038,
+          "gd_key": "Sentimental Value",
+          "odds_rank": 6,
+          "n_candidates": 10
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.2045,
+        "rationale": {
+          "raw_odds": 0.2045,
+          "gd_key": "Sinners",
+          "odds_rank": 2,
+          "n_candidates": 10
+        }
+      },
+      {
+        "name": "Train Dreams",
+        "probability": 0.0076,
+        "rationale": {
+          "raw_odds": 0.0076,
+          "gd_key": "Train Dreams",
+          "odds_rank": 4,
+          "n_candidates": 10
+        }
+      },
+      {
+        "name": "The Secret Agent",
+        "probability": 0.0062,
+        "rationale": {
+          "raw_odds": 0.0062,
+          "gd_key": "The Secret Agent",
+          "odds_rank": 5,
+          "n_candidates": 10
+        }
+      },
+      {
+        "name": "Bugonia",
+        "probability": 0.0014,
+        "rationale": {
+          "raw_odds": 0.0014,
+          "gd_key": "Bugonia",
+          "odds_rank": 9,
+          "n_candidates": 10
+        }
+      }
+    ],
+    "Best Performance by an Actor in a Leading Role": [
+      {
+        "name": "Timoth\u00e9e Chalamet",
+        "probability": 0.4171,
+        "rationale": {
+          "raw_odds": 0.4171,
+          "gd_key": "Timoth\u00e9e Chalamet",
+          "odds_rank": 2,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Leonardo DiCaprio",
+        "probability": 0.0245,
+        "rationale": {
+          "raw_odds": 0.0245,
+          "gd_key": "Leonardo DiCaprio",
+          "odds_rank": 4,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Ethan Hawke",
+        "probability": 0.0132,
+        "rationale": {
+          "raw_odds": 0.0132,
+          "gd_key": "Ethan Hawke",
+          "odds_rank": 5,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Michael B. Jordan",
+        "probability": 0.4299,
+        "rationale": {
+          "raw_odds": 0.4299,
+          "gd_key": "Michael B. Jordan",
+          "odds_rank": 1,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Wagner Moura",
+        "probability": 0.1152,
+        "rationale": {
+          "raw_odds": 0.1152,
+          "gd_key": "Wagner Moura",
+          "odds_rank": 3,
+          "n_candidates": 5
+        }
+      }
+    ],
+    "Best Performance by an Actress in a Leading Role": [
+      {
+        "name": "Jessie Buckley",
+        "probability": 0.9602,
+        "rationale": {
+          "raw_odds": 0.9602,
+          "gd_key": "Jessie Buckley",
+          "odds_rank": 1,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Rose Byrne",
+        "probability": 0.0272,
+        "rationale": {
+          "raw_odds": 0.0272,
+          "gd_key": "Rose Byrne",
+          "odds_rank": 2,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Renate Reinsve",
+        "probability": 0.0061,
+        "rationale": {
+          "raw_odds": 0.0061,
+          "gd_key": "Renate Reinsve",
+          "odds_rank": 3,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Emma Stone",
+        "probability": 0.0055,
+        "rationale": {
+          "raw_odds": 0.0055,
+          "gd_key": "Emma Stone",
+          "odds_rank": 4,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Kate Hudson",
+        "probability": 0.001,
+        "rationale": {
+          "raw_odds": 0.001,
+          "gd_key": "Kate Hudson",
+          "odds_rank": 5,
+          "n_candidates": 5
+        }
+      }
+    ],
+    "Best Performance by an Actor in a Supporting Role": [
+      {
+        "name": "Benicio Del Toro",
+        "probability": 0.0089,
+        "rationale": {
+          "raw_odds": 0.0089,
+          "gd_key": "Benicio Del Toro",
+          "odds_rank": 5,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Sean Penn",
+        "probability": 0.6258,
+        "rationale": {
+          "raw_odds": 0.6257,
+          "gd_key": "Sean Penn",
+          "odds_rank": 1,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Stellan Skarsg\u00e5rd",
+        "probability": 0.2666,
+        "rationale": {
+          "raw_odds": 0.2666,
+          "gd_key": "Stellan Skarsg\u00e5rd",
+          "odds_rank": 2,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Jacob Elordi",
+        "probability": 0.0214,
+        "rationale": {
+          "raw_odds": 0.0214,
+          "gd_key": "Jacob Elordi",
+          "odds_rank": 4,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Delroy Lindo",
+        "probability": 0.0773,
+        "rationale": {
+          "raw_odds": 0.0773,
+          "gd_key": "Delroy Lindo",
+          "odds_rank": 3,
+          "n_candidates": 5
+        }
+      }
+    ],
+    "Best Performance by an Actress in a Supporting Role": [
+      {
+        "name": "Elle Fanning",
+        "probability": 0.0032,
+        "rationale": {
+          "raw_odds": 0.0032,
+          "gd_key": "Elle Fanning",
+          "odds_rank": 5,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Inga Ibsdotter Lilleaas",
+        "probability": 0.0139,
+        "rationale": {
+          "raw_odds": 0.0139,
+          "gd_key": "Inga Ibsdotter Lilleaas",
+          "odds_rank": 4,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Amy Madigan",
+        "probability": 0.4743,
+        "rationale": {
+          "raw_odds": 0.4743,
+          "gd_key": "Amy Madigan",
+          "odds_rank": 1,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Teyana Taylor",
+        "probability": 0.2898,
+        "rationale": {
+          "raw_odds": 0.2898,
+          "gd_key": "Teyana Taylor",
+          "odds_rank": 2,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Wunmi Mosaku",
+        "probability": 0.2188,
+        "rationale": {
+          "raw_odds": 0.2188,
+          "gd_key": "Wunmi Mosaku",
+          "odds_rank": 3,
+          "n_candidates": 5
+        }
+      }
+    ],
+    "Best Achievement in Directing": [
+      {
+        "name": "Chlo\u00e9 Zhao",
+        "probability": 0.0087,
+        "rationale": {
+          "raw_odds": 0.0087,
+          "gd_key": "Chlo\u00e9 Zhao",
+          "odds_rank": 3,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Paul Thomas Anderson",
+        "probability": 0.94,
+        "rationale": {
+          "raw_odds": 0.9401,
+          "gd_key": "Paul Thomas Anderson",
+          "odds_rank": 1,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Ryan Coogler",
+        "probability": 0.0456,
+        "rationale": {
+          "raw_odds": 0.0456,
+          "gd_key": "Ryan Coogler",
+          "odds_rank": 2,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Joachim Trier",
+        "probability": 0.0031,
+        "rationale": {
+          "raw_odds": 0.0031,
+          "gd_key": "Joachim Trier",
+          "odds_rank": 4,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Josh Safdie",
+        "probability": 0.0026,
+        "rationale": {
+          "raw_odds": 0.0026,
+          "gd_key": "Josh Safdie",
+          "odds_rank": 5,
+          "n_candidates": 5
+        }
+      }
+    ],
+    "Best Original Screenplay": [
+      {
+        "name": "Blue Moon",
+        "probability": 0.08,
+        "rationale": {
+          "raw_odds": 0.08,
+          "gd_key": "Blue Moon",
+          "odds_rank": 3,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "It Was Just an Accident",
+        "probability": 0.06,
+        "rationale": {
+          "raw_odds": 0.06,
+          "gd_key": "It Was Just an Accident",
+          "odds_rank": 4,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Marty Supreme",
+        "probability": 0.13,
+        "rationale": {
+          "raw_odds": 0.13,
+          "gd_key": "Marty Supreme",
+          "odds_rank": 2,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Sentimental Value",
+        "probability": 0.03,
+        "rationale": {
+          "raw_odds": 0.03,
+          "gd_key": "Sentimental Value",
+          "odds_rank": 5,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.7,
+        "rationale": {
+          "raw_odds": 0.7,
+          "gd_key": "Sinners",
+          "odds_rank": 1,
+          "n_candidates": 5
+        }
+      }
+    ],
+    "Best Adapted Screenplay": [
+      {
+        "name": "Bugonia",
+        "probability": 0.02,
+        "rationale": {
+          "raw_odds": 0.02,
+          "gd_key": "Bugonia",
+          "odds_rank": 5,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Frankenstein",
+        "probability": 0.07,
+        "rationale": {
+          "raw_odds": 0.07,
+          "gd_key": "Frankenstein",
+          "odds_rank": 3,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Hamnet",
+        "probability": 0.13,
+        "rationale": {
+          "raw_odds": 0.13,
+          "gd_key": "Hamnet",
+          "odds_rank": 2,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "One Battle After Another",
+        "probability": 0.75,
+        "rationale": {
+          "raw_odds": 0.75,
+          "gd_key": "One Battle After Another",
+          "odds_rank": 1,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Train Dreams",
+        "probability": 0.03,
+        "rationale": {
+          "raw_odds": 0.03,
+          "gd_key": "Train Dreams",
+          "odds_rank": 4,
+          "n_candidates": 5
+        }
+      }
+    ],
+    "Best Achievement in Cinematography": [
+      {
+        "name": "Frankenstein",
+        "probability": 0.04,
+        "rationale": {
+          "raw_odds": 0.04,
+          "gd_key": "Frankenstein",
+          "odds_rank": 5,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Marty Supreme",
+        "probability": 0.05,
+        "rationale": {
+          "raw_odds": 0.05,
+          "gd_key": "Marty Supreme",
+          "odds_rank": 4,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "One Battle After Another",
+        "probability": 0.52,
+        "rationale": {
+          "raw_odds": 0.52,
+          "gd_key": "One Battle After Another",
+          "odds_rank": 1,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.29,
+        "rationale": {
+          "raw_odds": 0.29,
+          "gd_key": "Sinners",
+          "odds_rank": 2,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Train Dreams",
+        "probability": 0.1,
+        "rationale": {
+          "raw_odds": 0.1,
+          "gd_key": "Train Dreams",
+          "odds_rank": 3,
+          "n_candidates": 5
+        }
+      }
+    ],
+    "Best Achievement in Film Editing": [
+      {
+        "name": "F1: The Movie",
+        "probability": 0.13,
+        "rationale": {
+          "raw_odds": 0.13,
+          "gd_key": "F1: The Movie",
+          "odds_rank": 3,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Marty Supreme",
+        "probability": 0.04,
+        "rationale": {
+          "raw_odds": 0.04,
+          "gd_key": "Marty Supreme",
+          "odds_rank": 4,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "One Battle After Another",
+        "probability": 0.55,
+        "rationale": {
+          "raw_odds": 0.55,
+          "gd_key": "One Battle After Another",
+          "odds_rank": 1,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.25,
+        "rationale": {
+          "raw_odds": 0.25,
+          "gd_key": "Sinners",
+          "odds_rank": 2,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Sentimental Value",
+        "probability": 0.03,
+        "rationale": {
+          "raw_odds": 0.03,
+          "gd_key": "Sentimental Value",
+          "odds_rank": 5,
+          "n_candidates": 5
+        }
+      }
+    ],
+    "Best Achievement in Production Design": [
+      {
+        "name": "Frankenstein",
+        "probability": 0.88,
+        "rationale": {
+          "raw_odds": 0.88,
+          "gd_key": "Frankenstein",
+          "odds_rank": 1,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Hamnet",
+        "probability": 0.04,
+        "rationale": {
+          "raw_odds": 0.04,
+          "gd_key": "Hamnet",
+          "odds_rank": 3,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Marty Supreme",
+        "probability": 0.005,
+        "rationale": {
+          "raw_odds": 0.005,
+          "gd_key": "Marty Supreme",
+          "odds_rank": 5,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.015,
+        "rationale": {
+          "raw_odds": 0.015,
+          "gd_key": "Sinners",
+          "odds_rank": 4,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "One Battle After Another",
+        "probability": 0.06,
+        "rationale": {
+          "raw_odds": 0.06,
+          "gd_key": "One Battle After Another",
+          "odds_rank": 2,
+          "n_candidates": 5
+        }
+      }
+    ],
+    "Best Achievement in Costume Design": [
+      {
+        "name": "Frankenstein",
+        "probability": 0.88,
+        "rationale": {
+          "raw_odds": 0.88,
+          "gd_key": "Frankenstein",
+          "odds_rank": 1,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Hamnet",
+        "probability": 0.07,
+        "rationale": {
+          "raw_odds": 0.07,
+          "gd_key": "Hamnet",
+          "odds_rank": 2,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.03,
+        "rationale": {
+          "raw_odds": 0.03,
+          "gd_key": "Sinners",
+          "odds_rank": 3,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Marty Supreme",
+        "probability": 0.005,
+        "rationale": {
+          "raw_odds": 0.005,
+          "gd_key": "Marty Supreme",
+          "odds_rank": 5,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Avatar: Fire and Ash",
+        "probability": 0.015,
+        "rationale": {
+          "raw_odds": 0.015,
+          "gd_key": "Avatar: Fire and Ash",
+          "odds_rank": 4,
+          "n_candidates": 5
+        }
+      }
+    ],
+    "Best Sound": [
+      {
+        "name": "F1: The Movie",
+        "probability": 0.76,
+        "rationale": {
+          "raw_odds": 0.76,
+          "gd_key": "F1: The Movie",
+          "odds_rank": 1,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Frankenstein",
+        "probability": 0.03,
+        "rationale": {
+          "raw_odds": 0.03,
+          "gd_key": "Frankenstein",
+          "odds_rank": 4,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "One Battle After Another",
+        "probability": 0.08,
+        "rationale": {
+          "raw_odds": 0.08,
+          "gd_key": "One Battle After Another",
+          "odds_rank": 3,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.11,
+        "rationale": {
+          "raw_odds": 0.11,
+          "gd_key": "Sinners",
+          "odds_rank": 2,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Sirat",
+        "probability": 0.02,
+        "rationale": {
+          "raw_odds": 0.02,
+          "gd_key": "Sirat",
+          "odds_rank": 5,
+          "n_candidates": 5
+        }
+      }
+    ],
+    "Best Achievement in Makeup and Hairstyling": [
+      {
+        "name": "Frankenstein",
+        "probability": 0.96,
+        "rationale": {
+          "raw_odds": 0.96,
+          "gd_key": "Frankenstein",
+          "odds_rank": 1,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Kokuho",
+        "probability": 0.01,
+        "rationale": {
+          "raw_odds": 0.01,
+          "gd_key": "Kokuho",
+          "odds_rank": 3,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.003,
+        "rationale": {
+          "raw_odds": 0.003,
+          "gd_key": "Sinners",
+          "odds_rank": 5,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "The Smashing Machine",
+        "probability": 0.007,
+        "rationale": {
+          "raw_odds": 0.007,
+          "gd_key": "The Smashing Machine",
+          "odds_rank": 4,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "The Ugly Stepsister",
+        "probability": 0.02,
+        "rationale": {
+          "raw_odds": 0.02,
+          "gd_key": "The Ugly Stepsister",
+          "odds_rank": 2,
+          "n_candidates": 5
+        }
+      }
+    ],
+    "Best Achievement in Music Written for Motion Pictures (Original Score)": [
+      {
+        "name": "Bugonia",
+        "probability": 0.025,
+        "rationale": {
+          "raw_odds": 0.025,
+          "gd_key": "Bugonia",
+          "odds_rank": 3,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Frankenstein",
+        "probability": 0.015,
+        "rationale": {
+          "raw_odds": 0.015,
+          "gd_key": "Frankenstein",
+          "odds_rank": 4,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Hamnet",
+        "probability": 0.01,
+        "rationale": {
+          "raw_odds": 0.01,
+          "gd_key": "Hamnet",
+          "odds_rank": 5,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.9,
+        "rationale": {
+          "raw_odds": 0.9,
+          "gd_key": "Sinners",
+          "odds_rank": 1,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "One Battle After Another",
+        "probability": 0.05,
+        "rationale": {
+          "raw_odds": 0.05,
+          "gd_key": "One Battle After Another",
+          "odds_rank": 2,
+          "n_candidates": 5
+        }
+      }
+    ],
+    "Best Achievement in Music Written for Motion Pictures (Original Song)": [
+      {
+        "name": "Diane Warren: Relentless",
+        "probability": 0.03,
+        "rationale": {
+          "raw_odds": 0.03,
+          "gd_key": "Diane Warren: Relentless",
+          "odds_rank": 4,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "KPop Demon Hunters",
+        "probability": 0.82,
+        "rationale": {
+          "raw_odds": 0.82,
+          "gd_key": "KPop Demon Hunters",
+          "odds_rank": 1,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.09,
+        "rationale": {
+          "raw_odds": 0.09,
+          "gd_key": "Sinners",
+          "odds_rank": 2,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Viva Verdi!",
+        "probability": 0.05,
+        "rationale": {
+          "raw_odds": 0.05,
+          "gd_key": "Viva Verdi!",
+          "odds_rank": 3,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Train Dreams",
+        "probability": 0.01,
+        "rationale": {
+          "raw_odds": 0.01,
+          "gd_key": "Train Dreams",
+          "odds_rank": 5,
+          "n_candidates": 5
+        }
+      }
+    ],
+    "Best Achievement in Visual Effects": [
+      {
+        "name": "Avatar: Fire and Ash",
+        "probability": 0.76,
+        "rationale": {
+          "raw_odds": 0.76,
+          "gd_key": "Avatar: Fire and Ash",
+          "odds_rank": 1,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "F1: The Movie",
+        "probability": 0.05,
+        "rationale": {
+          "raw_odds": 0.05,
+          "gd_key": "F1: The Movie",
+          "odds_rank": 4,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Jurassic World: Rebirth",
+        "probability": 0.1,
+        "rationale": {
+          "raw_odds": 0.1,
+          "gd_key": "Jurassic World: Rebirth",
+          "odds_rank": 2,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "The Lost Bus",
+        "probability": 0.06,
+        "rationale": {
+          "raw_odds": 0.06,
+          "gd_key": "The Lost Bus",
+          "odds_rank": 3,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.03,
+        "rationale": {
+          "raw_odds": 0.03,
+          "gd_key": "Sinners",
+          "odds_rank": 5,
+          "n_candidates": 5
+        }
+      }
+    ],
+    "Best Documentary Feature": [
+      {
+        "name": "The Alabama Solution",
+        "probability": 0.02,
+        "rationale": {
+          "raw_odds": 0.02,
+          "gd_key": "The Alabama Solution",
+          "odds_rank": 4,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Come See Me in the Good Light",
+        "probability": 0.06,
+        "rationale": {
+          "raw_odds": 0.06,
+          "gd_key": "Come See Me in the Good Light",
+          "odds_rank": 2,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Cutting Through Rocks",
+        "probability": 0.01,
+        "rationale": {
+          "raw_odds": 0.01,
+          "gd_key": "Cutting Through Rocks",
+          "odds_rank": 5,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Mr. Nobody Against Putin",
+        "probability": 0.04,
+        "rationale": {
+          "raw_odds": 0.04,
+          "gd_key": "Mr. Nobody Against Putin",
+          "odds_rank": 3,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "The Perfect Neighbor",
+        "probability": 0.87,
+        "rationale": {
+          "raw_odds": 0.87,
+          "gd_key": "The Perfect Neighbor",
+          "odds_rank": 1,
+          "n_candidates": 5
+        }
+      }
+    ],
+    "Best Animated Feature Film": [
+      {
+        "name": "Arco",
+        "probability": 0.003,
+        "rationale": {
+          "raw_odds": 0.003,
+          "gd_key": "Arco",
+          "odds_rank": 4,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "KPop Demon Hunters",
+        "probability": 0.95,
+        "rationale": {
+          "raw_odds": 0.95,
+          "gd_key": "KPop Demon Hunters",
+          "odds_rank": 1,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Little Am\u00e9lie or the Character of Rain",
+        "probability": 0.002,
+        "rationale": {
+          "raw_odds": 0.002,
+          "gd_key": "Little Am\u00e9lie or the Character of Rain",
+          "odds_rank": 5,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Zootopia 2",
+        "probability": 0.035,
+        "rationale": {
+          "raw_odds": 0.035,
+          "gd_key": "Zootopia 2",
+          "odds_rank": 2,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Elio",
+        "probability": 0.01,
+        "rationale": {
+          "raw_odds": 0.01,
+          "gd_key": "Elio",
+          "odds_rank": 3,
+          "n_candidates": 5
+        }
+      }
+    ],
+    "Best Animated Short Film": [
+      {
+        "name": "Papillon",
+        "probability": 0.26,
+        "rationale": {
+          "raw_odds": 0.26,
+          "gd_key": "Papillon",
+          "odds_rank": 2,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Forevergreen",
+        "probability": 0.16,
+        "rationale": {
+          "raw_odds": 0.16,
+          "gd_key": "Forevergreen",
+          "odds_rank": 4,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "The Girl Who Cried Pearls",
+        "probability": 0.12,
+        "rationale": {
+          "raw_odds": 0.12,
+          "gd_key": "The Girl Who Cried Pearls",
+          "odds_rank": 5,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Retirement Plan",
+        "probability": 0.18,
+        "rationale": {
+          "raw_odds": 0.18,
+          "gd_key": "Retirement Plan",
+          "odds_rank": 3,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "The Three Sisters",
+        "probability": 0.28,
+        "rationale": {
+          "raw_odds": 0.28,
+          "gd_key": "The Three Sisters",
+          "odds_rank": 1,
+          "n_candidates": 5
+        }
+      }
+    ],
+    "Best Live Action Short Film": [
+      {
+        "name": "Butcher's Stain",
+        "probability": 0.12,
+        "rationale": {
+          "raw_odds": 0.12,
+          "gd_key": "Butcher's Stain",
+          "odds_rank": 4,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "A Friend of Dorothy",
+        "probability": 0.35,
+        "rationale": {
+          "raw_odds": 0.35,
+          "gd_key": "A Friend of Dorothy",
+          "odds_rank": 1,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Jane Austen's Period Drama",
+        "probability": 0.25,
+        "rationale": {
+          "raw_odds": 0.25,
+          "gd_key": "Jane Austen's Period Drama",
+          "odds_rank": 2,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "The Singers",
+        "probability": 0.2,
+        "rationale": {
+          "raw_odds": 0.2,
+          "gd_key": "The Singers",
+          "odds_rank": 3,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Two People Exchanging Saliva",
+        "probability": 0.08,
+        "rationale": {
+          "raw_odds": 0.08,
+          "gd_key": "Two People Exchanging Saliva",
+          "odds_rank": 5,
+          "n_candidates": 5
+        }
+      }
+    ],
+    "Best Documentary Short Film": [
+      {
+        "name": "All the Empty Rooms",
+        "probability": 0.28,
+        "rationale": {
+          "raw_odds": 0.28,
+          "gd_key": "All the Empty Rooms",
+          "odds_rank": 2,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Armed Only with a Camera: The Life and Death of Brent Renaud",
+        "probability": 0.35,
+        "rationale": {
+          "raw_odds": 0.35,
+          "gd_key": "Armed Only with a Camera: The Life and Death of Brent Renaud",
+          "odds_rank": 1,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Children No More: Were and Are Gone",
+        "probability": 0.07,
+        "rationale": {
+          "raw_odds": 0.07,
+          "gd_key": "Children No More: Were and Are Gone",
+          "odds_rank": 5,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "The Devil Is Busy",
+        "probability": 0.18,
+        "rationale": {
+          "raw_odds": 0.18,
+          "gd_key": "The Devil Is Busy",
+          "odds_rank": 3,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Perfectly a Strangeness",
+        "probability": 0.12,
+        "rationale": {
+          "raw_odds": 0.12,
+          "gd_key": "Perfectly a Strangeness",
+          "odds_rank": 4,
+          "n_candidates": 5
+        }
+      }
+    ],
+    "Best International Feature Film": [
+      {
+        "name": "The Secret Agent",
+        "probability": 0.34,
+        "rationale": {
+          "raw_odds": 0.34,
+          "gd_key": "The Secret Agent",
+          "odds_rank": 2,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "It Was Just an Accident",
+        "probability": 0.05,
+        "rationale": {
+          "raw_odds": 0.05,
+          "gd_key": "It Was Just an Accident",
+          "odds_rank": 4,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Sentimental Value",
+        "probability": 0.48,
+        "rationale": {
+          "raw_odds": 0.48,
+          "gd_key": "Sentimental Value",
+          "odds_rank": 1,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Sirat",
+        "probability": 0.03,
+        "rationale": {
+          "raw_odds": 0.03,
+          "gd_key": "Sirat",
+          "odds_rank": 5,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "The Voice of Hind Rajab",
+        "probability": 0.1,
+        "rationale": {
+          "raw_odds": 0.1,
+          "gd_key": "The Voice of Hind Rajab",
+          "odds_rank": 3,
+          "n_candidates": 5
+        }
+      }
+    ],
+    "Best Casting": [
+      {
+        "name": "Hamnet",
+        "probability": 0.1,
+        "rationale": {
+          "raw_odds": 0.1,
+          "gd_key": "Hamnet",
+          "odds_rank": 3,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Marty Supreme",
+        "probability": 0.08,
+        "rationale": {
+          "raw_odds": 0.08,
+          "gd_key": "Marty Supreme",
+          "odds_rank": 4,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "One Battle After Another",
+        "probability": 0.22,
+        "rationale": {
+          "raw_odds": 0.22,
+          "gd_key": "One Battle After Another",
+          "odds_rank": 2,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "The Secret Agent",
+        "probability": 0.05,
+        "rationale": {
+          "raw_odds": 0.05,
+          "gd_key": "The Secret Agent",
+          "odds_rank": 5,
+          "n_candidates": 5
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.55,
+        "rationale": {
+          "raw_odds": 0.55,
+          "gd_key": "Sinners",
+          "odds_rank": 1,
+          "n_candidates": 5
+        }
+      }
+    ]
+  }
+}

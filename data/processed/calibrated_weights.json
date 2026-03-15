@@ -1,0 +1,4094 @@
+{
+  "Golden Globes, USA::picture::N": {
+    "weight": 0.1325,
+    "hits": 10,
+    "total": 81,
+    "note": "P(Oscar|N) = (10+1)/(81+2)"
+  },
+  "Golden Globes, USA::picture::W": {
+    "weight": 0.2368,
+    "hits": 8,
+    "total": 36,
+    "note": "P(Oscar|W) = (8+1)/(36+2)"
+  },
+  "Golden Globes, USA::director::W": {
+    "weight": 0.6,
+    "hits": 11,
+    "total": 18,
+    "note": "P(Oscar|W) = (11+1)/(18+2)"
+  },
+  "Golden Globes, USA::director::N": {
+    "weight": 0.1915,
+    "hits": 8,
+    "total": 45,
+    "note": "P(Oscar|N) = (8+1)/(45+2)"
+  },
+  "Golden Globes, USA::actor::W": {
+    "weight": 0.5152,
+    "hits": 16,
+    "total": 31,
+    "note": "P(Oscar|W) = (16+1)/(31+2)"
+  },
+  "Golden Globes, USA::actor::N": {
+    "weight": 0.0741,
+    "hits": 3,
+    "total": 52,
+    "note": "P(Oscar|N) = (3+1)/(52+2)"
+  },
+  "Golden Globes, USA::actress::W": {
+    "weight": 0.5143,
+    "hits": 17,
+    "total": 33,
+    "note": "P(Oscar|W) = (17+1)/(33+2)"
+  },
+  "Golden Globes, USA::actress::N": {
+    "weight": 0.0877,
+    "hits": 4,
+    "total": 55,
+    "note": "P(Oscar|N) = (4+1)/(55+2)"
+  },
+  "Golden Globes, USA::supp_actor::N": {
+    "weight": 0.1154,
+    "hits": 5,
+    "total": 50,
+    "note": "P(Oscar|N) = (5+1)/(50+2)"
+  },
+  "Golden Globes, USA::supp_actor::W": {
+    "weight": 0.625,
+    "hits": 14,
+    "total": 22,
+    "note": "P(Oscar|W) = (14+1)/(22+2)"
+  },
+  "Golden Globes, USA::supp_actress::N": {
+    "weight": 0.1475,
+    "hits": 8,
+    "total": 59,
+    "note": "P(Oscar|N) = (8+1)/(59+2)"
+  },
+  "Golden Globes, USA::supp_actress::W": {
+    "weight": 0.619,
+    "hits": 12,
+    "total": 19,
+    "note": "P(Oscar|W) = (12+1)/(19+2)"
+  },
+  "Golden Globes, USA::score::N": {
+    "weight": 0.1818,
+    "hits": 7,
+    "total": 42,
+    "note": "P(Oscar|N) = (7+1)/(42+2)"
+  },
+  "Golden Globes, USA::score::W": {
+    "weight": 0.65,
+    "hits": 12,
+    "total": 18,
+    "note": "P(Oscar|W) = (12+1)/(18+2)"
+  },
+  "Golden Globes, USA::song::N": {
+    "weight": 0.0968,
+    "hits": 2,
+    "total": 29,
+    "note": "P(Oscar|N) = (2+1)/(29+2)"
+  },
+  "Golden Globes, USA::song::W": {
+    "weight": 0.7143,
+    "hits": 9,
+    "total": 12,
+    "note": "P(Oscar|W) = (9+1)/(12+2)"
+  },
+  "Golden Globes, USA::international::W": {
+    "weight": 0.5455,
+    "hits": 5,
+    "total": 9,
+    "note": "P(Oscar|W) = (5+1)/(9+2)"
+  },
+  "Golden Globes, USA::international::N": {
+    "weight": 0.2667,
+    "hits": 3,
+    "total": 13,
+    "note": "P(Oscar|N) = (3+1)/(13+2)"
+  },
+  "Golden Globes, USA::animated::W": {
+    "weight": 0.6667,
+    "hits": 3,
+    "total": 4,
+    "note": "P(Oscar|W) = (3+1)/(4+2)"
+  },
+  "Golden Globes, USA::animated::N": {
+    "weight": 0.2308,
+    "hits": 2,
+    "total": 11,
+    "note": "P(Oscar|N) = (2+1)/(11+2)"
+  },
+  "New York Film Critics Circle Awards::picture::N": {
+    "weight": 0.4,
+    "hits": 5,
+    "total": 13,
+    "note": "P(Oscar|N) = (5+1)/(13+2)"
+  },
+  "New York Film Critics Circle Awards::picture::W": {
+    "weight": 0.25,
+    "hits": 3,
+    "total": 14,
+    "note": "P(Oscar|W) = (3+1)/(14+2)"
+  },
+  "New York Film Critics Circle Awards::director::W": {
+    "weight": 0.6429,
+    "hits": 8,
+    "total": 12,
+    "note": "P(Oscar|W) = (8+1)/(12+2)"
+  },
+  "New York Film Critics Circle Awards::director::N": {
+    "weight": 0.1818,
+    "hits": 1,
+    "total": 9,
+    "note": "P(Oscar|N) = (1+1)/(9+2)"
+  },
+  "New York Film Critics Circle Awards::actor::N": {
+    "weight": 0.3571,
+    "hits": 4,
+    "total": 12,
+    "note": "P(Oscar|N) = (4+1)/(12+2)"
+  },
+  "New York Film Critics Circle Awards::actor::W": {
+    "weight": 0.5385,
+    "hits": 6,
+    "total": 11,
+    "note": "P(Oscar|W) = (6+1)/(11+2)"
+  },
+  "New York Film Critics Circle Awards::actress::N": {
+    "weight": 0.1765,
+    "hits": 2,
+    "total": 15,
+    "note": "P(Oscar|N) = (2+1)/(15+2)"
+  },
+  "New York Film Critics Circle Awards::actress::W": {
+    "weight": 0.3571,
+    "hits": 4,
+    "total": 12,
+    "note": "P(Oscar|W) = (4+1)/(12+2)"
+  },
+  "New York Film Critics Circle Awards::supp_actor::W": {
+    "weight": 0.4118,
+    "hits": 6,
+    "total": 15,
+    "note": "P(Oscar|W) = (6+1)/(15+2)"
+  },
+  "New York Film Critics Circle Awards::supp_actor::N": {
+    "weight": 0.4167,
+    "hits": 4,
+    "total": 10,
+    "note": "P(Oscar|N) = (4+1)/(10+2)"
+  },
+  "New York Film Critics Circle Awards::supp_actress::W": {
+    "weight": 0.4737,
+    "hits": 8,
+    "total": 17,
+    "note": "P(Oscar|W) = (8+1)/(17+2)"
+  },
+  "New York Film Critics Circle Awards::supp_actress::N": {
+    "weight": 0.2727,
+    "hits": 2,
+    "total": 9,
+    "note": "P(Oscar|N) = (2+1)/(9+2)"
+  },
+  "New York Film Critics Circle Awards::international::N": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|N) = (1+1)/(2+2)"
+  },
+  "New York Film Critics Circle Awards::international::W": {
+    "weight": 0.625,
+    "hits": 4,
+    "total": 6,
+    "note": "P(Oscar|W) = (4+1)/(6+2)"
+  },
+  "PGA Awards::picture::N": {
+    "weight": 0.0625,
+    "hits": 6,
+    "total": 110,
+    "note": "P(Oscar|N) = (6+1)/(110+2)"
+  },
+  "PGA Awards::picture::W": {
+    "weight": 0.6364,
+    "hits": 13,
+    "total": 20,
+    "note": "P(Oscar|W) = (13+1)/(20+2)"
+  },
+  "PGA Awards::animated::W": {
+    "weight": 0.8333,
+    "hits": 14,
+    "total": 16,
+    "note": "P(Oscar|W) = (14+1)/(16+2)"
+  },
+  "PGA Awards::animated::N": {
+    "weight": 0.122,
+    "hits": 4,
+    "total": 39,
+    "note": "P(Oscar|N) = (4+1)/(39+2)"
+  },
+  "PGA Awards::documentary::W": {
+    "weight": 0.8182,
+    "hits": 8,
+    "total": 9,
+    "note": "P(Oscar|W) = (8+1)/(9+2)"
+  },
+  "PGA Awards::documentary::N": {
+    "weight": 0.1905,
+    "hits": 3,
+    "total": 19,
+    "note": "P(Oscar|N) = (3+1)/(19+2)"
+  },
+  "Los Angeles Film Critics Association Awards::picture::N": {
+    "weight": 0.2727,
+    "hits": 2,
+    "total": 9,
+    "note": "P(Oscar|N) = (2+1)/(9+2)"
+  },
+  "Los Angeles Film Critics Association Awards::picture::W": {
+    "weight": 0.2778,
+    "hits": 4,
+    "total": 16,
+    "note": "P(Oscar|W) = (4+1)/(16+2)"
+  },
+  "Los Angeles Film Critics Association Awards::director::N": {
+    "weight": 0.3636,
+    "hits": 3,
+    "total": 9,
+    "note": "P(Oscar|N) = (3+1)/(9+2)"
+  },
+  "Los Angeles Film Critics Association Awards::director::W": {
+    "weight": 0.4706,
+    "hits": 7,
+    "total": 15,
+    "note": "P(Oscar|W) = (7+1)/(15+2)"
+  },
+  "Los Angeles Film Critics Association Awards::actress::W": {
+    "weight": 0.4615,
+    "hits": 5,
+    "total": 11,
+    "note": "P(Oscar|W) = (5+1)/(11+2)"
+  },
+  "Los Angeles Film Critics Association Awards::actress::N": {
+    "weight": 0.2727,
+    "hits": 2,
+    "total": 9,
+    "note": "P(Oscar|N) = (2+1)/(9+2)"
+  },
+  "Los Angeles Film Critics Association Awards::supp_actor::N": {
+    "weight": 0.3846,
+    "hits": 4,
+    "total": 11,
+    "note": "P(Oscar|N) = (4+1)/(11+2)"
+  },
+  "Los Angeles Film Critics Association Awards::supp_actor::W": {
+    "weight": 0.6364,
+    "hits": 6,
+    "total": 9,
+    "note": "P(Oscar|W) = (6+1)/(9+2)"
+  },
+  "Los Angeles Film Critics Association Awards::supp_actress::N": {
+    "weight": 0.25,
+    "hits": 3,
+    "total": 14,
+    "note": "P(Oscar|N) = (3+1)/(14+2)"
+  },
+  "Los Angeles Film Critics Association Awards::supp_actress::W": {
+    "weight": 0.5,
+    "hits": 7,
+    "total": 14,
+    "note": "P(Oscar|W) = (7+1)/(14+2)"
+  },
+  "Los Angeles Film Critics Association Awards::cinematography::N": {
+    "weight": 0.5,
+    "hits": 6,
+    "total": 12,
+    "note": "P(Oscar|N) = (6+1)/(12+2)"
+  },
+  "Los Angeles Film Critics Association Awards::cinematography::W": {
+    "weight": 0.2667,
+    "hits": 3,
+    "total": 13,
+    "note": "P(Oscar|W) = (3+1)/(13+2)"
+  },
+  "Los Angeles Film Critics Association Awards::production_design::W": {
+    "weight": 0.5714,
+    "hits": 7,
+    "total": 12,
+    "note": "P(Oscar|W) = (7+1)/(12+2)"
+  },
+  "Los Angeles Film Critics Association Awards::production_design::N": {
+    "weight": 0.4545,
+    "hits": 4,
+    "total": 9,
+    "note": "P(Oscar|N) = (4+1)/(9+2)"
+  },
+  "Los Angeles Film Critics Association Awards::documentary::W": {
+    "weight": 0.5714,
+    "hits": 7,
+    "total": 12,
+    "note": "P(Oscar|W) = (7+1)/(12+2)"
+  },
+  "Los Angeles Film Critics Association Awards::documentary::N": {
+    "weight": 0.2727,
+    "hits": 2,
+    "total": 9,
+    "note": "P(Oscar|N) = (2+1)/(9+2)"
+  },
+  "Los Angeles Film Critics Association Awards::actor::W": {
+    "weight": 0.5,
+    "hits": 6,
+    "total": 12,
+    "note": "P(Oscar|W) = (6+1)/(12+2)"
+  },
+  "Los Angeles Film Critics Association Awards::actor::N": {
+    "weight": 0.2,
+    "hits": 1,
+    "total": 8,
+    "note": "P(Oscar|N) = (1+1)/(8+2)"
+  },
+  "Los Angeles Film Critics Association Awards::editing::N": {
+    "weight": 0.375,
+    "hits": 2,
+    "total": 6,
+    "note": "P(Oscar|N) = (2+1)/(6+2)"
+  },
+  "Los Angeles Film Critics Association Awards::editing::W": {
+    "weight": 0.4444,
+    "hits": 3,
+    "total": 7,
+    "note": "P(Oscar|W) = (3+1)/(7+2)"
+  },
+  "National Society of Film Critics Awards, USA::picture::W": {
+    "weight": 0.4118,
+    "hits": 6,
+    "total": 15,
+    "note": "P(Oscar|W) = (6+1)/(15+2)"
+  },
+  "National Society of Film Critics Awards, USA::picture::N": {
+    "weight": 0.2222,
+    "hits": 5,
+    "total": 25,
+    "note": "P(Oscar|N) = (5+1)/(25+2)"
+  },
+  "National Society of Film Critics Awards, USA::director::N": {
+    "weight": 0.4583,
+    "hits": 10,
+    "total": 22,
+    "note": "P(Oscar|N) = (10+1)/(22+2)"
+  },
+  "National Society of Film Critics Awards, USA::director::W": {
+    "weight": 0.2667,
+    "hits": 3,
+    "total": 13,
+    "note": "P(Oscar|W) = (3+1)/(13+2)"
+  },
+  "National Society of Film Critics Awards, USA::actor::W": {
+    "weight": 0.5,
+    "hits": 7,
+    "total": 14,
+    "note": "P(Oscar|W) = (7+1)/(14+2)"
+  },
+  "National Society of Film Critics Awards, USA::actor::N": {
+    "weight": 0.2222,
+    "hits": 5,
+    "total": 25,
+    "note": "P(Oscar|N) = (5+1)/(25+2)"
+  },
+  "National Society of Film Critics Awards, USA::actress::W": {
+    "weight": 0.3889,
+    "hits": 6,
+    "total": 16,
+    "note": "P(Oscar|W) = (6+1)/(16+2)"
+  },
+  "National Society of Film Critics Awards, USA::actress::N": {
+    "weight": 0.4091,
+    "hits": 8,
+    "total": 20,
+    "note": "P(Oscar|N) = (8+1)/(20+2)"
+  },
+  "National Society of Film Critics Awards, USA::supp_actor::N": {
+    "weight": 0.2778,
+    "hits": 9,
+    "total": 34,
+    "note": "P(Oscar|N) = (9+1)/(34+2)"
+  },
+  "National Society of Film Critics Awards, USA::supp_actor::W": {
+    "weight": 0.5,
+    "hits": 7,
+    "total": 14,
+    "note": "P(Oscar|W) = (7+1)/(14+2)"
+  },
+  "National Society of Film Critics Awards, USA::supp_actress::N": {
+    "weight": 0.375,
+    "hits": 11,
+    "total": 30,
+    "note": "P(Oscar|N) = (11+1)/(30+2)"
+  },
+  "National Society of Film Critics Awards, USA::supp_actress::W": {
+    "weight": 0.3684,
+    "hits": 6,
+    "total": 17,
+    "note": "P(Oscar|W) = (6+1)/(17+2)"
+  },
+  "National Society of Film Critics Awards, USA::cinematography::W": {
+    "weight": 0.3529,
+    "hits": 5,
+    "total": 15,
+    "note": "P(Oscar|W) = (5+1)/(15+2)"
+  },
+  "National Society of Film Critics Awards, USA::cinematography::N": {
+    "weight": 0.28,
+    "hits": 6,
+    "total": 23,
+    "note": "P(Oscar|N) = (6+1)/(23+2)"
+  },
+  "National Society of Film Critics Awards, USA::production_design::N": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|N) = (1+1)/(1+2)"
+  },
+  "National Society of Film Critics Awards, USA::international::W": {
+    "weight": 0.5,
+    "hits": 2,
+    "total": 4,
+    "note": "P(Oscar|W) = (2+1)/(4+2)"
+  },
+  "National Society of Film Critics Awards, USA::international::N": {
+    "weight": 0.4,
+    "hits": 1,
+    "total": 3,
+    "note": "P(Oscar|N) = (1+1)/(3+2)"
+  },
+  "Dallas-Fort Worth Film Critics Association Awards::picture::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "Dallas-Fort Worth Film Critics Association Awards::picture::N": {
+    "weight": 0.0909,
+    "hits": 0,
+    "total": 9,
+    "note": "P(Oscar|N) = (0+1)/(9+2)"
+  },
+  "Dallas-Fort Worth Film Critics Association Awards::director::N": {
+    "weight": 0.25,
+    "hits": 1,
+    "total": 6,
+    "note": "P(Oscar|N) = (1+1)/(6+2)"
+  },
+  "Dallas-Fort Worth Film Critics Association Awards::director::W": {
+    "weight": 0.6,
+    "hits": 2,
+    "total": 3,
+    "note": "P(Oscar|W) = (2+1)/(3+2)"
+  },
+  "Dallas-Fort Worth Film Critics Association Awards::actor::N": {
+    "weight": 0.3636,
+    "hits": 3,
+    "total": 9,
+    "note": "P(Oscar|N) = (3+1)/(9+2)"
+  },
+  "Dallas-Fort Worth Film Critics Association Awards::actor::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "Dallas-Fort Worth Film Critics Association Awards::actress::W": {
+    "weight": 0.4,
+    "hits": 1,
+    "total": 3,
+    "note": "P(Oscar|W) = (1+1)/(3+2)"
+  },
+  "Dallas-Fort Worth Film Critics Association Awards::actress::N": {
+    "weight": 0.1538,
+    "hits": 1,
+    "total": 11,
+    "note": "P(Oscar|N) = (1+1)/(11+2)"
+  },
+  "Dallas-Fort Worth Film Critics Association Awards::supp_actor::N": {
+    "weight": 0.2222,
+    "hits": 1,
+    "total": 7,
+    "note": "P(Oscar|N) = (1+1)/(7+2)"
+  },
+  "Dallas-Fort Worth Film Critics Association Awards::supp_actor::W": {
+    "weight": 0.4,
+    "hits": 1,
+    "total": 3,
+    "note": "P(Oscar|W) = (1+1)/(3+2)"
+  },
+  "Dallas-Fort Worth Film Critics Association Awards::supp_actress::N": {
+    "weight": 0.2727,
+    "hits": 2,
+    "total": 9,
+    "note": "P(Oscar|N) = (2+1)/(9+2)"
+  },
+  "Dallas-Fort Worth Film Critics Association Awards::supp_actress::W": {
+    "weight": 0.25,
+    "hits": 0,
+    "total": 2,
+    "note": "P(Oscar|W) = (0+1)/(2+2)"
+  },
+  "Dallas-Fort Worth Film Critics Association Awards::cinematography::N": {
+    "weight": 0.2857,
+    "hits": 1,
+    "total": 5,
+    "note": "P(Oscar|N) = (1+1)/(5+2)"
+  },
+  "Dallas-Fort Worth Film Critics Association Awards::cinematography::W": {
+    "weight": 0.8,
+    "hits": 3,
+    "total": 3,
+    "note": "P(Oscar|W) = (3+1)/(3+2)"
+  },
+  "Dallas-Fort Worth Film Critics Association Awards::documentary::N": {
+    "weight": 0.2,
+    "hits": 0,
+    "total": 3,
+    "note": "P(Oscar|N) = (0+1)/(3+2)"
+  },
+  "Dallas-Fort Worth Film Critics Association Awards::documentary::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "Dallas-Fort Worth Film Critics Association Awards::international::N": {
+    "weight": 0.3333,
+    "hits": 1,
+    "total": 4,
+    "note": "P(Oscar|N) = (1+1)/(4+2)"
+  },
+  "Broadcast Film Critics Association Awards::picture::N": {
+    "weight": 0.0762,
+    "hits": 7,
+    "total": 103,
+    "note": "P(Oscar|N) = (7+1)/(103+2)"
+  },
+  "Broadcast Film Critics Association Awards::picture::W": {
+    "weight": 0.5789,
+    "hits": 10,
+    "total": 17,
+    "note": "P(Oscar|W) = (10+1)/(17+2)"
+  },
+  "Broadcast Film Critics Association Awards::director::N": {
+    "weight": 0.1224,
+    "hits": 5,
+    "total": 47,
+    "note": "P(Oscar|N) = (5+1)/(47+2)"
+  },
+  "Broadcast Film Critics Association Awards::director::W": {
+    "weight": 0.6842,
+    "hits": 12,
+    "total": 17,
+    "note": "P(Oscar|W) = (12+1)/(17+2)"
+  },
+  "Broadcast Film Critics Association Awards::actor::W": {
+    "weight": 0.6087,
+    "hits": 13,
+    "total": 21,
+    "note": "P(Oscar|W) = (13+1)/(21+2)"
+  },
+  "Broadcast Film Critics Association Awards::actor::N": {
+    "weight": 0.0833,
+    "hits": 4,
+    "total": 58,
+    "note": "P(Oscar|N) = (4+1)/(58+2)"
+  },
+  "Broadcast Film Critics Association Awards::actress::W": {
+    "weight": 0.4643,
+    "hits": 12,
+    "total": 26,
+    "note": "P(Oscar|W) = (12+1)/(26+2)"
+  },
+  "Broadcast Film Critics Association Awards::actress::N": {
+    "weight": 0.1167,
+    "hits": 6,
+    "total": 58,
+    "note": "P(Oscar|N) = (6+1)/(58+2)"
+  },
+  "Broadcast Film Critics Association Awards::supp_actor::N": {
+    "weight": 0.0909,
+    "hits": 4,
+    "total": 53,
+    "note": "P(Oscar|N) = (4+1)/(53+2)"
+  },
+  "Broadcast Film Critics Association Awards::supp_actor::W": {
+    "weight": 0.619,
+    "hits": 12,
+    "total": 19,
+    "note": "P(Oscar|W) = (12+1)/(19+2)"
+  },
+  "Broadcast Film Critics Association Awards::supp_actress::N": {
+    "weight": 0.1452,
+    "hits": 8,
+    "total": 60,
+    "note": "P(Oscar|N) = (8+1)/(60+2)"
+  },
+  "Broadcast Film Critics Association Awards::supp_actress::W": {
+    "weight": 0.619,
+    "hits": 12,
+    "total": 19,
+    "note": "P(Oscar|W) = (12+1)/(19+2)"
+  },
+  "Broadcast Film Critics Association Awards::sound::W": {
+    "weight": 0.5556,
+    "hits": 4,
+    "total": 7,
+    "note": "P(Oscar|W) = (4+1)/(7+2)"
+  },
+  "Broadcast Film Critics Association Awards::sound::N": {
+    "weight": 0.3571,
+    "hits": 4,
+    "total": 12,
+    "note": "P(Oscar|N) = (4+1)/(12+2)"
+  },
+  "Broadcast Film Critics Association Awards::song::N": {
+    "weight": 0.1667,
+    "hits": 5,
+    "total": 34,
+    "note": "P(Oscar|N) = (5+1)/(34+2)"
+  },
+  "Broadcast Film Critics Association Awards::song::W": {
+    "weight": 0.75,
+    "hits": 11,
+    "total": 14,
+    "note": "P(Oscar|W) = (11+1)/(14+2)"
+  },
+  "Broadcast Film Critics Association Awards::documentary::N": {
+    "weight": 0.2667,
+    "hits": 3,
+    "total": 13,
+    "note": "P(Oscar|N) = (3+1)/(13+2)"
+  },
+  "Broadcast Film Critics Association Awards::documentary::W": {
+    "weight": 0.8,
+    "hits": 7,
+    "total": 8,
+    "note": "P(Oscar|W) = (7+1)/(8+2)"
+  },
+  "Broadcast Film Critics Association Awards::animated::W": {
+    "weight": 0.8235,
+    "hits": 13,
+    "total": 15,
+    "note": "P(Oscar|W) = (13+1)/(15+2)"
+  },
+  "Broadcast Film Critics Association Awards::animated::N": {
+    "weight": 0.1,
+    "hits": 3,
+    "total": 38,
+    "note": "P(Oscar|N) = (3+1)/(38+2)"
+  },
+  "Broadcast Film Critics Association Awards::international::N": {
+    "weight": 0.2308,
+    "hits": 5,
+    "total": 24,
+    "note": "P(Oscar|N) = (5+1)/(24+2)"
+  },
+  "Broadcast Film Critics Association Awards::international::W": {
+    "weight": 0.75,
+    "hits": 5,
+    "total": 6,
+    "note": "P(Oscar|W) = (5+1)/(6+2)"
+  },
+  "Broadcast Film Critics Association Awards::original_screenplay::N": {
+    "weight": 0.1053,
+    "hits": 3,
+    "total": 36,
+    "note": "P(Oscar|N) = (3+1)/(36+2)"
+  },
+  "Broadcast Film Critics Association Awards::original_screenplay::W": {
+    "weight": 0.6667,
+    "hits": 9,
+    "total": 13,
+    "note": "P(Oscar|W) = (9+1)/(13+2)"
+  },
+  "Broadcast Film Critics Association Awards::adapted_screenplay::N": {
+    "weight": 0.2051,
+    "hits": 7,
+    "total": 37,
+    "note": "P(Oscar|N) = (7+1)/(37+2)"
+  },
+  "Broadcast Film Critics Association Awards::adapted_screenplay::W": {
+    "weight": 0.3846,
+    "hits": 4,
+    "total": 11,
+    "note": "P(Oscar|W) = (4+1)/(11+2)"
+  },
+  "Broadcast Film Critics Association Awards::cinematography::W": {
+    "weight": 0.8,
+    "hits": 11,
+    "total": 13,
+    "note": "P(Oscar|W) = (11+1)/(13+2)"
+  },
+  "Broadcast Film Critics Association Awards::cinematography::N": {
+    "weight": 0.0588,
+    "hits": 1,
+    "total": 32,
+    "note": "P(Oscar|N) = (1+1)/(32+2)"
+  },
+  "Broadcast Film Critics Association Awards::editing::N": {
+    "weight": 0.2188,
+    "hits": 6,
+    "total": 30,
+    "note": "P(Oscar|N) = (6+1)/(30+2)"
+  },
+  "Broadcast Film Critics Association Awards::editing::W": {
+    "weight": 0.5385,
+    "hits": 6,
+    "total": 11,
+    "note": "P(Oscar|W) = (6+1)/(11+2)"
+  },
+  "Broadcast Film Critics Association Awards::production_design::W": {
+    "weight": 0.6667,
+    "hits": 9,
+    "total": 13,
+    "note": "P(Oscar|W) = (9+1)/(13+2)"
+  },
+  "Broadcast Film Critics Association Awards::production_design::N": {
+    "weight": 0.1026,
+    "hits": 3,
+    "total": 37,
+    "note": "P(Oscar|N) = (3+1)/(37+2)"
+  },
+  "Broadcast Film Critics Association Awards::costume::W": {
+    "weight": 0.8462,
+    "hits": 10,
+    "total": 11,
+    "note": "P(Oscar|W) = (10+1)/(11+2)"
+  },
+  "Broadcast Film Critics Association Awards::costume::N": {
+    "weight": 0.0857,
+    "hits": 2,
+    "total": 33,
+    "note": "P(Oscar|N) = (2+1)/(33+2)"
+  },
+  "Broadcast Film Critics Association Awards::makeup::N": {
+    "weight": 0.2353,
+    "hits": 3,
+    "total": 15,
+    "note": "P(Oscar|N) = (3+1)/(15+2)"
+  },
+  "Broadcast Film Critics Association Awards::makeup::W": {
+    "weight": 0.6667,
+    "hits": 5,
+    "total": 7,
+    "note": "P(Oscar|W) = (5+1)/(7+2)"
+  },
+  "Broadcast Film Critics Association Awards::score::W": {
+    "weight": 0.7692,
+    "hits": 9,
+    "total": 11,
+    "note": "P(Oscar|W) = (9+1)/(11+2)"
+  },
+  "Broadcast Film Critics Association Awards::score::N": {
+    "weight": 0.1176,
+    "hits": 3,
+    "total": 32,
+    "note": "P(Oscar|N) = (3+1)/(32+2)"
+  },
+  "Broadcast Film Critics Association Awards::visual_effects::W": {
+    "weight": 0.5385,
+    "hits": 6,
+    "total": 11,
+    "note": "P(Oscar|W) = (6+1)/(11+2)"
+  },
+  "Broadcast Film Critics Association Awards::visual_effects::N": {
+    "weight": 0.25,
+    "hits": 6,
+    "total": 26,
+    "note": "P(Oscar|N) = (6+1)/(26+2)"
+  },
+  "BAFTA Awards::picture::N": {
+    "weight": 0.1549,
+    "hits": 10,
+    "total": 69,
+    "note": "P(Oscar|N) = (10+1)/(69+2)"
+  },
+  "BAFTA Awards::picture::W": {
+    "weight": 0.4,
+    "hits": 9,
+    "total": 23,
+    "note": "P(Oscar|W) = (9+1)/(23+2)"
+  },
+  "BAFTA Awards::actor::W": {
+    "weight": 0.7619,
+    "hits": 15,
+    "total": 19,
+    "note": "P(Oscar|W) = (15+1)/(19+2)"
+  },
+  "BAFTA Awards::actor::N": {
+    "weight": 0.0893,
+    "hits": 4,
+    "total": 54,
+    "note": "P(Oscar|N) = (4+1)/(54+2)"
+  },
+  "BAFTA Awards::actress::W": {
+    "weight": 0.75,
+    "hits": 14,
+    "total": 18,
+    "note": "P(Oscar|W) = (14+1)/(18+2)"
+  },
+  "BAFTA Awards::actress::N": {
+    "weight": 0.0698,
+    "hits": 2,
+    "total": 41,
+    "note": "P(Oscar|N) = (2+1)/(41+2)"
+  },
+  "BAFTA Awards::supp_actor::N": {
+    "weight": 0.1429,
+    "hits": 6,
+    "total": 47,
+    "note": "P(Oscar|N) = (6+1)/(47+2)"
+  },
+  "BAFTA Awards::supp_actor::W": {
+    "weight": 0.5652,
+    "hits": 12,
+    "total": 21,
+    "note": "P(Oscar|W) = (12+1)/(21+2)"
+  },
+  "BAFTA Awards::supp_actress::W": {
+    "weight": 0.619,
+    "hits": 12,
+    "total": 19,
+    "note": "P(Oscar|W) = (12+1)/(19+2)"
+  },
+  "BAFTA Awards::supp_actress::N": {
+    "weight": 0.1224,
+    "hits": 5,
+    "total": 47,
+    "note": "P(Oscar|N) = (5+1)/(47+2)"
+  },
+  "BAFTA Awards::original_screenplay::W": {
+    "weight": 0.5714,
+    "hits": 11,
+    "total": 19,
+    "note": "P(Oscar|W) = (11+1)/(19+2)"
+  },
+  "BAFTA Awards::original_screenplay::N": {
+    "weight": 0.1667,
+    "hits": 7,
+    "total": 46,
+    "note": "P(Oscar|N) = (7+1)/(46+2)"
+  },
+  "BAFTA Awards::adapted_screenplay::W": {
+    "weight": 0.55,
+    "hits": 10,
+    "total": 18,
+    "note": "P(Oscar|W) = (10+1)/(18+2)"
+  },
+  "BAFTA Awards::adapted_screenplay::N": {
+    "weight": 0.1481,
+    "hits": 7,
+    "total": 52,
+    "note": "P(Oscar|N) = (7+1)/(52+2)"
+  },
+  "BAFTA Awards::cinematography::N": {
+    "weight": 0.1429,
+    "hits": 6,
+    "total": 47,
+    "note": "P(Oscar|N) = (6+1)/(47+2)"
+  },
+  "BAFTA Awards::cinematography::W": {
+    "weight": 0.6667,
+    "hits": 13,
+    "total": 19,
+    "note": "P(Oscar|W) = (13+1)/(19+2)"
+  },
+  "BAFTA Awards::editing::N": {
+    "weight": 0.1915,
+    "hits": 8,
+    "total": 45,
+    "note": "P(Oscar|N) = (8+1)/(45+2)"
+  },
+  "BAFTA Awards::editing::W": {
+    "weight": 0.6667,
+    "hits": 11,
+    "total": 16,
+    "note": "P(Oscar|W) = (11+1)/(16+2)"
+  },
+  "BAFTA Awards::production_design::W": {
+    "weight": 0.4762,
+    "hits": 9,
+    "total": 19,
+    "note": "P(Oscar|W) = (9+1)/(19+2)"
+  },
+  "BAFTA Awards::production_design::N": {
+    "weight": 0.1875,
+    "hits": 8,
+    "total": 46,
+    "note": "P(Oscar|N) = (8+1)/(46+2)"
+  },
+  "BAFTA Awards::costume::N": {
+    "weight": 0.0962,
+    "hits": 4,
+    "total": 50,
+    "note": "P(Oscar|N) = (4+1)/(50+2)"
+  },
+  "BAFTA Awards::costume::W": {
+    "weight": 0.7,
+    "hits": 13,
+    "total": 18,
+    "note": "P(Oscar|W) = (13+1)/(18+2)"
+  },
+  "BAFTA Awards::sound::N": {
+    "weight": 0.1529,
+    "hits": 12,
+    "total": 83,
+    "note": "P(Oscar|N) = (12+1)/(83+2)"
+  },
+  "BAFTA Awards::sound::W": {
+    "weight": 0.6765,
+    "hits": 22,
+    "total": 32,
+    "note": "P(Oscar|W) = (22+1)/(32+2)"
+  },
+  "BAFTA Awards::visual_effects::N": {
+    "weight": 0.1224,
+    "hits": 5,
+    "total": 47,
+    "note": "P(Oscar|N) = (5+1)/(47+2)"
+  },
+  "BAFTA Awards::visual_effects::W": {
+    "weight": 0.7619,
+    "hits": 15,
+    "total": 19,
+    "note": "P(Oscar|W) = (15+1)/(19+2)"
+  },
+  "BAFTA Awards::makeup::W": {
+    "weight": 0.7647,
+    "hits": 12,
+    "total": 15,
+    "note": "P(Oscar|W) = (12+1)/(15+2)"
+  },
+  "BAFTA Awards::makeup::N": {
+    "weight": 0.125,
+    "hits": 2,
+    "total": 22,
+    "note": "P(Oscar|N) = (2+1)/(22+2)"
+  },
+  "BAFTA Awards::animated::W": {
+    "weight": 0.7,
+    "hits": 6,
+    "total": 8,
+    "note": "P(Oscar|W) = (6+1)/(8+2)"
+  },
+  "BAFTA Awards::animated::N": {
+    "weight": 0.2105,
+    "hits": 3,
+    "total": 17,
+    "note": "P(Oscar|N) = (3+1)/(17+2)"
+  },
+  "BAFTA Awards::director::W": {
+    "weight": 0.7,
+    "hits": 6,
+    "total": 8,
+    "note": "P(Oscar|W) = (6+1)/(8+2)"
+  },
+  "BAFTA Awards::director::N": {
+    "weight": 0.2083,
+    "hits": 4,
+    "total": 22,
+    "note": "P(Oscar|N) = (4+1)/(22+2)"
+  },
+  "BAFTA Awards::score::N": {
+    "weight": 0.1667,
+    "hits": 1,
+    "total": 10,
+    "note": "P(Oscar|N) = (1+1)/(10+2)"
+  },
+  "BAFTA Awards::score::W": {
+    "weight": 0.6667,
+    "hits": 3,
+    "total": 4,
+    "note": "P(Oscar|W) = (3+1)/(4+2)"
+  },
+  "BAFTA Awards::documentary::W": {
+    "weight": 0.6154,
+    "hits": 7,
+    "total": 11,
+    "note": "P(Oscar|W) = (7+1)/(11+2)"
+  },
+  "BAFTA Awards::documentary::N": {
+    "weight": 0.2857,
+    "hits": 3,
+    "total": 12,
+    "note": "P(Oscar|N) = (3+1)/(12+2)"
+  },
+  "Satellite Awards::picture::N": {
+    "weight": 0.1279,
+    "hits": 10,
+    "total": 84,
+    "note": "P(Oscar|N) = (10+1)/(84+2)"
+  },
+  "Satellite Awards::picture::W": {
+    "weight": 0.2759,
+    "hits": 7,
+    "total": 27,
+    "note": "P(Oscar|W) = (7+1)/(27+2)"
+  },
+  "Satellite Awards::director::N": {
+    "weight": 0.2424,
+    "hits": 7,
+    "total": 31,
+    "note": "P(Oscar|N) = (7+1)/(31+2)"
+  },
+  "Satellite Awards::director::W": {
+    "weight": 0.4167,
+    "hits": 4,
+    "total": 10,
+    "note": "P(Oscar|W) = (4+1)/(10+2)"
+  },
+  "Satellite Awards::actor::N": {
+    "weight": 0.1915,
+    "hits": 8,
+    "total": 45,
+    "note": "P(Oscar|N) = (8+1)/(45+2)"
+  },
+  "Satellite Awards::actor::W": {
+    "weight": 0.375,
+    "hits": 8,
+    "total": 22,
+    "note": "P(Oscar|W) = (8+1)/(22+2)"
+  },
+  "Satellite Awards::actress::W": {
+    "weight": 0.3636,
+    "hits": 7,
+    "total": 20,
+    "note": "P(Oscar|W) = (7+1)/(20+2)"
+  },
+  "Satellite Awards::actress::N": {
+    "weight": 0.1961,
+    "hits": 9,
+    "total": 49,
+    "note": "P(Oscar|N) = (9+1)/(49+2)"
+  },
+  "Satellite Awards::supp_actress::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "Satellite Awards::original_screenplay::N": {
+    "weight": 0.2564,
+    "hits": 9,
+    "total": 37,
+    "note": "P(Oscar|N) = (9+1)/(37+2)"
+  },
+  "Satellite Awards::original_screenplay::W": {
+    "weight": 0.3077,
+    "hits": 3,
+    "total": 11,
+    "note": "P(Oscar|W) = (3+1)/(11+2)"
+  },
+  "Satellite Awards::adapted_screenplay::N": {
+    "weight": 0.2162,
+    "hits": 7,
+    "total": 35,
+    "note": "P(Oscar|N) = (7+1)/(35+2)"
+  },
+  "Satellite Awards::adapted_screenplay::W": {
+    "weight": 0.4615,
+    "hits": 5,
+    "total": 11,
+    "note": "P(Oscar|W) = (5+1)/(11+2)"
+  },
+  "Satellite Awards::cinematography::N": {
+    "weight": 0.2941,
+    "hits": 9,
+    "total": 32,
+    "note": "P(Oscar|N) = (9+1)/(32+2)"
+  },
+  "Satellite Awards::cinematography::W": {
+    "weight": 0.3077,
+    "hits": 3,
+    "total": 11,
+    "note": "P(Oscar|W) = (3+1)/(11+2)"
+  },
+  "Satellite Awards::editing::N": {
+    "weight": 0.3571,
+    "hits": 4,
+    "total": 12,
+    "note": "P(Oscar|N) = (4+1)/(12+2)"
+  },
+  "Satellite Awards::editing::W": {
+    "weight": 0.5455,
+    "hits": 5,
+    "total": 9,
+    "note": "P(Oscar|W) = (5+1)/(9+2)"
+  },
+  "Satellite Awards::production_design::N": {
+    "weight": 0.2812,
+    "hits": 8,
+    "total": 30,
+    "note": "P(Oscar|N) = (8+1)/(30+2)"
+  },
+  "Satellite Awards::production_design::W": {
+    "weight": 0.3571,
+    "hits": 4,
+    "total": 12,
+    "note": "P(Oscar|W) = (4+1)/(12+2)"
+  },
+  "Satellite Awards::costume::N": {
+    "weight": 0.2333,
+    "hits": 6,
+    "total": 28,
+    "note": "P(Oscar|N) = (6+1)/(28+2)"
+  },
+  "Satellite Awards::costume::W": {
+    "weight": 0.3333,
+    "hits": 3,
+    "total": 10,
+    "note": "P(Oscar|W) = (3+1)/(10+2)"
+  },
+  "Satellite Awards::score::N": {
+    "weight": 0.1842,
+    "hits": 6,
+    "total": 36,
+    "note": "P(Oscar|N) = (6+1)/(36+2)"
+  },
+  "Satellite Awards::score::W": {
+    "weight": 0.5,
+    "hits": 5,
+    "total": 10,
+    "note": "P(Oscar|W) = (5+1)/(10+2)"
+  },
+  "Satellite Awards::song::N": {
+    "weight": 0.1852,
+    "hits": 4,
+    "total": 25,
+    "note": "P(Oscar|N) = (4+1)/(25+2)"
+  },
+  "Satellite Awards::song::W": {
+    "weight": 0.5,
+    "hits": 5,
+    "total": 10,
+    "note": "P(Oscar|W) = (5+1)/(10+2)"
+  },
+  "Satellite Awards::visual_effects::N": {
+    "weight": 0.1333,
+    "hits": 3,
+    "total": 28,
+    "note": "P(Oscar|N) = (3+1)/(28+2)"
+  },
+  "Satellite Awards::visual_effects::W": {
+    "weight": 0.5385,
+    "hits": 6,
+    "total": 11,
+    "note": "P(Oscar|W) = (6+1)/(11+2)"
+  },
+  "Satellite Awards::documentary::N": {
+    "weight": 0.2581,
+    "hits": 7,
+    "total": 29,
+    "note": "P(Oscar|N) = (7+1)/(29+2)"
+  },
+  "Satellite Awards::documentary::W": {
+    "weight": 0.3636,
+    "hits": 3,
+    "total": 9,
+    "note": "P(Oscar|W) = (3+1)/(9+2)"
+  },
+  "Online Film Critics Society Awards::picture::N": {
+    "weight": 0.0909,
+    "hits": 6,
+    "total": 75,
+    "note": "P(Oscar|N) = (6+1)/(75+2)"
+  },
+  "Online Film Critics Society Awards::picture::W": {
+    "weight": 0.5,
+    "hits": 8,
+    "total": 16,
+    "note": "P(Oscar|W) = (8+1)/(16+2)"
+  },
+  "Online Film Critics Society Awards::director::N": {
+    "weight": 0.186,
+    "hits": 7,
+    "total": 41,
+    "note": "P(Oscar|N) = (7+1)/(41+2)"
+  },
+  "Online Film Critics Society Awards::director::W": {
+    "weight": 0.625,
+    "hits": 9,
+    "total": 14,
+    "note": "P(Oscar|W) = (9+1)/(14+2)"
+  },
+  "Online Film Critics Society Awards::actor::N": {
+    "weight": 0.1961,
+    "hits": 9,
+    "total": 49,
+    "note": "P(Oscar|N) = (9+1)/(49+2)"
+  },
+  "Online Film Critics Society Awards::actor::W": {
+    "weight": 0.5,
+    "hits": 7,
+    "total": 14,
+    "note": "P(Oscar|W) = (7+1)/(14+2)"
+  },
+  "Online Film Critics Society Awards::actress::N": {
+    "weight": 0.234,
+    "hits": 10,
+    "total": 45,
+    "note": "P(Oscar|N) = (10+1)/(45+2)"
+  },
+  "Online Film Critics Society Awards::actress::W": {
+    "weight": 0.4667,
+    "hits": 6,
+    "total": 13,
+    "note": "P(Oscar|W) = (6+1)/(13+2)"
+  },
+  "Online Film Critics Society Awards::supp_actor::N": {
+    "weight": 0.1,
+    "hits": 4,
+    "total": 48,
+    "note": "P(Oscar|N) = (4+1)/(48+2)"
+  },
+  "Online Film Critics Society Awards::supp_actor::W": {
+    "weight": 0.6,
+    "hits": 11,
+    "total": 18,
+    "note": "P(Oscar|W) = (11+1)/(18+2)"
+  },
+  "Online Film Critics Society Awards::supp_actress::W": {
+    "weight": 0.3529,
+    "hits": 5,
+    "total": 15,
+    "note": "P(Oscar|W) = (5+1)/(15+2)"
+  },
+  "Online Film Critics Society Awards::supp_actress::N": {
+    "weight": 0.25,
+    "hits": 12,
+    "total": 50,
+    "note": "P(Oscar|N) = (12+1)/(50+2)"
+  },
+  "Online Film Critics Society Awards::original_screenplay::W": {
+    "weight": 0.4211,
+    "hits": 7,
+    "total": 17,
+    "note": "P(Oscar|W) = (7+1)/(17+2)"
+  },
+  "Online Film Critics Society Awards::original_screenplay::N": {
+    "weight": 0.2273,
+    "hits": 9,
+    "total": 42,
+    "note": "P(Oscar|N) = (9+1)/(42+2)"
+  },
+  "Online Film Critics Society Awards::adapted_screenplay::W": {
+    "weight": 0.4444,
+    "hits": 7,
+    "total": 16,
+    "note": "P(Oscar|W) = (7+1)/(16+2)"
+  },
+  "Online Film Critics Society Awards::adapted_screenplay::N": {
+    "weight": 0.2045,
+    "hits": 8,
+    "total": 42,
+    "note": "P(Oscar|N) = (8+1)/(42+2)"
+  },
+  "Online Film Critics Society Awards::cinematography::N": {
+    "weight": 0.2889,
+    "hits": 12,
+    "total": 43,
+    "note": "P(Oscar|N) = (12+1)/(43+2)"
+  },
+  "Online Film Critics Society Awards::cinematography::W": {
+    "weight": 0.3889,
+    "hits": 6,
+    "total": 16,
+    "note": "P(Oscar|W) = (6+1)/(16+2)"
+  },
+  "Online Film Critics Society Awards::editing::N": {
+    "weight": 0.2368,
+    "hits": 8,
+    "total": 36,
+    "note": "P(Oscar|N) = (8+1)/(36+2)"
+  },
+  "Online Film Critics Society Awards::editing::W": {
+    "weight": 0.4615,
+    "hits": 5,
+    "total": 11,
+    "note": "P(Oscar|W) = (5+1)/(11+2)"
+  },
+  "Online Film Critics Society Awards::documentary::N": {
+    "weight": 0.2069,
+    "hits": 5,
+    "total": 27,
+    "note": "P(Oscar|N) = (5+1)/(27+2)"
+  },
+  "Online Film Critics Society Awards::documentary::W": {
+    "weight": 0.6,
+    "hits": 5,
+    "total": 8,
+    "note": "P(Oscar|W) = (5+1)/(8+2)"
+  },
+  "Online Film Critics Society Awards::animated::W": {
+    "weight": 0.7368,
+    "hits": 13,
+    "total": 17,
+    "note": "P(Oscar|W) = (13+1)/(17+2)"
+  },
+  "Online Film Critics Society Awards::animated::N": {
+    "weight": 0.1224,
+    "hits": 5,
+    "total": 47,
+    "note": "P(Oscar|N) = (5+1)/(47+2)"
+  },
+  "Online Film Critics Society Awards::score::W": {
+    "weight": 0.4545,
+    "hits": 4,
+    "total": 9,
+    "note": "P(Oscar|W) = (4+1)/(9+2)"
+  },
+  "Online Film Critics Society Awards::score::N": {
+    "weight": 0.2941,
+    "hits": 9,
+    "total": 32,
+    "note": "P(Oscar|N) = (9+1)/(32+2)"
+  },
+  "Online Film Critics Society Awards::international::W": {
+    "weight": 0.4,
+    "hits": 1,
+    "total": 3,
+    "note": "P(Oscar|W) = (1+1)/(3+2)"
+  },
+  "Online Film Critics Society Awards::international::N": {
+    "weight": 0.25,
+    "hits": 0,
+    "total": 2,
+    "note": "P(Oscar|N) = (0+1)/(2+2)"
+  },
+  "Online Film Critics Society Awards::costume::W": {
+    "weight": 0.4286,
+    "hits": 2,
+    "total": 5,
+    "note": "P(Oscar|W) = (2+1)/(5+2)"
+  },
+  "Online Film Critics Society Awards::costume::N": {
+    "weight": 0.2857,
+    "hits": 3,
+    "total": 12,
+    "note": "P(Oscar|N) = (3+1)/(12+2)"
+  },
+  "Online Film Critics Society Awards::sound::W": {
+    "weight": 0.6667,
+    "hits": 3,
+    "total": 4,
+    "note": "P(Oscar|W) = (3+1)/(4+2)"
+  },
+  "Online Film Critics Society Awards::song::W": {
+    "weight": 0.8,
+    "hits": 3,
+    "total": 3,
+    "note": "P(Oscar|W) = (3+1)/(3+2)"
+  },
+  "Online Film Critics Society Awards::production_design::W": {
+    "weight": 0.125,
+    "hits": 0,
+    "total": 6,
+    "note": "P(Oscar|W) = (0+1)/(6+2)"
+  },
+  "Online Film Critics Society Awards::production_design::N": {
+    "weight": 0.2667,
+    "hits": 3,
+    "total": 13,
+    "note": "P(Oscar|N) = (3+1)/(13+2)"
+  },
+  "Online Film Critics Society Awards::visual_effects::W": {
+    "weight": 0.8333,
+    "hits": 4,
+    "total": 4,
+    "note": "P(Oscar|W) = (4+1)/(4+2)"
+  },
+  "Online Film Critics Society Awards::visual_effects::N": {
+    "weight": 0.1818,
+    "hits": 1,
+    "total": 9,
+    "note": "P(Oscar|N) = (1+1)/(9+2)"
+  },
+  "Online Film Critics Society Awards::makeup::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "Boston Society of Film Critics Awards::picture::W": {
+    "weight": 0.4286,
+    "hits": 8,
+    "total": 19,
+    "note": "P(Oscar|W) = (8+1)/(19+2)"
+  },
+  "Boston Society of Film Critics Awards::picture::N": {
+    "weight": 0.2778,
+    "hits": 4,
+    "total": 16,
+    "note": "P(Oscar|N) = (4+1)/(16+2)"
+  },
+  "Boston Society of Film Critics Awards::director::N": {
+    "weight": 0.3077,
+    "hits": 3,
+    "total": 11,
+    "note": "P(Oscar|N) = (3+1)/(11+2)"
+  },
+  "Boston Society of Film Critics Awards::director::W": {
+    "weight": 0.4667,
+    "hits": 6,
+    "total": 13,
+    "note": "P(Oscar|W) = (6+1)/(13+2)"
+  },
+  "Boston Society of Film Critics Awards::actor::W": {
+    "weight": 0.5294,
+    "hits": 8,
+    "total": 15,
+    "note": "P(Oscar|W) = (8+1)/(15+2)"
+  },
+  "Boston Society of Film Critics Awards::actor::N": {
+    "weight": 0.3077,
+    "hits": 3,
+    "total": 11,
+    "note": "P(Oscar|N) = (3+1)/(11+2)"
+  },
+  "Boston Society of Film Critics Awards::actress::W": {
+    "weight": 0.4118,
+    "hits": 6,
+    "total": 15,
+    "note": "P(Oscar|W) = (6+1)/(15+2)"
+  },
+  "Boston Society of Film Critics Awards::actress::N": {
+    "weight": 0.1538,
+    "hits": 1,
+    "total": 11,
+    "note": "P(Oscar|N) = (1+1)/(11+2)"
+  },
+  "Boston Society of Film Critics Awards::supp_actor::N": {
+    "weight": 0.25,
+    "hits": 3,
+    "total": 14,
+    "note": "P(Oscar|N) = (3+1)/(14+2)"
+  },
+  "Boston Society of Film Critics Awards::supp_actor::W": {
+    "weight": 0.5625,
+    "hits": 8,
+    "total": 14,
+    "note": "P(Oscar|W) = (8+1)/(14+2)"
+  },
+  "Boston Society of Film Critics Awards::supp_actress::N": {
+    "weight": 0.375,
+    "hits": 5,
+    "total": 14,
+    "note": "P(Oscar|N) = (5+1)/(14+2)"
+  },
+  "Boston Society of Film Critics Awards::supp_actress::W": {
+    "weight": 0.4286,
+    "hits": 5,
+    "total": 12,
+    "note": "P(Oscar|W) = (5+1)/(12+2)"
+  },
+  "Boston Society of Film Critics Awards::cinematography::N": {
+    "weight": 0.375,
+    "hits": 5,
+    "total": 14,
+    "note": "P(Oscar|N) = (5+1)/(14+2)"
+  },
+  "Boston Society of Film Critics Awards::cinematography::W": {
+    "weight": 0.4,
+    "hits": 5,
+    "total": 13,
+    "note": "P(Oscar|W) = (5+1)/(13+2)"
+  },
+  "Boston Society of Film Critics Awards::documentary::W": {
+    "weight": 0.4615,
+    "hits": 5,
+    "total": 11,
+    "note": "P(Oscar|W) = (5+1)/(11+2)"
+  },
+  "Boston Society of Film Critics Awards::documentary::N": {
+    "weight": 0.4,
+    "hits": 1,
+    "total": 3,
+    "note": "P(Oscar|N) = (1+1)/(3+2)"
+  },
+  "Boston Society of Film Critics Awards::international::W": {
+    "weight": 0.4286,
+    "hits": 2,
+    "total": 5,
+    "note": "P(Oscar|W) = (2+1)/(5+2)"
+  },
+  "Boston Society of Film Critics Awards::international::N": {
+    "weight": 0.4,
+    "hits": 1,
+    "total": 3,
+    "note": "P(Oscar|N) = (1+1)/(3+2)"
+  },
+  "Boston Society of Film Critics Awards::score::N": {
+    "weight": 0.6667,
+    "hits": 3,
+    "total": 4,
+    "note": "P(Oscar|N) = (3+1)/(4+2)"
+  },
+  "Boston Society of Film Critics Awards::score::W": {
+    "weight": 0.1429,
+    "hits": 0,
+    "total": 5,
+    "note": "P(Oscar|W) = (0+1)/(5+2)"
+  },
+  "Directors Guild of America, USA::director::W": {
+    "weight": 0.8182,
+    "hits": 17,
+    "total": 20,
+    "note": "P(Oscar|W) = (17+1)/(20+2)"
+  },
+  "Directors Guild of America, USA::director::N": {
+    "weight": 0.0517,
+    "hits": 2,
+    "total": 56,
+    "note": "P(Oscar|N) = (2+1)/(56+2)"
+  },
+  "Chicago Film Critics Association Awards::director::N": {
+    "weight": 0.2432,
+    "hits": 8,
+    "total": 35,
+    "note": "P(Oscar|N) = (8+1)/(35+2)"
+  },
+  "Chicago Film Critics Association Awards::director::W": {
+    "weight": 0.5,
+    "hits": 7,
+    "total": 14,
+    "note": "P(Oscar|W) = (7+1)/(14+2)"
+  },
+  "Chicago Film Critics Association Awards::actor::N": {
+    "weight": 0.2564,
+    "hits": 9,
+    "total": 37,
+    "note": "P(Oscar|N) = (9+1)/(37+2)"
+  },
+  "Chicago Film Critics Association Awards::actor::W": {
+    "weight": 0.4667,
+    "hits": 6,
+    "total": 13,
+    "note": "P(Oscar|W) = (6+1)/(13+2)"
+  },
+  "Chicago Film Critics Association Awards::picture::W": {
+    "weight": 0.5,
+    "hits": 7,
+    "total": 14,
+    "note": "P(Oscar|W) = (7+1)/(14+2)"
+  },
+  "Chicago Film Critics Association Awards::picture::N": {
+    "weight": 0.1818,
+    "hits": 7,
+    "total": 42,
+    "note": "P(Oscar|N) = (7+1)/(42+2)"
+  },
+  "Chicago Film Critics Association Awards::actress::W": {
+    "weight": 0.4667,
+    "hits": 6,
+    "total": 13,
+    "note": "P(Oscar|W) = (6+1)/(13+2)"
+  },
+  "Chicago Film Critics Association Awards::actress::N": {
+    "weight": 0.1667,
+    "hits": 6,
+    "total": 40,
+    "note": "P(Oscar|N) = (6+1)/(40+2)"
+  },
+  "Chicago Film Critics Association Awards::supp_actor::N": {
+    "weight": 0.1842,
+    "hits": 6,
+    "total": 36,
+    "note": "P(Oscar|N) = (6+1)/(36+2)"
+  },
+  "Chicago Film Critics Association Awards::supp_actor::W": {
+    "weight": 0.6,
+    "hits": 8,
+    "total": 13,
+    "note": "P(Oscar|W) = (8+1)/(13+2)"
+  },
+  "Chicago Film Critics Association Awards::supp_actress::N": {
+    "weight": 0.3,
+    "hits": 11,
+    "total": 38,
+    "note": "P(Oscar|N) = (11+1)/(38+2)"
+  },
+  "Chicago Film Critics Association Awards::supp_actress::W": {
+    "weight": 0.2778,
+    "hits": 4,
+    "total": 16,
+    "note": "P(Oscar|W) = (4+1)/(16+2)"
+  },
+  "Chicago Film Critics Association Awards::original_screenplay::N": {
+    "weight": 0.1951,
+    "hits": 7,
+    "total": 39,
+    "note": "P(Oscar|N) = (7+1)/(39+2)"
+  },
+  "Chicago Film Critics Association Awards::original_screenplay::W": {
+    "weight": 0.5,
+    "hits": 7,
+    "total": 14,
+    "note": "P(Oscar|W) = (7+1)/(14+2)"
+  },
+  "Chicago Film Critics Association Awards::adapted_screenplay::W": {
+    "weight": 0.5333,
+    "hits": 7,
+    "total": 13,
+    "note": "P(Oscar|W) = (7+1)/(13+2)"
+  },
+  "Chicago Film Critics Association Awards::adapted_screenplay::N": {
+    "weight": 0.1842,
+    "hits": 6,
+    "total": 36,
+    "note": "P(Oscar|N) = (6+1)/(36+2)"
+  },
+  "Chicago Film Critics Association Awards::cinematography::W": {
+    "weight": 0.5,
+    "hits": 8,
+    "total": 16,
+    "note": "P(Oscar|W) = (8+1)/(16+2)"
+  },
+  "Chicago Film Critics Association Awards::cinematography::N": {
+    "weight": 0.1892,
+    "hits": 6,
+    "total": 35,
+    "note": "P(Oscar|N) = (6+1)/(35+2)"
+  },
+  "Chicago Film Critics Association Awards::score::N": {
+    "weight": 0.3548,
+    "hits": 10,
+    "total": 29,
+    "note": "P(Oscar|N) = (10+1)/(29+2)"
+  },
+  "Chicago Film Critics Association Awards::score::W": {
+    "weight": 0.3846,
+    "hits": 4,
+    "total": 11,
+    "note": "P(Oscar|W) = (4+1)/(11+2)"
+  },
+  "Chicago Film Critics Association Awards::documentary::W": {
+    "weight": 0.4545,
+    "hits": 4,
+    "total": 9,
+    "note": "P(Oscar|W) = (4+1)/(9+2)"
+  },
+  "Chicago Film Critics Association Awards::documentary::N": {
+    "weight": 0.3077,
+    "hits": 7,
+    "total": 24,
+    "note": "P(Oscar|N) = (7+1)/(24+2)"
+  },
+  "Chicago Film Critics Association Awards::international::N": {
+    "weight": 0.2143,
+    "hits": 2,
+    "total": 12,
+    "note": "P(Oscar|N) = (2+1)/(12+2)"
+  },
+  "Chicago Film Critics Association Awards::international::W": {
+    "weight": 0.6667,
+    "hits": 5,
+    "total": 7,
+    "note": "P(Oscar|W) = (5+1)/(7+2)"
+  },
+  "Chicago Film Critics Association Awards::animated::W": {
+    "weight": 0.7,
+    "hits": 6,
+    "total": 8,
+    "note": "P(Oscar|W) = (6+1)/(8+2)"
+  },
+  "Chicago Film Critics Association Awards::animated::N": {
+    "weight": 0.1739,
+    "hits": 3,
+    "total": 21,
+    "note": "P(Oscar|N) = (3+1)/(21+2)"
+  },
+  "Chicago Film Critics Association Awards::editing::N": {
+    "weight": 0.2,
+    "hits": 2,
+    "total": 13,
+    "note": "P(Oscar|N) = (2+1)/(13+2)"
+  },
+  "Chicago Film Critics Association Awards::editing::W": {
+    "weight": 0.5,
+    "hits": 4,
+    "total": 8,
+    "note": "P(Oscar|W) = (4+1)/(8+2)"
+  },
+  "Chicago Film Critics Association Awards::production_design::N": {
+    "weight": 0.3333,
+    "hits": 5,
+    "total": 16,
+    "note": "P(Oscar|N) = (5+1)/(16+2)"
+  },
+  "Chicago Film Critics Association Awards::production_design::W": {
+    "weight": 0.4444,
+    "hits": 3,
+    "total": 7,
+    "note": "P(Oscar|W) = (3+1)/(7+2)"
+  },
+  "Chicago Film Critics Association Awards::visual_effects::N": {
+    "weight": 0.5,
+    "hits": 3,
+    "total": 6,
+    "note": "P(Oscar|N) = (3+1)/(6+2)"
+  },
+  "Chicago Film Critics Association Awards::costume::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "Chicago Film Critics Association Awards::costume::N": {
+    "weight": 0.4,
+    "hits": 1,
+    "total": 3,
+    "note": "P(Oscar|N) = (1+1)/(3+2)"
+  },
+  "Film Independent Spirit Awards::director::W": {
+    "weight": 0.3125,
+    "hits": 4,
+    "total": 14,
+    "note": "P(Oscar|W) = (4+1)/(14+2)"
+  },
+  "Film Independent Spirit Awards::director::N": {
+    "weight": 0.1818,
+    "hits": 1,
+    "total": 9,
+    "note": "P(Oscar|N) = (1+1)/(9+2)"
+  },
+  "Film Independent Spirit Awards::actor::N": {
+    "weight": 0.2222,
+    "hits": 3,
+    "total": 16,
+    "note": "P(Oscar|N) = (3+1)/(16+2)"
+  },
+  "Film Independent Spirit Awards::actor::W": {
+    "weight": 0.4615,
+    "hits": 5,
+    "total": 11,
+    "note": "P(Oscar|W) = (5+1)/(11+2)"
+  },
+  "Film Independent Spirit Awards::actress::W": {
+    "weight": 0.4444,
+    "hits": 7,
+    "total": 16,
+    "note": "P(Oscar|W) = (7+1)/(16+2)"
+  },
+  "Film Independent Spirit Awards::actress::N": {
+    "weight": 0.1176,
+    "hits": 1,
+    "total": 15,
+    "note": "P(Oscar|N) = (1+1)/(15+2)"
+  },
+  "Film Independent Spirit Awards::cinematography::W": {
+    "weight": 0.3077,
+    "hits": 3,
+    "total": 11,
+    "note": "P(Oscar|W) = (3+1)/(11+2)"
+  },
+  "Film Independent Spirit Awards::cinematography::N": {
+    "weight": 0.25,
+    "hits": 0,
+    "total": 2,
+    "note": "P(Oscar|N) = (0+1)/(2+2)"
+  },
+  "Film Independent Spirit Awards::documentary::W": {
+    "weight": 0.4667,
+    "hits": 6,
+    "total": 13,
+    "note": "P(Oscar|W) = (6+1)/(13+2)"
+  },
+  "Film Independent Spirit Awards::documentary::N": {
+    "weight": 0.0357,
+    "hits": 0,
+    "total": 26,
+    "note": "P(Oscar|N) = (0+1)/(26+2)"
+  },
+  "Film Independent Spirit Awards::international::W": {
+    "weight": 0.75,
+    "hits": 8,
+    "total": 10,
+    "note": "P(Oscar|W) = (8+1)/(10+2)"
+  },
+  "Film Independent Spirit Awards::international::N": {
+    "weight": 0.1818,
+    "hits": 1,
+    "total": 9,
+    "note": "P(Oscar|N) = (1+1)/(9+2)"
+  },
+  "Film Independent Spirit Awards::editing::W": {
+    "weight": 0.375,
+    "hits": 2,
+    "total": 6,
+    "note": "P(Oscar|W) = (2+1)/(6+2)"
+  },
+  "Film Independent Spirit Awards::editing::N": {
+    "weight": 0.2,
+    "hits": 0,
+    "total": 3,
+    "note": "P(Oscar|N) = (0+1)/(3+2)"
+  },
+  "Screen Actors Guild Awards::actor::W": {
+    "weight": 0.8571,
+    "hits": 17,
+    "total": 19,
+    "note": "P(Oscar|W) = (17+1)/(19+2)"
+  },
+  "Screen Actors Guild Awards::actor::N": {
+    "weight": 0.0484,
+    "hits": 2,
+    "total": 60,
+    "note": "P(Oscar|N) = (2+1)/(60+2)"
+  },
+  "Screen Actors Guild Awards::actress::W": {
+    "weight": 0.6818,
+    "hits": 14,
+    "total": 20,
+    "note": "P(Oscar|W) = (14+1)/(20+2)"
+  },
+  "Screen Actors Guild Awards::actress::N": {
+    "weight": 0.1034,
+    "hits": 5,
+    "total": 56,
+    "note": "P(Oscar|N) = (5+1)/(56+2)"
+  },
+  "Screen Actors Guild Awards::supp_actor::W": {
+    "weight": 0.7273,
+    "hits": 15,
+    "total": 20,
+    "note": "P(Oscar|W) = (15+1)/(20+2)"
+  },
+  "Screen Actors Guild Awards::supp_actor::N": {
+    "weight": 0.1,
+    "hits": 5,
+    "total": 58,
+    "note": "P(Oscar|N) = (5+1)/(58+2)"
+  },
+  "Screen Actors Guild Awards::supp_actress::W": {
+    "weight": 0.7727,
+    "hits": 16,
+    "total": 20,
+    "note": "P(Oscar|W) = (16+1)/(20+2)"
+  },
+  "Screen Actors Guild Awards::supp_actress::N": {
+    "weight": 0.0938,
+    "hits": 5,
+    "total": 62,
+    "note": "P(Oscar|N) = (5+1)/(62+2)"
+  },
+  "British Independent Film Awards::actor::N": {
+    "weight": 0.2,
+    "hits": 0,
+    "total": 3,
+    "note": "P(Oscar|N) = (0+1)/(3+2)"
+  },
+  "British Independent Film Awards::actor::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "British Independent Film Awards::actress::W": {
+    "weight": 0.25,
+    "hits": 0,
+    "total": 2,
+    "note": "P(Oscar|W) = (0+1)/(2+2)"
+  },
+  "British Independent Film Awards::actress::N": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|N) = (1+1)/(2+2)"
+  },
+  "British Independent Film Awards::supp_actor::N": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|N) = (0+1)/(1+2)"
+  },
+  "British Independent Film Awards::supp_actress::N": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|N) = (0+1)/(1+2)"
+  },
+  "British Independent Film Awards::international::N": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|N) = (0+1)/(1+2)"
+  },
+  "British Independent Film Awards::international::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "British Independent Film Awards::costume::N": {
+    "weight": 0.25,
+    "hits": 0,
+    "total": 2,
+    "note": "P(Oscar|N) = (0+1)/(2+2)"
+  },
+  "British Independent Film Awards::costume::W": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|W) = (1+1)/(1+2)"
+  },
+  "British Independent Film Awards::sound::N": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|N) = (1+1)/(1+2)"
+  },
+  "British Independent Film Awards::editing::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "British Independent Film Awards::production_design::N": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|N) = (1+1)/(1+2)"
+  },
+  "British Independent Film Awards::cinematography::N": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|N) = (0+1)/(1+2)"
+  },
+  "Academy of Science Fiction, Fantasy & Horror Films, USA::actor::N": {
+    "weight": 0.2308,
+    "hits": 2,
+    "total": 11,
+    "note": "P(Oscar|N) = (2+1)/(11+2)"
+  },
+  "Academy of Science Fiction, Fantasy & Horror Films, USA::actor::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "Academy of Science Fiction, Fantasy & Horror Films, USA::actress::N": {
+    "weight": 0.2222,
+    "hits": 1,
+    "total": 7,
+    "note": "P(Oscar|N) = (1+1)/(7+2)"
+  },
+  "Academy of Science Fiction, Fantasy & Horror Films, USA::actress::W": {
+    "weight": 0.4286,
+    "hits": 2,
+    "total": 5,
+    "note": "P(Oscar|W) = (2+1)/(5+2)"
+  },
+  "Academy of Science Fiction, Fantasy & Horror Films, USA::director::N": {
+    "weight": 0.3333,
+    "hits": 4,
+    "total": 13,
+    "note": "P(Oscar|N) = (4+1)/(13+2)"
+  },
+  "Academy of Science Fiction, Fantasy & Horror Films, USA::director::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "Academy of Science Fiction, Fantasy & Horror Films, USA::supp_actor::N": {
+    "weight": 0.5455,
+    "hits": 5,
+    "total": 9,
+    "note": "P(Oscar|N) = (5+1)/(9+2)"
+  },
+  "Academy of Science Fiction, Fantasy & Horror Films, USA::supp_actor::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "Academy of Science Fiction, Fantasy & Horror Films, USA::supp_actress::N": {
+    "weight": 0.2222,
+    "hits": 1,
+    "total": 7,
+    "note": "P(Oscar|N) = (1+1)/(7+2)"
+  },
+  "Academy of Science Fiction, Fantasy & Horror Films, USA::supp_actress::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "Academy of Science Fiction, Fantasy & Horror Films, USA::international::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "Academy of Science Fiction, Fantasy & Horror Films, USA::international::N": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|N) = (0+1)/(1+2)"
+  },
+  "Academy of Science Fiction, Fantasy & Horror Films, USA::production_design::W": {
+    "weight": 0.4286,
+    "hits": 2,
+    "total": 5,
+    "note": "P(Oscar|W) = (2+1)/(5+2)"
+  },
+  "Academy of Science Fiction, Fantasy & Horror Films, USA::production_design::N": {
+    "weight": 0.2727,
+    "hits": 5,
+    "total": 20,
+    "note": "P(Oscar|N) = (5+1)/(20+2)"
+  },
+  "Academy of Science Fiction, Fantasy & Horror Films, USA::editing::N": {
+    "weight": 0.25,
+    "hits": 1,
+    "total": 6,
+    "note": "P(Oscar|N) = (1+1)/(6+2)"
+  },
+  "Academy of Science Fiction, Fantasy & Horror Films, USA::editing::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "Academy of Science Fiction, Fantasy & Horror Films, USA::costume::N": {
+    "weight": 0.25,
+    "hits": 1,
+    "total": 6,
+    "note": "P(Oscar|N) = (1+1)/(6+2)"
+  },
+  "Academy of Science Fiction, Fantasy & Horror Films, USA::costume::W": {
+    "weight": 0.4,
+    "hits": 1,
+    "total": 3,
+    "note": "P(Oscar|W) = (1+1)/(3+2)"
+  },
+  "Writers Guild of America, USA::original_screenplay::W": {
+    "weight": 0.7143,
+    "hits": 14,
+    "total": 19,
+    "note": "P(Oscar|W) = (14+1)/(19+2)"
+  },
+  "Writers Guild of America, USA::original_screenplay::N": {
+    "weight": 0.0625,
+    "hits": 2,
+    "total": 46,
+    "note": "P(Oscar|N) = (2+1)/(46+2)"
+  },
+  "Writers Guild of America, USA::adapted_screenplay::W": {
+    "weight": 0.6957,
+    "hits": 15,
+    "total": 21,
+    "note": "P(Oscar|W) = (15+1)/(21+2)"
+  },
+  "Writers Guild of America, USA::adapted_screenplay::N": {
+    "weight": 0.0638,
+    "hits": 2,
+    "total": 45,
+    "note": "P(Oscar|N) = (2+1)/(45+2)"
+  },
+  "Writers Guild of America, USA::documentary::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "Writers Guild of America, USA::documentary::N": {
+    "weight": 0.1111,
+    "hits": 0,
+    "total": 7,
+    "note": "P(Oscar|N) = (0+1)/(7+2)"
+  },
+  "American Society of Cinematographers, USA::cinematography::N": {
+    "weight": 0.1324,
+    "hits": 8,
+    "total": 66,
+    "note": "P(Oscar|N) = (8+1)/(66+2)"
+  },
+  "American Society of Cinematographers, USA::cinematography::W": {
+    "weight": 0.5217,
+    "hits": 11,
+    "total": 21,
+    "note": "P(Oscar|W) = (11+1)/(21+2)"
+  },
+  "American Cinema Editors, USA::editing::W": {
+    "weight": 0.35,
+    "hits": 13,
+    "total": 38,
+    "note": "P(Oscar|W) = (13+1)/(38+2)"
+  },
+  "American Cinema Editors, USA::editing::N": {
+    "weight": 0.1639,
+    "hits": 9,
+    "total": 59,
+    "note": "P(Oscar|N) = (9+1)/(59+2)"
+  },
+  "Art Directors Guild::production_design::N": {
+    "weight": 0.1228,
+    "hits": 6,
+    "total": 55,
+    "note": "P(Oscar|N) = (6+1)/(55+2)"
+  },
+  "Art Directors Guild::production_design::W": {
+    "weight": 0.3721,
+    "hits": 15,
+    "total": 41,
+    "note": "P(Oscar|W) = (15+1)/(41+2)"
+  },
+  "Costume Designers Guild Awards::costume::N": {
+    "weight": 0.1698,
+    "hits": 8,
+    "total": 51,
+    "note": "P(Oscar|N) = (8+1)/(51+2)"
+  },
+  "Costume Designers Guild Awards::costume::W": {
+    "weight": 0.3438,
+    "hits": 10,
+    "total": 30,
+    "note": "P(Oscar|W) = (10+1)/(30+2)"
+  },
+  "Motion Picture Sound Editors, USA::sound::W": {
+    "weight": 0.2989,
+    "hits": 25,
+    "total": 85,
+    "note": "P(Oscar|W) = (25+1)/(85+2)"
+  },
+  "Motion Picture Sound Editors, USA::sound::N": {
+    "weight": 0.1739,
+    "hits": 27,
+    "total": 159,
+    "note": "P(Oscar|N) = (27+1)/(159+2)"
+  },
+  "Motion Picture Sound Editors, USA::editing::N": {
+    "weight": 0.4,
+    "hits": 1,
+    "total": 3,
+    "note": "P(Oscar|N) = (1+1)/(3+2)"
+  },
+  "Cinema Audio Society, USA::sound::N": {
+    "weight": 0.1827,
+    "hits": 18,
+    "total": 102,
+    "note": "P(Oscar|N) = (18+1)/(102+2)"
+  },
+  "Cinema Audio Society, USA::sound::W": {
+    "weight": 0.4091,
+    "hits": 17,
+    "total": 42,
+    "note": "P(Oscar|W) = (17+1)/(42+2)"
+  },
+  "Grammy Awards::score::N": {
+    "weight": 0.1818,
+    "hits": 3,
+    "total": 20,
+    "note": "P(Oscar|N) = (3+1)/(20+2)"
+  },
+  "Grammy Awards::score::W": {
+    "weight": 0.5455,
+    "hits": 5,
+    "total": 9,
+    "note": "P(Oscar|W) = (5+1)/(9+2)"
+  },
+  "Grammy Awards::song::N": {
+    "weight": 0.25,
+    "hits": 3,
+    "total": 14,
+    "note": "P(Oscar|N) = (3+1)/(14+2)"
+  },
+  "Grammy Awards::song::W": {
+    "weight": 0.4286,
+    "hits": 2,
+    "total": 5,
+    "note": "P(Oscar|W) = (2+1)/(5+2)"
+  },
+  "Visual Effects Society Awards::visual_effects::N": {
+    "weight": 0.1607,
+    "hits": 8,
+    "total": 54,
+    "note": "P(Oscar|N) = (8+1)/(54+2)"
+  },
+  "Visual Effects Society Awards::visual_effects::W": {
+    "weight": 0.4516,
+    "hits": 13,
+    "total": 29,
+    "note": "P(Oscar|W) = (13+1)/(29+2)"
+  },
+  "Visual Effects Society Awards::animated::W": {
+    "weight": 0.6154,
+    "hits": 15,
+    "total": 24,
+    "note": "P(Oscar|W) = (15+1)/(24+2)"
+  },
+  "Visual Effects Society Awards::animated::N": {
+    "weight": 0.1702,
+    "hits": 7,
+    "total": 45,
+    "note": "P(Oscar|N) = (7+1)/(45+2)"
+  },
+  "Visual Effects Society Awards::cinematography::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "Visual Effects Society Awards::cinematography::N": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|N) = (0+1)/(1+2)"
+  },
+  "Chicago International Film Festival::documentary::W": {
+    "weight": 0.5714,
+    "hits": 3,
+    "total": 5,
+    "note": "P(Oscar|W) = (3+1)/(5+2)"
+  },
+  "Chicago International Film Festival::documentary::N": {
+    "weight": 0.25,
+    "hits": 0,
+    "total": 2,
+    "note": "P(Oscar|N) = (0+1)/(2+2)"
+  },
+  "Chicago International Film Festival::picture::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "Chicago International Film Festival::actor::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "Sundance Film Festival::documentary::N": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|N) = (1+1)/(2+2)"
+  },
+  "Annie Awards::animated::W": {
+    "weight": 0.3864,
+    "hits": 16,
+    "total": 42,
+    "note": "P(Oscar|W) = (16+1)/(42+2)"
+  },
+  "Annie Awards::animated::N": {
+    "weight": 0.1646,
+    "hits": 12,
+    "total": 77,
+    "note": "P(Oscar|N) = (12+1)/(77+2)"
+  },
+  "London Critics Circle Film Awards::supp_actor::N": {
+    "weight": 0.1892,
+    "hits": 6,
+    "total": 35,
+    "note": "P(Oscar|N) = (6+1)/(35+2)"
+  },
+  "London Critics Circle Film Awards::supp_actor::W": {
+    "weight": 0.2941,
+    "hits": 4,
+    "total": 15,
+    "note": "P(Oscar|W) = (4+1)/(15+2)"
+  },
+  "London Critics Circle Film Awards::international::N": {
+    "weight": 0.381,
+    "hits": 7,
+    "total": 19,
+    "note": "P(Oscar|N) = (7+1)/(19+2)"
+  },
+  "London Critics Circle Film Awards::international::W": {
+    "weight": 0.4444,
+    "hits": 3,
+    "total": 7,
+    "note": "P(Oscar|W) = (3+1)/(7+2)"
+  },
+  "London Critics Circle Film Awards::supp_actress::N": {
+    "weight": 0.2963,
+    "hits": 7,
+    "total": 25,
+    "note": "P(Oscar|N) = (7+1)/(25+2)"
+  },
+  "London Critics Circle Film Awards::supp_actress::W": {
+    "weight": 0.4118,
+    "hits": 6,
+    "total": 15,
+    "note": "P(Oscar|W) = (6+1)/(15+2)"
+  },
+  "London Critics Circle Film Awards::documentary::N": {
+    "weight": 0.1667,
+    "hits": 1,
+    "total": 10,
+    "note": "P(Oscar|N) = (1+1)/(10+2)"
+  },
+  "London Critics Circle Film Awards::documentary::W": {
+    "weight": 0.5,
+    "hits": 5,
+    "total": 10,
+    "note": "P(Oscar|W) = (5+1)/(10+2)"
+  },
+  "San Diego Film Critics Society Awards::score::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "San Diego Film Critics Society Awards::score::N": {
+    "weight": 0.25,
+    "hits": 0,
+    "total": 2,
+    "note": "P(Oscar|N) = (0+1)/(2+2)"
+  },
+  "San Diego Film Critics Society Awards::supp_actress::N": {
+    "weight": 0.375,
+    "hits": 2,
+    "total": 6,
+    "note": "P(Oscar|N) = (2+1)/(6+2)"
+  },
+  "San Diego Film Critics Society Awards::supp_actress::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "San Diego Film Critics Society Awards::actress::N": {
+    "weight": 0.2308,
+    "hits": 2,
+    "total": 11,
+    "note": "P(Oscar|N) = (2+1)/(11+2)"
+  },
+  "San Diego Film Critics Society Awards::actress::W": {
+    "weight": 0.2,
+    "hits": 0,
+    "total": 3,
+    "note": "P(Oscar|W) = (0+1)/(3+2)"
+  },
+  "San Diego Film Critics Society Awards::actor::N": {
+    "weight": 0.25,
+    "hits": 2,
+    "total": 10,
+    "note": "P(Oscar|N) = (2+1)/(10+2)"
+  },
+  "San Diego Film Critics Society Awards::actor::W": {
+    "weight": 0.25,
+    "hits": 0,
+    "total": 2,
+    "note": "P(Oscar|W) = (0+1)/(2+2)"
+  },
+  "San Diego Film Critics Society Awards::cinematography::N": {
+    "weight": 0.25,
+    "hits": 2,
+    "total": 10,
+    "note": "P(Oscar|N) = (2+1)/(10+2)"
+  },
+  "San Diego Film Critics Society Awards::cinematography::W": {
+    "weight": 0.5,
+    "hits": 2,
+    "total": 4,
+    "note": "P(Oscar|W) = (2+1)/(4+2)"
+  },
+  "San Diego Film Critics Society Awards::production_design::N": {
+    "weight": 0.4,
+    "hits": 3,
+    "total": 8,
+    "note": "P(Oscar|N) = (3+1)/(8+2)"
+  },
+  "San Diego Film Critics Society Awards::production_design::W": {
+    "weight": 0.1667,
+    "hits": 0,
+    "total": 4,
+    "note": "P(Oscar|W) = (0+1)/(4+2)"
+  },
+  "San Diego Film Critics Society Awards::adapted_screenplay::W": {
+    "weight": 0.5,
+    "hits": 2,
+    "total": 4,
+    "note": "P(Oscar|W) = (2+1)/(4+2)"
+  },
+  "San Diego Film Critics Society Awards::adapted_screenplay::N": {
+    "weight": 0.6,
+    "hits": 2,
+    "total": 3,
+    "note": "P(Oscar|N) = (2+1)/(3+2)"
+  },
+  "San Diego Film Critics Society Awards::international::N": {
+    "weight": 0.4286,
+    "hits": 2,
+    "total": 5,
+    "note": "P(Oscar|N) = (2+1)/(5+2)"
+  },
+  "San Diego Film Critics Society Awards::international::W": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|W) = (1+1)/(1+2)"
+  },
+  "San Diego Film Critics Society Awards::director::N": {
+    "weight": 0.2857,
+    "hits": 1,
+    "total": 5,
+    "note": "P(Oscar|N) = (1+1)/(5+2)"
+  },
+  "San Diego Film Critics Society Awards::director::W": {
+    "weight": 0.8,
+    "hits": 3,
+    "total": 3,
+    "note": "P(Oscar|W) = (3+1)/(3+2)"
+  },
+  "San Diego Film Critics Society Awards::costume::W": {
+    "weight": 0.5,
+    "hits": 2,
+    "total": 4,
+    "note": "P(Oscar|W) = (2+1)/(4+2)"
+  },
+  "San Diego Film Critics Society Awards::costume::N": {
+    "weight": 0.375,
+    "hits": 2,
+    "total": 6,
+    "note": "P(Oscar|N) = (2+1)/(6+2)"
+  },
+  "San Diego Film Critics Society Awards::picture::N": {
+    "weight": 0.3333,
+    "hits": 3,
+    "total": 10,
+    "note": "P(Oscar|N) = (3+1)/(10+2)"
+  },
+  "San Diego Film Critics Society Awards::picture::W": {
+    "weight": 0.25,
+    "hits": 0,
+    "total": 2,
+    "note": "P(Oscar|W) = (0+1)/(2+2)"
+  },
+  "San Diego Film Critics Society Awards::supp_actor::W": {
+    "weight": 0.2,
+    "hits": 0,
+    "total": 3,
+    "note": "P(Oscar|W) = (0+1)/(3+2)"
+  },
+  "San Diego Film Critics Society Awards::supp_actor::N": {
+    "weight": 0.2727,
+    "hits": 2,
+    "total": 9,
+    "note": "P(Oscar|N) = (2+1)/(9+2)"
+  },
+  "San Diego Film Critics Society Awards::original_screenplay::W": {
+    "weight": 0.25,
+    "hits": 0,
+    "total": 2,
+    "note": "P(Oscar|W) = (0+1)/(2+2)"
+  },
+  "San Diego Film Critics Society Awards::original_screenplay::N": {
+    "weight": 0.4444,
+    "hits": 3,
+    "total": 7,
+    "note": "P(Oscar|N) = (3+1)/(7+2)"
+  },
+  "San Diego Film Critics Society Awards::editing::N": {
+    "weight": 0.3333,
+    "hits": 1,
+    "total": 4,
+    "note": "P(Oscar|N) = (1+1)/(4+2)"
+  },
+  "San Diego Film Critics Society Awards::editing::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "San Diego Film Critics Society Awards::visual_effects::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "San Diego Film Critics Society Awards::visual_effects::N": {
+    "weight": 0.2857,
+    "hits": 1,
+    "total": 5,
+    "note": "P(Oscar|N) = (1+1)/(5+2)"
+  },
+  "San Diego Film Critics Society Awards::documentary::N": {
+    "weight": 0.4286,
+    "hits": 2,
+    "total": 5,
+    "note": "P(Oscar|N) = (2+1)/(5+2)"
+  },
+  "San Diego Film Critics Society Awards::documentary::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "San Diego Film Critics Society Awards::sound::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "San Diego Film Critics Society Awards::sound::N": {
+    "weight": 0.1667,
+    "hits": 0,
+    "total": 4,
+    "note": "P(Oscar|N) = (0+1)/(4+2)"
+  },
+  "Southeastern Film Critics Association Awards::supp_actress::N": {
+    "weight": 0.25,
+    "hits": 0,
+    "total": 2,
+    "note": "P(Oscar|N) = (0+1)/(2+2)"
+  },
+  "Southeastern Film Critics Association Awards::supp_actress::W": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|W) = (1+1)/(1+2)"
+  },
+  "Southeastern Film Critics Association Awards::actress::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "Southeastern Film Critics Association Awards::actress::N": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|N) = (0+1)/(1+2)"
+  },
+  "Southeastern Film Critics Association Awards::actor::W": {
+    "weight": 0.25,
+    "hits": 0,
+    "total": 2,
+    "note": "P(Oscar|W) = (0+1)/(2+2)"
+  },
+  "Southeastern Film Critics Association Awards::actor::N": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|N) = (0+1)/(1+2)"
+  },
+  "Southeastern Film Critics Association Awards::adapted_screenplay::N": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|N) = (1+1)/(2+2)"
+  },
+  "Southeastern Film Critics Association Awards::adapted_screenplay::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "Southeastern Film Critics Association Awards::cinematography::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "Southeastern Film Critics Association Awards::cinematography::N": {
+    "weight": 0.25,
+    "hits": 0,
+    "total": 2,
+    "note": "P(Oscar|N) = (0+1)/(2+2)"
+  },
+  "Southeastern Film Critics Association Awards::picture::N": {
+    "weight": 0.1429,
+    "hits": 0,
+    "total": 5,
+    "note": "P(Oscar|N) = (0+1)/(5+2)"
+  },
+  "Southeastern Film Critics Association Awards::picture::W": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|W) = (1+1)/(1+2)"
+  },
+  "Southeastern Film Critics Association Awards::director::W": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|W) = (1+1)/(1+2)"
+  },
+  "Southeastern Film Critics Association Awards::director::N": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|N) = (0+1)/(1+2)"
+  },
+  "Southeastern Film Critics Association Awards::supp_actor::N": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|N) = (0+1)/(1+2)"
+  },
+  "Southeastern Film Critics Association Awards::supp_actor::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "Southeastern Film Critics Association Awards::original_screenplay::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "Southeastern Film Critics Association Awards::original_screenplay::N": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|N) = (1+1)/(1+2)"
+  },
+  "Southeastern Film Critics Association Awards::documentary::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "Southeastern Film Critics Association Awards::international::W": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|W) = (1+1)/(1+2)"
+  },
+  "Palm Springs International Film Festival::international::W": {
+    "weight": 0.125,
+    "hits": 0,
+    "total": 6,
+    "note": "P(Oscar|W) = (0+1)/(6+2)"
+  },
+  "Palm Springs International Film Festival::international::N": {
+    "weight": 0.2414,
+    "hits": 6,
+    "total": 27,
+    "note": "P(Oscar|N) = (6+1)/(27+2)"
+  },
+  "Palm Springs International Film Festival::documentary::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "Palm Springs International Film Festival::documentary::N": {
+    "weight": 0.2,
+    "hits": 0,
+    "total": 3,
+    "note": "P(Oscar|N) = (0+1)/(3+2)"
+  },
+  "Palm Springs International Film Festival::actress::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "National Board of Review, USA::international::W": {
+    "weight": 0.25,
+    "hits": 0,
+    "total": 2,
+    "note": "P(Oscar|W) = (0+1)/(2+2)"
+  },
+  "National Board of Review, USA::actress::W": {
+    "weight": 0.25,
+    "hits": 0,
+    "total": 2,
+    "note": "P(Oscar|W) = (0+1)/(2+2)"
+  },
+  "National Board of Review, USA::actor::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "National Board of Review, USA::supp_actor::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "National Board of Review, USA::supp_actress::W": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|W) = (1+1)/(1+2)"
+  },
+  "National Board of Review, USA::original_screenplay::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "National Board of Review, USA::cinematography::W": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|W) = (1+1)/(1+2)"
+  },
+  "National Board of Review, USA::documentary::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "National Board of Review, USA::animated::W": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|W) = (1+1)/(1+2)"
+  },
+  "National Board of Review, USA::director::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "Washington DC Area Film Critics Association Awards::actress::N": {
+    "weight": 0.1429,
+    "hits": 0,
+    "total": 5,
+    "note": "P(Oscar|N) = (0+1)/(5+2)"
+  },
+  "Washington DC Area Film Critics Association Awards::actress::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "Washington DC Area Film Critics Association Awards::original_screenplay::N": {
+    "weight": 0.1667,
+    "hits": 0,
+    "total": 4,
+    "note": "P(Oscar|N) = (0+1)/(4+2)"
+  },
+  "Washington DC Area Film Critics Association Awards::original_screenplay::W": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|W) = (1+1)/(1+2)"
+  },
+  "Washington DC Area Film Critics Association Awards::actor::N": {
+    "weight": 0.5,
+    "hits": 3,
+    "total": 6,
+    "note": "P(Oscar|N) = (3+1)/(6+2)"
+  },
+  "Washington DC Area Film Critics Association Awards::actor::W": {
+    "weight": 0.25,
+    "hits": 0,
+    "total": 2,
+    "note": "P(Oscar|W) = (0+1)/(2+2)"
+  },
+  "Washington DC Area Film Critics Association Awards::score::W": {
+    "weight": 0.3333,
+    "hits": 1,
+    "total": 4,
+    "note": "P(Oscar|W) = (1+1)/(4+2)"
+  },
+  "Washington DC Area Film Critics Association Awards::score::N": {
+    "weight": 0.2143,
+    "hits": 2,
+    "total": 12,
+    "note": "P(Oscar|N) = (2+1)/(12+2)"
+  },
+  "Washington DC Area Film Critics Association Awards::supp_actor::N": {
+    "weight": 0.2857,
+    "hits": 1,
+    "total": 5,
+    "note": "P(Oscar|N) = (1+1)/(5+2)"
+  },
+  "Washington DC Area Film Critics Association Awards::supp_actor::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "Washington DC Area Film Critics Association Awards::adapted_screenplay::N": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|N) = (1+1)/(2+2)"
+  },
+  "Washington DC Area Film Critics Association Awards::adapted_screenplay::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "Washington DC Area Film Critics Association Awards::production_design::N": {
+    "weight": 0.125,
+    "hits": 0,
+    "total": 6,
+    "note": "P(Oscar|N) = (0+1)/(6+2)"
+  },
+  "Washington DC Area Film Critics Association Awards::production_design::W": {
+    "weight": 0.25,
+    "hits": 0,
+    "total": 2,
+    "note": "P(Oscar|W) = (0+1)/(2+2)"
+  },
+  "Washington DC Area Film Critics Association Awards::cinematography::W": {
+    "weight": 0.8,
+    "hits": 3,
+    "total": 3,
+    "note": "P(Oscar|W) = (3+1)/(3+2)"
+  },
+  "Washington DC Area Film Critics Association Awards::cinematography::N": {
+    "weight": 0.1429,
+    "hits": 0,
+    "total": 5,
+    "note": "P(Oscar|N) = (0+1)/(5+2)"
+  },
+  "Washington DC Area Film Critics Association Awards::director::N": {
+    "weight": 0.3333,
+    "hits": 1,
+    "total": 4,
+    "note": "P(Oscar|N) = (1+1)/(4+2)"
+  },
+  "Washington DC Area Film Critics Association Awards::director::W": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|W) = (1+1)/(1+2)"
+  },
+  "Washington DC Area Film Critics Association Awards::editing::N": {
+    "weight": 0.3333,
+    "hits": 1,
+    "total": 4,
+    "note": "P(Oscar|N) = (1+1)/(4+2)"
+  },
+  "Washington DC Area Film Critics Association Awards::picture::N": {
+    "weight": 0.25,
+    "hits": 0,
+    "total": 2,
+    "note": "P(Oscar|N) = (0+1)/(2+2)"
+  },
+  "Washington DC Area Film Critics Association Awards::picture::W": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|W) = (1+1)/(1+2)"
+  },
+  "Washington DC Area Film Critics Association Awards::supp_actress::N": {
+    "weight": 0.2,
+    "hits": 0,
+    "total": 3,
+    "note": "P(Oscar|N) = (0+1)/(3+2)"
+  },
+  "Washington DC Area Film Critics Association Awards::supp_actress::W": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|W) = (1+1)/(1+2)"
+  },
+  "Washington DC Area Film Critics Association Awards::documentary::N": {
+    "weight": 0.2,
+    "hits": 0,
+    "total": 3,
+    "note": "P(Oscar|N) = (0+1)/(3+2)"
+  },
+  "Washington DC Area Film Critics Association Awards::animated::N": {
+    "weight": 0.2,
+    "hits": 0,
+    "total": 3,
+    "note": "P(Oscar|N) = (0+1)/(3+2)"
+  },
+  "Washington DC Area Film Critics Association Awards::animated::W": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|W) = (1+1)/(1+2)"
+  },
+  "Washington DC Area Film Critics Association Awards::international::W": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|W) = (1+1)/(1+2)"
+  },
+  "Cinema Eye Honors Awards, US::international::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "Critics' Choice Documentary Awards::documentary::N": {
+    "weight": 0.2632,
+    "hits": 4,
+    "total": 17,
+    "note": "P(Oscar|N) = (4+1)/(17+2)"
+  },
+  "Critics' Choice Documentary Awards::documentary::W": {
+    "weight": 0.375,
+    "hits": 5,
+    "total": 14,
+    "note": "P(Oscar|W) = (5+1)/(14+2)"
+  },
+  "Venice Film Festival::picture::N": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|N) = (0+1)/(1+2)"
+  },
+  "News & Documentary Emmy Awards::documentary::N": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|N) = (1+1)/(2+2)"
+  },
+  "News & Documentary Emmy Awards::documentary::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "International Documentary Association, US::documentary::N": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|N) = (1+1)/(2+2)"
+  },
+  "International Documentary Association, US::documentary::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "Gotham Awards::documentary::W": {
+    "weight": 0.25,
+    "hits": 0,
+    "total": 2,
+    "note": "P(Oscar|W) = (0+1)/(2+2)"
+  },
+  "Gotham Awards::documentary::N": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|N) = (0+1)/(1+2)"
+  },
+  "Gotham Awards::actor::N": {
+    "weight": 0.25,
+    "hits": 0,
+    "total": 2,
+    "note": "P(Oscar|N) = (0+1)/(2+2)"
+  },
+  "Gotham Awards::actor::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "Gotham Awards::actress::N": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|N) = (1+1)/(1+2)"
+  },
+  "Critics Choice Awards::picture::N": {
+    "weight": 0.1176,
+    "hits": 1,
+    "total": 15,
+    "note": "P(Oscar|N) = (1+1)/(15+2)"
+  },
+  "Critics Choice Awards::picture::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "Critics Choice Awards::director::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "Critics Choice Awards::director::N": {
+    "weight": 0.125,
+    "hits": 0,
+    "total": 6,
+    "note": "P(Oscar|N) = (0+1)/(6+2)"
+  },
+  "Critics Choice Awards::actor::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "Critics Choice Awards::actor::N": {
+    "weight": 0.1111,
+    "hits": 0,
+    "total": 7,
+    "note": "P(Oscar|N) = (0+1)/(7+2)"
+  },
+  "Critics Choice Awards::actress::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "Critics Choice Awards::actress::N": {
+    "weight": 0.2857,
+    "hits": 1,
+    "total": 5,
+    "note": "P(Oscar|N) = (1+1)/(5+2)"
+  },
+  "Critics Choice Awards::supp_actor::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "Critics Choice Awards::supp_actor::N": {
+    "weight": 0.1,
+    "hits": 0,
+    "total": 8,
+    "note": "P(Oscar|N) = (0+1)/(8+2)"
+  },
+  "Critics Choice Awards::supp_actress::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "Critics Choice Awards::supp_actress::N": {
+    "weight": 0.3333,
+    "hits": 2,
+    "total": 7,
+    "note": "P(Oscar|N) = (2+1)/(7+2)"
+  },
+  "Critics Choice Awards::original_screenplay::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "Critics Choice Awards::original_screenplay::N": {
+    "weight": 0.125,
+    "hits": 0,
+    "total": 6,
+    "note": "P(Oscar|N) = (0+1)/(6+2)"
+  },
+  "Critics Choice Awards::adapted_screenplay::N": {
+    "weight": 0.2857,
+    "hits": 1,
+    "total": 5,
+    "note": "P(Oscar|N) = (1+1)/(5+2)"
+  },
+  "Critics Choice Awards::adapted_screenplay::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "Critics Choice Awards::cinematography::N": {
+    "weight": 0.25,
+    "hits": 1,
+    "total": 6,
+    "note": "P(Oscar|N) = (1+1)/(6+2)"
+  },
+  "Critics Choice Awards::cinematography::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "Critics Choice Awards::editing::N": {
+    "weight": 0.2857,
+    "hits": 1,
+    "total": 5,
+    "note": "P(Oscar|N) = (1+1)/(5+2)"
+  },
+  "Critics Choice Awards::editing::W": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|W) = (1+1)/(1+2)"
+  },
+  "Critics Choice Awards::production_design::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "Critics Choice Awards::production_design::N": {
+    "weight": 0.1429,
+    "hits": 0,
+    "total": 5,
+    "note": "P(Oscar|N) = (0+1)/(5+2)"
+  },
+  "Critics Choice Awards::costume::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "Critics Choice Awards::costume::N": {
+    "weight": 0.125,
+    "hits": 0,
+    "total": 6,
+    "note": "P(Oscar|N) = (0+1)/(6+2)"
+  },
+  "Critics Choice Awards::makeup::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "Critics Choice Awards::makeup::N": {
+    "weight": 0.25,
+    "hits": 1,
+    "total": 6,
+    "note": "P(Oscar|N) = (1+1)/(6+2)"
+  },
+  "Critics Choice Awards::score::W": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|W) = (1+1)/(1+2)"
+  },
+  "Critics Choice Awards::score::N": {
+    "weight": 0.1667,
+    "hits": 0,
+    "total": 4,
+    "note": "P(Oscar|N) = (0+1)/(4+2)"
+  },
+  "Critics Choice Awards::song::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "Critics Choice Awards::song::N": {
+    "weight": 0.1667,
+    "hits": 0,
+    "total": 4,
+    "note": "P(Oscar|N) = (0+1)/(4+2)"
+  },
+  "Critics Choice Awards::visual_effects::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "Critics Choice Awards::visual_effects::N": {
+    "weight": 0.1429,
+    "hits": 0,
+    "total": 5,
+    "note": "P(Oscar|N) = (0+1)/(5+2)"
+  },
+  "Critics Choice Awards::animated::N": {
+    "weight": 0.2222,
+    "hits": 1,
+    "total": 7,
+    "note": "P(Oscar|N) = (1+1)/(7+2)"
+  },
+  "Critics Choice Awards::animated::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "Critics Choice Awards::international::W": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|W) = (1+1)/(1+2)"
+  },
+  "Critics Choice Awards::international::N": {
+    "weight": 0.25,
+    "hits": 1,
+    "total": 6,
+    "note": "P(Oscar|N) = (1+1)/(6+2)"
+  },
+  "ev0000133::picture::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "ev0000133::picture::N": {
+    "weight": 0.0588,
+    "hits": 0,
+    "total": 15,
+    "note": "P(Oscar|N) = (0+1)/(15+2)"
+  },
+  "ev0000133::director::W": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|W) = (1+1)/(1+2)"
+  },
+  "ev0000133::director::N": {
+    "weight": 0.25,
+    "hits": 1,
+    "total": 6,
+    "note": "P(Oscar|N) = (1+1)/(6+2)"
+  },
+  "ev0000133::actor::N": {
+    "weight": 0.2222,
+    "hits": 1,
+    "total": 7,
+    "note": "P(Oscar|N) = (1+1)/(7+2)"
+  },
+  "ev0000133::actor::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "ev0000133::actress::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "ev0000133::actress::N": {
+    "weight": 0.25,
+    "hits": 1,
+    "total": 6,
+    "note": "P(Oscar|N) = (1+1)/(6+2)"
+  },
+  "ev0000133::supp_actor::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "ev0000133::supp_actor::N": {
+    "weight": 0.1111,
+    "hits": 0,
+    "total": 7,
+    "note": "P(Oscar|N) = (0+1)/(7+2)"
+  },
+  "ev0000133::supp_actress::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "ev0000133::supp_actress::N": {
+    "weight": 0.125,
+    "hits": 0,
+    "total": 6,
+    "note": "P(Oscar|N) = (0+1)/(6+2)"
+  },
+  "ev0000133::original_screenplay::N": {
+    "weight": 0.2,
+    "hits": 1,
+    "total": 8,
+    "note": "P(Oscar|N) = (1+1)/(8+2)"
+  },
+  "ev0000133::original_screenplay::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "ev0000133::adapted_screenplay::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "ev0000133::adapted_screenplay::N": {
+    "weight": 0.1429,
+    "hits": 0,
+    "total": 5,
+    "note": "P(Oscar|N) = (0+1)/(5+2)"
+  },
+  "ev0000133::cinematography::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "ev0000133::cinematography::N": {
+    "weight": 0.2857,
+    "hits": 1,
+    "total": 5,
+    "note": "P(Oscar|N) = (1+1)/(5+2)"
+  },
+  "ev0000133::editing::W": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|W) = (1+1)/(1+2)"
+  },
+  "ev0000133::editing::N": {
+    "weight": 0.2857,
+    "hits": 1,
+    "total": 5,
+    "note": "P(Oscar|N) = (1+1)/(5+2)"
+  },
+  "ev0000133::production_design::N": {
+    "weight": 0.2222,
+    "hits": 1,
+    "total": 7,
+    "note": "P(Oscar|N) = (1+1)/(7+2)"
+  },
+  "ev0000133::production_design::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "ev0000133::costume::N": {
+    "weight": 0.25,
+    "hits": 1,
+    "total": 6,
+    "note": "P(Oscar|N) = (1+1)/(6+2)"
+  },
+  "ev0000133::costume::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "ev0000133::makeup::N": {
+    "weight": 0.25,
+    "hits": 1,
+    "total": 6,
+    "note": "P(Oscar|N) = (1+1)/(6+2)"
+  },
+  "ev0000133::makeup::W": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|W) = (1+1)/(1+2)"
+  },
+  "ev0000133::score::W": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|W) = (1+1)/(1+2)"
+  },
+  "ev0000133::score::N": {
+    "weight": 0.25,
+    "hits": 1,
+    "total": 6,
+    "note": "P(Oscar|N) = (1+1)/(6+2)"
+  },
+  "ev0000133::song::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "ev0000133::visual_effects::N": {
+    "weight": 0.125,
+    "hits": 0,
+    "total": 6,
+    "note": "P(Oscar|N) = (0+1)/(6+2)"
+  },
+  "ev0000133::visual_effects::W": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|W) = (1+1)/(1+2)"
+  },
+  "ev0000133::animated::N": {
+    "weight": 0.3333,
+    "hits": 2,
+    "total": 7,
+    "note": "P(Oscar|N) = (2+1)/(7+2)"
+  },
+  "ev0000133::animated::W": {
+    "weight": 0.25,
+    "hits": 0,
+    "total": 2,
+    "note": "P(Oscar|W) = (0+1)/(2+2)"
+  },
+  "ev0000133::international::N": {
+    "weight": 0.375,
+    "hits": 2,
+    "total": 6,
+    "note": "P(Oscar|N) = (2+1)/(6+2)"
+  },
+  "ev0000133::international::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "ev0000004::picture::W": {
+    "weight": 0.3333,
+    "hits": 1,
+    "total": 4,
+    "note": "P(Oscar|W) = (1+1)/(4+2)"
+  },
+  "ev0000004::picture::N": {
+    "weight": 0.4,
+    "hits": 1,
+    "total": 3,
+    "note": "P(Oscar|N) = (1+1)/(3+2)"
+  },
+  "ev0000004::actor::N": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|N) = (1+1)/(2+2)"
+  },
+  "ev0000004::supp_actor::N": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|N) = (1+1)/(2+2)"
+  },
+  "ev0000004::supp_actress::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "ev0000004::actress::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "ev0000123::picture::W": {
+    "weight": 0.3333,
+    "hits": 1,
+    "total": 4,
+    "note": "P(Oscar|W) = (1+1)/(4+2)"
+  },
+  "ev0000123::picture::N": {
+    "weight": 0.1667,
+    "hits": 1,
+    "total": 10,
+    "note": "P(Oscar|N) = (1+1)/(10+2)"
+  },
+  "ev0000123::director::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "ev0000123::director::N": {
+    "weight": 0.2857,
+    "hits": 1,
+    "total": 5,
+    "note": "P(Oscar|N) = (1+1)/(5+2)"
+  },
+  "ev0000123::actor::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "ev0000123::actor::N": {
+    "weight": 0.1111,
+    "hits": 0,
+    "total": 7,
+    "note": "P(Oscar|N) = (0+1)/(7+2)"
+  },
+  "ev0000123::actress::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "ev0000123::actress::N": {
+    "weight": 0.1429,
+    "hits": 0,
+    "total": 5,
+    "note": "P(Oscar|N) = (0+1)/(5+2)"
+  },
+  "ev0000123::supp_actor::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "ev0000123::supp_actor::N": {
+    "weight": 0.125,
+    "hits": 0,
+    "total": 6,
+    "note": "P(Oscar|N) = (0+1)/(6+2)"
+  },
+  "ev0000123::supp_actress::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "ev0000123::supp_actress::N": {
+    "weight": 0.25,
+    "hits": 1,
+    "total": 6,
+    "note": "P(Oscar|N) = (1+1)/(6+2)"
+  },
+  "ev0000123::original_screenplay::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "ev0000123::original_screenplay::N": {
+    "weight": 0.25,
+    "hits": 1,
+    "total": 6,
+    "note": "P(Oscar|N) = (1+1)/(6+2)"
+  },
+  "ev0000123::adapted_screenplay::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "ev0000123::adapted_screenplay::N": {
+    "weight": 0.1111,
+    "hits": 0,
+    "total": 7,
+    "note": "P(Oscar|N) = (0+1)/(7+2)"
+  },
+  "ev0000123::cinematography::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "ev0000123::cinematography::N": {
+    "weight": 0.125,
+    "hits": 0,
+    "total": 6,
+    "note": "P(Oscar|N) = (0+1)/(6+2)"
+  },
+  "ev0000123::editing::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "ev0000123::editing::N": {
+    "weight": 0.2857,
+    "hits": 1,
+    "total": 5,
+    "note": "P(Oscar|N) = (1+1)/(5+2)"
+  },
+  "ev0000123::production_design::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "ev0000123::production_design::N": {
+    "weight": 0.1111,
+    "hits": 0,
+    "total": 7,
+    "note": "P(Oscar|N) = (0+1)/(7+2)"
+  },
+  "ev0000123::costume::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "ev0000123::costume::N": {
+    "weight": 0.1111,
+    "hits": 0,
+    "total": 7,
+    "note": "P(Oscar|N) = (0+1)/(7+2)"
+  },
+  "ev0000123::sound::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "ev0000123::sound::N": {
+    "weight": 0.125,
+    "hits": 0,
+    "total": 6,
+    "note": "P(Oscar|N) = (0+1)/(6+2)"
+  },
+  "ev0000123::makeup::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "ev0000123::makeup::N": {
+    "weight": 0.1429,
+    "hits": 0,
+    "total": 5,
+    "note": "P(Oscar|N) = (0+1)/(5+2)"
+  },
+  "ev0000123::score::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "ev0000123::score::N": {
+    "weight": 0.1429,
+    "hits": 0,
+    "total": 5,
+    "note": "P(Oscar|N) = (0+1)/(5+2)"
+  },
+  "ev0000123::visual_effects::N": {
+    "weight": 0.1111,
+    "hits": 0,
+    "total": 7,
+    "note": "P(Oscar|N) = (0+1)/(7+2)"
+  },
+  "ev0000123::visual_effects::W": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|W) = (1+1)/(1+2)"
+  },
+  "ev0000123::documentary::W": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|W) = (1+1)/(1+2)"
+  },
+  "ev0000123::documentary::N": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|N) = (1+1)/(2+2)"
+  },
+  "ev0000123::animated::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "ev0000123::animated::N": {
+    "weight": 0.2857,
+    "hits": 1,
+    "total": 5,
+    "note": "P(Oscar|N) = (1+1)/(5+2)"
+  },
+  "ev0000531::picture::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "ev0000531::picture::N": {
+    "weight": 0.0556,
+    "hits": 0,
+    "total": 16,
+    "note": "P(Oscar|N) = (0+1)/(16+2)"
+  },
+  "ev0000531::documentary::N": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|N) = (1+1)/(2+2)"
+  },
+  "ev0000531::animated::N": {
+    "weight": 0.4286,
+    "hits": 2,
+    "total": 5,
+    "note": "P(Oscar|N) = (2+1)/(5+2)"
+  },
+  "ev0000531::animated::W": {
+    "weight": 0.25,
+    "hits": 0,
+    "total": 2,
+    "note": "P(Oscar|W) = (0+1)/(2+2)"
+  },
+  "ev0000292::picture::W": {
+    "weight": 0.2857,
+    "hits": 1,
+    "total": 5,
+    "note": "P(Oscar|W) = (1+1)/(5+2)"
+  },
+  "ev0000292::picture::N": {
+    "weight": 0.1111,
+    "hits": 1,
+    "total": 16,
+    "note": "P(Oscar|N) = (1+1)/(16+2)"
+  },
+  "ev0000292::director::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "ev0000292::director::N": {
+    "weight": 0.2857,
+    "hits": 1,
+    "total": 5,
+    "note": "P(Oscar|N) = (1+1)/(5+2)"
+  },
+  "ev0000292::actor::W": {
+    "weight": 0.5,
+    "hits": 2,
+    "total": 4,
+    "note": "P(Oscar|W) = (2+1)/(4+2)"
+  },
+  "ev0000292::actor::N": {
+    "weight": 0.1111,
+    "hits": 0,
+    "total": 7,
+    "note": "P(Oscar|N) = (0+1)/(7+2)"
+  },
+  "ev0000292::actress::W": {
+    "weight": 0.3333,
+    "hits": 1,
+    "total": 4,
+    "note": "P(Oscar|W) = (1+1)/(4+2)"
+  },
+  "ev0000292::actress::N": {
+    "weight": 0.25,
+    "hits": 1,
+    "total": 6,
+    "note": "P(Oscar|N) = (1+1)/(6+2)"
+  },
+  "ev0000292::supp_actor::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "ev0000292::supp_actor::N": {
+    "weight": 0.1111,
+    "hits": 0,
+    "total": 7,
+    "note": "P(Oscar|N) = (0+1)/(7+2)"
+  },
+  "ev0000292::supp_actress::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "ev0000292::supp_actress::N": {
+    "weight": 0.2222,
+    "hits": 1,
+    "total": 7,
+    "note": "P(Oscar|N) = (1+1)/(7+2)"
+  },
+  "ev0000292::score::W": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|W) = (1+1)/(1+2)"
+  },
+  "ev0000292::score::N": {
+    "weight": 0.25,
+    "hits": 1,
+    "total": 6,
+    "note": "P(Oscar|N) = (1+1)/(6+2)"
+  },
+  "ev0000292::song::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "ev0000212::director::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "ev0000212::director::N": {
+    "weight": 0.1429,
+    "hits": 0,
+    "total": 5,
+    "note": "P(Oscar|N) = (0+1)/(5+2)"
+  },
+  "ev0000598::actor::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "ev0000598::actor::N": {
+    "weight": 0.2222,
+    "hits": 1,
+    "total": 7,
+    "note": "P(Oscar|N) = (1+1)/(7+2)"
+  },
+  "ev0000598::actress::N": {
+    "weight": 0.375,
+    "hits": 2,
+    "total": 6,
+    "note": "P(Oscar|N) = (2+1)/(6+2)"
+  },
+  "ev0000598::actress::W": {
+    "weight": 0.25,
+    "hits": 0,
+    "total": 2,
+    "note": "P(Oscar|W) = (0+1)/(2+2)"
+  },
+  "ev0000598::supp_actor::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "ev0000598::supp_actor::N": {
+    "weight": 0.1111,
+    "hits": 0,
+    "total": 7,
+    "note": "P(Oscar|N) = (0+1)/(7+2)"
+  },
+  "ev0000598::supp_actress::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "ev0000598::supp_actress::N": {
+    "weight": 0.1429,
+    "hits": 0,
+    "total": 5,
+    "note": "P(Oscar|N) = (0+1)/(5+2)"
+  },
+  "ev0000580::actor::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "ev0000580::actor::N": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|N) = (0+1)/(1+2)"
+  },
+  "ev0000580::costume::N": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|N) = (0+1)/(1+2)"
+  },
+  "ev0000580::costume::W": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|W) = (1+1)/(1+2)"
+  },
+  "ev0000580::sound::W": {
+    "weight": 0.25,
+    "hits": 0,
+    "total": 2,
+    "note": "P(Oscar|W) = (0+1)/(2+2)"
+  },
+  "ev0000580::sound::N": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|N) = (1+1)/(2+2)"
+  },
+  "ev0000580::adapted_screenplay::N": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|N) = (0+1)/(1+2)"
+  },
+  "ev0000580::production_design::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "ev0000201::actor::N": {
+    "weight": 0.25,
+    "hits": 0,
+    "total": 2,
+    "note": "P(Oscar|N) = (0+1)/(2+2)"
+  },
+  "ev0000620::actor::N": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|N) = (0+1)/(1+2)"
+  },
+  "ev0000620::adapted_screenplay::N": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|N) = (0+1)/(1+2)"
+  },
+  "ev0000163::actor::N": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|N) = (0+1)/(1+2)"
+  },
+  "ev0000163::actor::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "ev0000163::costume::N": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|N) = (1+1)/(2+2)"
+  },
+  "ev0000163::adapted_screenplay::N": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|N) = (0+1)/(1+2)"
+  },
+  "ev0000163::production_design::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "ev0000163::score::N": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|N) = (1+1)/(1+2)"
+  },
+  "ev0001400::actor::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "ev0001400::actor::N": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|N) = (0+1)/(1+2)"
+  },
+  "ev0001400::production_design::N": {
+    "weight": 0.4,
+    "hits": 1,
+    "total": 3,
+    "note": "P(Oscar|N) = (1+1)/(3+2)"
+  },
+  "ev0001400::actress::N": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|N) = (0+1)/(1+2)"
+  },
+  "ev0001400::supp_actress::N": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|N) = (0+1)/(1+2)"
+  },
+  "ev0001400::adapted_screenplay::N": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|N) = (0+1)/(1+2)"
+  },
+  "ev0000452::editing::N": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|N) = (1+1)/(2+2)"
+  },
+  "ev0000452::editing::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "ev0000452::sound::N": {
+    "weight": 0.375,
+    "hits": 2,
+    "total": 6,
+    "note": "P(Oscar|N) = (2+1)/(6+2)"
+  },
+  "ev0000452::sound::W": {
+    "weight": 0.2857,
+    "hits": 1,
+    "total": 5,
+    "note": "P(Oscar|W) = (1+1)/(5+2)"
+  },
+  "ev0000190::costume::W": {
+    "weight": 0.4286,
+    "hits": 2,
+    "total": 5,
+    "note": "P(Oscar|W) = (2+1)/(5+2)"
+  },
+  "ev0000190::costume::N": {
+    "weight": 0.1667,
+    "hits": 0,
+    "total": 4,
+    "note": "P(Oscar|N) = (0+1)/(4+2)"
+  },
+  "ev0000493::documentary::N": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|N) = (1+1)/(1+2)"
+  },
+  "ev0000349::documentary::W": {
+    "weight": 0.5,
+    "hits": 1,
+    "total": 2,
+    "note": "P(Oscar|W) = (1+1)/(2+2)"
+  },
+  "ev0000349::documentary::N": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|N) = (0+1)/(1+2)"
+  },
+  "ev0000349::international::N": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|N) = (1+1)/(1+2)"
+  },
+  "ev0000349::international::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "ev0000349::director::W": {
+    "weight": 0.6667,
+    "hits": 1,
+    "total": 1,
+    "note": "P(Oscar|W) = (1+1)/(1+2)"
+  },
+  "ev0000349::director::N": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|N) = (0+1)/(1+2)"
+  },
+  "ev0000521::international::W": {
+    "weight": 0.75,
+    "hits": 2,
+    "total": 2,
+    "note": "P(Oscar|W) = (2+1)/(2+2)"
+  },
+  "ev0000521::international::N": {
+    "weight": 0.1818,
+    "hits": 1,
+    "total": 9,
+    "note": "P(Oscar|N) = (1+1)/(9+2)"
+  },
+  "ev0000521::actress::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "ev0000464::adapted_screenplay::W": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|W) = (0+1)/(1+2)"
+  },
+  "ev0000298::adapted_screenplay::N": {
+    "weight": 0.3333,
+    "hits": 0,
+    "total": 1,
+    "note": "P(Oscar|N) = (0+1)/(1+2)"
+  }
+}

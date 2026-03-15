@@ -1,0 +1,704 @@
+{
+  "method": "goldderby",
+  "validation_years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "overall_accuracy": 0.896,
+  "overall_auc": 0.957,
+  "n_cat_years": 96,
+  "n_auc_cat_years": 86,
+  "note": "AUC computed where full odds available; top-1 accuracy for all years",
+  "by_year": {
+    "2020": {
+      "picture": {
+        "predicted": "1917",
+        "actual": "Parasite",
+        "correct": false,
+        "auc": 0.875
+      },
+      "director": {
+        "predicted": "Sam Mendes",
+        "actual": "Bong Joon-ho",
+        "correct": false,
+        "auc": null
+      },
+      "actor": {
+        "predicted": "Joaquin Phoenix",
+        "actual": "Joaquin Phoenix",
+        "correct": true,
+        "auc": 1.0
+      },
+      "actress": {
+        "predicted": "Ren\u00e9e Zellweger",
+        "actual": "Ren\u00e9e Zellweger",
+        "correct": true,
+        "auc": 1.0
+      },
+      "supp_actor": {
+        "predicted": "Brad Pitt",
+        "actual": "Brad Pitt",
+        "correct": true,
+        "auc": 1.0
+      },
+      "supp_actress": {
+        "predicted": "Laura Dern",
+        "actual": "Laura Dern",
+        "correct": true,
+        "auc": 1.0
+      },
+      "original_screenplay": {
+        "predicted": "Once Upon a Time in Hollywood",
+        "actual": "Parasite",
+        "correct": false,
+        "auc": 1.0
+      },
+      "adapted_screenplay": {
+        "predicted": "Jojo Rabbit",
+        "actual": "Jojo Rabbit",
+        "correct": true,
+        "auc": 1.0
+      },
+      "cinematography": {
+        "predicted": "1917",
+        "actual": "1917",
+        "correct": true,
+        "auc": 1.0
+      },
+      "editing": {
+        "predicted": "Ford v Ferrari",
+        "actual": "Ford v Ferrari",
+        "correct": true,
+        "auc": null
+      },
+      "makeup": {
+        "predicted": "Bombshell",
+        "actual": "Bombshell",
+        "correct": true,
+        "auc": 1.0
+      },
+      "score": {
+        "predicted": "Joker",
+        "actual": "Joker",
+        "correct": true,
+        "auc": 1.0
+      },
+      "song": {
+        "predicted": "(I'm Gonna) Love Me Again",
+        "actual": "(I'm Gonna) Love Me Again",
+        "correct": true,
+        "auc": null
+      },
+      "documentary": {
+        "predicted": "For Sama",
+        "actual": "American Factory",
+        "correct": false,
+        "auc": 0.75
+      },
+      "animated": {
+        "predicted": "Toy Story 4",
+        "actual": "Toy Story 4",
+        "correct": true,
+        "auc": 1.0
+      },
+      "international": {
+        "predicted": "Parasite",
+        "actual": "Parasite",
+        "correct": true,
+        "auc": 1.0
+      }
+    },
+    "2021": {
+      "picture": {
+        "predicted": "Nomadland",
+        "actual": "Nomadland",
+        "correct": true,
+        "auc": 1.0
+      },
+      "director": {
+        "predicted": "Chlo\u00e9 Zhao",
+        "actual": "Chlo\u00e9 Zhao",
+        "correct": true,
+        "auc": 1.0
+      },
+      "actor": {
+        "predicted": "Chadwick Boseman",
+        "actual": "Anthony Hopkins",
+        "correct": false,
+        "auc": 0.75
+      },
+      "actress": {
+        "predicted": "Frances McDormand",
+        "actual": "Frances McDormand",
+        "correct": true,
+        "auc": 0.5
+      },
+      "supp_actor": {
+        "predicted": "Daniel Kaluuya",
+        "actual": "Daniel Kaluuya",
+        "correct": true,
+        "auc": 1.0
+      },
+      "supp_actress": {
+        "predicted": "Yuh-Jung Youn",
+        "actual": "Yuh-Jung Youn",
+        "correct": true,
+        "auc": 1.0
+      },
+      "original_screenplay": {
+        "predicted": "Promising Young Woman",
+        "actual": "Promising Young Woman",
+        "correct": true,
+        "auc": 1.0
+      },
+      "adapted_screenplay": {
+        "predicted": "The Father",
+        "actual": "The Father",
+        "correct": true,
+        "auc": 1.0
+      },
+      "cinematography": {
+        "predicted": "Mank",
+        "actual": "Mank",
+        "correct": true,
+        "auc": 0.75
+      },
+      "editing": {
+        "predicted": "Sound of Metal",
+        "actual": "Sound of Metal",
+        "correct": true,
+        "auc": null
+      },
+      "makeup": {
+        "predicted": "Ma Rainey's Black Bottom",
+        "actual": "Ma Rainey's Black Bottom",
+        "correct": true,
+        "auc": 1.0
+      },
+      "score": {
+        "predicted": "Soul",
+        "actual": "Soul",
+        "correct": true,
+        "auc": 1.0
+      },
+      "song": {
+        "predicted": "Fight for You",
+        "actual": "Fight for You",
+        "correct": true,
+        "auc": null
+      },
+      "documentary": {
+        "predicted": "My Octopus Teacher",
+        "actual": "My Octopus Teacher",
+        "correct": true,
+        "auc": 1.0
+      },
+      "animated": {
+        "predicted": "Soul",
+        "actual": "Soul",
+        "correct": true,
+        "auc": 1.0
+      },
+      "international": {
+        "predicted": "Another Round",
+        "actual": "Another Round",
+        "correct": true,
+        "auc": 1.0
+      }
+    },
+    "2022": {
+      "picture": {
+        "predicted": "CODA",
+        "actual": "CODA",
+        "correct": true,
+        "auc": 0.9444
+      },
+      "director": {
+        "predicted": "Jane Campion",
+        "actual": "Jane Campion",
+        "correct": true,
+        "auc": 1.0
+      },
+      "actor": {
+        "predicted": "Will Smith",
+        "actual": "Will Smith",
+        "correct": true,
+        "auc": 1.0
+      },
+      "actress": {
+        "predicted": "Jessica Chastain",
+        "actual": "Jessica Chastain",
+        "correct": true,
+        "auc": 1.0
+      },
+      "supp_actor": {
+        "predicted": "Troy Kotsur",
+        "actual": "Troy Kotsur",
+        "correct": true,
+        "auc": 1.0
+      },
+      "supp_actress": {
+        "predicted": "Ariana DeBose",
+        "actual": "Ariana DeBose",
+        "correct": true,
+        "auc": 1.0
+      },
+      "original_screenplay": {
+        "predicted": "Belfast",
+        "actual": "Belfast",
+        "correct": true,
+        "auc": 1.0
+      },
+      "adapted_screenplay": {
+        "predicted": "CODA",
+        "actual": "CODA",
+        "correct": true,
+        "auc": 1.0
+      },
+      "cinematography": {
+        "predicted": "Dune",
+        "actual": "Dune",
+        "correct": true,
+        "auc": 1.0
+      },
+      "editing": {
+        "predicted": "Dune",
+        "actual": "Dune",
+        "correct": true,
+        "auc": 1.0
+      },
+      "makeup": {
+        "predicted": "The Eyes of Tammy Faye",
+        "actual": "The Eyes of Tammy Faye",
+        "correct": true,
+        "auc": 1.0
+      },
+      "score": {
+        "predicted": "Power of the Dog",
+        "actual": "Dune",
+        "correct": false,
+        "auc": 0.75
+      },
+      "song": {
+        "predicted": "No Time to Die",
+        "actual": "No Time to Die",
+        "correct": true,
+        "auc": null
+      },
+      "documentary": {
+        "predicted": "Summer of Soul",
+        "actual": "Summer of Soul",
+        "correct": true,
+        "auc": 1.0
+      },
+      "animated": {
+        "predicted": "Encanto",
+        "actual": "Encanto",
+        "correct": true,
+        "auc": 1.0
+      },
+      "international": {
+        "predicted": "Drive My Car",
+        "actual": "Drive My Car",
+        "correct": true,
+        "auc": 1.0
+      }
+    },
+    "2023": {
+      "picture": {
+        "predicted": "Everything Everywhere All at Once",
+        "actual": "Everything Everywhere All at Once",
+        "correct": true,
+        "auc": 1.0
+      },
+      "director": {
+        "predicted": "Daniel Kwan & Daniel Scheinert",
+        "actual": "Daniel Kwan & Daniel Scheinert",
+        "correct": true,
+        "auc": null
+      },
+      "actor": {
+        "predicted": "Brendan Fraser",
+        "actual": "Brendan Fraser",
+        "correct": true,
+        "auc": 0.75
+      },
+      "actress": {
+        "predicted": "Michelle Yeoh",
+        "actual": "Michelle Yeoh",
+        "correct": true,
+        "auc": 1.0
+      },
+      "supp_actor": {
+        "predicted": "Ke Huy Quan",
+        "actual": "Ke Huy Quan",
+        "correct": true,
+        "auc": 1.0
+      },
+      "supp_actress": {
+        "predicted": "Kerry Condon",
+        "actual": "Jamie Lee Curtis",
+        "correct": false,
+        "auc": 0.75
+      },
+      "original_screenplay": {
+        "predicted": "Everything Everywhere All at Once",
+        "actual": "Everything Everywhere All at Once",
+        "correct": true,
+        "auc": 1.0
+      },
+      "adapted_screenplay": {
+        "predicted": "Women Talking",
+        "actual": "Women Talking",
+        "correct": true,
+        "auc": 1.0
+      },
+      "cinematography": {
+        "predicted": "All Quiet on the Western Front",
+        "actual": "All Quiet on the Western Front",
+        "correct": true,
+        "auc": 1.0
+      },
+      "editing": {
+        "predicted": "Everything Everywhere All at Once",
+        "actual": "Everything Everywhere All at Once",
+        "correct": true,
+        "auc": 1.0
+      },
+      "makeup": {
+        "predicted": "The Whale",
+        "actual": "The Whale",
+        "correct": true,
+        "auc": 1.0
+      },
+      "score": {
+        "predicted": "All Quiet on the Western Front",
+        "actual": "All Quiet on the Western Front",
+        "correct": true,
+        "auc": 1.0
+      },
+      "song": {
+        "predicted": "Naatu Naatu",
+        "actual": "Naatu Naatu",
+        "correct": true,
+        "auc": null
+      },
+      "documentary": {
+        "predicted": "Navalny",
+        "actual": "Navalny",
+        "correct": true,
+        "auc": 1.0
+      },
+      "animated": {
+        "predicted": "Guillermo del Toro's Pinocchio",
+        "actual": "Guillermo del Toro's Pinocchio",
+        "correct": true,
+        "auc": 1.0
+      },
+      "international": {
+        "predicted": "All Quiet on the Western Front",
+        "actual": "All Quiet on the Western Front",
+        "correct": true,
+        "auc": 1.0
+      }
+    },
+    "2024": {
+      "picture": {
+        "predicted": "Oppenheimer",
+        "actual": "Oppenheimer",
+        "correct": true,
+        "auc": 1.0
+      },
+      "director": {
+        "predicted": "Christopher Nolan",
+        "actual": "Christopher Nolan",
+        "correct": true,
+        "auc": 1.0
+      },
+      "actor": {
+        "predicted": "Cillian Murphy",
+        "actual": "Cillian Murphy",
+        "correct": true,
+        "auc": 1.0
+      },
+      "actress": {
+        "predicted": "Lily Gladstone",
+        "actual": "Emma Stone",
+        "correct": false,
+        "auc": 0.75
+      },
+      "supp_actor": {
+        "predicted": "Robert Downey Jr.",
+        "actual": "Robert Downey Jr.",
+        "correct": true,
+        "auc": 1.0
+      },
+      "supp_actress": {
+        "predicted": "Da'Vine Joy Randolph",
+        "actual": "Da'Vine Joy Randolph",
+        "correct": true,
+        "auc": 1.0
+      },
+      "original_screenplay": {
+        "predicted": "Anatomy of a Fall",
+        "actual": "Anatomy of a Fall",
+        "correct": true,
+        "auc": 1.0
+      },
+      "adapted_screenplay": {
+        "predicted": "American Fiction",
+        "actual": "American Fiction",
+        "correct": true,
+        "auc": 1.0
+      },
+      "cinematography": {
+        "predicted": "Oppenheimer",
+        "actual": "Oppenheimer",
+        "correct": true,
+        "auc": 1.0
+      },
+      "editing": {
+        "predicted": "Oppenheimer",
+        "actual": "Oppenheimer",
+        "correct": true,
+        "auc": 1.0
+      },
+      "makeup": {
+        "predicted": "Poor Things",
+        "actual": "Poor Things",
+        "correct": true,
+        "auc": 0.75
+      },
+      "score": {
+        "predicted": "Oppenheimer",
+        "actual": "Oppenheimer",
+        "correct": true,
+        "auc": 1.0
+      },
+      "song": {
+        "predicted": "What Was I Made For?",
+        "actual": "What Was I Made For?",
+        "correct": true,
+        "auc": null
+      },
+      "documentary": {
+        "predicted": "20 Days in Mariupol",
+        "actual": "20 Days in Mariupol",
+        "correct": true,
+        "auc": 1.0
+      },
+      "animated": {
+        "predicted": "The Boy and the Heron",
+        "actual": "The Boy and the Heron",
+        "correct": true,
+        "auc": 0.75
+      },
+      "international": {
+        "predicted": "Zone of Interest",
+        "actual": "Zone of Interest",
+        "correct": true,
+        "auc": 1.0
+      }
+    },
+    "2025": {
+      "picture": {
+        "predicted": "Anora",
+        "actual": "Anora",
+        "correct": true,
+        "auc": 1.0
+      },
+      "director": {
+        "predicted": "Brady Corbet",
+        "actual": "Sean Baker",
+        "correct": false,
+        "auc": 1.0
+      },
+      "actor": {
+        "predicted": "Adrien Brody",
+        "actual": "Adrien Brody",
+        "correct": true,
+        "auc": 1.0
+      },
+      "actress": {
+        "predicted": "Demi Moore",
+        "actual": "Mikey Madison",
+        "correct": false,
+        "auc": 0.75
+      },
+      "supp_actor": {
+        "predicted": "Kieran Culkin",
+        "actual": "Kieran Culkin",
+        "correct": true,
+        "auc": 1.0
+      },
+      "supp_actress": {
+        "predicted": "Zoe Saldana",
+        "actual": "Zoe Saldana",
+        "correct": true,
+        "auc": 1.0
+      },
+      "original_screenplay": {
+        "predicted": "Anora",
+        "actual": "Anora",
+        "correct": true,
+        "auc": 1.0
+      },
+      "adapted_screenplay": {
+        "predicted": "Conclave",
+        "actual": "Conclave",
+        "correct": true,
+        "auc": 1.0
+      },
+      "cinematography": {
+        "predicted": "The Brutalist",
+        "actual": "The Brutalist",
+        "correct": true,
+        "auc": 1.0
+      },
+      "editing": {
+        "predicted": "Anora",
+        "actual": "Anora",
+        "correct": true,
+        "auc": 0.75
+      },
+      "makeup": {
+        "predicted": "A Different Man",
+        "actual": "A Different Man",
+        "correct": true,
+        "auc": 1.0
+      },
+      "score": {
+        "predicted": "The Brutalist",
+        "actual": "The Brutalist",
+        "correct": true,
+        "auc": 1.0
+      },
+      "song": {
+        "predicted": "El Mal",
+        "actual": "El Mal",
+        "correct": true,
+        "auc": null
+      },
+      "documentary": {
+        "predicted": "No Other Land",
+        "actual": "No Other Land",
+        "correct": true,
+        "auc": 1.0
+      },
+      "animated": {
+        "predicted": "Flow",
+        "actual": "Flow",
+        "correct": true,
+        "auc": 0.75
+      },
+      "international": {
+        "predicted": "I'm Still Here",
+        "actual": "I'm Still Here",
+        "correct": true,
+        "auc": 1.0
+      }
+    }
+  },
+  "by_category": {
+    "picture": {
+      "accuracy": 0.833,
+      "auc": 0.97,
+      "n_years": 6,
+      "n_auc_years": 6
+    },
+    "director": {
+      "accuracy": 0.667,
+      "auc": 1.0,
+      "n_years": 6,
+      "n_auc_years": 4
+    },
+    "actor": {
+      "accuracy": 0.833,
+      "auc": 0.917,
+      "n_years": 6,
+      "n_auc_years": 6
+    },
+    "actress": {
+      "accuracy": 0.667,
+      "auc": 0.833,
+      "n_years": 6,
+      "n_auc_years": 6
+    },
+    "supp_actor": {
+      "accuracy": 1.0,
+      "auc": 1.0,
+      "n_years": 6,
+      "n_auc_years": 6
+    },
+    "supp_actress": {
+      "accuracy": 0.833,
+      "auc": 0.958,
+      "n_years": 6,
+      "n_auc_years": 6
+    },
+    "original_screenplay": {
+      "accuracy": 0.833,
+      "auc": 1.0,
+      "n_years": 6,
+      "n_auc_years": 6
+    },
+    "adapted_screenplay": {
+      "accuracy": 1.0,
+      "auc": 1.0,
+      "n_years": 6,
+      "n_auc_years": 6
+    },
+    "cinematography": {
+      "accuracy": 1.0,
+      "auc": 0.958,
+      "n_years": 6,
+      "n_auc_years": 6
+    },
+    "editing": {
+      "accuracy": 1.0,
+      "auc": 0.938,
+      "n_years": 6,
+      "n_auc_years": 4
+    },
+    "makeup": {
+      "accuracy": 1.0,
+      "auc": 0.958,
+      "n_years": 6,
+      "n_auc_years": 6
+    },
+    "score": {
+      "accuracy": 0.833,
+      "auc": 0.958,
+      "n_years": 6,
+      "n_auc_years": 6
+    },
+    "song": {
+      "accuracy": 1.0,
+      "auc": null,
+      "n_years": 6,
+      "n_auc_years": 0
+    },
+    "documentary": {
+      "accuracy": 0.833,
+      "auc": 0.958,
+      "n_years": 6,
+      "n_auc_years": 6
+    },
+    "animated": {
+      "accuracy": 1.0,
+      "auc": 0.917,
+      "n_years": 6,
+      "n_auc_years": 6
+    },
+    "international": {
+      "accuracy": 1.0,
+      "auc": 1.0,
+      "n_years": 6,
+      "n_auc_years": 6
+    }
+  }
+}

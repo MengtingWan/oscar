@@ -1,0 +1,1350 @@
+{
+  "method": "stats",
+  "validation_years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "overall_accuracy": 0.717,
+  "overall_auc": 0.854,
+  "n_cat_years": 120,
+  "by_year": {
+    "2020": {
+      "picture": {
+        "predicted": "['Parasite']",
+        "actual": "['Parasite']",
+        "correct": true,
+        "confidence": 0.3199,
+        "winner_prob": 0.3199,
+        "rank_of_winner": 1,
+        "n_nominees": 9,
+        "auc": 1.0
+      },
+      "director": {
+        "predicted": "['Bong Joon Ho']",
+        "actual": "['Bong Joon Ho']",
+        "correct": true,
+        "confidence": 0.5058,
+        "winner_prob": 0.5058,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "actor": {
+        "predicted": "['Joaquin Phoenix']",
+        "actual": "['Joaquin Phoenix']",
+        "correct": true,
+        "confidence": 0.6161,
+        "winner_prob": 0.6161,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "actress": {
+        "predicted": "['Ren\u00e9e Zellweger']",
+        "actual": "['Ren\u00e9e Zellweger']",
+        "correct": true,
+        "confidence": 0.7465,
+        "winner_prob": 0.7465,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "supp_actor": {
+        "predicted": "['Brad Pitt']",
+        "actual": "['Brad Pitt']",
+        "correct": true,
+        "confidence": 0.7673,
+        "winner_prob": 0.7673,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "supp_actress": {
+        "predicted": "['Laura Dern']",
+        "actual": "['Laura Dern']",
+        "correct": true,
+        "confidence": 0.8538,
+        "winner_prob": 0.8538,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "original_screenplay": {
+        "predicted": "['Parasite']",
+        "actual": "['Parasite']",
+        "correct": true,
+        "confidence": 0.5042,
+        "winner_prob": 0.5042,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "adapted_screenplay": {
+        "predicted": "['Jojo Rabbit']",
+        "actual": "['Jojo Rabbit']",
+        "correct": true,
+        "confidence": 0.3755,
+        "winner_prob": 0.3755,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "cinematography": {
+        "predicted": "['1917']",
+        "actual": "['1917']",
+        "correct": true,
+        "confidence": 0.7351,
+        "winner_prob": 0.7351,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "editing": {
+        "predicted": "['Andrew Buckland', 'Michael McCusker']",
+        "actual": "['Andrew Buckland', 'Michael McCusker']",
+        "correct": true,
+        "confidence": 0.3467,
+        "winner_prob": 0.3467,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "production_design": {
+        "predicted": "['Once Upon a Time... in Hollywood']",
+        "actual": "['Once Upon a Time... in Hollywood']",
+        "correct": true,
+        "confidence": 0.4674,
+        "winner_prob": 0.4674,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "costume": {
+        "predicted": "['Little Women']",
+        "actual": "['Little Women']",
+        "correct": true,
+        "confidence": 0.3171,
+        "winner_prob": 0.3171,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "sound": {
+        "predicted": "['1917']",
+        "actual": "['Ford v Ferrari']",
+        "correct": false,
+        "confidence": 0.1638,
+        "winner_prob": 0.1235,
+        "rank_of_winner": 3,
+        "n_nominees": 10,
+        "auc": null
+      },
+      "makeup": {
+        "predicted": "['Bombshell']",
+        "actual": "['Bombshell']",
+        "correct": true,
+        "confidence": 0.4336,
+        "winner_prob": 0.4336,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "score": {
+        "predicted": "['Joker']",
+        "actual": "['Joker']",
+        "correct": true,
+        "confidence": 0.5599,
+        "winner_prob": 0.5599,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "song": {
+        "predicted": "['Rocketman']",
+        "actual": "['Rocketman']",
+        "correct": true,
+        "confidence": 0.5327,
+        "winner_prob": 0.5327,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "visual_effects": {
+        "predicted": "['1917']",
+        "actual": "['1917']",
+        "correct": true,
+        "confidence": 0.3021,
+        "winner_prob": 0.3021,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "documentary": {
+        "predicted": "['American Factory']",
+        "actual": "['American Factory']",
+        "correct": true,
+        "confidence": 0.3549,
+        "winner_prob": 0.3549,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "animated": {
+        "predicted": "['Toy Story 4']",
+        "actual": "['Toy Story 4']",
+        "correct": true,
+        "confidence": 0.7322,
+        "winner_prob": 0.7322,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "international": {
+        "predicted": "['Parasite']",
+        "actual": "['Parasite']",
+        "correct": true,
+        "confidence": 0.8269,
+        "winner_prob": 0.8269,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      }
+    },
+    "2021": {
+      "picture": {
+        "predicted": "['Nomadland']",
+        "actual": "['Nomadland']",
+        "correct": true,
+        "confidence": 0.9188,
+        "winner_prob": 0.9188,
+        "rank_of_winner": 1,
+        "n_nominees": 8,
+        "auc": 1.0
+      },
+      "director": {
+        "predicted": "['Chlo\u00e9 Zhao']",
+        "actual": "['Chlo\u00e9 Zhao']",
+        "correct": true,
+        "confidence": 0.9909,
+        "winner_prob": 0.9909,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "actor": {
+        "predicted": "['Chadwick Boseman']",
+        "actual": "['Anthony Hopkins']",
+        "correct": false,
+        "confidence": 0.7547,
+        "winner_prob": 0.0902,
+        "rank_of_winner": 3,
+        "n_nominees": 5,
+        "auc": 0.5
+      },
+      "actress": {
+        "predicted": "['Frances McDormand']",
+        "actual": "['Frances McDormand']",
+        "correct": true,
+        "confidence": 0.383,
+        "winner_prob": 0.383,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "supp_actor": {
+        "predicted": "['Paul Raci']",
+        "actual": "['Daniel Kaluuya']",
+        "correct": false,
+        "confidence": 0.3395,
+        "winner_prob": 0.2772,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "auc": 0.625
+      },
+      "supp_actress": {
+        "predicted": "['Maria Bakalova']",
+        "actual": "['Yuh-Jung Youn']",
+        "correct": false,
+        "confidence": 0.4063,
+        "winner_prob": 0.3615,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "auc": 0.75
+      },
+      "original_screenplay": {
+        "predicted": "['Promising Young Woman']",
+        "actual": "['Promising Young Woman']",
+        "correct": true,
+        "confidence": 0.6399,
+        "winner_prob": 0.6399,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "adapted_screenplay": {
+        "predicted": "['Nomadland']",
+        "actual": "['The Father']",
+        "correct": false,
+        "confidence": 0.4291,
+        "winner_prob": 0.1758,
+        "rank_of_winner": 3,
+        "n_nominees": 5,
+        "auc": 0.5
+      },
+      "cinematography": {
+        "predicted": "['Nomadland']",
+        "actual": "['Nomadland']",
+        "correct": true,
+        "confidence": 0.9725,
+        "winner_prob": 0.9725,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "editing": {
+        "predicted": "['Chlo\u00e9 Zhao']",
+        "actual": "['Mikkel E.G. Nielsen']",
+        "correct": false,
+        "confidence": 0.3402,
+        "winner_prob": 0.2535,
+        "rank_of_winner": 3,
+        "n_nominees": 5,
+        "auc": 0.5
+      },
+      "production_design": {
+        "predicted": "['Mank']",
+        "actual": "['The Father']",
+        "correct": false,
+        "confidence": 0.8333,
+        "winner_prob": 0.0226,
+        "rank_of_winner": 5,
+        "n_nominees": 5,
+        "auc": 0.0
+      },
+      "costume": {
+        "predicted": "[\"Ma Rainey's Black Bottom\"]",
+        "actual": "[\"Ma Rainey's Black Bottom\"]",
+        "correct": true,
+        "confidence": 0.4666,
+        "winner_prob": 0.4666,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "sound": {
+        "predicted": "['Sound of Metal']",
+        "actual": "['Sound of Metal']",
+        "correct": true,
+        "confidence": 0.3684,
+        "winner_prob": 0.3684,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "makeup": {
+        "predicted": "[\"Ma Rainey's Black Bottom\"]",
+        "actual": "[\"Ma Rainey's Black Bottom\"]",
+        "correct": true,
+        "confidence": 0.4159,
+        "winner_prob": 0.4159,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "score": {
+        "predicted": "['Soul']",
+        "actual": "['Soul']",
+        "correct": true,
+        "confidence": 0.4924,
+        "winner_prob": 0.4924,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "song": {
+        "predicted": "['The Life Ahead']",
+        "actual": "['Eurovision Song Contest: The Story of Fire Saga']",
+        "correct": false,
+        "confidence": 0.3877,
+        "winner_prob": 0.1041,
+        "rank_of_winner": 5,
+        "n_nominees": 5,
+        "auc": 0.0
+      },
+      "visual_effects": {
+        "predicted": "['Tenet']",
+        "actual": "['Tenet']",
+        "correct": true,
+        "confidence": 0.8495,
+        "winner_prob": 0.8495,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "documentary": {
+        "predicted": "['Time']",
+        "actual": "['My Octopus Teacher']",
+        "correct": false,
+        "confidence": 0.4494,
+        "winner_prob": 0.1871,
+        "rank_of_winner": 3,
+        "n_nominees": 5,
+        "auc": 0.5
+      },
+      "animated": {
+        "predicted": "['Soul']",
+        "actual": "['Soul']",
+        "correct": true,
+        "confidence": 0.6957,
+        "winner_prob": 0.6957,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "international": {
+        "predicted": "['Collective']",
+        "actual": "['Another Round']",
+        "correct": false,
+        "confidence": 0.3711,
+        "winner_prob": 0.3599,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "auc": 0.75
+      }
+    },
+    "2022": {
+      "picture": {
+        "predicted": "['The Power of the Dog']",
+        "actual": "['CODA']",
+        "correct": false,
+        "confidence": 0.3518,
+        "winner_prob": 0.0904,
+        "rank_of_winner": 5,
+        "n_nominees": 10,
+        "auc": 0.5556
+      },
+      "director": {
+        "predicted": "['Jane Campion']",
+        "actual": "['Jane Campion']",
+        "correct": true,
+        "confidence": 0.9099,
+        "winner_prob": 0.9099,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "actor": {
+        "predicted": "['Will Smith']",
+        "actual": "['Will Smith']",
+        "correct": true,
+        "confidence": 0.5543,
+        "winner_prob": 0.5543,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "actress": {
+        "predicted": "['Olivia Colman']",
+        "actual": "['Jessica Chastain']",
+        "correct": false,
+        "confidence": 0.2702,
+        "winner_prob": 0.1848,
+        "rank_of_winner": 4,
+        "n_nominees": 5,
+        "auc": 0.25
+      },
+      "supp_actor": {
+        "predicted": "['Jesse Plemons']",
+        "actual": "['Troy Kotsur']",
+        "correct": false,
+        "confidence": 0.3539,
+        "winner_prob": 0.2159,
+        "rank_of_winner": 3,
+        "n_nominees": 5,
+        "auc": 0.5
+      },
+      "supp_actress": {
+        "predicted": "['Ariana DeBose']",
+        "actual": "['Ariana DeBose']",
+        "correct": true,
+        "confidence": 0.8091,
+        "winner_prob": 0.8091,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "original_screenplay": {
+        "predicted": "['Belfast']",
+        "actual": "['Belfast']",
+        "correct": true,
+        "confidence": 0.326,
+        "winner_prob": 0.326,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "adapted_screenplay": {
+        "predicted": "['CODA']",
+        "actual": "['CODA']",
+        "correct": true,
+        "confidence": 0.4206,
+        "winner_prob": 0.4206,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "cinematography": {
+        "predicted": "['Dune']",
+        "actual": "['Dune']",
+        "correct": true,
+        "confidence": 0.4214,
+        "winner_prob": 0.4214,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "editing": {
+        "predicted": "['tick, tick... BOOM!']",
+        "actual": "['Dune']",
+        "correct": false,
+        "confidence": 0.3872,
+        "winner_prob": 0.2321,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "auc": 0.75
+      },
+      "production_design": {
+        "predicted": "['Dune']",
+        "actual": "['Dune']",
+        "correct": true,
+        "confidence": 0.4213,
+        "winner_prob": 0.4213,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "costume": {
+        "predicted": "['Cruella']",
+        "actual": "['Cruella']",
+        "correct": true,
+        "confidence": 0.4503,
+        "winner_prob": 0.4503,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "sound": {
+        "predicted": "['Dune']",
+        "actual": "['Dune']",
+        "correct": true,
+        "confidence": 0.6702,
+        "winner_prob": 0.6702,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "makeup": {
+        "predicted": "['The Eyes of Tammy Faye']",
+        "actual": "['The Eyes of Tammy Faye']",
+        "correct": true,
+        "confidence": 0.324,
+        "winner_prob": 0.324,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "score": {
+        "predicted": "['Dune']",
+        "actual": "['Dune']",
+        "correct": true,
+        "confidence": 0.46,
+        "winner_prob": 0.46,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "song": {
+        "predicted": "['No Time to Die']",
+        "actual": "['No Time to Die']",
+        "correct": true,
+        "confidence": 0.4155,
+        "winner_prob": 0.4155,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "visual_effects": {
+        "predicted": "['Dune']",
+        "actual": "['Dune']",
+        "correct": true,
+        "confidence": 0.7738,
+        "winner_prob": 0.7738,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "documentary": {
+        "predicted": "['Summer of Soul (...Or, When the Revolution Could Not Be Televised)']",
+        "actual": "['Summer of Soul (...Or, When the Revolution Could Not Be Televised)']",
+        "correct": true,
+        "confidence": 0.8206,
+        "winner_prob": 0.8206,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "animated": {
+        "predicted": "['Encanto']",
+        "actual": "['Encanto']",
+        "correct": true,
+        "confidence": 0.5394,
+        "winner_prob": 0.5394,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "international": {
+        "predicted": "['Drive My Car']",
+        "actual": "['Drive My Car']",
+        "correct": true,
+        "confidence": 0.3613,
+        "winner_prob": 0.3613,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      }
+    },
+    "2023": {
+      "picture": {
+        "predicted": "['Everything Everywhere All at Once']",
+        "actual": "['Everything Everywhere All at Once']",
+        "correct": true,
+        "confidence": 0.2338,
+        "winner_prob": 0.2338,
+        "rank_of_winner": 1,
+        "n_nominees": 10,
+        "auc": 1.0
+      },
+      "director": {
+        "predicted": "['Daniel Kwan', 'Daniel Scheinert']",
+        "actual": "['Daniel Kwan', 'Daniel Scheinert']",
+        "correct": true,
+        "confidence": 0.6654,
+        "winner_prob": 0.6654,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "actor": {
+        "predicted": "['Colin Farrell']",
+        "actual": "['Brendan Fraser']",
+        "correct": false,
+        "confidence": 0.3104,
+        "winner_prob": 0.2896,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "auc": 0.75
+      },
+      "actress": {
+        "predicted": "['Cate Blanchett']",
+        "actual": "['Michelle Yeoh']",
+        "correct": false,
+        "confidence": 0.4754,
+        "winner_prob": 0.4146,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "auc": 0.75
+      },
+      "supp_actor": {
+        "predicted": "['Ke Huy Quan']",
+        "actual": "['Ke Huy Quan']",
+        "correct": true,
+        "confidence": 0.529,
+        "winner_prob": 0.529,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "supp_actress": {
+        "predicted": "['Kerry Condon']",
+        "actual": "['Jamie Lee Curtis']",
+        "correct": false,
+        "confidence": 0.4856,
+        "winner_prob": 0.1736,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "auc": 0.625
+      },
+      "original_screenplay": {
+        "predicted": "['Everything Everywhere All at Once']",
+        "actual": "['Everything Everywhere All at Once']",
+        "correct": true,
+        "confidence": 0.4392,
+        "winner_prob": 0.4392,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "adapted_screenplay": {
+        "predicted": "['Women Talking']",
+        "actual": "['Women Talking']",
+        "correct": true,
+        "confidence": 0.4532,
+        "winner_prob": 0.4532,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "cinematography": {
+        "predicted": "['Elvis']",
+        "actual": "['All Quiet on the Western Front']",
+        "correct": false,
+        "confidence": 0.2499,
+        "winner_prob": 0.1749,
+        "rank_of_winner": 4,
+        "n_nominees": 5,
+        "auc": 0.25
+      },
+      "editing": {
+        "predicted": "['Everything Everywhere All at Once']",
+        "actual": "['Everything Everywhere All at Once']",
+        "correct": true,
+        "confidence": 0.2758,
+        "winner_prob": 0.2758,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "production_design": {
+        "predicted": "['Babylon']",
+        "actual": "['All Quiet on the Western Front']",
+        "correct": false,
+        "confidence": 0.5046,
+        "winner_prob": 0.0554,
+        "rank_of_winner": 5,
+        "n_nominees": 5,
+        "auc": 0.0
+      },
+      "costume": {
+        "predicted": "['Elvis']",
+        "actual": "['Black Panther: Wakanda Forever']",
+        "correct": false,
+        "confidence": 0.4394,
+        "winner_prob": 0.2167,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "auc": 0.75
+      },
+      "sound": {
+        "predicted": "['Top Gun: Maverick']",
+        "actual": "['Top Gun: Maverick']",
+        "correct": true,
+        "confidence": 0.289,
+        "winner_prob": 0.289,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "makeup": {
+        "predicted": "['Elvis']",
+        "actual": "['The Whale']",
+        "correct": false,
+        "confidence": 0.4671,
+        "winner_prob": 0.143,
+        "rank_of_winner": 3,
+        "n_nominees": 5,
+        "auc": 0.625
+      },
+      "score": {
+        "predicted": "['Babylon']",
+        "actual": "['All Quiet on the Western Front']",
+        "correct": false,
+        "confidence": 0.4635,
+        "winner_prob": 0.1127,
+        "rank_of_winner": 4,
+        "n_nominees": 5,
+        "auc": 0.25
+      },
+      "song": {
+        "predicted": "['RRR']",
+        "actual": "['RRR']",
+        "correct": true,
+        "confidence": 0.5792,
+        "winner_prob": 0.5792,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "visual_effects": {
+        "predicted": "['Avatar: The Way of Water']",
+        "actual": "['Avatar: The Way of Water']",
+        "correct": true,
+        "confidence": 0.8533,
+        "winner_prob": 0.8533,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "documentary": {
+        "predicted": "['Fire of Love']",
+        "actual": "['Navalny']",
+        "correct": false,
+        "confidence": 0.4312,
+        "winner_prob": 0.2191,
+        "rank_of_winner": 3,
+        "n_nominees": 5,
+        "auc": 0.5
+      },
+      "animated": {
+        "predicted": "[\"Guillermo del Toro's Pinocchio\"]",
+        "actual": "[\"Guillermo del Toro's Pinocchio\"]",
+        "correct": true,
+        "confidence": 0.7252,
+        "winner_prob": 0.7252,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "international": {
+        "predicted": "['Close']",
+        "actual": "['All Quiet on the Western Front']",
+        "correct": false,
+        "confidence": 0.2651,
+        "winner_prob": 0.1608,
+        "rank_of_winner": 4,
+        "n_nominees": 5,
+        "auc": 0.125
+      }
+    },
+    "2024": {
+      "picture": {
+        "predicted": "['Oppenheimer']",
+        "actual": "['Oppenheimer']",
+        "correct": true,
+        "confidence": 0.5485,
+        "winner_prob": 0.5485,
+        "rank_of_winner": 1,
+        "n_nominees": 10,
+        "auc": 1.0
+      },
+      "director": {
+        "predicted": "['Christopher Nolan']",
+        "actual": "['Christopher Nolan']",
+        "correct": true,
+        "confidence": 0.5582,
+        "winner_prob": 0.5582,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "actor": {
+        "predicted": "['Cillian Murphy']",
+        "actual": "['Cillian Murphy']",
+        "correct": true,
+        "confidence": 0.4108,
+        "winner_prob": 0.4108,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "actress": {
+        "predicted": "['Emma Stone']",
+        "actual": "['Emma Stone']",
+        "correct": true,
+        "confidence": 0.3763,
+        "winner_prob": 0.3763,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "supp_actor": {
+        "predicted": "['Robert Downey Jr.']",
+        "actual": "['Robert Downey Jr.']",
+        "correct": true,
+        "confidence": 0.8038,
+        "winner_prob": 0.8038,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "supp_actress": {
+        "predicted": "[\"Da'Vine Joy Randolph\"]",
+        "actual": "[\"Da'Vine Joy Randolph\"]",
+        "correct": true,
+        "confidence": 0.7703,
+        "winner_prob": 0.7703,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "original_screenplay": {
+        "predicted": "['The Holdovers']",
+        "actual": "['Anatomy of a Fall']",
+        "correct": false,
+        "confidence": 0.444,
+        "winner_prob": 0.1123,
+        "rank_of_winner": 5,
+        "n_nominees": 5,
+        "auc": 0.0
+      },
+      "adapted_screenplay": {
+        "predicted": "['American Fiction']",
+        "actual": "['American Fiction']",
+        "correct": true,
+        "confidence": 0.6291,
+        "winner_prob": 0.6291,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "cinematography": {
+        "predicted": "['Oppenheimer']",
+        "actual": "['Oppenheimer']",
+        "correct": true,
+        "confidence": 0.4444,
+        "winner_prob": 0.4444,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "editing": {
+        "predicted": "['Oppenheimer']",
+        "actual": "['Oppenheimer']",
+        "correct": true,
+        "confidence": 0.3088,
+        "winner_prob": 0.3088,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "production_design": {
+        "predicted": "['Barbie']",
+        "actual": "['Poor Things']",
+        "correct": false,
+        "confidence": 0.246,
+        "winner_prob": 0.2355,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "auc": 0.75
+      },
+      "costume": {
+        "predicted": "['Barbie']",
+        "actual": "['Poor Things']",
+        "correct": false,
+        "confidence": 0.2902,
+        "winner_prob": 0.2312,
+        "rank_of_winner": 3,
+        "n_nominees": 5,
+        "auc": 0.5
+      },
+      "sound": {
+        "predicted": "['Oppenheimer']",
+        "actual": "['The Zone of Interest']",
+        "correct": false,
+        "confidence": 0.3633,
+        "winner_prob": 0.2014,
+        "rank_of_winner": 3,
+        "n_nominees": 5,
+        "auc": 0.5
+      },
+      "makeup": {
+        "predicted": "['Poor Things']",
+        "actual": "['Poor Things']",
+        "correct": true,
+        "confidence": 0.3231,
+        "winner_prob": 0.3231,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "score": {
+        "predicted": "['Oppenheimer']",
+        "actual": "['Oppenheimer']",
+        "correct": true,
+        "confidence": 0.3838,
+        "winner_prob": 0.3838,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "song": {
+        "predicted": "['Barbie']",
+        "actual": "['Barbie']",
+        "correct": true,
+        "confidence": 0.8368,
+        "winner_prob": 0.8368,
+        "rank_of_winner": 1,
+        "n_nominees": 4,
+        "auc": 1.0
+      },
+      "visual_effects": {
+        "predicted": "['The Creator']",
+        "actual": "['Godzilla Minus One']",
+        "correct": false,
+        "confidence": 0.3134,
+        "winner_prob": 0.0459,
+        "rank_of_winner": 5,
+        "n_nominees": 5,
+        "auc": 0.0
+      },
+      "documentary": {
+        "predicted": "['20 Days in Mariupol']",
+        "actual": "['20 Days in Mariupol']",
+        "correct": true,
+        "confidence": 0.4846,
+        "winner_prob": 0.4846,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "animated": {
+        "predicted": "['Spider-Man: Across the Spider-Verse']",
+        "actual": "['The Boy and the Heron']",
+        "correct": false,
+        "confidence": 0.55,
+        "winner_prob": 0.1743,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "auc": 0.75
+      },
+      "international": {
+        "predicted": "['The Zone of Interest']",
+        "actual": "['The Zone of Interest']",
+        "correct": true,
+        "confidence": 0.4528,
+        "winner_prob": 0.4528,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      }
+    },
+    "2025": {
+      "picture": {
+        "predicted": "['Anora']",
+        "actual": "['Anora']",
+        "correct": true,
+        "confidence": 0.3428,
+        "winner_prob": 0.3428,
+        "rank_of_winner": 1,
+        "n_nominees": 10,
+        "auc": 1.0
+      },
+      "director": {
+        "predicted": "['Brady Corbet']",
+        "actual": "['Sean Baker']",
+        "correct": false,
+        "confidence": 0.4001,
+        "winner_prob": 0.3218,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "auc": 0.75
+      },
+      "actor": {
+        "predicted": "['Timoth\u00e9e Chalamet']",
+        "actual": "['Adrien Brody']",
+        "correct": false,
+        "confidence": 0.3379,
+        "winner_prob": 0.2851,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "auc": 0.75
+      },
+      "actress": {
+        "predicted": "['Demi Moore']",
+        "actual": "['Mikey Madison']",
+        "correct": false,
+        "confidence": 0.3506,
+        "winner_prob": 0.3033,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "auc": 0.75
+      },
+      "supp_actor": {
+        "predicted": "['Kieran Culkin']",
+        "actual": "['Kieran Culkin']",
+        "correct": true,
+        "confidence": 0.815,
+        "winner_prob": 0.815,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "supp_actress": {
+        "predicted": "['Zoe Salda\u00f1a']",
+        "actual": "['Zoe Salda\u00f1a']",
+        "correct": true,
+        "confidence": 0.825,
+        "winner_prob": 0.825,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "original_screenplay": {
+        "predicted": "['Anora']",
+        "actual": "['Anora']",
+        "correct": true,
+        "confidence": 0.357,
+        "winner_prob": 0.357,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "adapted_screenplay": {
+        "predicted": "['Conclave']",
+        "actual": "['Conclave']",
+        "correct": true,
+        "confidence": 0.3649,
+        "winner_prob": 0.3649,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "cinematography": {
+        "predicted": "['The Brutalist']",
+        "actual": "['The Brutalist']",
+        "correct": true,
+        "confidence": 0.3177,
+        "winner_prob": 0.3177,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 0.875
+      },
+      "editing": {
+        "predicted": "['Emilia P\u00e9rez']",
+        "actual": "['Anora']",
+        "correct": false,
+        "confidence": 0.357,
+        "winner_prob": 0.1603,
+        "rank_of_winner": 4,
+        "n_nominees": 5,
+        "auc": 0.25
+      },
+      "production_design": {
+        "predicted": "['Wicked']",
+        "actual": "['Wicked']",
+        "correct": true,
+        "confidence": 0.3704,
+        "winner_prob": 0.3704,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "costume": {
+        "predicted": "['Wicked']",
+        "actual": "['Wicked']",
+        "correct": true,
+        "confidence": 0.4686,
+        "winner_prob": 0.4686,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "sound": {
+        "predicted": "['Dune: Part Two']",
+        "actual": "['Dune: Part Two']",
+        "correct": true,
+        "confidence": 0.5362,
+        "winner_prob": 0.5362,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "makeup": {
+        "predicted": "['The Substance']",
+        "actual": "['The Substance']",
+        "correct": true,
+        "confidence": 0.2277,
+        "winner_prob": 0.2277,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "score": {
+        "predicted": "['The Brutalist']",
+        "actual": "['The Brutalist']",
+        "correct": true,
+        "confidence": 0.2967,
+        "winner_prob": 0.2967,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "song": {
+        "predicted": "['Emilia P\u00e9rez']",
+        "actual": "['Emilia P\u00e9rez']",
+        "correct": true,
+        "confidence": 0.6345,
+        "winner_prob": 0.6345,
+        "rank_of_winner": 1,
+        "n_nominees": 4,
+        "auc": 1.0
+      },
+      "visual_effects": {
+        "predicted": "['Dune: Part Two']",
+        "actual": "['Dune: Part Two']",
+        "correct": true,
+        "confidence": 0.2914,
+        "winner_prob": 0.2914,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "documentary": {
+        "predicted": "['No Other Land']",
+        "actual": "['No Other Land']",
+        "correct": true,
+        "confidence": 0.3076,
+        "winner_prob": 0.3076,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "animated": {
+        "predicted": "['Flow']",
+        "actual": "['Flow']",
+        "correct": true,
+        "confidence": 0.2942,
+        "winner_prob": 0.2942,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      },
+      "international": {
+        "predicted": "[\"I'm Still Here\"]",
+        "actual": "[\"I'm Still Here\"]",
+        "correct": true,
+        "confidence": 0.3676,
+        "winner_prob": 0.3676,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "auc": 1.0
+      }
+    }
+  },
+  "by_category": {
+    "picture": {
+      "accuracy": 0.833,
+      "auc": 0.926,
+      "avg_winner_prob": 0.409,
+      "n_years": 6
+    },
+    "director": {
+      "accuracy": 0.833,
+      "auc": 0.958,
+      "avg_winner_prob": 0.659,
+      "n_years": 6
+    },
+    "actor": {
+      "accuracy": 0.5,
+      "auc": 0.833,
+      "avg_winner_prob": 0.374,
+      "n_years": 6
+    },
+    "actress": {
+      "accuracy": 0.5,
+      "auc": 0.792,
+      "avg_winner_prob": 0.401,
+      "n_years": 6
+    },
+    "supp_actor": {
+      "accuracy": 0.667,
+      "auc": 0.854,
+      "avg_winner_prob": 0.568,
+      "n_years": 6
+    },
+    "supp_actress": {
+      "accuracy": 0.667,
+      "auc": 0.896,
+      "avg_winner_prob": 0.632,
+      "n_years": 6
+    },
+    "original_screenplay": {
+      "accuracy": 0.833,
+      "auc": 0.833,
+      "avg_winner_prob": 0.396,
+      "n_years": 6
+    },
+    "adapted_screenplay": {
+      "accuracy": 0.833,
+      "auc": 0.917,
+      "avg_winner_prob": 0.403,
+      "n_years": 6
+    },
+    "cinematography": {
+      "accuracy": 0.833,
+      "auc": 0.854,
+      "avg_winner_prob": 0.511,
+      "n_years": 6
+    },
+    "editing": {
+      "accuracy": 0.5,
+      "auc": 0.75,
+      "avg_winner_prob": 0.263,
+      "n_years": 6
+    },
+    "production_design": {
+      "accuracy": 0.5,
+      "auc": 0.625,
+      "avg_winner_prob": 0.262,
+      "n_years": 6
+    },
+    "costume": {
+      "accuracy": 0.667,
+      "auc": 0.875,
+      "avg_winner_prob": 0.358,
+      "n_years": 6
+    },
+    "sound": {
+      "accuracy": 0.667,
+      "auc": 0.9,
+      "avg_winner_prob": 0.365,
+      "n_years": 6
+    },
+    "makeup": {
+      "accuracy": 0.833,
+      "auc": 0.938,
+      "avg_winner_prob": 0.311,
+      "n_years": 6
+    },
+    "score": {
+      "accuracy": 0.833,
+      "auc": 0.875,
+      "avg_winner_prob": 0.384,
+      "n_years": 6
+    },
+    "song": {
+      "accuracy": 0.833,
+      "auc": 0.833,
+      "avg_winner_prob": 0.517,
+      "n_years": 6
+    },
+    "visual_effects": {
+      "accuracy": 0.833,
+      "auc": 0.833,
+      "avg_winner_prob": 0.519,
+      "n_years": 6
+    },
+    "documentary": {
+      "accuracy": 0.667,
+      "auc": 0.833,
+      "avg_winner_prob": 0.396,
+      "n_years": 6
+    },
+    "animated": {
+      "accuracy": 0.833,
+      "auc": 0.958,
+      "avg_winner_prob": 0.527,
+      "n_years": 6
+    },
+    "international": {
+      "accuracy": 0.667,
+      "auc": 0.812,
+      "avg_winner_prob": 0.422,
+      "n_years": 6
+    }
+  }
+}

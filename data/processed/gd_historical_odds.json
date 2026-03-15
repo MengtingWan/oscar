@@ -1,0 +1,1729 @@
+{
+  "2020": {
+    "Best Picture": [
+      {"name": "1917", "raw_odds": "5/1", "probability": 0.1667},
+      {"name": "Parasite", "raw_odds": "11/2", "probability": 0.1538},
+      {"name": "Once Upon a Time in Hollywood", "raw_odds": "7/1", "probability": 0.125},
+      {"name": "Jojo Rabbit", "raw_odds": "17/2", "probability": 0.1053},
+      {"name": "The Irishman", "raw_odds": "9/1", "probability": 0.1},
+      {"name": "Joker", "raw_odds": "9/1", "probability": 0.1},
+      {"name": "Marriage Story", "raw_odds": "10/1", "probability": 0.0909},
+      {"name": "Little Women", "raw_odds": "21/2", "probability": 0.087},
+      {"name": "Ford v Ferrari", "raw_odds": "23/2", "probability": 0.08}
+    ],
+    "Best Director": [
+      {"name": "Sam Mendes", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "Bong Joon-ho", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "Quentin Tarantino", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Martin Scorsese", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Todd Phillips", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Actress": [
+      {"name": "Renée Zellweger", "raw_odds": "31/10", "probability": 0.2439},
+      {"name": "Scarlett Johansson", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Charlize Theron", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Saoirse Ronan", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Cynthia Erivo", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Actor": [
+      {"name": "Joaquin Phoenix", "raw_odds": "31/10", "probability": 0.2439},
+      {"name": "Adam Driver", "raw_odds": "39/10", "probability": 0.2041},
+      {"name": "Antonio Banderas", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Leonardo DiCaprio", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Jonathan Pryce", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Supporting Actress": [
+      {"name": "Laura Dern", "raw_odds": "31/10", "probability": 0.2439},
+      {"name": "Scarlett Johansson", "raw_odds": "39/10", "probability": 0.2041},
+      {"name": "Margot Robbie", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Florence Pugh", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Kathy Bates", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Supporting Actor": [
+      {"name": "Brad Pitt", "raw_odds": "31/10", "probability": 0.2439},
+      {"name": "Joe Pesci", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Al Pacino", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Tom Hanks", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Anthony Hopkins", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Original Screenplay": [
+      {"name": "Parasite", "raw_odds": "10/3", "probability": 0.2308},
+      {"name": "Once Upon a Time in Hollywood", "raw_odds": "18/5", "probability": 0.2174},
+      {"name": "Marriage Story", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Knives Out", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "1917", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Adapted Screenplay": [
+      {"name": "Jojo Rabbit", "raw_odds": "10/3", "probability": 0.2308},
+      {"name": "Little Women", "raw_odds": "37/10", "probability": 0.2128},
+      {"name": "The Irishman", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Joker", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "The Two Popes", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Cinematography": [
+      {"name": "1917", "raw_odds": "31/10", "probability": 0.2439},
+      {"name": "Once Upon a Time in Hollywood", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "The Irishman", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Joker", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "The Lighthouse", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Film Editing": [
+      {"name": "Ford v Ferrari", "raw_odds": "69/20", "probability": 0.2247},
+      {"name": "Parasite", "raw_odds": "18/5", "probability": 0.2174},
+      {"name": "The Irishman", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Joker", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Jojo Rabbit", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Costume Design": [
+      {"name": "Little Women", "raw_odds": "82/25", "probability": 0.2336},
+      {"name": "Once Upon a Time in Hollywood", "raw_odds": "39/10", "probability": 0.2041},
+      {"name": "Jojo Rabbit", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "The Irishman", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Joker", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Makeup and Hairstyling": [
+      {"name": "Bombshell", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "Joker", "raw_odds": "39/10", "probability": 0.2041},
+      {"name": "Judy", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "1917", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Maleficent: Mistress of Evil", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Production Design": [
+      {"name": "Once Upon a Time in Hollywood", "raw_odds": "10/3", "probability": 0.2308},
+      {"name": "1917", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "Parasite", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "The Irishman", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Jojo Rabbit", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Score": [
+      {"name": "Joker", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "1917", "raw_odds": "39/10", "probability": 0.2041},
+      {"name": "Marriage Story", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Little Women", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Star Wars: The Rise of Skywalker", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Song": [
+      {"name": "(I'm Gonna) Love Me Again - Rocketman", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "Stand Up - Harriet", "raw_odds": "39/10", "probability": 0.2041},
+      {"name": "Into the Unknown - Frozen II", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "I Can't Let You Throw Yourself Away - Toy Story 4", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "I'm Standing with You - Breakthrough", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Sound Editing": [
+      {"name": "Ford v Ferrari", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "1917", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "Joker", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Once Upon a Time in Hollywood", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Star Wars: The Rise of Skywalker", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Sound Mixing": [
+      {"name": "1917", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "Ford v Ferrari", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "Joker", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Once Upon a Time in Hollywood", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Ad Astra", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Visual Effects": [
+      {"name": "1917", "raw_odds": "69/20", "probability": 0.2247},
+      {"name": "Avengers: Endgame", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "The Irishman", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "The Lion King", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Star Wars: The Rise of Skywalker", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Animated Feature": [
+      {"name": "Toy Story 4", "raw_odds": "17/5", "probability": 0.2273},
+      {"name": "Klaus", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "Missing Link", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "I Lost My Body", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "How to Train Your Dragon: The Hidden World", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Documentary Feature": [
+      {"name": "For Sama", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "American Factory", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "Honeyland", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "The Cave", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "The Edge of Democracy", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best International Film": [
+      {"name": "Parasite", "raw_odds": "31/10", "probability": 0.2439},
+      {"name": "Pain and Glory", "raw_odds": "39/10", "probability": 0.2041},
+      {"name": "Les Misérables", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Honeyland", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Corpus Christi", "raw_odds": "9/2", "probability": 0.1818}
+    ]
+  },
+  "2021": {
+    "Best Picture": [
+      {"name": "Nomadland", "raw_odds": "13/2", "probability": 0.1333},
+      {"name": "The Trial of the Chicago 7", "raw_odds": "15/2", "probability": 0.1176},
+      {"name": "Minari", "raw_odds": "8/1", "probability": 0.1111},
+      {"name": "Ma Rainey's Black Bottom", "raw_odds": "9/1", "probability": 0.1},
+      {"name": "Mank", "raw_odds": "19/2", "probability": 0.0952},
+      {"name": "Promising Young Woman", "raw_odds": "19/2", "probability": 0.0952},
+      {"name": "Sound of Metal", "raw_odds": "10/1", "probability": 0.0909},
+      {"name": "The Father", "raw_odds": "14/1", "probability": 0.0667},
+      {"name": "Judas and the Black Messiah", "raw_odds": "16/1", "probability": 0.0588}
+    ],
+    "Best Director": [
+      {"name": "Chloé Zhao", "raw_odds": "31/10", "probability": 0.2439},
+      {"name": "Lee Isaac Chung", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Emerald Fennell", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "David Fincher", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Thomas Vinterberg", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Actress": [
+      {"name": "Carey Mulligan", "raw_odds": "69/20", "probability": 0.2247},
+      {"name": "Viola Davis", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Andra Day", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Frances McDormand", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Vanessa Kirby", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Actor": [
+      {"name": "Chadwick Boseman", "raw_odds": "31/10", "probability": 0.2439},
+      {"name": "Anthony Hopkins", "raw_odds": "39/10", "probability": 0.2041},
+      {"name": "Riz Ahmed", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Steven Yeun", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Gary Oldman", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Supporting Actress": [
+      {"name": "Yuh-Jung Youn", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "Maria Bakalova", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "Glenn Close", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Amanda Seyfried", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Olivia Colman", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Supporting Actor": [
+      {"name": "Daniel Kaluuya", "raw_odds": "31/10", "probability": 0.2439},
+      {"name": "Sacha Baron Cohen", "raw_odds": "39/10", "probability": 0.2041},
+      {"name": "Leslie Odom Jr.", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Paul Raci", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "LaKeith Stanfield", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Original Screenplay": [
+      {"name": "Promising Young Woman", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "The Trial of the Chicago 7", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "Minari", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Judas and the Black Messiah", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Sound of Metal", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Adapted Screenplay": [
+      {"name": "The Father", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "Nomadland", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "Borat Subsequent Moviefilm", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "One Night in Miami", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "The White Tiger", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Cinematography": [
+      {"name": "Mank", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "Nomadland", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "Judas and the Black Messiah", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "News of the World", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "The Trial of the Chicago 7", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Film Editing": [
+      {"name": "Sound of Metal", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "The Trial of the Chicago 7", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "Nomadland", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Promising Young Woman", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "The Father", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Costume Design": [
+      {"name": "Ma Rainey's Black Bottom", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "Emma", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "Mank", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Mulan", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Pinocchio", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Makeup and Hairstyling": [
+      {"name": "Ma Rainey's Black Bottom", "raw_odds": "3/1", "probability": 0.25},
+      {"name": "Hillbilly Elegy", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Pinocchio", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Emma", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Mank", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Production Design": [
+      {"name": "Mank", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "Ma Rainey's Black Bottom", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "News of the World", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "The Father", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Tenet", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Score": [
+      {"name": "Soul", "raw_odds": "3/1", "probability": 0.25},
+      {"name": "Mank", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Minari", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "News of the World", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Da 5 Bloods", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Song": [
+      {"name": "Fight for You - Judas and the Black Messiah", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "Husavik - Eurovision Song Contest", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "Io Sì (Seen) - The Life Ahead", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Speak Now - One Night in Miami", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Hear My Voice - Trial of the Chicago 7", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Sound": [
+      {"name": "Sound of Metal", "raw_odds": "3/1", "probability": 0.25},
+      {"name": "Soul", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Mank", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "News of the World", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Greyhound", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Visual Effects": [
+      {"name": "Tenet", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "The Midnight Sky", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "Mulan", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Love and Monsters", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "The One and Only Ivan", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Animated Feature": [
+      {"name": "Soul", "raw_odds": "3/1", "probability": 0.25},
+      {"name": "Wolfwalkers", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Onward", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Over the Moon", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "A Shaun the Sheep Movie: Farmageddon", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Documentary Feature": [
+      {"name": "My Octopus Teacher", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "Time", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "Collective", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Crip Camp", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "The Mole Agent", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best International Film": [
+      {"name": "Another Round", "raw_odds": "3/1", "probability": 0.25},
+      {"name": "Quo Vadis, Aida?", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Collective", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Better Days", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "The Man Who Sold His Skin", "raw_odds": "9/2", "probability": 0.1818}
+    ]
+  },
+  "2022": {
+    "Best Picture": [
+      {"name": "CODA", "raw_odds": "13/2", "probability": 0.1333},
+      {"name": "The Power of the Dog", "raw_odds": "13/2", "probability": 0.1333},
+      {"name": "Belfast", "raw_odds": "15/2", "probability": 0.1176},
+      {"name": "West Side Story", "raw_odds": "8/1", "probability": 0.1111},
+      {"name": "King Richard", "raw_odds": "9/1", "probability": 0.1},
+      {"name": "Licorice Pizza", "raw_odds": "19/2", "probability": 0.0952},
+      {"name": "Dune", "raw_odds": "10/1", "probability": 0.0909},
+      {"name": "Drive My Car", "raw_odds": "21/2", "probability": 0.087},
+      {"name": "Don't Look Up", "raw_odds": "12/1", "probability": 0.0769},
+      {"name": "Nightmare Alley", "raw_odds": "14/1", "probability": 0.0667}
+    ],
+    "Best Director": [
+      {"name": "Jane Campion", "raw_odds": "3/1", "probability": 0.25},
+      {"name": "Kenneth Branagh", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Steven Spielberg", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Paul Thomas Anderson", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Ryusuke Hamaguchi", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Actress": [
+      {"name": "Jessica Chastain", "raw_odds": "17/5", "probability": 0.2273},
+      {"name": "Olivia Colman", "raw_odds": "39/10", "probability": 0.2041},
+      {"name": "Nicole Kidman", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Kristen Stewart", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Penélope Cruz", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Actor": [
+      {"name": "Will Smith", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "Benedict Cumberbatch", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "Andrew Garfield", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Denzel Washington", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Javier Bardem", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Supporting Actress": [
+      {"name": "Ariana DeBose", "raw_odds": "3/1", "probability": 0.25},
+      {"name": "Kirsten Dunst", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Aunjanue Ellis", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Jessie Buckley", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Judi Dench", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Supporting Actor": [
+      {"name": "Troy Kotsur", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "Kodi Smit-McPhee", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "Ciarán Hinds", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Jesse Plemons", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "J.K. Simmons", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Original Screenplay": [
+      {"name": "Belfast", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "Licorice Pizza", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "King Richard", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Don't Look Up", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "The Worst Person in the World", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Adapted Screenplay": [
+      {"name": "CODA", "raw_odds": "3/1", "probability": 0.25},
+      {"name": "The Power of the Dog", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "The Lost Daughter", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Drive My Car", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "West Side Story", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Cinematography": [
+      {"name": "Dune", "raw_odds": "3/1", "probability": 0.25},
+      {"name": "The Power of the Dog", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "West Side Story", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "The Tragedy of Macbeth", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Nightmare Alley", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Film Editing": [
+      {"name": "Dune", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "King Richard", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "Don't Look Up", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "The Power of the Dog", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "tick, tick... BOOM!", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Costume Design": [
+      {"name": "Cruella", "raw_odds": "3/1", "probability": 0.25},
+      {"name": "West Side Story", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Dune", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Nightmare Alley", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Cyrano", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Makeup and Hairstyling": [
+      {"name": "The Eyes of Tammy Faye", "raw_odds": "3/1", "probability": 0.25},
+      {"name": "Cruella", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Dune", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Coming 2 America", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "House of Gucci", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Production Design": [
+      {"name": "Dune", "raw_odds": "3/1", "probability": 0.25},
+      {"name": "West Side Story", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Nightmare Alley", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "The Power of the Dog", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "The Tragedy of Macbeth", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Score": [
+      {"name": "The Power of the Dog", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "Dune", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "Don't Look Up", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Encanto", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Parallel Mothers", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Song": [
+      {"name": "No Time to Die - No Time to Die", "raw_odds": "3/1", "probability": 0.25},
+      {"name": "Dos Oruguitas - Encanto", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Be Alive - King Richard", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Somehow You Do - Four Good Days", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Down to Joy - Belfast", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Sound": [
+      {"name": "Dune", "raw_odds": "3/1", "probability": 0.25},
+      {"name": "West Side Story", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "No Time to Die", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Belfast", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "The Power of the Dog", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Visual Effects": [
+      {"name": "Dune", "raw_odds": "3/1", "probability": 0.25},
+      {"name": "Spider-Man: No Way Home", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "No Time to Die", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Free Guy", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Shang-Chi", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Animated Feature": [
+      {"name": "Encanto", "raw_odds": "3/1", "probability": 0.25},
+      {"name": "The Mitchells vs. the Machines", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Luca", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Raya and the Last Dragon", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Flee", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Documentary Feature": [
+      {"name": "Summer of Soul", "raw_odds": "3/1", "probability": 0.25},
+      {"name": "Flee", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Writing with Fire", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Ascension", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Attica", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best International Film": [
+      {"name": "Drive My Car", "raw_odds": "3/1", "probability": 0.25},
+      {"name": "The Worst Person in the World", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Flee", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "The Hand of God", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Lunana: A Yak in the Classroom", "raw_odds": "9/2", "probability": 0.1818}
+    ]
+  },
+  "2023": {
+    "Best Picture": [
+      {"name": "Everything Everywhere All at Once", "raw_odds": "13/2", "probability": 0.1333},
+      {"name": "The Fabelmans", "raw_odds": "15/2", "probability": 0.1176},
+      {"name": "The Banshees of Inisherin", "raw_odds": "15/2", "probability": 0.1176},
+      {"name": "Top Gun: Maverick", "raw_odds": "8/1", "probability": 0.1111},
+      {"name": "TÁR", "raw_odds": "19/2", "probability": 0.0952},
+      {"name": "Elvis", "raw_odds": "10/1", "probability": 0.0909},
+      {"name": "Avatar: The Way of Water", "raw_odds": "21/2", "probability": 0.087},
+      {"name": "All Quiet on the Western Front", "raw_odds": "16/1", "probability": 0.0588},
+      {"name": "Women Talking", "raw_odds": "18/1", "probability": 0.0526},
+      {"name": "Triangle of Sadness", "raw_odds": "25/1", "probability": 0.0385}
+    ],
+    "Best Director": [
+      {"name": "Daniel Kwan & Daniel Scheinert", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "Steven Spielberg", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "Martin McDonagh", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Todd Field", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Ruben Östlund", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Actress": [
+      {"name": "Michelle Yeoh", "raw_odds": "82/25", "probability": 0.2336},
+      {"name": "Cate Blanchett", "raw_odds": "18/5", "probability": 0.2174},
+      {"name": "Michelle Williams", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Andrea Riseborough", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Ana de Armas", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Actor": [
+      {"name": "Austin Butler", "raw_odds": "69/20", "probability": 0.2247},
+      {"name": "Brendan Fraser", "raw_odds": "71/20", "probability": 0.2198},
+      {"name": "Colin Farrell", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Bill Nighy", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Paul Mescal", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Supporting Actress": [
+      {"name": "Kerry Condon", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "Jamie Lee Curtis", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "Angela Bassett", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Stephanie Hsu", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Hong Chau", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Supporting Actor": [
+      {"name": "Ke Huy Quan", "raw_odds": "3/1", "probability": 0.25},
+      {"name": "Brendan Gleeson", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Barry Keoghan", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Brian Tyree Henry", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Judd Hirsch", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Original Screenplay": [
+      {"name": "Everything Everywhere All at Once", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "The Banshees of Inisherin", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "TÁR", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "The Fabelmans", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Triangle of Sadness", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Adapted Screenplay": [
+      {"name": "Women Talking", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "Glass Onion", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "All Quiet on the Western Front", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Top Gun: Maverick", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Living", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Cinematography": [
+      {"name": "All Quiet on the Western Front", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "Bardo", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "Elvis", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "TÁR", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Empire of Light", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Film Editing": [
+      {"name": "Everything Everywhere All at Once", "raw_odds": "3/1", "probability": 0.25},
+      {"name": "Top Gun: Maverick", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Elvis", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "The Banshees of Inisherin", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "TÁR", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Costume Design": [
+      {"name": "Elvis", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "Black Panther: Wakanda Forever", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "Everything Everywhere All at Once", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Mrs. Harris Goes to Paris", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Babylon", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Makeup and Hairstyling": [
+      {"name": "The Whale", "raw_odds": "3/1", "probability": 0.25},
+      {"name": "Elvis", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Black Panther: Wakanda Forever", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "All Quiet on the Western Front", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Batman", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Production Design": [
+      {"name": "Elvis", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "Babylon", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "All Quiet on the Western Front", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Avatar: The Way of Water", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "The Fabelmans", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Score": [
+      {"name": "All Quiet on the Western Front", "raw_odds": "16/5", "probability": 0.2381},
+      {"name": "The Banshees of Inisherin", "raw_odds": "19/5", "probability": 0.2083},
+      {"name": "Babylon", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Everything Everywhere All at Once", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "The Fabelmans", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Song": [
+      {"name": "Naatu Naatu - RRR", "raw_odds": "3/1", "probability": 0.25},
+      {"name": "Applause - Tell It Like a Woman", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Hold My Hand - Top Gun: Maverick", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Lift Me Up - Black Panther: Wakanda Forever", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "This Is a Life - Everything Everywhere All at Once", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Sound": [
+      {"name": "Top Gun: Maverick", "raw_odds": "3/1", "probability": 0.25},
+      {"name": "All Quiet on the Western Front", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Avatar: The Way of Water", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Elvis", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "The Batman", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Visual Effects": [
+      {"name": "Avatar: The Way of Water", "raw_odds": "3/1", "probability": 0.25},
+      {"name": "Top Gun: Maverick", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "All Quiet on the Western Front", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Black Panther: Wakanda Forever", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "The Batman", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Animated Feature": [
+      {"name": "Guillermo del Toro's Pinocchio", "raw_odds": "3/1", "probability": 0.25},
+      {"name": "Marcel the Shell with Shoes On", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Turning Red", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "Puss in Boots: The Last Wish", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "The Sea Beast", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best Documentary Feature": [
+      {"name": "Navalny", "raw_odds": "3/1", "probability": 0.25},
+      {"name": "Fire of Love", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "All the Beauty and the Bloodshed", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "All That Breathes", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "A House Made of Splinters", "raw_odds": "9/2", "probability": 0.1818}
+    ],
+    "Best International Film": [
+      {"name": "All Quiet on the Western Front", "raw_odds": "3/1", "probability": 0.25},
+      {"name": "Argentina, 1985", "raw_odds": "4/1", "probability": 0.2},
+      {"name": "Close", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "EO", "raw_odds": "9/2", "probability": 0.1818},
+      {"name": "The Quiet Girl", "raw_odds": "9/2", "probability": 0.1818}
+    ]
+  },
+  "2024": {
+    "Best Picture": [
+      {
+        "name": "Oppenheimer",
+        "raw_odds": "6/1",
+        "probability": 0.144
+      },
+      {
+        "name": "The Holdovers",
+        "raw_odds": "15/2",
+        "probability": 0.1185
+      },
+      {
+        "name": "Poor Things",
+        "raw_odds": "8/1",
+        "probability": 0.112
+      },
+      {
+        "name": "Anatomy of a Fall",
+        "raw_odds": "17/2",
+        "probability": 0.1061
+      },
+      {
+        "name": "Killers of the Flower Moon",
+        "raw_odds": "9/1",
+        "probability": 0.1008
+      },
+      {
+        "name": "Barbie",
+        "raw_odds": "19/2",
+        "probability": 0.0959
+      },
+      {
+        "name": "American Fiction",
+        "raw_odds": "19/2",
+        "probability": 0.0959
+      },
+      {
+        "name": "The Zone of Interest",
+        "raw_odds": "21/2",
+        "probability": 0.0877
+      },
+      {
+        "name": "Maestro",
+        "raw_odds": "13/1",
+        "probability": 0.0719
+      },
+      {
+        "name": "Past Lives",
+        "raw_odds": "14/1",
+        "probability": 0.0672
+      }
+    ],
+    "Best Director": [
+      {
+        "name": "Christopher Nolan",
+        "raw_odds": "3/1",
+        "probability": 0.2512
+      },
+      {
+        "name": "Yorgos Lanthimos",
+        "raw_odds": "4/1",
+        "probability": 0.2009
+      },
+      {
+        "name": "Jonathan Glazer",
+        "raw_odds": "9/2",
+        "probability": 0.1826
+      },
+      {
+        "name": "Justine Triet",
+        "raw_odds": "9/2",
+        "probability": 0.1826
+      },
+      {
+        "name": "Martin Scorsese",
+        "raw_odds": "9/2",
+        "probability": 0.1826
+      }
+    ],
+    "Best Actress": [
+      {
+        "name": "Lily Gladstone",
+        "raw_odds": "82/25",
+        "probability": 0.2344
+      },
+      {
+        "name": "Emma Stone",
+        "raw_odds": "18/5",
+        "probability": 0.2182
+      },
+      {
+        "name": "Sandra Hüller",
+        "raw_odds": "9/2",
+        "probability": 0.1825
+      },
+      {
+        "name": "Carey Mulligan",
+        "raw_odds": "9/2",
+        "probability": 0.1825
+      },
+      {
+        "name": "Annette Bening",
+        "raw_odds": "9/2",
+        "probability": 0.1825
+      }
+    ],
+    "Best Actor": [
+      {
+        "name": "Cillian Murphy",
+        "raw_odds": "16/5",
+        "probability": 0.239
+      },
+      {
+        "name": "Paul Giamatti",
+        "raw_odds": "37/10",
+        "probability": 0.2136
+      },
+      {
+        "name": "Bradley Cooper",
+        "raw_odds": "9/2",
+        "probability": 0.1825
+      },
+      {
+        "name": "Jeffrey Wright",
+        "raw_odds": "9/2",
+        "probability": 0.1825
+      },
+      {
+        "name": "Colman Domingo",
+        "raw_odds": "9/2",
+        "probability": 0.1825
+      }
+    ],
+    "Best Supporting Actress": [
+      {
+        "name": "Da'Vine Joy Randolph",
+        "raw_odds": "3/1",
+        "probability": 0.2512
+      },
+      {
+        "name": "Emily Blunt",
+        "raw_odds": "4/1",
+        "probability": 0.2009
+      },
+      {
+        "name": "Danielle Brooks",
+        "raw_odds": "9/2",
+        "probability": 0.1826
+      },
+      {
+        "name": "America Ferrera",
+        "raw_odds": "9/2",
+        "probability": 0.1826
+      },
+      {
+        "name": "Jodie Foster",
+        "raw_odds": "9/2",
+        "probability": 0.1826
+      }
+    ],
+    "Best Supporting Actor": [
+      {
+        "name": "Robert Downey Jr.",
+        "raw_odds": "3/1",
+        "probability": 0.2512
+      },
+      {
+        "name": "Ryan Gosling",
+        "raw_odds": "4/1",
+        "probability": 0.2009
+      },
+      {
+        "name": "Mark Ruffalo",
+        "raw_odds": "9/2",
+        "probability": 0.1826
+      },
+      {
+        "name": "Robert De Niro",
+        "raw_odds": "9/2",
+        "probability": 0.1826
+      },
+      {
+        "name": "Sterling K. Brown",
+        "raw_odds": "9/2",
+        "probability": 0.1826
+      }
+    ],
+    "Best Adapted Screenplay": [
+      {
+        "name": "American Fiction",
+        "raw_odds": "17/5",
+        "probability": 0.2265
+      },
+      {
+        "name": "Oppenheimer",
+        "raw_odds": "37/10",
+        "probability": 0.212
+      },
+      {
+        "name": "Barbie",
+        "raw_odds": "4/1",
+        "probability": 0.1993
+      },
+      {
+        "name": "Poor Things",
+        "raw_odds": "9/2",
+        "probability": 0.1811
+      },
+      {
+        "name": "The Zone of Interest",
+        "raw_odds": "9/2",
+        "probability": 0.1811
+      }
+    ],
+    "Best Original Screenplay": [
+      {
+        "name": "Anatomy of a Fall",
+        "raw_odds": "31/10",
+        "probability": 0.2434
+      },
+      {
+        "name": "The Holdovers",
+        "raw_odds": "37/10",
+        "probability": 0.2124
+      },
+      {
+        "name": "Past Lives",
+        "raw_odds": "9/2",
+        "probability": 0.1814
+      },
+      {
+        "name": "Maestro",
+        "raw_odds": "9/2",
+        "probability": 0.1814
+      },
+      {
+        "name": "May December",
+        "raw_odds": "9/2",
+        "probability": 0.1814
+      }
+    ],
+    "Best Animated Feature": [
+      {
+        "name": "Spider-Man: Across the Spider-Verse",
+        "raw_odds": "16/5",
+        "probability": 0.2373
+      },
+      {
+        "name": "The Boy and the Heron",
+        "raw_odds": "71/20",
+        "probability": 0.2191
+      },
+      {
+        "name": "Elemental",
+        "raw_odds": "9/2",
+        "probability": 0.1812
+      },
+      {
+        "name": "Nimona",
+        "raw_odds": "9/2",
+        "probability": 0.1812
+      },
+      {
+        "name": "Robot Dreams",
+        "raw_odds": "9/2",
+        "probability": 0.1812
+      }
+    ],
+    "Best Documentary Feature": [
+      {
+        "name": "20 Days in Mariupol",
+        "raw_odds": "3/1",
+        "probability": 0.2512
+      },
+      {
+        "name": "Four Daughters",
+        "raw_odds": "4/1",
+        "probability": 0.2009
+      },
+      {
+        "name": "The Eternal Memory",
+        "raw_odds": "9/2",
+        "probability": 0.1826
+      },
+      {
+        "name": "Bobi Wine",
+        "raw_odds": "9/2",
+        "probability": 0.1826
+      },
+      {
+        "name": "To Kill a Tiger",
+        "raw_odds": "9/2",
+        "probability": 0.1826
+      }
+    ],
+    "Best International Film": [
+      {
+        "name": "The Zone of Interest",
+        "raw_odds": "59/20",
+        "probability": 0.2536
+      },
+      {
+        "name": "Society of the Snow",
+        "raw_odds": "4/1",
+        "probability": 0.2003
+      },
+      {
+        "name": "The Teachers' Lounge",
+        "raw_odds": "9/2",
+        "probability": 0.1821
+      },
+      {
+        "name": "Perfect Days",
+        "raw_odds": "9/2",
+        "probability": 0.1821
+      },
+      {
+        "name": "Io Capitano",
+        "raw_odds": "9/2",
+        "probability": 0.1821
+      }
+    ],
+    "Best Cinematography": [
+      {
+        "name": "Oppenheimer",
+        "raw_odds": "3/1",
+        "probability": 0.2466
+      },
+      {
+        "name": "Killers of the Flower Moon",
+        "raw_odds": "4/1",
+        "probability": 0.1973
+      },
+      {
+        "name": "Poor Things",
+        "raw_odds": "4/1",
+        "probability": 0.1973
+      },
+      {
+        "name": "Maestro",
+        "raw_odds": "9/2",
+        "probability": 0.1794
+      },
+      {
+        "name": "El Conde",
+        "raw_odds": "9/2",
+        "probability": 0.1794
+      }
+    ],
+    "Best Film Editing": [
+      {
+        "name": "Oppenheimer",
+        "raw_odds": "3/1",
+        "probability": 0.2512
+      },
+      {
+        "name": "Anatomy of a Fall",
+        "raw_odds": "4/1",
+        "probability": 0.2009
+      },
+      {
+        "name": "Killers of the Flower Moon",
+        "raw_odds": "9/2",
+        "probability": 0.1826
+      },
+      {
+        "name": "Poor Things",
+        "raw_odds": "9/2",
+        "probability": 0.1826
+      },
+      {
+        "name": "The Holdovers",
+        "raw_odds": "9/2",
+        "probability": 0.1826
+      }
+    ],
+    "Best Production Design": [
+      {
+        "name": "Poor Things",
+        "raw_odds": "17/5",
+        "probability": 0.2244
+      },
+      {
+        "name": "Barbie",
+        "raw_odds": "7/2",
+        "probability": 0.2193
+      },
+      {
+        "name": "Oppenheimer",
+        "raw_odds": "4/1",
+        "probability": 0.1974
+      },
+      {
+        "name": "Killers of the Flower Moon",
+        "raw_odds": "9/2",
+        "probability": 0.1794
+      },
+      {
+        "name": "Napoleon",
+        "raw_odds": "9/2",
+        "probability": 0.1794
+      }
+    ],
+    "Best Costume Design": [
+      {
+        "name": "Barbie",
+        "raw_odds": "10/3",
+        "probability": 0.2312
+      },
+      {
+        "name": "Poor Things",
+        "raw_odds": "7/2",
+        "probability": 0.2226
+      },
+      {
+        "name": "Killers of the Flower Moon",
+        "raw_odds": "9/2",
+        "probability": 0.1821
+      },
+      {
+        "name": "Oppenheimer",
+        "raw_odds": "9/2",
+        "probability": 0.1821
+      },
+      {
+        "name": "Napoleon",
+        "raw_odds": "9/2",
+        "probability": 0.1821
+      }
+    ],
+    "Best Score": [
+      {
+        "name": "Oppenheimer",
+        "raw_odds": "3/1",
+        "probability": 0.2512
+      },
+      {
+        "name": "Killers of the Flower Moon",
+        "raw_odds": "4/1",
+        "probability": 0.2009
+      },
+      {
+        "name": "Poor Things",
+        "raw_odds": "9/2",
+        "probability": 0.1826
+      },
+      {
+        "name": "Indiana Jones",
+        "raw_odds": "9/2",
+        "probability": 0.1826
+      },
+      {
+        "name": "American Fiction",
+        "raw_odds": "9/2",
+        "probability": 0.1826
+      }
+    ],
+    "Best Song": [
+      {
+        "name": "Barbie - What Was I Made For?",
+        "raw_odds": "31/10",
+        "probability": 0.2434
+      },
+      {
+        "name": "Barbie - I'm Just Ken",
+        "raw_odds": "37/10",
+        "probability": 0.2124
+      },
+      {
+        "name": "American Symphony",
+        "raw_odds": "9/2",
+        "probability": 0.1814
+      },
+      {
+        "name": "Flamin' Hot",
+        "raw_odds": "9/2",
+        "probability": 0.1814
+      },
+      {
+        "name": "Killers of the Flower Moon",
+        "raw_odds": "9/2",
+        "probability": 0.1814
+      }
+    ],
+    "Best Sound": [
+      {
+        "name": "Oppenheimer",
+        "raw_odds": "31/10",
+        "probability": 0.2434
+      },
+      {
+        "name": "The Zone of Interest",
+        "raw_odds": "37/10",
+        "probability": 0.2124
+      },
+      {
+        "name": "Maestro",
+        "raw_odds": "9/2",
+        "probability": 0.1814
+      },
+      {
+        "name": "Mission: Impossible",
+        "raw_odds": "9/2",
+        "probability": 0.1814
+      },
+      {
+        "name": "The Creator",
+        "raw_odds": "9/2",
+        "probability": 0.1814
+      }
+    ],
+    "Best Visual Effects": [
+      {
+        "name": "Godzilla Minus One",
+        "raw_odds": "82/25",
+        "probability": 0.2355
+      },
+      {
+        "name": "The Creator",
+        "raw_odds": "37/10",
+        "probability": 0.2146
+      },
+      {
+        "name": "Guardians of the Galaxy Vol. 3",
+        "raw_odds": "9/2",
+        "probability": 0.1833
+      },
+      {
+        "name": "Napoleon",
+        "raw_odds": "9/2",
+        "probability": 0.1833
+      },
+      {
+        "name": "Mission: Impossible",
+        "raw_odds": "9/2",
+        "probability": 0.1833
+      }
+    ],
+    "Best Makeup and Hairstyling": [
+      {
+        "name": "Maestro",
+        "raw_odds": "16/5",
+        "probability": 0.2379
+      },
+      {
+        "name": "Poor Things",
+        "raw_odds": "18/5",
+        "probability": 0.2172
+      },
+      {
+        "name": "Oppenheimer",
+        "raw_odds": "9/2",
+        "probability": 0.1816
+      },
+      {
+        "name": "Society of the Snow",
+        "raw_odds": "9/2",
+        "probability": 0.1816
+      },
+      {
+        "name": "Golda",
+        "raw_odds": "9/2",
+        "probability": 0.1816
+      }
+    ]
+  },
+  "2025": {
+    "Best Picture": [
+      {
+        "name": "Anora",
+        "raw_odds": "5/1",
+        "probability": 0.1684
+      },
+      {
+        "name": "Conclave",
+        "raw_odds": "6/1",
+        "probability": 0.1444
+      },
+      {
+        "name": "The Brutalist",
+        "raw_odds": "7/1",
+        "probability": 0.1263
+      },
+      {
+        "name": "A Complete Unknown",
+        "raw_odds": "9/1",
+        "probability": 0.101
+      },
+      {
+        "name": "Wicked",
+        "raw_odds": "9/1",
+        "probability": 0.101
+      },
+      {
+        "name": "Emilia Pérez",
+        "raw_odds": "11/1",
+        "probability": 0.0841
+      },
+      {
+        "name": "The Substance",
+        "raw_odds": "23/2",
+        "probability": 0.0808
+      },
+      {
+        "name": "I'm Still Here",
+        "raw_odds": "12/1",
+        "probability": 0.0777
+      },
+      {
+        "name": "Dune: Part Two",
+        "raw_odds": "15/1",
+        "probability": 0.0631
+      },
+      {
+        "name": "Nickel Boys",
+        "raw_odds": "18/1",
+        "probability": 0.0531
+      }
+    ],
+    "Best Director": [
+      {
+        "name": "Sean Baker",
+        "raw_odds": "8/5",
+        "probability": 0.3853
+      },
+      {
+        "name": "Brady Corbet",
+        "raw_odds": "71/20",
+        "probability": 0.2202
+      },
+      {
+        "name": "Coralie Fargeat",
+        "raw_odds": "6/1",
+        "probability": 0.1432
+      },
+      {
+        "name": "James Mangold",
+        "raw_odds": "13/2",
+        "probability": 0.1335
+      },
+      {
+        "name": "Jacques Audiard",
+        "raw_odds": "15/2",
+        "probability": 0.1178
+      }
+    ],
+    "Best Actress": [
+      {
+        "name": "Demi Moore",
+        "raw_odds": "39/20",
+        "probability": 0.3411
+      },
+      {
+        "name": "Mikey Madison",
+        "raw_odds": "82/25",
+        "probability": 0.2351
+      },
+      {
+        "name": "Fernanda Torres",
+        "raw_odds": "19/5",
+        "probability": 0.2096
+      },
+      {
+        "name": "Cynthia Erivo",
+        "raw_odds": "15/2",
+        "probability": 0.1183
+      },
+      {
+        "name": "Karla Sofía Gascón",
+        "raw_odds": "19/2",
+        "probability": 0.0958
+      }
+    ],
+    "Best Actor": [
+      {
+        "name": "Adrien Brody",
+        "raw_odds": "7/4",
+        "probability": 0.3647
+      },
+      {
+        "name": "Timothée Chalamet",
+        "raw_odds": "31/10",
+        "probability": 0.2446
+      },
+      {
+        "name": "Ralph Fiennes",
+        "raw_odds": "5/1",
+        "probability": 0.1672
+      },
+      {
+        "name": "Colman Domingo",
+        "raw_odds": "15/2",
+        "probability": 0.1179
+      },
+      {
+        "name": "Sebastian Stan",
+        "raw_odds": "17/2",
+        "probability": 0.1056
+      }
+    ],
+    "Best Supporting Actress": [
+      {
+        "name": "Zoe Saldaña",
+        "raw_odds": "3/2",
+        "probability": 0.4036
+      },
+      {
+        "name": "Ariana Grande",
+        "raw_odds": "9/2",
+        "probability": 0.1834
+      },
+      {
+        "name": "Isabella Rossellini",
+        "raw_odds": "5/1",
+        "probability": 0.1682
+      },
+      {
+        "name": "Felicity Jones",
+        "raw_odds": "7/1",
+        "probability": 0.1261
+      },
+      {
+        "name": "Monica Barbaro",
+        "raw_odds": "15/2",
+        "probability": 0.1187
+      }
+    ],
+    "Best Supporting Actor": [
+      {
+        "name": "Kieran Culkin",
+        "raw_odds": "29/20",
+        "probability": 0.4082
+      },
+      {
+        "name": "Guy Pearce",
+        "raw_odds": "5/1",
+        "probability": 0.1667
+      },
+      {
+        "name": "Edward Norton",
+        "raw_odds": "5/1",
+        "probability": 0.1667
+      },
+      {
+        "name": "Yura Borisov",
+        "raw_odds": "13/2",
+        "probability": 0.1333
+      },
+      {
+        "name": "Jeremy Strong",
+        "raw_odds": "7/1",
+        "probability": 0.125
+      }
+    ],
+    "Best Adapted Screenplay": [
+      {
+        "name": "Conclave",
+        "raw_odds": "3/2",
+        "probability": 0.4002
+      },
+      {
+        "name": "A Complete Unknown",
+        "raw_odds": "9/2",
+        "probability": 0.1819
+      },
+      {
+        "name": "Nickel Boys",
+        "raw_odds": "5/1",
+        "probability": 0.1668
+      },
+      {
+        "name": "Sing Sing",
+        "raw_odds": "13/2",
+        "probability": 0.1334
+      },
+      {
+        "name": "Emilia Pérez",
+        "raw_odds": "15/2",
+        "probability": 0.1177
+      }
+    ],
+    "Best Original Screenplay": [
+      {
+        "name": "Anora",
+        "raw_odds": "2/1",
+        "probability": 0.3327
+      },
+      {
+        "name": "A Real Pain",
+        "raw_odds": "31/10",
+        "probability": 0.2434
+      },
+      {
+        "name": "The Substance",
+        "raw_odds": "9/2",
+        "probability": 0.1815
+      },
+      {
+        "name": "The Brutalist",
+        "raw_odds": "6/1",
+        "probability": 0.1426
+      },
+      {
+        "name": "September 5",
+        "raw_odds": "9/1",
+        "probability": 0.0998
+      }
+    ],
+    "Best Animated Feature": [
+      {
+        "name": "The Wild Robot",
+        "raw_odds": "46/25",
+        "probability": 0.3498
+      },
+      {
+        "name": "Flow",
+        "raw_odds": "29/10",
+        "probability": 0.2547
+      },
+      {
+        "name": "Inside Out 2",
+        "raw_odds": "11/2",
+        "probability": 0.1528
+      },
+      {
+        "name": "Wallace and Gromit",
+        "raw_odds": "13/2",
+        "probability": 0.1324
+      },
+      {
+        "name": "Memoir of a Snail",
+        "raw_odds": "8/1",
+        "probability": 0.1104
+      }
+    ],
+    "Best Documentary Feature": [
+      {
+        "name": "No Other Land",
+        "raw_odds": "15/8",
+        "probability": 0.3507
+      },
+      {
+        "name": "Porcelain War",
+        "raw_odds": "17/5",
+        "probability": 0.2292
+      },
+      {
+        "name": "Sugarcane",
+        "raw_odds": "5/1",
+        "probability": 0.1681
+      },
+      {
+        "name": "Black Box Diaries",
+        "raw_odds": "7/1",
+        "probability": 0.126
+      },
+      {
+        "name": "Soundtrack to a Coup d'Etat",
+        "raw_odds": "7/1",
+        "probability": 0.126
+      }
+    ],
+    "Best International Film": [
+      {
+        "name": "I'm Still Here",
+        "raw_odds": "19/10",
+        "probability": 0.3459
+      },
+      {
+        "name": "Emilia Pérez",
+        "raw_odds": "3/1",
+        "probability": 0.2508
+      },
+      {
+        "name": "Flow",
+        "raw_odds": "11/2",
+        "probability": 0.1543
+      },
+      {
+        "name": "The Seed of the Sacred Fig",
+        "raw_odds": "6/1",
+        "probability": 0.1434
+      },
+      {
+        "name": "The Girl with the Needle",
+        "raw_odds": "17/2",
+        "probability": 0.1056
+      }
+    ],
+    "Best Cinematography": [
+      {
+        "name": "The Brutalist",
+        "raw_odds": "31/20",
+        "probability": 0.3909
+      },
+      {
+        "name": "Nosferatu",
+        "raw_odds": "4/1",
+        "probability": 0.1993
+      },
+      {
+        "name": "Dune: Part Two",
+        "raw_odds": "5/1",
+        "probability": 0.1662
+      },
+      {
+        "name": "Maria",
+        "raw_odds": "13/2",
+        "probability": 0.1329
+      },
+      {
+        "name": "Emilia Pérez",
+        "raw_odds": "8/1",
+        "probability": 0.1107
+      }
+    ],
+    "Best Film Editing": [
+      {
+        "name": "Conclave",
+        "raw_odds": "17/10",
+        "probability": 0.3676
+      },
+      {
+        "name": "Anora",
+        "raw_odds": "37/10",
+        "probability": 0.2112
+      },
+      {
+        "name": "The Brutalist",
+        "raw_odds": "9/2",
+        "probability": 0.1804
+      },
+      {
+        "name": "Emilia Pérez",
+        "raw_odds": "7/1",
+        "probability": 0.1241
+      },
+      {
+        "name": "Wicked",
+        "raw_odds": "15/2",
+        "probability": 0.1167
+      }
+    ],
+    "Best Production Design": [
+      {
+        "name": "Wicked",
+        "raw_odds": "3/2",
+        "probability": 0.3981
+      },
+      {
+        "name": "The Brutalist",
+        "raw_odds": "4/1",
+        "probability": 0.1991
+      },
+      {
+        "name": "Dune: Part Two",
+        "raw_odds": "11/2",
+        "probability": 0.1531
+      },
+      {
+        "name": "Conclave",
+        "raw_odds": "13/2",
+        "probability": 0.1327
+      },
+      {
+        "name": "Nosferatu",
+        "raw_odds": "15/2",
+        "probability": 0.117
+      }
+    ],
+    "Best Costume Design": [
+      {
+        "name": "Wicked",
+        "raw_odds": "29/20",
+        "probability": 0.4034
+      },
+      {
+        "name": "Nosferatu",
+        "raw_odds": "4/1",
+        "probability": 0.1976
+      },
+      {
+        "name": "Conclave",
+        "raw_odds": "11/2",
+        "probability": 0.152
+      },
+      {
+        "name": "Gladiator II",
+        "raw_odds": "7/1",
+        "probability": 0.1235
+      },
+      {
+        "name": "A Complete Unknown",
+        "raw_odds": "7/1",
+        "probability": 0.1235
+      }
+    ],
+    "Best Score": [
+      {
+        "name": "The Brutalist",
+        "raw_odds": "17/10",
+        "probability": 0.3684
+      },
+      {
+        "name": "Conclave",
+        "raw_odds": "18/5",
+        "probability": 0.2162
+      },
+      {
+        "name": "The Wild Robot",
+        "raw_odds": "5/1",
+        "probability": 0.1658
+      },
+      {
+        "name": "Emilia Pérez",
+        "raw_odds": "13/2",
+        "probability": 0.1326
+      },
+      {
+        "name": "Wicked",
+        "raw_odds": "15/2",
+        "probability": 0.117
+      }
+    ],
+    "Best Song": [
+      {
+        "name": "Emilia Pérez - El Mal",
+        "raw_odds": "7/4",
+        "probability": 0.3613
+      },
+      {
+        "name": "The Six Triple Eight",
+        "raw_odds": "19/5",
+        "probability": 0.207
+      },
+      {
+        "name": "Sing Sing - Like a Bird",
+        "raw_odds": "5/1",
+        "probability": 0.1656
+      },
+      {
+        "name": "Elton John",
+        "raw_odds": "6/1",
+        "probability": 0.142
+      },
+      {
+        "name": "Emilia Pérez - Mi Camino",
+        "raw_odds": "7/1",
+        "probability": 0.1242
+      }
+    ],
+    "Best Sound": [
+      {
+        "name": "Dune: Part Two",
+        "raw_odds": "39/20",
+        "probability": 0.3389
+      },
+      {
+        "name": "A Complete Unknown",
+        "raw_odds": "71/20",
+        "probability": 0.2197
+      },
+      {
+        "name": "Wicked",
+        "raw_odds": "37/10",
+        "probability": 0.2127
+      },
+      {
+        "name": "Emilia Pérez",
+        "raw_odds": "15/2",
+        "probability": 0.1176
+      },
+      {
+        "name": "The Wild Robot",
+        "raw_odds": "8/1",
+        "probability": 0.1111
+      }
+    ],
+    "Best Visual Effects": [
+      {
+        "name": "Dune: Part Two",
+        "raw_odds": "3/2",
+        "probability": 0.4013
+      },
+      {
+        "name": "Kingdom of the Planet of the Apes",
+        "raw_odds": "9/2",
+        "probability": 0.1824
+      },
+      {
+        "name": "Wicked",
+        "raw_odds": "5/1",
+        "probability": 0.1673
+      },
+      {
+        "name": "Better Man",
+        "raw_odds": "6/1",
+        "probability": 0.1434
+      },
+      {
+        "name": "Alien: Romulus",
+        "raw_odds": "17/2",
+        "probability": 0.1056
+      }
+    ],
+    "Best Makeup and Hairstyling": [
+      {
+        "name": "The Substance",
+        "raw_odds": "3/2",
+        "probability": 0.3941
+      },
+      {
+        "name": "Wicked",
+        "raw_odds": "4/1",
+        "probability": 0.1971
+      },
+      {
+        "name": "A Different Man",
+        "raw_odds": "5/1",
+        "probability": 0.1643
+      },
+      {
+        "name": "Nosferatu",
+        "raw_odds": "6/1",
+        "probability": 0.1408
+      },
+      {
+        "name": "Emilia Pérez",
+        "raw_odds": "17/2",
+        "probability": 0.1038
+      }
+    ]
+  }
+}

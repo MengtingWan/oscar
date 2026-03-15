@@ -1,0 +1,5731 @@
+{
+  "method": "ml_model",
+  "year": 2026,
+  "categories": {
+    "Best Motion Picture of the Year": [
+      {
+        "name": "F1: The Movie",
+        "probability": 0.147,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3475,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::editing::N",
+              "coefficient": 0.088,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0629,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::score::N",
+              "coefficient": 0.0381,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": -0.078,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "Costume Designers Guild Awards::costume::N",
+              "coefficient": -0.1147,
+              "display": "CDG Nom"
+            },
+            {
+              "feature": "PGA Awards::picture::N",
+              "coefficient": -0.256,
+              "display": "PGA Nom"
+            },
+            {
+              "feature": "__n_noms_in_cat__",
+              "coefficient": -0.4151,
+              "display": "__n_noms_in_cat__"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3475,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Golden Globes, USA::supp_actor::N",
+              "coefficient": 0.3399,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::cast::W",
+              "coefficient": 0.3113,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::supp_actor::N",
+              "coefficient": 0.2666,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 0.2572,
+              "display": "OFCS Nom"
+            }
+          ],
+          "category_auc": 0.8672,
+          "model_selected": "enet_a0.1_l0.1"
+        }
+      },
+      {
+        "name": "Frankenstein",
+        "probability": 0.0033,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3475,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Golden Globes, USA::supp_actor::N",
+              "coefficient": 0.3399,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 0.2572,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0629,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "Costume Designers Guild Awards::costume::W",
+              "coefficient": 0.0393,
+              "display": "CDG Win"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::score::N",
+              "coefficient": 0.0381,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "BAFTA Awards::sound::N",
+              "coefficient": 0.0275,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "Academy of Science Fiction, Fantasy & Horror Films, USA::supp_actress::N",
+              "coefficient": 0.0269,
+              "display": "Academy of Science Fiction, Fantasy & Horror Films, USA Nom"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::supp_actor::N",
+              "coefficient": 0.0192,
+              "display": "SAG Nom"
+            },
+            {
+              "feature": "Directors Guild of America, USA::director::N",
+              "coefficient": -0.0157,
+              "display": "DGA Nom"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3475,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Golden Globes, USA::supp_actor::N",
+              "coefficient": 0.3399,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::cast::W",
+              "coefficient": 0.3113,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::supp_actor::N",
+              "coefficient": 0.2666,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 0.2572,
+              "display": "OFCS Nom"
+            }
+          ],
+          "category_auc": 0.8672,
+          "model_selected": "enet_a0.1_l0.1"
+        }
+      },
+      {
+        "name": "Hamnet",
+        "probability": 0.0011,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3475,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Golden Globes, USA::supp_actor::N",
+              "coefficient": 0.3399,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::supp_actor::N",
+              "coefficient": 0.2666,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0629,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::score::N",
+              "coefficient": 0.0381,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::supp_actor::N",
+              "coefficient": 0.0192,
+              "display": "SAG Nom"
+            },
+            {
+              "feature": "BAFTA Awards::adapted_screenplay::N",
+              "coefficient": -0.0074,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "Directors Guild of America, USA::director::N",
+              "coefficient": -0.0157,
+              "display": "DGA Nom"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::cast::N",
+              "coefficient": -0.067,
+              "display": "SAG Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::picture::N",
+              "coefficient": -0.0719,
+              "display": "OFCS Nom"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3475,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Golden Globes, USA::supp_actor::N",
+              "coefficient": 0.3399,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::cast::W",
+              "coefficient": 0.3113,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::supp_actor::N",
+              "coefficient": 0.2666,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 0.2572,
+              "display": "OFCS Nom"
+            }
+          ],
+          "category_auc": 0.8672,
+          "model_selected": "enet_a0.1_l0.1"
+        }
+      },
+      {
+        "name": "Marty Supreme",
+        "probability": 0.0001,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "BAFTA Awards::editing::N",
+              "coefficient": 0.088,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0629,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::score::N",
+              "coefficient": 0.0381,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Directors Guild of America, USA::director::N",
+              "coefficient": -0.0157,
+              "display": "DGA Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::actor::N",
+              "coefficient": -0.0328,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::cast::N",
+              "coefficient": -0.067,
+              "display": "SAG Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::picture::N",
+              "coefficient": -0.0719,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": -0.078,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::score::N",
+              "coefficient": -0.1085,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "American Society of Cinematographers, USA::cinematography::N",
+              "coefficient": -0.1288,
+              "display": "ASC Nom"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3475,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Golden Globes, USA::supp_actor::N",
+              "coefficient": 0.3399,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::cast::W",
+              "coefficient": 0.3113,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::supp_actor::N",
+              "coefficient": 0.2666,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 0.2572,
+              "display": "OFCS Nom"
+            }
+          ],
+          "category_auc": 0.8672,
+          "model_selected": "enet_a0.1_l0.1"
+        }
+      },
+      {
+        "name": "One Battle After Another",
+        "probability": 0.7725,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3475,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Golden Globes, USA::supp_actor::N",
+              "coefficient": 0.3399,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::supp_actor::N",
+              "coefficient": 0.2666,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 0.2572,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "PGA Awards::picture::W",
+              "coefficient": 0.2315,
+              "display": "PGA Win"
+            },
+            {
+              "feature": "Directors Guild of America, USA::director::W",
+              "coefficient": 0.2231,
+              "display": "DGA Win"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::supp_actor::W",
+              "coefficient": 0.1462,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "American Cinema Editors, USA::editing::W",
+              "coefficient": 0.1238,
+              "display": "ACE Win"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::picture::W",
+              "coefficient": 0.0657,
+              "display": "Critics Choice Win"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0629,
+              "display": "__n_wins_cross__"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3475,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Golden Globes, USA::supp_actor::N",
+              "coefficient": 0.3399,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::cast::W",
+              "coefficient": 0.3113,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::supp_actor::N",
+              "coefficient": 0.2666,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 0.2572,
+              "display": "OFCS Nom"
+            }
+          ],
+          "category_auc": 0.8672,
+          "model_selected": "enet_a0.1_l0.1"
+        }
+      },
+      {
+        "name": "Sentimental Value",
+        "probability": 0.0029,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3475,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::supp_actor::N",
+              "coefficient": 0.2666,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 0.2572,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0629,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::picture::N",
+              "coefficient": -0.0719,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": -0.078,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actress::N",
+              "coefficient": -0.11,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::picture::N",
+              "coefficient": -0.1518,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "PGA Awards::picture::N",
+              "coefficient": -0.256,
+              "display": "PGA Nom"
+            },
+            {
+              "feature": "__n_noms_in_cat__",
+              "coefficient": -0.4151,
+              "display": "__n_noms_in_cat__"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3475,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Golden Globes, USA::supp_actor::N",
+              "coefficient": 0.3399,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::cast::W",
+              "coefficient": 0.3113,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::supp_actor::N",
+              "coefficient": 0.2666,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 0.2572,
+              "display": "OFCS Nom"
+            }
+          ],
+          "category_auc": 0.8672,
+          "model_selected": "enet_a0.1_l0.1"
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.0026,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3475,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::cast::W",
+              "coefficient": 0.3113,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 0.2572,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "American Cinema Editors, USA::editing::W",
+              "coefficient": 0.1238,
+              "display": "ACE Win"
+            },
+            {
+              "feature": "BAFTA Awards::editing::N",
+              "coefficient": 0.088,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0629,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "Costume Designers Guild Awards::costume::W",
+              "coefficient": 0.0393,
+              "display": "CDG Win"
+            },
+            {
+              "feature": "BAFTA Awards::sound::N",
+              "coefficient": 0.0275,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "Academy of Science Fiction, Fantasy & Horror Films, USA::supp_actress::N",
+              "coefficient": 0.0269,
+              "display": "Academy of Science Fiction, Fantasy & Horror Films, USA Nom"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::supp_actor::N",
+              "coefficient": 0.0192,
+              "display": "SAG Nom"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3475,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Golden Globes, USA::supp_actor::N",
+              "coefficient": 0.3399,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::cast::W",
+              "coefficient": 0.3113,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::supp_actor::N",
+              "coefficient": 0.2666,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 0.2572,
+              "display": "OFCS Nom"
+            }
+          ],
+          "category_auc": 0.8672,
+          "model_selected": "enet_a0.1_l0.1"
+        }
+      },
+      {
+        "name": "Train Dreams",
+        "probability": 0.0066,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0629,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::actor::N",
+              "coefficient": -0.0247,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::picture::N",
+              "coefficient": -0.0719,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": -0.078,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "American Society of Cinematographers, USA::cinematography::N",
+              "coefficient": -0.1288,
+              "display": "ASC Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::picture::N",
+              "coefficient": -0.1518,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "PGA Awards::picture::N",
+              "coefficient": -0.256,
+              "display": "PGA Nom"
+            },
+            {
+              "feature": "__n_noms_in_cat__",
+              "coefficient": -0.4151,
+              "display": "__n_noms_in_cat__"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3475,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Golden Globes, USA::supp_actor::N",
+              "coefficient": 0.3399,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::cast::W",
+              "coefficient": 0.3113,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::supp_actor::N",
+              "coefficient": 0.2666,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 0.2572,
+              "display": "OFCS Nom"
+            }
+          ],
+          "category_auc": 0.8672,
+          "model_selected": "enet_a0.1_l0.1"
+        }
+      },
+      {
+        "name": "The Secret Agent",
+        "probability": 0.0533,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3475,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0629,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "National Society of Film Critics Awards, USA::screenplay::N",
+              "coefficient": 0.0285,
+              "display": "NSFC Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::actor::N",
+              "coefficient": -0.0247,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::actor::N",
+              "coefficient": -0.0328,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::picture::N",
+              "coefficient": -0.0719,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": -0.078,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "__n_noms_in_cat__",
+              "coefficient": -0.4151,
+              "display": "__n_noms_in_cat__"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3475,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Golden Globes, USA::supp_actor::N",
+              "coefficient": 0.3399,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::cast::W",
+              "coefficient": 0.3113,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::supp_actor::N",
+              "coefficient": 0.2666,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 0.2572,
+              "display": "OFCS Nom"
+            }
+          ],
+          "category_auc": 0.8672,
+          "model_selected": "enet_a0.1_l0.1"
+        }
+      },
+      {
+        "name": "Bugonia",
+        "probability": 0.0108,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0629,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "BAFTA Awards::adapted_screenplay::N",
+              "coefficient": -0.0074,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": -0.078,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "Costume Designers Guild Awards::costume::N",
+              "coefficient": -0.1147,
+              "display": "CDG Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::picture::N",
+              "coefficient": -0.1518,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "PGA Awards::picture::N",
+              "coefficient": -0.256,
+              "display": "PGA Nom"
+            },
+            {
+              "feature": "__n_noms_in_cat__",
+              "coefficient": -0.4151,
+              "display": "__n_noms_in_cat__"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3475,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Golden Globes, USA::supp_actor::N",
+              "coefficient": 0.3399,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::cast::W",
+              "coefficient": 0.3113,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::supp_actor::N",
+              "coefficient": 0.2666,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 0.2572,
+              "display": "OFCS Nom"
+            }
+          ],
+          "category_auc": 0.8672,
+          "model_selected": "enet_a0.1_l0.1"
+        }
+      }
+    ],
+    "Best Performance by an Actor in a Leading Role": [
+      {
+        "name": "Timoth\u00e9e Chalamet",
+        "probability": 0.314,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3736,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::actor::W",
+              "coefficient": 0.2785,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::actor::N",
+              "coefficient": 0.0782,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Golden Globes, USA::supp_actor::W",
+              "coefficient": 0.0644,
+              "display": "Golden Globe Win"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0426,
+              "display": "__n_wins_cross__"
+            }
+          ],
+          "category_auc": 0.9008,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "Leonardo DiCaprio",
+        "probability": 0.1375,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3736,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::actor::W",
+              "coefficient": 0.2785,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::actor::N",
+              "coefficient": 0.0782,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Golden Globes, USA::supp_actor::W",
+              "coefficient": 0.0644,
+              "display": "Golden Globe Win"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0426,
+              "display": "__n_wins_cross__"
+            }
+          ],
+          "category_auc": 0.9008,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "Ethan Hawke",
+        "probability": 0.1316,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3736,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::actor::W",
+              "coefficient": 0.2785,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::actor::N",
+              "coefficient": 0.0782,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Golden Globes, USA::supp_actor::W",
+              "coefficient": 0.0644,
+              "display": "Golden Globe Win"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0426,
+              "display": "__n_wins_cross__"
+            }
+          ],
+          "category_auc": 0.9008,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "Michael B. Jordan",
+        "probability": 0.36,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3736,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::actor::W",
+              "coefficient": 0.2785,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::actor::N",
+              "coefficient": 0.0782,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Golden Globes, USA::supp_actor::W",
+              "coefficient": 0.0644,
+              "display": "Golden Globe Win"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0426,
+              "display": "__n_wins_cross__"
+            }
+          ],
+          "category_auc": 0.9008,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "Wagner Moura",
+        "probability": 0.0568,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3736,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::actor::W",
+              "coefficient": 0.2785,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::actor::N",
+              "coefficient": 0.0782,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Golden Globes, USA::supp_actor::W",
+              "coefficient": 0.0644,
+              "display": "Golden Globe Win"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0426,
+              "display": "__n_wins_cross__"
+            }
+          ],
+          "category_auc": 0.9008,
+          "model_selected": "gbt_d1_n100"
+        }
+      }
+    ],
+    "Best Performance by an Actress in a Leading Role": [
+      {
+        "name": "Jessie Buckley",
+        "probability": 0.6976,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "Screen Actors Guild Awards::actress::W",
+              "coefficient": 0.2367,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "BAFTA Awards::actress::W",
+              "coefficient": 0.1234,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.1131,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::supp_actress::W",
+              "coefficient": 0.1037,
+              "display": "Critics Choice Win"
+            },
+            {
+              "feature": "BAFTA Awards::actress::N",
+              "coefficient": 0.065,
+              "display": "BAFTA Nom"
+            }
+          ],
+          "category_auc": 0.888,
+          "model_selected": "gbt_d2_n50"
+        }
+      },
+      {
+        "name": "Rose Byrne",
+        "probability": 0.1556,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "Screen Actors Guild Awards::actress::W",
+              "coefficient": 0.2367,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "BAFTA Awards::actress::W",
+              "coefficient": 0.1234,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.1131,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::supp_actress::W",
+              "coefficient": 0.1037,
+              "display": "Critics Choice Win"
+            },
+            {
+              "feature": "BAFTA Awards::actress::N",
+              "coefficient": 0.065,
+              "display": "BAFTA Nom"
+            }
+          ],
+          "category_auc": 0.888,
+          "model_selected": "gbt_d2_n50"
+        }
+      },
+      {
+        "name": "Renate Reinsve",
+        "probability": 0.0609,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "Screen Actors Guild Awards::actress::W",
+              "coefficient": 0.2367,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "BAFTA Awards::actress::W",
+              "coefficient": 0.1234,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.1131,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::supp_actress::W",
+              "coefficient": 0.1037,
+              "display": "Critics Choice Win"
+            },
+            {
+              "feature": "BAFTA Awards::actress::N",
+              "coefficient": 0.065,
+              "display": "BAFTA Nom"
+            }
+          ],
+          "category_auc": 0.888,
+          "model_selected": "gbt_d2_n50"
+        }
+      },
+      {
+        "name": "Emma Stone",
+        "probability": 0.0425,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "Screen Actors Guild Awards::actress::W",
+              "coefficient": 0.2367,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "BAFTA Awards::actress::W",
+              "coefficient": 0.1234,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.1131,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::supp_actress::W",
+              "coefficient": 0.1037,
+              "display": "Critics Choice Win"
+            },
+            {
+              "feature": "BAFTA Awards::actress::N",
+              "coefficient": 0.065,
+              "display": "BAFTA Nom"
+            }
+          ],
+          "category_auc": 0.888,
+          "model_selected": "gbt_d2_n50"
+        }
+      },
+      {
+        "name": "Kate Hudson",
+        "probability": 0.0435,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "Screen Actors Guild Awards::actress::W",
+              "coefficient": 0.2367,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "BAFTA Awards::actress::W",
+              "coefficient": 0.1234,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.1131,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::supp_actress::W",
+              "coefficient": 0.1037,
+              "display": "Critics Choice Win"
+            },
+            {
+              "feature": "BAFTA Awards::actress::N",
+              "coefficient": 0.065,
+              "display": "BAFTA Nom"
+            }
+          ],
+          "category_auc": 0.888,
+          "model_selected": "gbt_d2_n50"
+        }
+      }
+    ],
+    "Best Performance by an Actor in a Supporting Role": [
+      {
+        "name": "Benicio Del Toro",
+        "probability": 0.3432,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 7.1032,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "PGA Awards::picture::W",
+              "coefficient": 3.038,
+              "display": "PGA Win"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::supp_actor::W",
+              "coefficient": 2.5594,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "BAFTA Awards::supp_actor::W",
+              "coefficient": 2.4137,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "Art Directors Guild::production_design::W",
+              "coefficient": 2.0018,
+              "display": "ADG Win"
+            },
+            {
+              "feature": "National Society of Film Critics Awards, USA::picture::W",
+              "coefficient": 1.7873,
+              "display": "NSFC Win"
+            },
+            {
+              "feature": "BAFTA Awards::actress::N",
+              "coefficient": 1.7209,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "Golden Globes, USA::score::N",
+              "coefficient": 1.5218,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "__sweep_SAG_BAFTA__",
+              "coefficient": 1.4948,
+              "display": "__sweep_SAG_BAFTA__"
+            },
+            {
+              "feature": "BAFTA Awards::sound::N",
+              "coefficient": 1.3857,
+              "display": "BAFTA Nom"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 7.1032,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Chicago Film Critics Association Awards::original_screenplay::N",
+              "coefficient": 3.718,
+              "display": "Chicago Film Critics Association Awards Nom"
+            },
+            {
+              "feature": "BAFTA Awards::picture::N",
+              "coefficient": 3.1923,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "BAFTA Awards::original_screenplay::N",
+              "coefficient": 3.1641,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "PGA Awards::picture::W",
+              "coefficient": 3.038,
+              "display": "PGA Win"
+            }
+          ],
+          "category_auc": 0.8705,
+          "model_selected": "enet_a0.005_l0.1"
+        }
+      },
+      {
+        "name": "Sean Penn",
+        "probability": 0.3432,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 7.1032,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "PGA Awards::picture::W",
+              "coefficient": 3.038,
+              "display": "PGA Win"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::supp_actor::W",
+              "coefficient": 2.5594,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "BAFTA Awards::supp_actor::W",
+              "coefficient": 2.4137,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "Art Directors Guild::production_design::W",
+              "coefficient": 2.0018,
+              "display": "ADG Win"
+            },
+            {
+              "feature": "National Society of Film Critics Awards, USA::picture::W",
+              "coefficient": 1.7873,
+              "display": "NSFC Win"
+            },
+            {
+              "feature": "BAFTA Awards::actress::N",
+              "coefficient": 1.7209,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "Golden Globes, USA::score::N",
+              "coefficient": 1.5218,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "__sweep_SAG_BAFTA__",
+              "coefficient": 1.4948,
+              "display": "__sweep_SAG_BAFTA__"
+            },
+            {
+              "feature": "BAFTA Awards::sound::N",
+              "coefficient": 1.3857,
+              "display": "BAFTA Nom"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 7.1032,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Chicago Film Critics Association Awards::original_screenplay::N",
+              "coefficient": 3.718,
+              "display": "Chicago Film Critics Association Awards Nom"
+            },
+            {
+              "feature": "BAFTA Awards::picture::N",
+              "coefficient": 3.1923,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "BAFTA Awards::original_screenplay::N",
+              "coefficient": 3.1641,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "PGA Awards::picture::W",
+              "coefficient": 3.038,
+              "display": "PGA Win"
+            }
+          ],
+          "category_auc": 0.8705,
+          "model_selected": "enet_a0.005_l0.1"
+        }
+      },
+      {
+        "name": "Stellan Skarsg\u00e5rd",
+        "probability": 0.3137,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 7.1032,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::picture::N",
+              "coefficient": 3.1923,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "BAFTA Awards::original_screenplay::N",
+              "coefficient": 3.1641,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "Golden Globes, USA::director::N",
+              "coefficient": 2.8652,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "Golden Globes, USA::supp_actor::W",
+              "coefficient": 2.7918,
+              "display": "Golden Globe Win"
+            },
+            {
+              "feature": "Golden Globes, USA::picture::N",
+              "coefficient": 2.3371,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "BAFTA Awards::director::N",
+              "coefficient": 2.136,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::original_screenplay::N",
+              "coefficient": 1.8967,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "BAFTA Awards::actress::N",
+              "coefficient": 1.7209,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "American Cinema Editors, USA::editing::N",
+              "coefficient": 1.7068,
+              "display": "ACE Nom"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 7.1032,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Chicago Film Critics Association Awards::original_screenplay::N",
+              "coefficient": 3.718,
+              "display": "Chicago Film Critics Association Awards Nom"
+            },
+            {
+              "feature": "BAFTA Awards::picture::N",
+              "coefficient": 3.1923,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "BAFTA Awards::original_screenplay::N",
+              "coefficient": 3.1641,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "PGA Awards::picture::W",
+              "coefficient": 3.038,
+              "display": "PGA Win"
+            }
+          ],
+          "category_auc": 0.8705,
+          "model_selected": "enet_a0.005_l0.1"
+        }
+      },
+      {
+        "name": "Jacob Elordi",
+        "probability": 0.0,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 7.1032,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Golden Globes, USA::director::N",
+              "coefficient": 2.8652,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "Writers Guild of America, USA::adapted_screenplay::N",
+              "coefficient": 2.4966,
+              "display": "WGA Nom"
+            },
+            {
+              "feature": "Golden Globes, USA::picture::N",
+              "coefficient": 2.3371,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "Directors Guild of America, USA::director::N",
+              "coefficient": 2.3195,
+              "display": "DGA Nom"
+            },
+            {
+              "feature": "Art Directors Guild::production_design::W",
+              "coefficient": 2.0018,
+              "display": "ADG Win"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::director::N",
+              "coefficient": 1.6432,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Golden Globes, USA::score::N",
+              "coefficient": 1.5218,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "BAFTA Awards::sound::N",
+              "coefficient": 1.3857,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::costume::N",
+              "coefficient": 1.3157,
+              "display": "OFCS Nom"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 7.1032,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Chicago Film Critics Association Awards::original_screenplay::N",
+              "coefficient": 3.718,
+              "display": "Chicago Film Critics Association Awards Nom"
+            },
+            {
+              "feature": "BAFTA Awards::picture::N",
+              "coefficient": 3.1923,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "BAFTA Awards::original_screenplay::N",
+              "coefficient": 3.1641,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "PGA Awards::picture::W",
+              "coefficient": 3.038,
+              "display": "PGA Win"
+            }
+          ],
+          "category_auc": 0.8705,
+          "model_selected": "enet_a0.005_l0.1"
+        }
+      },
+      {
+        "name": "Delroy Lindo",
+        "probability": 0.0,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "BAFTA Awards::picture::N",
+              "coefficient": 3.1923,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "Writers Guild of America, USA::original_screenplay::W",
+              "coefficient": 2.8767,
+              "display": "WGA Win"
+            },
+            {
+              "feature": "Golden Globes, USA::director::N",
+              "coefficient": 2.8652,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::director::N",
+              "coefficient": 2.4714,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "Art Directors Guild::production_design::N",
+              "coefficient": 2.3793,
+              "display": "ADG Nom"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::cast::W",
+              "coefficient": 2.3469,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "Golden Globes, USA::picture::N",
+              "coefficient": 2.3371,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "Directors Guild of America, USA::director::N",
+              "coefficient": 2.3195,
+              "display": "DGA Nom"
+            },
+            {
+              "feature": "BAFTA Awards::original_screenplay::W",
+              "coefficient": 2.249,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "BAFTA Awards::director::N",
+              "coefficient": 2.136,
+              "display": "BAFTA Nom"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 7.1032,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Chicago Film Critics Association Awards::original_screenplay::N",
+              "coefficient": 3.718,
+              "display": "Chicago Film Critics Association Awards Nom"
+            },
+            {
+              "feature": "BAFTA Awards::picture::N",
+              "coefficient": 3.1923,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "BAFTA Awards::original_screenplay::N",
+              "coefficient": 3.1641,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "PGA Awards::picture::W",
+              "coefficient": 3.038,
+              "display": "PGA Win"
+            }
+          ],
+          "category_auc": 0.8705,
+          "model_selected": "enet_a0.005_l0.1"
+        }
+      }
+    ],
+    "Best Performance by an Actress in a Supporting Role": [
+      {
+        "name": "Elle Fanning",
+        "probability": 0.0233,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "Screen Actors Guild Awards::supp_actress::W",
+              "coefficient": 0.3578,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3164,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::supp_actress::W",
+              "coefficient": 0.0632,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::supp_actress::N",
+              "coefficient": 0.0316,
+              "display": "SAG Nom"
+            },
+            {
+              "feature": "BAFTA Awards::visual_effects::N",
+              "coefficient": 0.0256,
+              "display": "BAFTA Nom"
+            }
+          ],
+          "category_auc": 0.9246,
+          "model_selected": "gbt_d2_n50"
+        }
+      },
+      {
+        "name": "Inga Ibsdotter Lilleaas",
+        "probability": 0.0367,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "Screen Actors Guild Awards::supp_actress::W",
+              "coefficient": 0.3578,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3164,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::supp_actress::W",
+              "coefficient": 0.0632,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::supp_actress::N",
+              "coefficient": 0.0316,
+              "display": "SAG Nom"
+            },
+            {
+              "feature": "BAFTA Awards::visual_effects::N",
+              "coefficient": 0.0256,
+              "display": "BAFTA Nom"
+            }
+          ],
+          "category_auc": 0.9246,
+          "model_selected": "gbt_d2_n50"
+        }
+      },
+      {
+        "name": "Amy Madigan",
+        "probability": 0.4803,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "Screen Actors Guild Awards::supp_actress::W",
+              "coefficient": 0.3578,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3164,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::supp_actress::W",
+              "coefficient": 0.0632,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::supp_actress::N",
+              "coefficient": 0.0316,
+              "display": "SAG Nom"
+            },
+            {
+              "feature": "BAFTA Awards::visual_effects::N",
+              "coefficient": 0.0256,
+              "display": "BAFTA Nom"
+            }
+          ],
+          "category_auc": 0.9246,
+          "model_selected": "gbt_d2_n50"
+        }
+      },
+      {
+        "name": "Teyana Taylor",
+        "probability": 0.3785,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "Screen Actors Guild Awards::supp_actress::W",
+              "coefficient": 0.3578,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3164,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::supp_actress::W",
+              "coefficient": 0.0632,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::supp_actress::N",
+              "coefficient": 0.0316,
+              "display": "SAG Nom"
+            },
+            {
+              "feature": "BAFTA Awards::visual_effects::N",
+              "coefficient": 0.0256,
+              "display": "BAFTA Nom"
+            }
+          ],
+          "category_auc": 0.9246,
+          "model_selected": "gbt_d2_n50"
+        }
+      },
+      {
+        "name": "Wunmi Mosaku",
+        "probability": 0.0812,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "Screen Actors Guild Awards::supp_actress::W",
+              "coefficient": 0.3578,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3164,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::supp_actress::W",
+              "coefficient": 0.0632,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::supp_actress::N",
+              "coefficient": 0.0316,
+              "display": "SAG Nom"
+            },
+            {
+              "feature": "BAFTA Awards::visual_effects::N",
+              "coefficient": 0.0256,
+              "display": "BAFTA Nom"
+            }
+          ],
+          "category_auc": 0.9246,
+          "model_selected": "gbt_d2_n50"
+        }
+      }
+    ],
+    "Best Achievement in Directing": [
+      {
+        "name": "Chlo\u00e9 Zhao",
+        "probability": 0.0343,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "Directors Guild of America, USA::director::W",
+              "coefficient": 0.4684,
+              "display": "DGA Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3544,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Art Directors Guild::production_design::W",
+              "coefficient": 0.0329,
+              "display": "ADG Win"
+            },
+            {
+              "feature": "Art Directors Guild::production_design::N",
+              "coefficient": 0.0297,
+              "display": "ADG Nom"
+            },
+            {
+              "feature": "BAFTA Awards::cinematography::W",
+              "coefficient": 0.0156,
+              "display": "BAFTA Win"
+            }
+          ],
+          "category_auc": 0.9193,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "Paul Thomas Anderson",
+        "probability": 0.6574,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "Directors Guild of America, USA::director::W",
+              "coefficient": 0.4684,
+              "display": "DGA Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3544,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Art Directors Guild::production_design::W",
+              "coefficient": 0.0329,
+              "display": "ADG Win"
+            },
+            {
+              "feature": "Art Directors Guild::production_design::N",
+              "coefficient": 0.0297,
+              "display": "ADG Nom"
+            },
+            {
+              "feature": "BAFTA Awards::cinematography::W",
+              "coefficient": 0.0156,
+              "display": "BAFTA Win"
+            }
+          ],
+          "category_auc": 0.9193,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "Ryan Coogler",
+        "probability": 0.2013,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "Directors Guild of America, USA::director::W",
+              "coefficient": 0.4684,
+              "display": "DGA Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3544,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Art Directors Guild::production_design::W",
+              "coefficient": 0.0329,
+              "display": "ADG Win"
+            },
+            {
+              "feature": "Art Directors Guild::production_design::N",
+              "coefficient": 0.0297,
+              "display": "ADG Nom"
+            },
+            {
+              "feature": "BAFTA Awards::cinematography::W",
+              "coefficient": 0.0156,
+              "display": "BAFTA Win"
+            }
+          ],
+          "category_auc": 0.9193,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "Joachim Trier",
+        "probability": 0.0708,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "Directors Guild of America, USA::director::W",
+              "coefficient": 0.4684,
+              "display": "DGA Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3544,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Art Directors Guild::production_design::W",
+              "coefficient": 0.0329,
+              "display": "ADG Win"
+            },
+            {
+              "feature": "Art Directors Guild::production_design::N",
+              "coefficient": 0.0297,
+              "display": "ADG Nom"
+            },
+            {
+              "feature": "BAFTA Awards::cinematography::W",
+              "coefficient": 0.0156,
+              "display": "BAFTA Win"
+            }
+          ],
+          "category_auc": 0.9193,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "Josh Safdie",
+        "probability": 0.0361,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "Directors Guild of America, USA::director::W",
+              "coefficient": 0.4684,
+              "display": "DGA Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3544,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Art Directors Guild::production_design::W",
+              "coefficient": 0.0329,
+              "display": "ADG Win"
+            },
+            {
+              "feature": "Art Directors Guild::production_design::N",
+              "coefficient": 0.0297,
+              "display": "ADG Nom"
+            },
+            {
+              "feature": "BAFTA Awards::cinematography::W",
+              "coefficient": 0.0156,
+              "display": "BAFTA Win"
+            }
+          ],
+          "category_auc": 0.9193,
+          "model_selected": "gbt_d1_n100"
+        }
+      }
+    ],
+    "Best Original Screenplay": [
+      {
+        "name": "Blue Moon",
+        "probability": 0.0872,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 6.3237,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "National Society of Film Critics Awards, USA::director::N",
+              "coefficient": 2.1048,
+              "display": "NSFC Nom"
+            },
+            {
+              "feature": "National Society of Film Critics Awards, USA::actor::W",
+              "coefficient": 1.4195,
+              "display": "NSFC Win"
+            },
+            {
+              "feature": "BAFTA Awards::actor::N",
+              "coefficient": 1.4104,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 0.9601,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::actor::N",
+              "coefficient": 0.7024,
+              "display": "SAG Nom"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": -0.4469,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "__n_noms_in_cat__",
+              "coefficient": -3.4403,
+              "display": "__n_noms_in_cat__"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 6.3237,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 5.0126,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "Writers Guild of America, USA::original_screenplay::W",
+              "coefficient": 4.5579,
+              "display": "WGA Win"
+            },
+            {
+              "feature": "PGA Awards::picture::W",
+              "coefficient": 4.2854,
+              "display": "PGA Win"
+            },
+            {
+              "feature": "Boston Society of Film Critics Awards::actor::W",
+              "coefficient": 3.7828,
+              "display": "Boston Society of Film Critics Awards Win"
+            }
+          ],
+          "category_auc": 0.896,
+          "model_selected": "enet_a0.01_l0.5"
+        }
+      },
+      {
+        "name": "It Was Just an Accident",
+        "probability": 0.2341,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 6.3237,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::picture::N",
+              "coefficient": 3.2339,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "Golden Globes, USA::director::N",
+              "coefficient": 2.1385,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "National Society of Film Critics Awards, USA::director::N",
+              "coefficient": 2.1048,
+              "display": "NSFC Nom"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 0.9601,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "National Society of Film Critics Awards, USA::picture::N",
+              "coefficient": 0.6379,
+              "display": "NSFC Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::original_screenplay::N",
+              "coefficient": 0.5405,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "National Society of Film Critics Awards, USA::screenplay::W",
+              "coefficient": -0.1828,
+              "display": "NSFC Win"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": -0.4469,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::picture::N",
+              "coefficient": -2.4513,
+              "display": "OFCS Nom"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 6.3237,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 5.0126,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "Writers Guild of America, USA::original_screenplay::W",
+              "coefficient": 4.5579,
+              "display": "WGA Win"
+            },
+            {
+              "feature": "PGA Awards::picture::W",
+              "coefficient": 4.2854,
+              "display": "PGA Win"
+            },
+            {
+              "feature": "Boston Society of Film Critics Awards::actor::W",
+              "coefficient": 3.7828,
+              "display": "Boston Society of Film Critics Awards Win"
+            }
+          ],
+          "category_auc": 0.896,
+          "model_selected": "enet_a0.01_l0.5"
+        }
+      },
+      {
+        "name": "Marty Supreme",
+        "probability": 0.213,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "BAFTA Awards::picture::N",
+              "coefficient": 3.2339,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "American Cinema Editors, USA::editing::N",
+              "coefficient": 3.1559,
+              "display": "ACE Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::actor::W",
+              "coefficient": 2.0538,
+              "display": "Critics Choice Win"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::director::N",
+              "coefficient": 1.4858,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "BAFTA Awards::actor::N",
+              "coefficient": 1.4104,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::score::N",
+              "coefficient": 1.0408,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 0.9601,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::actor::N",
+              "coefficient": 0.7024,
+              "display": "SAG Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::original_screenplay::N",
+              "coefficient": 0.5405,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "Directors Guild of America, USA::director::N",
+              "coefficient": 0.4372,
+              "display": "DGA Nom"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 6.3237,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 5.0126,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "Writers Guild of America, USA::original_screenplay::W",
+              "coefficient": 4.5579,
+              "display": "WGA Win"
+            },
+            {
+              "feature": "PGA Awards::picture::W",
+              "coefficient": 4.2854,
+              "display": "PGA Win"
+            },
+            {
+              "feature": "Boston Society of Film Critics Awards::actor::W",
+              "coefficient": 3.7828,
+              "display": "Boston Society of Film Critics Awards Win"
+            }
+          ],
+          "category_auc": 0.896,
+          "model_selected": "enet_a0.01_l0.5"
+        }
+      },
+      {
+        "name": "Sentimental Value",
+        "probability": 0.2317,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 5.0126,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::picture::W",
+              "coefficient": 3.3718,
+              "display": "OFCS Win"
+            },
+            {
+              "feature": "BAFTA Awards::picture::N",
+              "coefficient": 3.2339,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "American Cinema Editors, USA::editing::N",
+              "coefficient": 3.1559,
+              "display": "ACE Nom"
+            },
+            {
+              "feature": "Golden Globes, USA::director::N",
+              "coefficient": 2.1385,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::director::N",
+              "coefficient": 1.4858,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Golden Globes, USA::supp_actor::W",
+              "coefficient": 1.3602,
+              "display": "Golden Globe Win"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 0.9601,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::supp_actor::N",
+              "coefficient": 0.7751,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "National Society of Film Critics Awards, USA::picture::N",
+              "coefficient": 0.6379,
+              "display": "NSFC Nom"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 6.3237,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 5.0126,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "Writers Guild of America, USA::original_screenplay::W",
+              "coefficient": 4.5579,
+              "display": "WGA Win"
+            },
+            {
+              "feature": "PGA Awards::picture::W",
+              "coefficient": 4.2854,
+              "display": "PGA Win"
+            },
+            {
+              "feature": "Boston Society of Film Critics Awards::actor::W",
+              "coefficient": 3.7828,
+              "display": "Boston Society of Film Critics Awards Win"
+            }
+          ],
+          "category_auc": 0.896,
+          "model_selected": "enet_a0.01_l0.5"
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.2341,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 6.3237,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 5.0126,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "Writers Guild of America, USA::original_screenplay::W",
+              "coefficient": 4.5579,
+              "display": "WGA Win"
+            },
+            {
+              "feature": "BAFTA Awards::picture::N",
+              "coefficient": 3.2339,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "Golden Globes, USA::director::N",
+              "coefficient": 2.1385,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::director::N",
+              "coefficient": 1.4858,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "BAFTA Awards::actor::N",
+              "coefficient": 1.4104,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::cast::W",
+              "coefficient": 1.2528,
+              "display": "SAG Win"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 0.9601,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "BAFTA Awards::original_screenplay::W",
+              "coefficient": 0.8264,
+              "display": "BAFTA Win"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 6.3237,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 5.0126,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "Writers Guild of America, USA::original_screenplay::W",
+              "coefficient": 4.5579,
+              "display": "WGA Win"
+            },
+            {
+              "feature": "PGA Awards::picture::W",
+              "coefficient": 4.2854,
+              "display": "PGA Win"
+            },
+            {
+              "feature": "Boston Society of Film Critics Awards::actor::W",
+              "coefficient": 3.7828,
+              "display": "Boston Society of Film Critics Awards Win"
+            }
+          ],
+          "category_auc": 0.896,
+          "model_selected": "enet_a0.01_l0.5"
+        }
+      }
+    ],
+    "Best Adapted Screenplay": [
+      {
+        "name": "Bugonia",
+        "probability": 0.0,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 34.1182,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::actor::N",
+              "coefficient": 8.1903,
+              "display": "SAG Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::adapted_screenplay::N",
+              "coefficient": 6.9135,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "BAFTA Awards::actor::N",
+              "coefficient": 6.6079,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "Costume Designers Guild Awards::costume::N",
+              "coefficient": 3.0733,
+              "display": "CDG Nom"
+            },
+            {
+              "feature": "Art Directors Guild::production_design::N",
+              "coefficient": -0.5949,
+              "display": "ADG Nom"
+            },
+            {
+              "feature": "BAFTA Awards::adapted_screenplay::N",
+              "coefficient": -0.9119,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::actress::N",
+              "coefficient": -1.3662,
+              "display": "SAG Nom"
+            },
+            {
+              "feature": "BAFTA Awards::director::N",
+              "coefficient": -3.1295,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": -3.615,
+              "display": "__n_noms_cross__"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 34.1182,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Writers Guild of America, USA::adapted_screenplay::W",
+              "coefficient": 15.2589,
+              "display": "WGA Win"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::cast::N",
+              "coefficient": 12.6599,
+              "display": "SAG Nom"
+            },
+            {
+              "feature": "Directors Guild of America, USA::director::N",
+              "coefficient": 11.1611,
+              "display": "DGA Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::actor::N",
+              "coefficient": 8.5617,
+              "display": "OFCS Nom"
+            }
+          ],
+          "category_auc": 0.8107,
+          "model_selected": "enet_a0.01_l0.9"
+        }
+      },
+      {
+        "name": "Frankenstein",
+        "probability": 0.0,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "Screen Actors Guild Awards::cast::N",
+              "coefficient": 12.6599,
+              "display": "SAG Nom"
+            },
+            {
+              "feature": "Directors Guild of America, USA::director::N",
+              "coefficient": 11.1611,
+              "display": "DGA Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::adapted_screenplay::N",
+              "coefficient": 6.9135,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::supp_actor::N",
+              "coefficient": 5.3507,
+              "display": "SAG Nom"
+            },
+            {
+              "feature": "Costume Designers Guild Awards::costume::W",
+              "coefficient": 4.4979,
+              "display": "CDG Win"
+            },
+            {
+              "feature": "Golden Globes, USA::supp_actor::N",
+              "coefficient": 4.4378,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 4.2819,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::director::N",
+              "coefficient": 3.9221,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "London Critics Circle Film Awards::supp_actor::N",
+              "coefficient": 2.4434,
+              "display": "London Critics Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 1.8921,
+              "display": "OFCS Nom"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 34.1182,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Writers Guild of America, USA::adapted_screenplay::W",
+              "coefficient": 15.2589,
+              "display": "WGA Win"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::cast::N",
+              "coefficient": 12.6599,
+              "display": "SAG Nom"
+            },
+            {
+              "feature": "Directors Guild of America, USA::director::N",
+              "coefficient": 11.1611,
+              "display": "DGA Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::actor::N",
+              "coefficient": 8.5617,
+              "display": "OFCS Nom"
+            }
+          ],
+          "category_auc": 0.8107,
+          "model_selected": "enet_a0.01_l0.9"
+        }
+      },
+      {
+        "name": "Hamnet",
+        "probability": 0.0,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "Screen Actors Guild Awards::cast::N",
+              "coefficient": 12.6599,
+              "display": "SAG Nom"
+            },
+            {
+              "feature": "Directors Guild of America, USA::director::N",
+              "coefficient": 11.1611,
+              "display": "DGA Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::adapted_screenplay::N",
+              "coefficient": 6.9135,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "BAFTA Awards::picture::N",
+              "coefficient": 5.979,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::picture::N",
+              "coefficient": 5.6382,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::supp_actor::N",
+              "coefficient": 5.3507,
+              "display": "SAG Nom"
+            },
+            {
+              "feature": "Golden Globes, USA::supp_actor::N",
+              "coefficient": 4.4378,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 4.2819,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::director::N",
+              "coefficient": 3.9221,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::supp_actor::N",
+              "coefficient": 3.8356,
+              "display": "Critics Choice Nom"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 34.1182,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Writers Guild of America, USA::adapted_screenplay::W",
+              "coefficient": 15.2589,
+              "display": "WGA Win"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::cast::N",
+              "coefficient": 12.6599,
+              "display": "SAG Nom"
+            },
+            {
+              "feature": "Directors Guild of America, USA::director::N",
+              "coefficient": 11.1611,
+              "display": "DGA Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::actor::N",
+              "coefficient": 8.5617,
+              "display": "OFCS Nom"
+            }
+          ],
+          "category_auc": 0.8107,
+          "model_selected": "enet_a0.01_l0.9"
+        }
+      },
+      {
+        "name": "One Battle After Another",
+        "probability": 1.0,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 34.1182,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Writers Guild of America, USA::adapted_screenplay::W",
+              "coefficient": 15.2589,
+              "display": "WGA Win"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::cast::N",
+              "coefficient": 12.6599,
+              "display": "SAG Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::actor::N",
+              "coefficient": 8.5617,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::picture::W",
+              "coefficient": 8.3261,
+              "display": "Critics Choice Win"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::actor::N",
+              "coefficient": 8.1903,
+              "display": "SAG Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::director::W",
+              "coefficient": 7.4273,
+              "display": "Critics Choice Win"
+            },
+            {
+              "feature": "BAFTA Awards::adapted_screenplay::W",
+              "coefficient": 7.2882,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "American Cinema Editors, USA::editing::W",
+              "coefficient": 6.9015,
+              "display": "ACE Win"
+            },
+            {
+              "feature": "BAFTA Awards::actor::N",
+              "coefficient": 6.6079,
+              "display": "BAFTA Nom"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 34.1182,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Writers Guild of America, USA::adapted_screenplay::W",
+              "coefficient": 15.2589,
+              "display": "WGA Win"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::cast::N",
+              "coefficient": 12.6599,
+              "display": "SAG Nom"
+            },
+            {
+              "feature": "Directors Guild of America, USA::director::N",
+              "coefficient": 11.1611,
+              "display": "DGA Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::actor::N",
+              "coefficient": 8.5617,
+              "display": "OFCS Nom"
+            }
+          ],
+          "category_auc": 0.8107,
+          "model_selected": "enet_a0.01_l0.9"
+        }
+      },
+      {
+        "name": "Train Dreams",
+        "probability": 0.0,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 34.1182,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::adapted_screenplay::N",
+              "coefficient": 6.9135,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::picture::N",
+              "coefficient": 5.6382,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::song::N",
+              "coefficient": 5.0435,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 4.2819,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::actor::N",
+              "coefficient": 3.5018,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Film Independent Spirit Awards::director::W",
+              "coefficient": 1.7543,
+              "display": "Spirit Win"
+            },
+            {
+              "feature": "Satellite Awards::director::N",
+              "coefficient": 0.2953,
+              "display": "Satellite Nom"
+            },
+            {
+              "feature": "National Society of Film Critics Awards, USA::cinematography::N",
+              "coefficient": -0.5279,
+              "display": "NSFC Nom"
+            },
+            {
+              "feature": "ev0000133::adapted_screenplay::N",
+              "coefficient": -1.5083,
+              "display": "ev0000133 Nom"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 34.1182,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Writers Guild of America, USA::adapted_screenplay::W",
+              "coefficient": 15.2589,
+              "display": "WGA Win"
+            },
+            {
+              "feature": "Screen Actors Guild Awards::cast::N",
+              "coefficient": 12.6599,
+              "display": "SAG Nom"
+            },
+            {
+              "feature": "Directors Guild of America, USA::director::N",
+              "coefficient": 11.1611,
+              "display": "DGA Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::actor::N",
+              "coefficient": 8.5617,
+              "display": "OFCS Nom"
+            }
+          ],
+          "category_auc": 0.8107,
+          "model_selected": "enet_a0.01_l0.9"
+        }
+      }
+    ],
+    "Best Achievement in Cinematography": [
+      {
+        "name": "Frankenstein",
+        "probability": 0.0579,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "Motion Picture Sound Editors, USA::sound::W",
+              "coefficient": 0.2302,
+              "display": "Motion Picture Sound Editors, USA Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.1315,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::cinematography::W",
+              "coefficient": 0.0748,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0694,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "Cinema Audio Society, USA::sound::W",
+              "coefficient": 0.0663,
+              "display": "CAS Win"
+            }
+          ],
+          "category_auc": 0.9142,
+          "model_selected": "gbt_d2_n50"
+        }
+      },
+      {
+        "name": "Marty Supreme",
+        "probability": 0.072,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "Motion Picture Sound Editors, USA::sound::W",
+              "coefficient": 0.2302,
+              "display": "Motion Picture Sound Editors, USA Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.1315,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::cinematography::W",
+              "coefficient": 0.0748,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0694,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "Cinema Audio Society, USA::sound::W",
+              "coefficient": 0.0663,
+              "display": "CAS Win"
+            }
+          ],
+          "category_auc": 0.9142,
+          "model_selected": "gbt_d2_n50"
+        }
+      },
+      {
+        "name": "One Battle After Another",
+        "probability": 0.5859,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "Motion Picture Sound Editors, USA::sound::W",
+              "coefficient": 0.2302,
+              "display": "Motion Picture Sound Editors, USA Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.1315,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::cinematography::W",
+              "coefficient": 0.0748,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0694,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "Cinema Audio Society, USA::sound::W",
+              "coefficient": 0.0663,
+              "display": "CAS Win"
+            }
+          ],
+          "category_auc": 0.9142,
+          "model_selected": "gbt_d2_n50"
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.165,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "Motion Picture Sound Editors, USA::sound::W",
+              "coefficient": 0.2302,
+              "display": "Motion Picture Sound Editors, USA Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.1315,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::cinematography::W",
+              "coefficient": 0.0748,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0694,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "Cinema Audio Society, USA::sound::W",
+              "coefficient": 0.0663,
+              "display": "CAS Win"
+            }
+          ],
+          "category_auc": 0.9142,
+          "model_selected": "gbt_d2_n50"
+        }
+      },
+      {
+        "name": "Train Dreams",
+        "probability": 0.1192,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "Motion Picture Sound Editors, USA::sound::W",
+              "coefficient": 0.2302,
+              "display": "Motion Picture Sound Editors, USA Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.1315,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::cinematography::W",
+              "coefficient": 0.0748,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0694,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "Cinema Audio Society, USA::sound::W",
+              "coefficient": 0.0663,
+              "display": "CAS Win"
+            }
+          ],
+          "category_auc": 0.9142,
+          "model_selected": "gbt_d2_n50"
+        }
+      }
+    ],
+    "Best Achievement in Film Editing": [
+      {
+        "name": "F1: The Movie",
+        "probability": 0.7828,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "Cinema Audio Society, USA::sound::W",
+              "coefficient": 2.4106,
+              "display": "CAS Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 1.6885,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::sound::W",
+              "coefficient": 1.0329,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": -0.1064,
+              "display": "__n_noms_cross__"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "Cinema Audio Society, USA::sound::W",
+              "coefficient": 2.4106,
+              "display": "CAS Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 1.6885,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::sound::W",
+              "coefficient": 1.0329,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "Satellite Awards::production_design::N",
+              "coefficient": 0.3128,
+              "display": "Satellite Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 0.0382,
+              "display": "OFCS Nom"
+            }
+          ],
+          "category_auc": 0.7764,
+          "model_selected": "enet_a0.05_l0.9"
+        }
+      },
+      {
+        "name": "Marty Supreme",
+        "probability": 0.0146,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 1.6885,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": -0.1064,
+              "display": "__n_noms_cross__"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "Cinema Audio Society, USA::sound::W",
+              "coefficient": 2.4106,
+              "display": "CAS Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 1.6885,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::sound::W",
+              "coefficient": 1.0329,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "Satellite Awards::production_design::N",
+              "coefficient": 0.3128,
+              "display": "Satellite Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 0.0382,
+              "display": "OFCS Nom"
+            }
+          ],
+          "category_auc": 0.7764,
+          "model_selected": "enet_a0.05_l0.9"
+        }
+      },
+      {
+        "name": "One Battle After Another",
+        "probability": 0.199,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 1.6885,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 0.0382,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": -0.1064,
+              "display": "__n_noms_cross__"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "Cinema Audio Society, USA::sound::W",
+              "coefficient": 2.4106,
+              "display": "CAS Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 1.6885,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::sound::W",
+              "coefficient": 1.0329,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "Satellite Awards::production_design::N",
+              "coefficient": 0.3128,
+              "display": "Satellite Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 0.0382,
+              "display": "OFCS Nom"
+            }
+          ],
+          "category_auc": 0.7764,
+          "model_selected": "enet_a0.05_l0.9"
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.0023,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 1.6885,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 0.0382,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": -0.1064,
+              "display": "__n_noms_cross__"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "Cinema Audio Society, USA::sound::W",
+              "coefficient": 2.4106,
+              "display": "CAS Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 1.6885,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::sound::W",
+              "coefficient": 1.0329,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "Satellite Awards::production_design::N",
+              "coefficient": 0.3128,
+              "display": "Satellite Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 0.0382,
+              "display": "OFCS Nom"
+            }
+          ],
+          "category_auc": 0.7764,
+          "model_selected": "enet_a0.05_l0.9"
+        }
+      },
+      {
+        "name": "Sentimental Value",
+        "probability": 0.0014,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 0.0382,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": -0.1064,
+              "display": "__n_noms_cross__"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "Cinema Audio Society, USA::sound::W",
+              "coefficient": 2.4106,
+              "display": "CAS Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 1.6885,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::sound::W",
+              "coefficient": 1.0329,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "Satellite Awards::production_design::N",
+              "coefficient": 0.3128,
+              "display": "Satellite Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::supp_actor::N",
+              "coefficient": 0.0382,
+              "display": "OFCS Nom"
+            }
+          ],
+          "category_auc": 0.7764,
+          "model_selected": "enet_a0.05_l0.9"
+        }
+      }
+    ],
+    "Best Achievement in Production Design": [
+      {
+        "name": "Frankenstein",
+        "probability": 0.3043,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.3529,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.2302,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Costume Designers Guild Awards::costume::W",
+              "coefficient": 0.0684,
+              "display": "CDG Win"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::score::N",
+              "coefficient": 0.0462,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::production_design::N",
+              "coefficient": 0.0435,
+              "display": "Critics Choice Nom"
+            }
+          ],
+          "category_auc": 0.78,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "Hamnet",
+        "probability": 0.1188,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.3529,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.2302,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Costume Designers Guild Awards::costume::W",
+              "coefficient": 0.0684,
+              "display": "CDG Win"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::score::N",
+              "coefficient": 0.0462,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::production_design::N",
+              "coefficient": 0.0435,
+              "display": "Critics Choice Nom"
+            }
+          ],
+          "category_auc": 0.78,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "Marty Supreme",
+        "probability": 0.0414,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.3529,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.2302,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Costume Designers Guild Awards::costume::W",
+              "coefficient": 0.0684,
+              "display": "CDG Win"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::score::N",
+              "coefficient": 0.0462,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::production_design::N",
+              "coefficient": 0.0435,
+              "display": "Critics Choice Nom"
+            }
+          ],
+          "category_auc": 0.78,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.2853,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.3529,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.2302,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Costume Designers Guild Awards::costume::W",
+              "coefficient": 0.0684,
+              "display": "CDG Win"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::score::N",
+              "coefficient": 0.0462,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::production_design::N",
+              "coefficient": 0.0435,
+              "display": "Critics Choice Nom"
+            }
+          ],
+          "category_auc": 0.78,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "One Battle After Another",
+        "probability": 0.2502,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.3529,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.2302,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Costume Designers Guild Awards::costume::W",
+              "coefficient": 0.0684,
+              "display": "CDG Win"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::score::N",
+              "coefficient": 0.0462,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::production_design::N",
+              "coefficient": 0.0435,
+              "display": "Critics Choice Nom"
+            }
+          ],
+          "category_auc": 0.78,
+          "model_selected": "gbt_d1_n100"
+        }
+      }
+    ],
+    "Best Achievement in Costume Design": [
+      {
+        "name": "Frankenstein",
+        "probability": 0.426,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.5056,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "PGA Awards::picture::W",
+              "coefficient": 0.0874,
+              "display": "PGA Win"
+            },
+            {
+              "feature": "Golden Globes, USA::picture::N",
+              "coefficient": 0.0609,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "American Cinema Editors, USA::editing::N",
+              "coefficient": 0.0487,
+              "display": "ACE Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::costume::W",
+              "coefficient": 0.0349,
+              "display": "Critics Choice Win"
+            }
+          ],
+          "category_auc": 0.858,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "Hamnet",
+        "probability": 0.0596,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.5056,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "PGA Awards::picture::W",
+              "coefficient": 0.0874,
+              "display": "PGA Win"
+            },
+            {
+              "feature": "Golden Globes, USA::picture::N",
+              "coefficient": 0.0609,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "American Cinema Editors, USA::editing::N",
+              "coefficient": 0.0487,
+              "display": "ACE Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::costume::W",
+              "coefficient": 0.0349,
+              "display": "Critics Choice Win"
+            }
+          ],
+          "category_auc": 0.858,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.306,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.5056,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "PGA Awards::picture::W",
+              "coefficient": 0.0874,
+              "display": "PGA Win"
+            },
+            {
+              "feature": "Golden Globes, USA::picture::N",
+              "coefficient": 0.0609,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "American Cinema Editors, USA::editing::N",
+              "coefficient": 0.0487,
+              "display": "ACE Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::costume::W",
+              "coefficient": 0.0349,
+              "display": "Critics Choice Win"
+            }
+          ],
+          "category_auc": 0.858,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "Marty Supreme",
+        "probability": 0.0584,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.5056,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "PGA Awards::picture::W",
+              "coefficient": 0.0874,
+              "display": "PGA Win"
+            },
+            {
+              "feature": "Golden Globes, USA::picture::N",
+              "coefficient": 0.0609,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "American Cinema Editors, USA::editing::N",
+              "coefficient": 0.0487,
+              "display": "ACE Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::costume::W",
+              "coefficient": 0.0349,
+              "display": "Critics Choice Win"
+            }
+          ],
+          "category_auc": 0.858,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "Avatar: Fire and Ash",
+        "probability": 0.15,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.5056,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "PGA Awards::picture::W",
+              "coefficient": 0.0874,
+              "display": "PGA Win"
+            },
+            {
+              "feature": "Golden Globes, USA::picture::N",
+              "coefficient": 0.0609,
+              "display": "Golden Globe Nom"
+            },
+            {
+              "feature": "American Cinema Editors, USA::editing::N",
+              "coefficient": 0.0487,
+              "display": "ACE Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::costume::W",
+              "coefficient": 0.0349,
+              "display": "Critics Choice Win"
+            }
+          ],
+          "category_auc": 0.858,
+          "model_selected": "gbt_d1_n100"
+        }
+      }
+    ],
+    "Best Sound": [
+      {
+        "name": "F1: The Movie",
+        "probability": 0.354,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3452,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::sound::W",
+              "coefficient": 0.2258,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "Academy of Science Fiction, Fantasy & Horror Films, USA::actress::W",
+              "coefficient": 0.0782,
+              "display": "Academy of Science Fiction, Fantasy & Horror Films, USA Win"
+            },
+            {
+              "feature": "National Society of Film Critics Awards, USA::cinematography::N",
+              "coefficient": 0.0711,
+              "display": "NSFC Nom"
+            },
+            {
+              "feature": "Motion Picture Sound Editors, USA::sound::N",
+              "coefficient": 0.0463,
+              "display": "Motion Picture Sound Editors, USA Nom"
+            }
+          ],
+          "category_auc": 0.7945,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "Frankenstein",
+        "probability": 0.1364,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3452,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::sound::W",
+              "coefficient": 0.2258,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "Academy of Science Fiction, Fantasy & Horror Films, USA::actress::W",
+              "coefficient": 0.0782,
+              "display": "Academy of Science Fiction, Fantasy & Horror Films, USA Win"
+            },
+            {
+              "feature": "National Society of Film Critics Awards, USA::cinematography::N",
+              "coefficient": 0.0711,
+              "display": "NSFC Nom"
+            },
+            {
+              "feature": "Motion Picture Sound Editors, USA::sound::N",
+              "coefficient": 0.0463,
+              "display": "Motion Picture Sound Editors, USA Nom"
+            }
+          ],
+          "category_auc": 0.7945,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "One Battle After Another",
+        "probability": 0.1713,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3452,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::sound::W",
+              "coefficient": 0.2258,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "Academy of Science Fiction, Fantasy & Horror Films, USA::actress::W",
+              "coefficient": 0.0782,
+              "display": "Academy of Science Fiction, Fantasy & Horror Films, USA Win"
+            },
+            {
+              "feature": "National Society of Film Critics Awards, USA::cinematography::N",
+              "coefficient": 0.0711,
+              "display": "NSFC Nom"
+            },
+            {
+              "feature": "Motion Picture Sound Editors, USA::sound::N",
+              "coefficient": 0.0463,
+              "display": "Motion Picture Sound Editors, USA Nom"
+            }
+          ],
+          "category_auc": 0.7945,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.2221,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3452,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::sound::W",
+              "coefficient": 0.2258,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "Academy of Science Fiction, Fantasy & Horror Films, USA::actress::W",
+              "coefficient": 0.0782,
+              "display": "Academy of Science Fiction, Fantasy & Horror Films, USA Win"
+            },
+            {
+              "feature": "National Society of Film Critics Awards, USA::cinematography::N",
+              "coefficient": 0.0711,
+              "display": "NSFC Nom"
+            },
+            {
+              "feature": "Motion Picture Sound Editors, USA::sound::N",
+              "coefficient": 0.0463,
+              "display": "Motion Picture Sound Editors, USA Nom"
+            }
+          ],
+          "category_auc": 0.7945,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "Sirat",
+        "probability": 0.1161,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3452,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::sound::W",
+              "coefficient": 0.2258,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "Academy of Science Fiction, Fantasy & Horror Films, USA::actress::W",
+              "coefficient": 0.0782,
+              "display": "Academy of Science Fiction, Fantasy & Horror Films, USA Win"
+            },
+            {
+              "feature": "National Society of Film Critics Awards, USA::cinematography::N",
+              "coefficient": 0.0711,
+              "display": "NSFC Nom"
+            },
+            {
+              "feature": "Motion Picture Sound Editors, USA::sound::N",
+              "coefficient": 0.0463,
+              "display": "Motion Picture Sound Editors, USA Nom"
+            }
+          ],
+          "category_auc": 0.7945,
+          "model_selected": "gbt_d1_n100"
+        }
+      }
+    ],
+    "Best Achievement in Makeup and Hairstyling": [
+      {
+        "name": "Frankenstein",
+        "probability": 0.4405,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.5221,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0906,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "BAFTA Awards::makeup::W",
+              "coefficient": 0.0507,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "BAFTA Awards::actor::N",
+              "coefficient": 0.0326,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "PGA Awards::picture::N",
+              "coefficient": 0.0319,
+              "display": "PGA Nom"
+            }
+          ],
+          "category_auc": 0.8011,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "Kokuho",
+        "probability": 0.1244,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.5221,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0906,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "BAFTA Awards::makeup::W",
+              "coefficient": 0.0507,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "BAFTA Awards::actor::N",
+              "coefficient": 0.0326,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "PGA Awards::picture::N",
+              "coefficient": 0.0319,
+              "display": "PGA Nom"
+            }
+          ],
+          "category_auc": 0.8011,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.1353,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.5221,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0906,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "BAFTA Awards::makeup::W",
+              "coefficient": 0.0507,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "BAFTA Awards::actor::N",
+              "coefficient": 0.0326,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "PGA Awards::picture::N",
+              "coefficient": 0.0319,
+              "display": "PGA Nom"
+            }
+          ],
+          "category_auc": 0.8011,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "The Smashing Machine",
+        "probability": 0.1924,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.5221,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0906,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "BAFTA Awards::makeup::W",
+              "coefficient": 0.0507,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "BAFTA Awards::actor::N",
+              "coefficient": 0.0326,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "PGA Awards::picture::N",
+              "coefficient": 0.0319,
+              "display": "PGA Nom"
+            }
+          ],
+          "category_auc": 0.8011,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "The Ugly Stepsister",
+        "probability": 0.1074,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.5221,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0906,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "BAFTA Awards::makeup::W",
+              "coefficient": 0.0507,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "BAFTA Awards::actor::N",
+              "coefficient": 0.0326,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "PGA Awards::picture::N",
+              "coefficient": 0.0319,
+              "display": "PGA Nom"
+            }
+          ],
+          "category_auc": 0.8011,
+          "model_selected": "gbt_d1_n100"
+        }
+      }
+    ],
+    "Best Achievement in Music Written for Motion Pictures (Original Score)": [
+      {
+        "name": "Bugonia",
+        "probability": 0.1988,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 0.6558,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "Costume Designers Guild Awards::costume::N",
+              "coefficient": -0.6435,
+              "display": "CDG Nom"
+            },
+            {
+              "feature": "__n_noms_in_cat__",
+              "coefficient": -2.937,
+              "display": "__n_noms_in_cat__"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 5.6396,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Satellite Awards::costume::N",
+              "coefficient": 0.7497,
+              "display": "Satellite Nom"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 0.6558,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "BAFTA Awards::editing::N",
+              "coefficient": 0.615,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "BAFTA Awards::sound::N",
+              "coefficient": 0.5763,
+              "display": "BAFTA Nom"
+            }
+          ],
+          "category_auc": 0.8293,
+          "model_selected": "enet_a0.05_l0.9"
+        }
+      },
+      {
+        "name": "Frankenstein",
+        "probability": 0.2003,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 0.6558,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "BAFTA Awards::sound::N",
+              "coefficient": 0.5763,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::score::N",
+              "coefficient": 0.175,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "American Society of Cinematographers, USA::cinematography::N",
+              "coefficient": 0.1254,
+              "display": "ASC Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::score::N",
+              "coefficient": -0.1578,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "__n_noms_in_cat__",
+              "coefficient": -2.937,
+              "display": "__n_noms_in_cat__"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 5.6396,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Satellite Awards::costume::N",
+              "coefficient": 0.7497,
+              "display": "Satellite Nom"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 0.6558,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "BAFTA Awards::editing::N",
+              "coefficient": 0.615,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "BAFTA Awards::sound::N",
+              "coefficient": 0.5763,
+              "display": "BAFTA Nom"
+            }
+          ],
+          "category_auc": 0.8293,
+          "model_selected": "enet_a0.05_l0.9"
+        }
+      },
+      {
+        "name": "Hamnet",
+        "probability": 0.2003,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 0.6558,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::score::N",
+              "coefficient": -0.1578,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "Costume Designers Guild Awards::costume::N",
+              "coefficient": -0.6435,
+              "display": "CDG Nom"
+            },
+            {
+              "feature": "__n_noms_in_cat__",
+              "coefficient": -2.937,
+              "display": "__n_noms_in_cat__"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 5.6396,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Satellite Awards::costume::N",
+              "coefficient": 0.7497,
+              "display": "Satellite Nom"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 0.6558,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "BAFTA Awards::editing::N",
+              "coefficient": 0.615,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "BAFTA Awards::sound::N",
+              "coefficient": 0.5763,
+              "display": "BAFTA Nom"
+            }
+          ],
+          "category_auc": 0.8293,
+          "model_selected": "enet_a0.05_l0.9"
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.2003,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 5.6396,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 0.6558,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "BAFTA Awards::editing::N",
+              "coefficient": 0.615,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "BAFTA Awards::sound::N",
+              "coefficient": 0.5763,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "American Society of Cinematographers, USA::cinematography::N",
+              "coefficient": 0.1254,
+              "display": "ASC Nom"
+            },
+            {
+              "feature": "Golden Globes, USA::score::W",
+              "coefficient": 0.0551,
+              "display": "Golden Globe Win"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::score::W",
+              "coefficient": 0.0544,
+              "display": "Critics Choice Win"
+            },
+            {
+              "feature": "Costume Designers Guild Awards::costume::N",
+              "coefficient": -0.6435,
+              "display": "CDG Nom"
+            },
+            {
+              "feature": "__n_noms_in_cat__",
+              "coefficient": -2.937,
+              "display": "__n_noms_in_cat__"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 5.6396,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Satellite Awards::costume::N",
+              "coefficient": 0.7497,
+              "display": "Satellite Nom"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 0.6558,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "BAFTA Awards::editing::N",
+              "coefficient": 0.615,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "BAFTA Awards::sound::N",
+              "coefficient": 0.5763,
+              "display": "BAFTA Nom"
+            }
+          ],
+          "category_auc": 0.8293,
+          "model_selected": "enet_a0.05_l0.9"
+        }
+      },
+      {
+        "name": "One Battle After Another",
+        "probability": 0.2003,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 5.6396,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 0.6558,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "BAFTA Awards::sound::N",
+              "coefficient": 0.5763,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "Online Film Critics Society Awards::score::N",
+              "coefficient": 0.175,
+              "display": "OFCS Nom"
+            },
+            {
+              "feature": "Broadcast Film Critics Association Awards::score::N",
+              "coefficient": -0.1578,
+              "display": "Critics Choice Nom"
+            },
+            {
+              "feature": "__n_noms_in_cat__",
+              "coefficient": -2.937,
+              "display": "__n_noms_in_cat__"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 5.6396,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Satellite Awards::costume::N",
+              "coefficient": 0.7497,
+              "display": "Satellite Nom"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 0.6558,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "BAFTA Awards::editing::N",
+              "coefficient": 0.615,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "BAFTA Awards::sound::N",
+              "coefficient": 0.5763,
+              "display": "BAFTA Nom"
+            }
+          ],
+          "category_auc": 0.8293,
+          "model_selected": "enet_a0.05_l0.9"
+        }
+      }
+    ],
+    "Best Achievement in Music Written for Motion Pictures (Original Song)": [
+      {
+        "name": "Diane Warren: Relentless",
+        "probability": 0.0652,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.2513,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::picture::W",
+              "coefficient": 0.129,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 0.0965,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "Golden Globes, USA::song::W",
+              "coefficient": 0.0927,
+              "display": "Golden Globe Win"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0907,
+              "display": "__n_wins_cross__"
+            }
+          ],
+          "category_auc": 0.8551,
+          "model_selected": "gbt_d2_n50"
+        }
+      },
+      {
+        "name": "KPop Demon Hunters",
+        "probability": 0.7142,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.2513,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::picture::W",
+              "coefficient": 0.129,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 0.0965,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "Golden Globes, USA::song::W",
+              "coefficient": 0.0927,
+              "display": "Golden Globe Win"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0907,
+              "display": "__n_wins_cross__"
+            }
+          ],
+          "category_auc": 0.8551,
+          "model_selected": "gbt_d2_n50"
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.0652,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.2513,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::picture::W",
+              "coefficient": 0.129,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 0.0965,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "Golden Globes, USA::song::W",
+              "coefficient": 0.0927,
+              "display": "Golden Globe Win"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0907,
+              "display": "__n_wins_cross__"
+            }
+          ],
+          "category_auc": 0.8551,
+          "model_selected": "gbt_d2_n50"
+        }
+      },
+      {
+        "name": "Viva Verdi!",
+        "probability": 0.0652,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.2513,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::picture::W",
+              "coefficient": 0.129,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 0.0965,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "Golden Globes, USA::song::W",
+              "coefficient": 0.0927,
+              "display": "Golden Globe Win"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0907,
+              "display": "__n_wins_cross__"
+            }
+          ],
+          "category_auc": 0.8551,
+          "model_selected": "gbt_d2_n50"
+        }
+      },
+      {
+        "name": "Train Dreams",
+        "probability": 0.0903,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.2513,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::picture::W",
+              "coefficient": 0.129,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 0.0965,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "Golden Globes, USA::song::W",
+              "coefficient": 0.0927,
+              "display": "Golden Globe Win"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0907,
+              "display": "__n_wins_cross__"
+            }
+          ],
+          "category_auc": 0.8551,
+          "model_selected": "gbt_d2_n50"
+        }
+      }
+    ],
+    "Best Achievement in Visual Effects": [
+      {
+        "name": "Avatar: Fire and Ash",
+        "probability": 0.3634,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "BAFTA Awards::visual_effects::W",
+              "coefficient": 0.3385,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 0.3316,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.1472,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0442,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "ev0000452::sound::N",
+              "coefficient": 0.0315,
+              "display": "ev0000452 Nom"
+            }
+          ],
+          "category_auc": 0.9017,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "F1: The Movie",
+        "probability": 0.1113,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "BAFTA Awards::visual_effects::W",
+              "coefficient": 0.3385,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 0.3316,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.1472,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0442,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "ev0000452::sound::N",
+              "coefficient": 0.0315,
+              "display": "ev0000452 Nom"
+            }
+          ],
+          "category_auc": 0.9017,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "Jurassic World: Rebirth",
+        "probability": 0.0917,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "BAFTA Awards::visual_effects::W",
+              "coefficient": 0.3385,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 0.3316,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.1472,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0442,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "ev0000452::sound::N",
+              "coefficient": 0.0315,
+              "display": "ev0000452 Nom"
+            }
+          ],
+          "category_auc": 0.9017,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "The Lost Bus",
+        "probability": 0.0322,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "BAFTA Awards::visual_effects::W",
+              "coefficient": 0.3385,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 0.3316,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.1472,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0442,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "ev0000452::sound::N",
+              "coefficient": 0.0315,
+              "display": "ev0000452 Nom"
+            }
+          ],
+          "category_auc": 0.9017,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "Sinners",
+        "probability": 0.4013,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "BAFTA Awards::visual_effects::W",
+              "coefficient": 0.3385,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 0.3316,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.1472,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0442,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "ev0000452::sound::N",
+              "coefficient": 0.0315,
+              "display": "ev0000452 Nom"
+            }
+          ],
+          "category_auc": 0.9017,
+          "model_selected": "gbt_d1_n100"
+        }
+      }
+    ],
+    "Best Documentary Feature": [
+      {
+        "name": "The Alabama Solution",
+        "probability": 0.0949,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.8871,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "__n_noms_in_cat__",
+              "coefficient": -0.1954,
+              "display": "__n_noms_in_cat__"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": -0.2155,
+              "display": "__n_noms_cross__"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "American Cinema Editors, USA::editing::W",
+              "coefficient": 1.1082,
+              "display": "ACE Win"
+            },
+            {
+              "feature": "Boston Society of Film Critics Awards::documentary::N",
+              "coefficient": 1.0244,
+              "display": "Boston Society of Film Critics Awards Nom"
+            },
+            {
+              "feature": "Chicago International Film Festival::documentary::W",
+              "coefficient": 0.9286,
+              "display": "Chicago International Film Festival Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.8871,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "American Cinema Editors, USA::editing::N",
+              "coefficient": 0.8221,
+              "display": "ACE Nom"
+            }
+          ],
+          "category_auc": 0.878,
+          "model_selected": "enet_a0.01_l0.1"
+        }
+      },
+      {
+        "name": "Come See Me in the Good Light",
+        "probability": 0.0317,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.8871,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "__n_noms_in_cat__",
+              "coefficient": -0.1954,
+              "display": "__n_noms_in_cat__"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": -0.2155,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "Film Independent Spirit Awards::documentary::N",
+              "coefficient": -1.4579,
+              "display": "Spirit Nom"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "American Cinema Editors, USA::editing::W",
+              "coefficient": 1.1082,
+              "display": "ACE Win"
+            },
+            {
+              "feature": "Boston Society of Film Critics Awards::documentary::N",
+              "coefficient": 1.0244,
+              "display": "Boston Society of Film Critics Awards Nom"
+            },
+            {
+              "feature": "Chicago International Film Festival::documentary::W",
+              "coefficient": 0.9286,
+              "display": "Chicago International Film Festival Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.8871,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "American Cinema Editors, USA::editing::N",
+              "coefficient": 0.8221,
+              "display": "ACE Nom"
+            }
+          ],
+          "category_auc": 0.878,
+          "model_selected": "enet_a0.01_l0.1"
+        }
+      },
+      {
+        "name": "Cutting Through Rocks",
+        "probability": 0.1982,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.8871,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Directors Guild of America, USA::director::N",
+              "coefficient": 0.2315,
+              "display": "DGA Nom"
+            },
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": -0.2155,
+              "display": "__n_noms_cross__"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "American Cinema Editors, USA::editing::W",
+              "coefficient": 1.1082,
+              "display": "ACE Win"
+            },
+            {
+              "feature": "Boston Society of Film Critics Awards::documentary::N",
+              "coefficient": 1.0244,
+              "display": "Boston Society of Film Critics Awards Nom"
+            },
+            {
+              "feature": "Chicago International Film Festival::documentary::W",
+              "coefficient": 0.9286,
+              "display": "Chicago International Film Festival Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.8871,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "American Cinema Editors, USA::editing::N",
+              "coefficient": 0.8221,
+              "display": "ACE Nom"
+            }
+          ],
+          "category_auc": 0.878,
+          "model_selected": "enet_a0.01_l0.1"
+        }
+      },
+      {
+        "name": "Mr. Nobody Against Putin",
+        "probability": 0.1786,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.8871,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "BAFTA Awards::documentary::W",
+              "coefficient": 0.2394,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "__n_noms_in_cat__",
+              "coefficient": -0.1954,
+              "display": "__n_noms_in_cat__"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "American Cinema Editors, USA::editing::W",
+              "coefficient": 1.1082,
+              "display": "ACE Win"
+            },
+            {
+              "feature": "Boston Society of Film Critics Awards::documentary::N",
+              "coefficient": 1.0244,
+              "display": "Boston Society of Film Critics Awards Nom"
+            },
+            {
+              "feature": "Chicago International Film Festival::documentary::W",
+              "coefficient": 0.9286,
+              "display": "Chicago International Film Festival Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.8871,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "American Cinema Editors, USA::editing::N",
+              "coefficient": 0.8221,
+              "display": "ACE Nom"
+            }
+          ],
+          "category_auc": 0.878,
+          "model_selected": "enet_a0.01_l0.1"
+        }
+      },
+      {
+        "name": "The Perfect Neighbor",
+        "probability": 0.4966,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "American Cinema Editors, USA::editing::W",
+              "coefficient": 1.1082,
+              "display": "ACE Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.8871,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "ev0000493::documentary::N",
+              "coefficient": 0.2876,
+              "display": "ev0000493 Nom"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.2851,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "ev0000123::documentary::N",
+              "coefficient": 0.2626,
+              "display": "ev0000123 Nom"
+            },
+            {
+              "feature": "BAFTA Awards::documentary::N",
+              "coefficient": 0.2405,
+              "display": "BAFTA Nom"
+            },
+            {
+              "feature": "Directors Guild of America, USA::director::N",
+              "coefficient": 0.2315,
+              "display": "DGA Nom"
+            },
+            {
+              "feature": "London Critics Circle Film Awards::documentary::W",
+              "coefficient": 0.2226,
+              "display": "London Critics Win"
+            },
+            {
+              "feature": "Film Independent Spirit Awards::documentary::W",
+              "coefficient": 0.0637,
+              "display": "Spirit Win"
+            },
+            {
+              "feature": "Cinema Eye Honors Awards, US::editing::N",
+              "coefficient": 0.0571,
+              "display": "Cinema Eye Nom"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "American Cinema Editors, USA::editing::W",
+              "coefficient": 1.1082,
+              "display": "ACE Win"
+            },
+            {
+              "feature": "Boston Society of Film Critics Awards::documentary::N",
+              "coefficient": 1.0244,
+              "display": "Boston Society of Film Critics Awards Nom"
+            },
+            {
+              "feature": "Chicago International Film Festival::documentary::W",
+              "coefficient": 0.9286,
+              "display": "Chicago International Film Festival Win"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.8871,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "American Cinema Editors, USA::editing::N",
+              "coefficient": 0.8221,
+              "display": "ACE Nom"
+            }
+          ],
+          "category_auc": 0.878,
+          "model_selected": "enet_a0.01_l0.1"
+        }
+      }
+    ],
+    "Best Animated Feature Film": [
+      {
+        "name": "Arco",
+        "probability": 0.1698,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.706,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.4608,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "__n_noms_in_cat__",
+              "coefficient": -0.041,
+              "display": "__n_noms_in_cat__"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.706,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.4608,
+              "display": "__n_wins_in_cat__"
+            }
+          ],
+          "category_auc": 0.9536,
+          "model_selected": "enet_a0.1_l0.5"
+        }
+      },
+      {
+        "name": "KPop Demon Hunters",
+        "probability": 0.6196,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.706,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.4608,
+              "display": "__n_wins_in_cat__"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.706,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.4608,
+              "display": "__n_wins_in_cat__"
+            }
+          ],
+          "category_auc": 0.9536,
+          "model_selected": "enet_a0.1_l0.5"
+        }
+      },
+      {
+        "name": "Little Am\u00e9lie or the Character of Rain",
+        "probability": 0.0627,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_noms_in_cat__",
+              "coefficient": -0.041,
+              "display": "__n_noms_in_cat__"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.706,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.4608,
+              "display": "__n_wins_in_cat__"
+            }
+          ],
+          "category_auc": 0.9536,
+          "model_selected": "enet_a0.1_l0.5"
+        }
+      },
+      {
+        "name": "Zootopia 2",
+        "probability": 0.0875,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.4608,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "__n_noms_in_cat__",
+              "coefficient": -0.041,
+              "display": "__n_noms_in_cat__"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.706,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.4608,
+              "display": "__n_wins_in_cat__"
+            }
+          ],
+          "category_auc": 0.9536,
+          "model_selected": "enet_a0.1_l0.5"
+        }
+      },
+      {
+        "name": "Elio",
+        "probability": 0.0604,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_noms_in_cat__",
+              "coefficient": -0.041,
+              "display": "__n_noms_in_cat__"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.706,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.4608,
+              "display": "__n_wins_in_cat__"
+            }
+          ],
+          "category_auc": 0.9536,
+          "model_selected": "enet_a0.1_l0.5"
+        }
+      }
+    ],
+    "Best Animated Short Film": [
+      {
+        "name": "Papillon",
+        "probability": 0.2556,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 1.9973,
+              "display": "__n_noms_cross__"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 1.9973,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "Annie Awards::animated_short::W",
+              "coefficient": 1.7381,
+              "display": "Annie Win"
+            },
+            {
+              "feature": "Annie Awards::editing::N",
+              "coefficient": 0.9632,
+              "display": "Annie Nom"
+            },
+            {
+              "feature": "Annie Awards::editing::W",
+              "coefficient": 0.931,
+              "display": "Annie Win"
+            },
+            {
+              "feature": "Annie Awards::production_design::N",
+              "coefficient": 0.931,
+              "display": "Annie Nom"
+            }
+          ],
+          "category_auc": 0.554,
+          "model_selected": "enet_a0.005_l0.1"
+        }
+      },
+      {
+        "name": "Forevergreen",
+        "probability": 0.2851,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 1.9973,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "Annie Awards::production_design::N",
+              "coefficient": 0.931,
+              "display": "Annie Nom"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 1.9973,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "Annie Awards::animated_short::W",
+              "coefficient": 1.7381,
+              "display": "Annie Win"
+            },
+            {
+              "feature": "Annie Awards::editing::N",
+              "coefficient": 0.9632,
+              "display": "Annie Nom"
+            },
+            {
+              "feature": "Annie Awards::editing::W",
+              "coefficient": 0.931,
+              "display": "Annie Win"
+            },
+            {
+              "feature": "Annie Awards::production_design::N",
+              "coefficient": 0.931,
+              "display": "Annie Nom"
+            }
+          ],
+          "category_auc": 0.554,
+          "model_selected": "enet_a0.005_l0.1"
+        }
+      },
+      {
+        "name": "The Girl Who Cried Pearls",
+        "probability": 0.1224,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 1.9973,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "Annie Awards::animated_short::W",
+              "coefficient": 1.7381,
+              "display": "Annie Win"
+            },
+            {
+              "feature": "Annie Awards::editing::N",
+              "coefficient": 0.9632,
+              "display": "Annie Nom"
+            },
+            {
+              "feature": "Annie Awards::editing::W",
+              "coefficient": 0.931,
+              "display": "Annie Win"
+            },
+            {
+              "feature": "Annie Awards::production_design::N",
+              "coefficient": 0.931,
+              "display": "Annie Nom"
+            }
+          ],
+          "category_auc": 0.554,
+          "model_selected": "enet_a0.005_l0.1"
+        }
+      },
+      {
+        "name": "Retirement Plan",
+        "probability": 0.2146,
+        "rationale": {
+          "active_features": [
+            {
+              "feature": "__n_noms_in_cat__",
+              "coefficient": 0.6234,
+              "display": "__n_noms_in_cat__"
+            }
+          ],
+          "top_model_features": [
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 1.9973,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "Annie Awards::animated_short::W",
+              "coefficient": 1.7381,
+              "display": "Annie Win"
+            },
+            {
+              "feature": "Annie Awards::editing::N",
+              "coefficient": 0.9632,
+              "display": "Annie Nom"
+            },
+            {
+              "feature": "Annie Awards::editing::W",
+              "coefficient": 0.931,
+              "display": "Annie Win"
+            },
+            {
+              "feature": "Annie Awards::production_design::N",
+              "coefficient": 0.931,
+              "display": "Annie Nom"
+            }
+          ],
+          "category_auc": 0.554,
+          "model_selected": "enet_a0.005_l0.1"
+        }
+      },
+      {
+        "name": "The Three Sisters",
+        "probability": 0.1224,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 1.9973,
+              "display": "__n_noms_cross__"
+            },
+            {
+              "feature": "Annie Awards::animated_short::W",
+              "coefficient": 1.7381,
+              "display": "Annie Win"
+            },
+            {
+              "feature": "Annie Awards::editing::N",
+              "coefficient": 0.9632,
+              "display": "Annie Nom"
+            },
+            {
+              "feature": "Annie Awards::editing::W",
+              "coefficient": 0.931,
+              "display": "Annie Win"
+            },
+            {
+              "feature": "Annie Awards::production_design::N",
+              "coefficient": 0.931,
+              "display": "Annie Nom"
+            }
+          ],
+          "category_auc": 0.554,
+          "model_selected": "enet_a0.005_l0.1"
+        }
+      }
+    ],
+    "Best Live Action Short Film": [
+      {
+        "name": "Butcher's Stain",
+        "probability": 0.2,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "Rhode Island International Film Festival::director::W",
+              "coefficient": 0.8904,
+              "display": "Rhode Island International Film Festival Win"
+            }
+          ],
+          "category_auc": 0.5,
+          "model_selected": "enet_a0.01_l0.9"
+        }
+      },
+      {
+        "name": "A Friend of Dorothy",
+        "probability": 0.2,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "Rhode Island International Film Festival::director::W",
+              "coefficient": 0.8904,
+              "display": "Rhode Island International Film Festival Win"
+            }
+          ],
+          "category_auc": 0.5,
+          "model_selected": "enet_a0.01_l0.9"
+        }
+      },
+      {
+        "name": "Jane Austen's Period Drama",
+        "probability": 0.2,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "Rhode Island International Film Festival::director::W",
+              "coefficient": 0.8904,
+              "display": "Rhode Island International Film Festival Win"
+            }
+          ],
+          "category_auc": 0.5,
+          "model_selected": "enet_a0.01_l0.9"
+        }
+      },
+      {
+        "name": "The Singers",
+        "probability": 0.2,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "Rhode Island International Film Festival::director::W",
+              "coefficient": 0.8904,
+              "display": "Rhode Island International Film Festival Win"
+            }
+          ],
+          "category_auc": 0.5,
+          "model_selected": "enet_a0.01_l0.9"
+        }
+      },
+      {
+        "name": "Two People Exchanging Saliva",
+        "probability": 0.2,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "Rhode Island International Film Festival::director::W",
+              "coefficient": 0.8904,
+              "display": "Rhode Island International Film Festival Win"
+            }
+          ],
+          "category_auc": 0.5,
+          "model_selected": "enet_a0.01_l0.9"
+        }
+      }
+    ],
+    "Best Documentary Short Film": [
+      {
+        "name": "All the Empty Rooms",
+        "probability": 0.1581,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 1.0,
+              "display": "__n_noms_cross__"
+            }
+          ],
+          "category_auc": 0.5093,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "Armed Only with a Camera: The Life and Death of Brent Renaud",
+        "probability": 0.1581,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 1.0,
+              "display": "__n_noms_cross__"
+            }
+          ],
+          "category_auc": 0.5093,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "Children No More: Were and Are Gone",
+        "probability": 0.2629,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 1.0,
+              "display": "__n_noms_cross__"
+            }
+          ],
+          "category_auc": 0.5093,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "The Devil Is Busy",
+        "probability": 0.2629,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 1.0,
+              "display": "__n_noms_cross__"
+            }
+          ],
+          "category_auc": 0.5093,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "Perfectly a Strangeness",
+        "probability": 0.1581,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_noms_cross__",
+              "coefficient": 1.0,
+              "display": "__n_noms_cross__"
+            }
+          ],
+          "category_auc": 0.5093,
+          "model_selected": "gbt_d1_n100"
+        }
+      }
+    ],
+    "Best International Feature Film": [
+      {
+        "name": "The Secret Agent",
+        "probability": 0.3374,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3019,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Satellite Awards::picture::W",
+              "coefficient": 0.1386,
+              "display": "Satellite Win"
+            },
+            {
+              "feature": "BAFTA Awards::picture::W",
+              "coefficient": 0.1364,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0907,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "Film Independent Spirit Awards::international::W",
+              "coefficient": 0.0895,
+              "display": "Spirit Win"
+            }
+          ],
+          "category_auc": 0.784,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "It Was Just an Accident",
+        "probability": 0.2483,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3019,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Satellite Awards::picture::W",
+              "coefficient": 0.1386,
+              "display": "Satellite Win"
+            },
+            {
+              "feature": "BAFTA Awards::picture::W",
+              "coefficient": 0.1364,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0907,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "Film Independent Spirit Awards::international::W",
+              "coefficient": 0.0895,
+              "display": "Spirit Win"
+            }
+          ],
+          "category_auc": 0.784,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "Sentimental Value",
+        "probability": 0.2048,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3019,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Satellite Awards::picture::W",
+              "coefficient": 0.1386,
+              "display": "Satellite Win"
+            },
+            {
+              "feature": "BAFTA Awards::picture::W",
+              "coefficient": 0.1364,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0907,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "Film Independent Spirit Awards::international::W",
+              "coefficient": 0.0895,
+              "display": "Spirit Win"
+            }
+          ],
+          "category_auc": 0.784,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "Sirat",
+        "probability": 0.0823,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3019,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Satellite Awards::picture::W",
+              "coefficient": 0.1386,
+              "display": "Satellite Win"
+            },
+            {
+              "feature": "BAFTA Awards::picture::W",
+              "coefficient": 0.1364,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0907,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "Film Independent Spirit Awards::international::W",
+              "coefficient": 0.0895,
+              "display": "Spirit Win"
+            }
+          ],
+          "category_auc": 0.784,
+          "model_selected": "gbt_d1_n100"
+        }
+      },
+      {
+        "name": "The Voice of Hind Rajab",
+        "probability": 0.1271,
+        "rationale": {
+          "active_features": [],
+          "top_model_features": [
+            {
+              "feature": "__n_wins_in_cat__",
+              "coefficient": 0.3019,
+              "display": "__n_wins_in_cat__"
+            },
+            {
+              "feature": "Satellite Awards::picture::W",
+              "coefficient": 0.1386,
+              "display": "Satellite Win"
+            },
+            {
+              "feature": "BAFTA Awards::picture::W",
+              "coefficient": 0.1364,
+              "display": "BAFTA Win"
+            },
+            {
+              "feature": "__n_wins_cross__",
+              "coefficient": 0.0907,
+              "display": "__n_wins_cross__"
+            },
+            {
+              "feature": "Film Independent Spirit Awards::international::W",
+              "coefficient": 0.0895,
+              "display": "Spirit Win"
+            }
+          ],
+          "category_auc": 0.784,
+          "model_selected": "gbt_d1_n100"
+        }
+      }
+    ],
+    "Best Casting": []
+  }
+}

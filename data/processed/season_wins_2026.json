@@ -1,0 +1,1829 @@
+{
+  "Golden Globes": {
+    "Best Motion Picture - Drama": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Hamnet"
+        ],
+        "secondary": []
+      }
+    ],
+    "Best Motion Picture - Musical or Comedy": [
+      {
+        "isWinner": true,
+        "primary": [
+          "One Battle After Another"
+        ],
+        "secondary": []
+      }
+    ],
+    "Best Motion Picture - Animated": [
+      {
+        "isWinner": true,
+        "primary": [
+          "KPop Demon Hunters"
+        ],
+        "secondary": []
+      }
+    ],
+    "Best Motion Picture - Non-English Language": [
+      {
+        "isWinner": true,
+        "primary": [
+          "The Secret Agent"
+        ],
+        "secondary": []
+      }
+    ],
+    "Best Performance by a Female Actor in a Motion Picture - Drama": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Jessie Buckley"
+        ],
+        "secondary": [
+          "Hamnet"
+        ]
+      }
+    ],
+    "Best Performance by a Male Actor in a Motion Picture - Drama": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Wagner Moura"
+        ],
+        "secondary": [
+          "The Secret Agent"
+        ]
+      }
+    ],
+    "Best Performance by a Female Actor in a Motion Picture - Musical or Comedy": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Rose Byrne"
+        ],
+        "secondary": [
+          "If I Had Legs I'd Kick You"
+        ]
+      }
+    ],
+    "Best Performance by a Male Actor in a Motion Picture - Musical or Comedy": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Timothée Chalamet"
+        ],
+        "secondary": [
+          "Marty Supreme"
+        ]
+      }
+    ],
+    "Best Performance by a Female Actor in a Supporting Role in Any Motion Picture": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Teyana Taylor"
+        ],
+        "secondary": [
+          "One Battle After Another"
+        ]
+      }
+    ],
+    "Best Performance by a Male Actor in a Supporting Role in Any Motion Picture": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Stellan Skarsgård"
+        ],
+        "secondary": [
+          "Sentimental Value"
+        ]
+      }
+    ],
+    "Best Director - Motion Picture": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Paul Thomas Anderson"
+        ],
+        "secondary": [
+          "One Battle After Another"
+        ]
+      }
+    ],
+    "Best Screenplay - Motion Picture": [
+      {
+        "isWinner": true,
+        "primary": [
+          "One Battle After Another"
+        ],
+        "secondary": [
+          "Paul Thomas Anderson"
+        ]
+      }
+    ],
+    "Best Original Score - Motion Picture": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Sinners"
+        ],
+        "secondary": [
+          "Ludwig Göransson"
+        ]
+      }
+    ],
+    "Best Original Song - Motion Picture": [
+      {
+        "isWinner": true,
+        "primary": [
+          "KPop Demon Hunters"
+        ],
+        "secondary": [
+          "Joong Gyu-kwak",
+          "24",
+          "Nam Hee-dong",
+          "Lee Yu-han",
+          "Teddy Park",
+          "EJAE",
+          "Mark Sonnenblick"
+        ]
+      }
+    ],
+    "Cinematic and Box Office Achievement": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Sinners"
+        ],
+        "secondary": []
+      }
+    ],
+    "Best Television Series - Drama": [
+      {
+        "isWinner": true,
+        "primary": [
+          "The Pitt"
+        ],
+        "secondary": []
+      }
+    ],
+    "Best Television Series - Musical or Comedy": [
+      {
+        "isWinner": true,
+        "primary": [
+          "The Studio"
+        ],
+        "secondary": []
+      }
+    ],
+    "Best Television Limited Series, Anthology Series, or Motion Picture Made for Television": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Adolescence"
+        ],
+        "secondary": []
+      }
+    ],
+    "Best Performance by a Female Actor in a Television Series - Drama": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Rhea Seehorn"
+        ],
+        "secondary": [
+          "Pluribus"
+        ]
+      }
+    ],
+    "Best Performance by a Male Actor in a Television Series - Drama": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Noah Wyle"
+        ],
+        "secondary": [
+          "The Pitt"
+        ]
+      }
+    ],
+    "Best Performance by a Female Actor in a Television Series - Musical or Comedy": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Jean Smart"
+        ],
+        "secondary": [
+          "Hacks"
+        ]
+      }
+    ],
+    "Best Performance by a Female Actor in a Limited Series, Anthology Series or Motion Picture Made for Television": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Michelle Williams"
+        ],
+        "secondary": [
+          "Dying for Sex"
+        ]
+      }
+    ],
+    "Best Performance by a Male Actor in a Television Series - Musical or Comedy": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Seth Rogen"
+        ],
+        "secondary": [
+          "The Studio"
+        ]
+      }
+    ],
+    "Best Performance by a Female Actor in a Supporting Role on Television": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Erin Doherty"
+        ],
+        "secondary": [
+          "Adolescence"
+        ]
+      }
+    ],
+    "Best Performance by a Male Actor in a Limited Series, Anthology Series or Motion Picture Made for Television": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Stephen Graham"
+        ],
+        "secondary": [
+          "Adolescence"
+        ]
+      }
+    ],
+    "Best Performance by a Male Actor in a Supporting Role on Television": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Owen Cooper"
+        ],
+        "secondary": [
+          "Adolescence"
+        ]
+      }
+    ],
+    "Best Performance in Stand-Up Comedy on Television": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Ricky Gervais"
+        ],
+        "secondary": [
+          "Ricky Gervais: Mortality"
+        ]
+      }
+    ],
+    "Podcast of the Year": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Good Hang with Amy Poehler"
+        ],
+        "secondary": []
+      }
+    ],
+    "": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Sarah Jessica Parker"
+        ],
+        "secondary": []
+      }
+    ]
+  },
+  "BAFTA": {
+    "Best Film": [
+      {
+        "isWinner": true,
+        "primary": [
+          "One Battle After Another"
+        ],
+        "secondary": [
+          "Adam Somner",
+          "Sara Murphy",
+          "Paul Thomas Anderson"
+        ]
+      }
+    ],
+    "Outstanding British Film of the Year": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Hamnet"
+        ],
+        "secondary": [
+          "Chloé Zhao",
+          "Liza Marshall",
+          "Pippa Harris",
+          "Nicolas Gonda",
+          "Steven Spielberg",
+          "Sam Mendes",
+          "Maggie O'Farrell"
+        ]
+      }
+    ],
+    "Best Leading Actor": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Robert Aramayo"
+        ],
+        "secondary": [
+          "I Swear"
+        ]
+      }
+    ],
+    "Best Leading Actress": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Jessie Buckley"
+        ],
+        "secondary": [
+          "Hamnet"
+        ]
+      }
+    ],
+    "Best Supporting Actor": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Sean Penn"
+        ],
+        "secondary": [
+          "One Battle After Another"
+        ]
+      }
+    ],
+    "Best Supporting Actress": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Wunmi Mosaku"
+        ],
+        "secondary": [
+          "Sinners"
+        ]
+      }
+    ],
+    "Best Screenplay (Original)": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Sinners"
+        ],
+        "secondary": [
+          "Ryan Coogler"
+        ]
+      }
+    ],
+    "Best Screenplay (Adapted)": [
+      {
+        "isWinner": true,
+        "primary": [
+          "One Battle After Another"
+        ],
+        "secondary": [
+          "Paul Thomas Anderson"
+        ]
+      }
+    ],
+    "Best Cinematography": [
+      {
+        "isWinner": true,
+        "primary": [
+          "One Battle After Another"
+        ],
+        "secondary": [
+          "Michael Bauman"
+        ]
+      }
+    ],
+    "Best Editing": [
+      {
+        "isWinner": true,
+        "primary": [
+          "One Battle After Another"
+        ],
+        "secondary": [
+          "Andy Jurgensen"
+        ]
+      }
+    ],
+    "Best Production Design": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Frankenstein"
+        ],
+        "secondary": [
+          "Tamara Deverell",
+          "Shane Vieau"
+        ]
+      }
+    ],
+    "Best Costume Design": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Frankenstein"
+        ],
+        "secondary": [
+          "Kate Hawley"
+        ]
+      }
+    ],
+    "Best Make Up & Hair": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Frankenstein"
+        ],
+        "secondary": [
+          "Jordan Samuel",
+          "Cliona Furey",
+          "Mike Hill",
+          "Megan Many"
+        ]
+      }
+    ],
+    "Best Sound": [
+      {
+        "isWinner": true,
+        "primary": [
+          "F1: The Movie"
+        ],
+        "secondary": [
+          "Gareth John",
+          "Al Nelson",
+          "Gwendolyn Yates Whittle",
+          "Gary A. Rizzo",
+          "Juan Peralta"
+        ]
+      }
+    ],
+    "Best Achievement in Special Visual Effects": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Avatar: Fire and Ash"
+        ],
+        "secondary": [
+          "Joe Letteri",
+          "Richard Baneham",
+          "Daniel Barrett",
+          "Eric Saindon"
+        ]
+      }
+    ],
+    "Best Film Not in the English Language": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Sentimental Value"
+        ],
+        "secondary": [
+          "Joachim Trier",
+          "Maria Ekerhovd",
+          "Andrea Berentsen Ottmar"
+        ]
+      }
+    ],
+    "Best Animated Feature Film": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Zootopia 2"
+        ],
+        "secondary": [
+          "Jared Bush",
+          "Byron Howard",
+          "Yvett Merino"
+        ]
+      }
+    ],
+    "Best Documentary": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Mr. Nobody Against Putin"
+        ],
+        "secondary": [
+          "David Borenstein",
+          "Helle Faber",
+          "Radovan Síbrt",
+          "Alzbeta Karaskova"
+        ]
+      }
+    ],
+    "Outstanding Debut by a British Writer, Director, or Producer": [
+      {
+        "isWinner": true,
+        "primary": [
+          "My Father's Shadow"
+        ],
+        "secondary": [
+          "Akinola Davies",
+          "Wale Davies"
+        ]
+      }
+    ],
+    "Best British Short Animation": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Two Black Boys in Paradise"
+        ],
+        "secondary": [
+          "Baz Sells",
+          "Dean Atta",
+          "Ben Jackson"
+        ]
+      }
+    ],
+    "Best British Short Film": [
+      {
+        "isWinner": true,
+        "primary": [
+          "This Is Endometriosis"
+        ],
+        "secondary": [
+          "Georgie Wileman",
+          "Matt Houghton",
+          "Harriette Wright"
+        ]
+      }
+    ],
+    "Best Casting": [
+      {
+        "isWinner": true,
+        "primary": [
+          "I Swear"
+        ],
+        "secondary": [
+          "Lauren Evans"
+        ]
+      }
+    ],
+    "Best Director": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Paul Thomas Anderson"
+        ],
+        "secondary": [
+          "One Battle After Another"
+        ]
+      }
+    ],
+    "Original Score": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Sinners"
+        ],
+        "secondary": [
+          "Ludwig Göransson"
+        ]
+      }
+    ],
+    "Best Children's & Family Film": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Boong"
+        ],
+        "secondary": [
+          "Lakshmipriya Devi",
+          "Ritesh Sidhwani"
+        ]
+      }
+    ],
+    "Outstanding British Contribution to Cinema": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Clare Binns"
+        ],
+        "secondary": []
+      }
+    ],
+    "": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Robert Aramayo"
+        ],
+        "secondary": []
+      }
+    ]
+  },
+  "SAG": {
+    "": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Harrison Ford"
+        ],
+        "secondary": []
+      }
+    ],
+    "Outstanding Performance by a Male Actor in a Leading Role": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Michael B. Jordan"
+        ],
+        "secondary": [
+          "Sinners"
+        ]
+      }
+    ],
+    "Outstanding Performance by a Female Actor in a Leading Role": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Jessie Buckley"
+        ],
+        "secondary": [
+          "Hamnet"
+        ]
+      }
+    ],
+    "Outstanding Performance by a Male Actor in a Supporting Role": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Sean Penn"
+        ],
+        "secondary": [
+          "One Battle After Another"
+        ]
+      }
+    ],
+    "Outstanding Performance by a Female Actor in a Supporting Role": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Amy Madigan"
+        ],
+        "secondary": [
+          "Weapons"
+        ]
+      }
+    ],
+    "Outstanding Performance by a Cast in a Motion Picture": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Sinners"
+        ],
+        "secondary": [
+          "Miles Caton",
+          "Buddy Guy",
+          "Michael B. Jordan",
+          "Jayme Lawson",
+          "Delroy Lindo",
+          "Omar Benson Miller",
+          "Wunmi Mosaku",
+          "Jack O'Connell",
+          "Hailee Steinfeld"
+        ]
+      }
+    ],
+    "Outstanding Action Performance by a Stunt Ensemble in a Motion Picture": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Mission: Impossible - The Final Reckoning"
+        ],
+        "secondary": []
+      }
+    ]
+  },
+  "DGA": {
+    "Outstanding Directorial Achievement in Comedy Series": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Seth Rogen",
+          "Evan Goldberg",
+          "Shawn Dyrdahl",
+          "Donald Murphy",
+          "Peter Dress"
+        ],
+        "secondary": [
+          "The Studio"
+        ]
+      }
+    ],
+    "Outstanding Directorial Achievement in Commercials": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Peter Jackson",
+          "John Mattern",
+          "Melina Greene",
+          "Chelsea Meador",
+          "Guy Forgaard",
+          "Amanda Johnson",
+          "Michael Dudley",
+          "Clyde Broom",
+          "Kim Gehrig"
+        ],
+        "secondary": [
+          "Nike: So win.",
+          "Apple: I'm Not Remarkable"
+        ]
+      }
+    ],
+    "Outstanding Directorial Achievement in Documentary Film": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Mstyslav Chernov"
+        ],
+        "secondary": [
+          "2000 Meters to Andriivka"
+        ]
+      }
+    ],
+    "Outstanding Directorial Achievement in Documentary Series / News": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Rebecca Miller"
+        ],
+        "secondary": [
+          "Mr. Scorsese"
+        ]
+      }
+    ],
+    "Outstanding Directorial Achievement in Dramatic Series": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Amanda Marsalis",
+          "Michelle Lankwarden",
+          "Eric Tignini",
+          "Kevin Zelman",
+          "Nicole Jones",
+          "Rebecca Rogers",
+          "Chloe Huckins",
+          "Michelle Akeley"
+        ],
+        "secondary": [
+          "The Pitt"
+        ]
+      }
+    ],
+    "Outstanding Directorial Achievement in Limited & Anthology Series": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Shannon Murphy",
+          "Francesca M. Mannix",
+          "Julie A. Bloom",
+          "Findlay Zotter",
+          "Kristin Dombroski",
+          "Laura E. Rizer"
+        ],
+        "secondary": [
+          "Dying for Sex"
+        ]
+      }
+    ],
+    "Outstanding Directorial Achievement in Movies for Television": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Stephen Chbosky",
+          "Pamela Hirsch",
+          "Kara Doherty",
+          "Christopher Surgent",
+          "Takahide Kawakami",
+          "Cary Lee",
+          "Tatiana Forster"
+        ],
+        "secondary": [
+          "Nonnas"
+        ]
+      }
+    ],
+    "Outstanding Directorial Achievement in Reality / Quiz & Game": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Mike Sweeney",
+          "Jason Chillemi"
+        ],
+        "secondary": [
+          "Conan O'Brien Must Go"
+        ]
+      }
+    ],
+    "Outstanding Directorial Achievement in Sports": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Matthew J. Gangl",
+          "Larry Lancaster",
+          "Aaron Stojkov",
+          "Brian Colucci",
+          "Dan Frank",
+          "Dominick Tringali"
+        ],
+        "secondary": [
+          "2025 World Series - Game 7 - Los Angeles Dodgers vs. Toronto Blue Jays"
+        ]
+      }
+    ],
+    "Outstanding Directorial Achievement in Theatrical Feature Film": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Paul Thomas Anderson",
+          "Will Weiske",
+          "Adam Somner",
+          "Trevor Tavares",
+          "Ian Stone",
+          "Dominic Pacitti",
+          "Rafael Sanz",
+          "Nuekellar Hardy",
+          "Chunning Chang",
+          "Kit Conners",
+          "Kasia Trojak",
+          "Tyler John Young"
+        ],
+        "secondary": [
+          "One Battle After Another"
+        ]
+      }
+    ],
+    "Outstanding Directorial Achievement in Variety": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Liz Patrick",
+          "Michael Mancini",
+          "Michael Poole",
+          "Laura Ouziel-Mack",
+          "Janine DeVito",
+          "Amy Mancini",
+          "Dan Dome",
+          "Gena Rositano",
+          "Chris Kelly",
+          "Eddie Valk",
+          "Peter Epstein",
+          "Karen Tasch Weiss",
+          "Steve Bautista",
+          "Joey Despenzero",
+          "Frank Fernandez",
+          "Doug Fogel",
+          "Jeffry Gitter",
+          "Cyndi Owgang",
+          "Elise Reaves",
+          "Niclana Tolmasoff",
+          "Leslie Williams"
+        ],
+        "secondary": [
+          "SNL50: The Anniversary Special"
+        ]
+      }
+    ],
+    "": [
+      {
+        "isWinner": true,
+        "primary": [
+          "David Charles"
+        ],
+        "secondary": []
+      }
+    ],
+    "Outstanding Directorial Achievement in First-Time Theatrical Feature Film": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Charlie Polinger"
+        ],
+        "secondary": [
+          "The Plague"
+        ]
+      }
+    ]
+  },
+  "WGA": {
+    "Original Screenplay": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Sinners"
+        ],
+        "secondary": [
+          "Ryan Coogler"
+        ]
+      }
+    ],
+    "Adapted Screenplay": [
+      {
+        "isWinner": true,
+        "primary": [
+          "One Battle After Another"
+        ],
+        "secondary": [
+          "Paul Thomas Anderson"
+        ]
+      }
+    ],
+    "Television Drama Series": [
+      {
+        "isWinner": true,
+        "primary": [
+          "The Pitt"
+        ],
+        "secondary": []
+      }
+    ],
+    "Comedy Series": [
+      {
+        "isWinner": true,
+        "primary": [
+          "The Studio"
+        ],
+        "secondary": []
+      }
+    ],
+    "Documentary Script": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Stephen Colbert"
+        ],
+        "secondary": []
+      }
+    ]
+  },
+  "PGA": {
+    "": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Mara Brock Akil"
+        ],
+        "secondary": []
+      }
+    ],
+    "Outstanding Children's Program": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Sesame Street"
+        ],
+        "secondary": []
+      }
+    ],
+    "Outstanding Producer of Animated Theatrical Motion Pictures": [
+      {
+        "isWinner": true,
+        "primary": [
+          "KPop Demon Hunters"
+        ],
+        "secondary": [
+          "Michelle Wong"
+        ]
+      }
+    ],
+    "Outstanding Producer of Documentary Motion Pictures": [
+      {
+        "isWinner": true,
+        "primary": [
+          "My Mom Jayne"
+        ],
+        "secondary": []
+      }
+    ],
+    "Outstanding Producer of Game & Competition Television": [
+      {
+        "isWinner": true,
+        "primary": [
+          "The Traitors"
+        ],
+        "secondary": []
+      }
+    ],
+    "Outstanding Producer of Live Entertainment, Variety, Sketch, Standup & Talk Television": [
+      {
+        "isWinner": true,
+        "primary": [
+          "The Late Show with Stephen Colbert"
+        ],
+        "secondary": []
+      }
+    ],
+    "Outstanding Producer of Non-Fiction Television": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Pee-wee as Himself"
+        ],
+        "secondary": []
+      }
+    ],
+    "Outstanding Producer of Televised or Streamed Motion Pictures": [
+      {
+        "isWinner": true,
+        "primary": [
+          "John Candy: I Like Me"
+        ],
+        "secondary": []
+      }
+    ],
+    "Outstanding Short-Form Program": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Adolescence: The Making of Adolescence"
+        ],
+        "secondary": []
+      }
+    ],
+    "Outstanding Sports Program": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Formula 1: Drive to Survive"
+        ],
+        "secondary": []
+      }
+    ],
+    "Outstanding Producer of Episodic Television, Comedy": [
+      {
+        "isWinner": true,
+        "primary": [
+          "The Studio"
+        ],
+        "secondary": []
+      }
+    ],
+    "Outstanding Producer of Limited or Anthology Series Television": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Adolescence"
+        ],
+        "secondary": []
+      }
+    ]
+  },
+  "Critics Choice": {
+    "Best Picture": [
+      {
+        "isWinner": true,
+        "primary": [
+          "One Battle After Another"
+        ],
+        "secondary": []
+      }
+    ],
+    "Best Actor in a Drama Series": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Noah Wyle"
+        ],
+        "secondary": [
+          "The Pitt"
+        ]
+      }
+    ],
+    "Best Actor": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Timothée Chalamet"
+        ],
+        "secondary": [
+          "Marty Supreme"
+        ]
+      }
+    ],
+    "Best Actor in a Comedy Series": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Seth Rogen"
+        ],
+        "secondary": [
+          "The Studio"
+        ]
+      }
+    ],
+    "Best Young Actor/Actress": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Miles Caton"
+        ],
+        "secondary": [
+          "Sinners"
+        ]
+      }
+    ],
+    "Best Actress in a Drama Series": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Rhea Seehorn"
+        ],
+        "secondary": [
+          "Pluribus"
+        ]
+      }
+    ],
+    "Best Actress": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Jessie Buckley"
+        ],
+        "secondary": [
+          "Hamnet"
+        ]
+      }
+    ],
+    "Best Actress in a Comedy Series": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Jean Smart"
+        ],
+        "secondary": [
+          "Hacks"
+        ]
+      }
+    ],
+    "Best Supporting Actor": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Jacob Elordi"
+        ],
+        "secondary": [
+          "Frankenstein"
+        ]
+      }
+    ],
+    "Best Supporting Actor in a Comedy Series": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Ike Barinholtz"
+        ],
+        "secondary": [
+          "The Studio"
+        ]
+      }
+    ],
+    "Best Supporting Actor in a Drama Series": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Tramell Tillman"
+        ],
+        "secondary": [
+          "Severance"
+        ]
+      }
+    ],
+    "Best Supporting Actress": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Amy Madigan"
+        ],
+        "secondary": [
+          "Weapons"
+        ]
+      }
+    ],
+    "Best Supporting Actress in a Comedy Series": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Janelle James"
+        ],
+        "secondary": [
+          "Abbott Elementary"
+        ]
+      }
+    ],
+    "Best Supporting Actress in a Drama Series": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Katherine LaNasa"
+        ],
+        "secondary": [
+          "The Pitt"
+        ]
+      }
+    ],
+    "Best Director": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Paul Thomas Anderson"
+        ],
+        "secondary": [
+          "One Battle After Another"
+        ]
+      }
+    ],
+    "Best Original Screenplay": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Sinners"
+        ],
+        "secondary": [
+          "Ryan Coogler"
+        ]
+      }
+    ],
+    "Best Adapted Screenplay": [
+      {
+        "isWinner": true,
+        "primary": [
+          "One Battle After Another"
+        ],
+        "secondary": [
+          "Paul Thomas Anderson"
+        ]
+      }
+    ],
+    "Best Cinematography": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Train Dreams"
+        ],
+        "secondary": [
+          "Adolpho Veloso"
+        ]
+      }
+    ],
+    "Best Costume Design": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Frankenstein"
+        ],
+        "secondary": [
+          "Kate Hawley"
+        ]
+      }
+    ],
+    "Best Editing": [
+      {
+        "isWinner": true,
+        "primary": [
+          "F1: The Movie"
+        ],
+        "secondary": [
+          "Stephen Mirrione"
+        ]
+      }
+    ],
+    "Best Visual Effects": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Avatar: Fire and Ash"
+        ],
+        "secondary": [
+          "Joe Letteri",
+          "Richard Baneham",
+          "Eric Saindon",
+          "Daniel Barrett"
+        ]
+      }
+    ],
+    "Best Hair & Makeup": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Frankenstein"
+        ],
+        "secondary": [
+          "Mike Hill",
+          "Jordan Samuel",
+          "Cliona Furey"
+        ]
+      }
+    ],
+    "Best Song": [
+      {
+        "isWinner": true,
+        "primary": [
+          "KPop Demon Hunters"
+        ],
+        "secondary": [
+          "EJAE",
+          "Mark Sonnenblick",
+          "IDO",
+          "24",
+          "Teddy Park"
+        ]
+      }
+    ],
+    "Best Score": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Sinners"
+        ],
+        "secondary": [
+          "Ludwig Göransson"
+        ]
+      }
+    ],
+    "Best Foreign Language Film": [
+      {
+        "isWinner": true,
+        "primary": [
+          "The Secret Agent"
+        ],
+        "secondary": []
+      }
+    ],
+    "Best Comedy Movie": [
+      {
+        "isWinner": true,
+        "primary": [
+          "The Naked Gun"
+        ],
+        "secondary": []
+      }
+    ],
+    "Best Comedy Series": [
+      {
+        "isWinner": true,
+        "primary": [
+          "The Studio"
+        ],
+        "secondary": []
+      }
+    ],
+    "Best Comedy Special": [
+      {
+        "isWinner": true,
+        "primary": [
+          "SNL50: The Anniversary Special"
+        ],
+        "secondary": []
+      }
+    ],
+    "Best Drama Series": [
+      {
+        "isWinner": true,
+        "primary": [
+          "The Pitt"
+        ],
+        "secondary": []
+      }
+    ],
+    "Best Limited Series": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Adolescence"
+        ],
+        "secondary": []
+      }
+    ],
+    "Best Production Design": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Frankenstein"
+        ],
+        "secondary": [
+          "Tamara Deverell",
+          "Shane Vieau"
+        ]
+      }
+    ],
+    "Best Talk Show": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Jimmy Kimmel Live!"
+        ],
+        "secondary": []
+      }
+    ],
+    "Best Actor in a Limited Series or Movie Made for Television": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Stephen Graham"
+        ],
+        "secondary": [
+          "Adolescence"
+        ]
+      }
+    ],
+    "Best Actress in a Limited Series or Movie Made for Television": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Sarah Snook"
+        ],
+        "secondary": [
+          "All Her Fault"
+        ]
+      }
+    ],
+    "Best Supporting Actor in a Limited Series or Movie Made for Television": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Owen Cooper"
+        ],
+        "secondary": [
+          "Adolescence"
+        ]
+      }
+    ],
+    "Best Supporting Actress in a Limited Series or Movie Made for Television": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Erin Doherty"
+        ],
+        "secondary": [
+          "Adolescence"
+        ]
+      }
+    ],
+    "Best Movie Made for Television": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Bridget Jones: Mad About the Boy"
+        ],
+        "secondary": []
+      }
+    ],
+    "Best Animated Feature": [
+      {
+        "isWinner": true,
+        "primary": [
+          "KPop Demon Hunters"
+        ],
+        "secondary": []
+      }
+    ],
+    "Best Animated Series": [
+      {
+        "isWinner": true,
+        "primary": [
+          "South Park"
+        ],
+        "secondary": []
+      }
+    ],
+    "Best Casting/Ensemble": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Sinners"
+        ],
+        "secondary": [
+          "Francine Maisler"
+        ]
+      }
+    ],
+    "Best Foreign Language Series": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Squid Game"
+        ],
+        "secondary": []
+      }
+    ],
+    "Best Sound": [
+      {
+        "isWinner": true,
+        "primary": [
+          "F1: The Movie"
+        ],
+        "secondary": [
+          "Gwendolyn Yates Whittle",
+          "Al Nelson",
+          "Gary A. Rizzo",
+          "Juan Peralta",
+          "Gareth John"
+        ]
+      }
+    ],
+    "Best Stunt Design": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Mission: Impossible - The Final Reckoning"
+        ],
+        "secondary": [
+          "Wade Eastwood"
+        ]
+      }
+    ],
+    "Best Variety Series": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Last Week Tonight with John Oliver"
+        ],
+        "secondary": []
+      }
+    ]
+  },
+  "Independent Spirit": {
+    "Best Feature": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Train Dreams"
+        ],
+        "secondary": [
+          "Michael Heimler",
+          "Will Janowitz",
+          "Marissa McMahon",
+          "Ashley Schlaifer",
+          "Teddy Schwarzman"
+        ]
+      }
+    ],
+    "Best First Feature": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Lurker"
+        ],
+        "secondary": [
+          "Alex Russell",
+          "Galen Core",
+          "Archie Madekwe",
+          "Marc Marrie",
+          "Charlie McDowell",
+          "Francesco Melzi d'Eril",
+          "Duncan Montgomery",
+          "Alex Orlovsky",
+          "Olmo Schnabel",
+          "Jack Selby"
+        ]
+      }
+    ],
+    "Best Lead Performance": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Rose Byrne"
+        ],
+        "secondary": [
+          "If I Had Legs I'd Kick You"
+        ]
+      }
+    ],
+    "Best Lead Performance in a New Scripted Series": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Stephen Graham"
+        ],
+        "secondary": [
+          "Adolescence"
+        ]
+      }
+    ],
+    "Best Supporting Performance": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Naomi Ackie"
+        ],
+        "secondary": [
+          "Sorry, Baby"
+        ]
+      }
+    ],
+    "Best Supporting Performance in a New Scripted Series": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Erin Doherty"
+        ],
+        "secondary": [
+          "Adolescence"
+        ]
+      }
+    ],
+    "Best Director": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Clint Bentley"
+        ],
+        "secondary": [
+          "Train Dreams"
+        ]
+      }
+    ],
+    "Best Screenplay": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Sorry, Baby"
+        ],
+        "secondary": [
+          "Eva Victor"
+        ]
+      }
+    ],
+    "Best First Screenplay": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Lurker"
+        ],
+        "secondary": [
+          "Alex Russell"
+        ]
+      }
+    ],
+    "Best Cinematography": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Train Dreams"
+        ],
+        "secondary": [
+          "Adolpho Veloso"
+        ]
+      }
+    ],
+    "Best International Film": [
+      {
+        "isWinner": true,
+        "primary": [
+          "The Secret Agent"
+        ],
+        "secondary": [
+          "Kleber Mendonça Filho"
+        ]
+      }
+    ],
+    "Best Documentary": [
+      {
+        "isWinner": true,
+        "primary": [
+          "The Perfect Neighbor"
+        ],
+        "secondary": [
+          "Geeta Gandbhir",
+          "Sam Bisbee",
+          "Nikon Kwantu",
+          "Alisa Payne"
+        ]
+      }
+    ],
+    "Best Editing": [
+      {
+        "isWinner": true,
+        "primary": [
+          "The Testament of Ann Lee"
+        ],
+        "secondary": [
+          "Sofía Subercaseaux"
+        ]
+      }
+    ],
+    "Best Breakthrough Performance": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Kayo Martin"
+        ],
+        "secondary": [
+          "The Plague"
+        ]
+      }
+    ],
+    "Best Breakthrough Performance in a New Scripted Series": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Owen Cooper"
+        ],
+        "secondary": [
+          "Adolescence"
+        ]
+      }
+    ],
+    "Best Ensemble Cast in a New Scripted Series": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Chief of War"
+        ],
+        "secondary": [
+          "Charlie Brumbly",
+          "Luciane Buchanan",
+          "Cliff Curtis",
+          "Brandon Finn",
+          "Moses Goods",
+          "Te Ao o Hinepehinga",
+          "Benjamin Hoetjes",
+          "Siua Ikale'o",
+          "Keala Kahuanui-Paleka",
+          "Mainei Kinimaka",
+          "Kaina Makua",
+          "Jason Momoa",
+          "Temuera Morrison",
+          "Te Kohe Tuhaka",
+          "James Udom"
+        ]
+      }
+    ],
+    "Best New Non-Scripted or Documentary Series": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Pee-wee as Himself"
+        ],
+        "secondary": [
+          "Matt Wolf",
+          "Emma Tillinger Koskoff",
+          "Ronald Bronstein",
+          "Eli Bush",
+          "Benny Safdie",
+          "Josh Safdie",
+          "Paul Reubens",
+          "Candace Tomarken",
+          "Kyle Martin",
+          "Nancy Abraham",
+          "Lisa Heller",
+          "Sara Rodriguez"
+        ]
+      }
+    ],
+    "Best New Scripted Series": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Adolescence"
+        ],
+        "secondary": [
+          "Jack Thorne",
+          "Stephen Graham",
+          "Philip Barantini",
+          "Brad Pitt",
+          "Dede Gardner",
+          "Jeremy Kleiner",
+          "Nina Wolarsky",
+          "Hannah Walters",
+          "Mark Herbert",
+          "Emily Feller",
+          "Carina Sposato",
+          "Niall Shamma",
+          "Peter Balm"
+        ]
+      }
+    ],
+    "": [
+      {
+        "isWinner": true,
+        "primary": [
+          "Tattijani Ribeiro"
+        ],
+        "secondary": []
+      }
+    ]
+  }
+}

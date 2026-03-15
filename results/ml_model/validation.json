@@ -1,0 +1,2606 @@
+{
+  "method": "ml_model",
+  "validation_years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "overall_accuracy": 0.732,
+  "overall_auc": 0.816,
+  "n_cat_years": 138,
+  "by_year": {
+    "2020": {
+      "picture": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 9,
+        "winner_prob": 0.9491,
+        "confidence": 0.9491,
+        "predicted": "['Parasite']",
+        "actual": "['Parasite']"
+      },
+      "actor": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.9096,
+        "confidence": 0.9096,
+        "predicted": "['Joaquin Phoenix']",
+        "actual": "['Joaquin Phoenix']"
+      },
+      "actress": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.884,
+        "confidence": 0.884,
+        "predicted": "['Ren\u00e9e Zellweger']",
+        "actual": "['Ren\u00e9e Zellweger']"
+      },
+      "supp_actor": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 1.0,
+        "confidence": 1.0,
+        "predicted": "['Brad Pitt']",
+        "actual": "['Brad Pitt']"
+      },
+      "supp_actress": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.9844,
+        "confidence": 0.9844,
+        "predicted": "['Laura Dern']",
+        "actual": "['Laura Dern']"
+      },
+      "director": {
+        "correct": false,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "winner_prob": 0.5001,
+        "confidence": 0.9186,
+        "predicted": "['Sam Mendes']",
+        "actual": "['Bong Joon Ho']"
+      },
+      "original_screenplay": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 1.0,
+        "confidence": 1.0,
+        "predicted": "['Parasite']",
+        "actual": "['Parasite']"
+      },
+      "adapted_screenplay": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.0,
+        "confidence": 0.0,
+        "predicted": "['Jojo Rabbit']",
+        "actual": "['Jojo Rabbit']"
+      },
+      "cinematography": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.9696,
+        "confidence": 0.9696,
+        "predicted": "['1917']",
+        "actual": "['1917']"
+      },
+      "editing": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.9992,
+        "confidence": 0.9992,
+        "predicted": "['Andrew Buckland', 'Michael McCusker']",
+        "actual": "['Andrew Buckland', 'Michael McCusker']"
+      },
+      "production_design": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.6928,
+        "confidence": 0.6928,
+        "predicted": "['Once Upon a Time... in Hollywood']",
+        "actual": "['Once Upon a Time... in Hollywood']"
+      },
+      "costume": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.6121,
+        "confidence": 0.6121,
+        "predicted": "['Little Women']",
+        "actual": "['Little Women']"
+      },
+      "sound": {
+        "correct": false,
+        "rank_of_winner": 3,
+        "n_nominees": 10,
+        "winner_prob": 0.5522,
+        "confidence": 0.6326,
+        "predicted": "['1917']",
+        "actual": "['Ford v Ferrari']"
+      },
+      "makeup": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.5979,
+        "confidence": 0.5979,
+        "predicted": "['Bombshell']",
+        "actual": "['Bombshell']"
+      },
+      "score": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 1.0,
+        "confidence": 1.0,
+        "predicted": "['Joker']",
+        "actual": "['Joker']"
+      },
+      "song": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.8875,
+        "confidence": 0.8875,
+        "predicted": "['Rocketman']",
+        "actual": "['Rocketman']"
+      },
+      "visual_effects": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.8501,
+        "confidence": 0.8501,
+        "predicted": "['1917']",
+        "actual": "['1917']"
+      },
+      "documentary": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.5885,
+        "confidence": 0.5885,
+        "predicted": "['American Factory']",
+        "actual": "['American Factory']"
+      },
+      "animated": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.8304,
+        "confidence": 0.8304,
+        "predicted": "['Toy Story 4']",
+        "actual": "['Toy Story 4']"
+      },
+      "animated_short": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.3054,
+        "confidence": 0.3054,
+        "predicted": "['Hair Love']",
+        "actual": "['Hair Love']"
+      },
+      "live_action_short": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.4741,
+        "confidence": 0.4741,
+        "predicted": "[\"The Neighbors' Window\"]",
+        "actual": "[\"The Neighbors' Window\"]"
+      },
+      "documentary_short": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.453,
+        "confidence": 0.453,
+        "predicted": "[\"Learning to Skateboard in a Warzone (If You're a Girl)\"]",
+        "actual": "[\"Learning to Skateboard in a Warzone (If You're a Girl)\"]"
+      },
+      "international": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.8011,
+        "confidence": 0.8011,
+        "predicted": "['Parasite']",
+        "actual": "['Parasite']"
+      }
+    },
+    "2021": {
+      "picture": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 8,
+        "winner_prob": 0.9996,
+        "confidence": 0.9996,
+        "predicted": "['Nomadland']",
+        "actual": "['Nomadland']"
+      },
+      "actor": {
+        "correct": false,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "winner_prob": 0.4081,
+        "confidence": 0.9116,
+        "predicted": "['Chadwick Boseman']",
+        "actual": "['Anthony Hopkins']"
+      },
+      "actress": {
+        "correct": false,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "winner_prob": 0.4126,
+        "confidence": 0.7174,
+        "predicted": "['Viola Davis']",
+        "actual": "['Frances McDormand']"
+      },
+      "supp_actor": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 1.0,
+        "confidence": 1.0,
+        "predicted": "['Daniel Kaluuya']",
+        "actual": "['Daniel Kaluuya']"
+      },
+      "supp_actress": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.9495,
+        "confidence": 0.9495,
+        "predicted": "['Yuh-Jung Youn']",
+        "actual": "['Yuh-Jung Youn']"
+      },
+      "director": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.9244,
+        "confidence": 0.9244,
+        "predicted": "['Chlo\u00e9 Zhao']",
+        "actual": "['Chlo\u00e9 Zhao']"
+      },
+      "original_screenplay": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.9997,
+        "confidence": 0.9997,
+        "predicted": "['Promising Young Woman']",
+        "actual": "['Promising Young Woman']"
+      },
+      "adapted_screenplay": {
+        "correct": false,
+        "rank_of_winner": 3,
+        "n_nominees": 5,
+        "winner_prob": 1.0,
+        "confidence": 1.0,
+        "predicted": "['Borat Subsequent Moviefilm']",
+        "actual": "['The Father']"
+      },
+      "cinematography": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.6069,
+        "confidence": 0.6069,
+        "predicted": "['Nomadland']",
+        "actual": "['Nomadland']"
+      },
+      "editing": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.9963,
+        "confidence": 0.9963,
+        "predicted": "['Mikkel E.G. Nielsen']",
+        "actual": "['Mikkel E.G. Nielsen']"
+      },
+      "production_design": {
+        "correct": false,
+        "rank_of_winner": 3,
+        "n_nominees": 5,
+        "winner_prob": 0.3072,
+        "confidence": 0.5009,
+        "predicted": "[\"Ma Rainey's Black Bottom\"]",
+        "actual": "['The Father']"
+      },
+      "costume": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.762,
+        "confidence": 0.762,
+        "predicted": "[\"Ma Rainey's Black Bottom\"]",
+        "actual": "[\"Ma Rainey's Black Bottom\"]"
+      },
+      "sound": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.6763,
+        "confidence": 0.6763,
+        "predicted": "['Sound of Metal']",
+        "actual": "['Sound of Metal']"
+      },
+      "makeup": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.7945,
+        "confidence": 0.7945,
+        "predicted": "[\"Ma Rainey's Black Bottom\"]",
+        "actual": "[\"Ma Rainey's Black Bottom\"]"
+      },
+      "score": {
+        "correct": false,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "winner_prob": 1.0,
+        "confidence": 1.0,
+        "predicted": "['Mank']",
+        "actual": "['Soul']"
+      },
+      "song": {
+        "correct": false,
+        "rank_of_winner": 3,
+        "n_nominees": 5,
+        "winner_prob": 0.1554,
+        "confidence": 0.8196,
+        "predicted": "['The Life Ahead']",
+        "actual": "['Eurovision Song Contest: The Story of Fire Saga']"
+      },
+      "visual_effects": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.9167,
+        "confidence": 0.9167,
+        "predicted": "['Tenet']",
+        "actual": "['Tenet']"
+      },
+      "documentary": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.9714,
+        "confidence": 0.9714,
+        "predicted": "['My Octopus Teacher']",
+        "actual": "['My Octopus Teacher']"
+      },
+      "animated": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.9994,
+        "confidence": 0.9994,
+        "predicted": "['Soul']",
+        "actual": "['Soul']"
+      },
+      "animated_short": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.6284,
+        "confidence": 0.6284,
+        "predicted": "['If Anything Happens I Love You']",
+        "actual": "['If Anything Happens I Love You']"
+      },
+      "live_action_short": {
+        "correct": false,
+        "rank_of_winner": 4,
+        "n_nominees": 5,
+        "winner_prob": 0.4775,
+        "confidence": 0.4775,
+        "predicted": "['Feeling Through']",
+        "actual": "['Two Distant Strangers']"
+      },
+      "documentary_short": {
+        "correct": false,
+        "rank_of_winner": 3,
+        "n_nominees": 5,
+        "winner_prob": 0.4367,
+        "confidence": 0.4367,
+        "predicted": "['A Concerto Is a Conversation']",
+        "actual": "['Colette']"
+      },
+      "international": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.7096,
+        "confidence": 0.7096,
+        "predicted": "['Another Round']",
+        "actual": "['Another Round']"
+      }
+    },
+    "2022": {
+      "picture": {
+        "correct": false,
+        "rank_of_winner": 3,
+        "n_nominees": 10,
+        "winner_prob": 0.3379,
+        "confidence": 0.7294,
+        "predicted": "['Drive My Car']",
+        "actual": "['CODA']"
+      },
+      "actor": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.8649,
+        "confidence": 0.8649,
+        "predicted": "['Will Smith']",
+        "actual": "['Will Smith']"
+      },
+      "actress": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.9187,
+        "confidence": 0.9187,
+        "predicted": "['Jessica Chastain']",
+        "actual": "['Jessica Chastain']"
+      },
+      "supp_actor": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.2676,
+        "confidence": 0.2676,
+        "predicted": "['Troy Kotsur']",
+        "actual": "['Troy Kotsur']"
+      },
+      "supp_actress": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.9448,
+        "confidence": 0.9448,
+        "predicted": "['Ariana DeBose']",
+        "actual": "['Ariana DeBose']"
+      },
+      "director": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.8943,
+        "confidence": 0.8943,
+        "predicted": "['Jane Campion']",
+        "actual": "['Jane Campion']"
+      },
+      "original_screenplay": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.0004,
+        "confidence": 0.0004,
+        "predicted": "['Belfast']",
+        "actual": "['Belfast']"
+      },
+      "adapted_screenplay": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 1.0,
+        "confidence": 1.0,
+        "predicted": "['CODA']",
+        "actual": "['CODA']"
+      },
+      "cinematography": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.9625,
+        "confidence": 0.9625,
+        "predicted": "['Dune']",
+        "actual": "['Dune']"
+      },
+      "editing": {
+        "correct": false,
+        "rank_of_winner": 5,
+        "n_nominees": 5,
+        "winner_prob": 0.0,
+        "confidence": 1.0,
+        "predicted": "['tick, tick... BOOM!']",
+        "actual": "['Dune']"
+      },
+      "production_design": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.7323,
+        "confidence": 0.7323,
+        "predicted": "['Dune']",
+        "actual": "['Dune']"
+      },
+      "costume": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.7294,
+        "confidence": 0.7294,
+        "predicted": "['Cruella']",
+        "actual": "['Cruella']"
+      },
+      "sound": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.7183,
+        "confidence": 0.7183,
+        "predicted": "['Dune']",
+        "actual": "['Dune']"
+      },
+      "makeup": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.7756,
+        "confidence": 0.7756,
+        "predicted": "['The Eyes of Tammy Faye']",
+        "actual": "['The Eyes of Tammy Faye']"
+      },
+      "score": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 1.0,
+        "confidence": 1.0,
+        "predicted": "['Dune']",
+        "actual": "['Dune']"
+      },
+      "song": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.7373,
+        "confidence": 0.7373,
+        "predicted": "['No Time to Die']",
+        "actual": "['No Time to Die']"
+      },
+      "visual_effects": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.9326,
+        "confidence": 0.9326,
+        "predicted": "['Dune']",
+        "actual": "['Dune']"
+      },
+      "documentary": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.9919,
+        "confidence": 0.9919,
+        "predicted": "['Summer of Soul (...Or, When the Revolution Could Not Be Televised)']",
+        "actual": "['Summer of Soul (...Or, When the Revolution Could Not Be Televised)']"
+      },
+      "animated": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.9717,
+        "confidence": 0.9717,
+        "predicted": "['Encanto']",
+        "actual": "['Encanto']"
+      },
+      "animated_short": {
+        "correct": false,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "winner_prob": 0.407,
+        "confidence": 0.8937,
+        "predicted": "['Beast']",
+        "actual": "['The Windshield Wiper']"
+      },
+      "live_action_short": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.4828,
+        "confidence": 0.4828,
+        "predicted": "['The Long Goodbye']",
+        "actual": "['The Long Goodbye']"
+      },
+      "documentary_short": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.4295,
+        "confidence": 0.4295,
+        "predicted": "['The Queen of Basketball']",
+        "actual": "['The Queen of Basketball']"
+      },
+      "international": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.9428,
+        "confidence": 0.9428,
+        "predicted": "['Drive My Car']",
+        "actual": "['Drive My Car']"
+      }
+    },
+    "2023": {
+      "picture": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 10,
+        "winner_prob": 0.966,
+        "confidence": 0.966,
+        "predicted": "['Everything Everywhere All at Once']",
+        "actual": "['Everything Everywhere All at Once']"
+      },
+      "actor": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.7963,
+        "confidence": 0.7963,
+        "predicted": "['Brendan Fraser']",
+        "actual": "['Brendan Fraser']"
+      },
+      "actress": {
+        "correct": false,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "winner_prob": 0.4415,
+        "confidence": 0.6201,
+        "predicted": "['Cate Blanchett']",
+        "actual": "['Michelle Yeoh']"
+      },
+      "supp_actor": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 1.0,
+        "confidence": 1.0,
+        "predicted": "['Ke Huy Quan']",
+        "actual": "['Ke Huy Quan']"
+      },
+      "supp_actress": {
+        "correct": false,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "winner_prob": 0.28,
+        "confidence": 0.7361,
+        "predicted": "['Kerry Condon']",
+        "actual": "['Jamie Lee Curtis']"
+      },
+      "director": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.9191,
+        "confidence": 0.9191,
+        "predicted": "['Daniel Kwan', 'Daniel Scheinert']",
+        "actual": "['Daniel Kwan', 'Daniel Scheinert']"
+      },
+      "original_screenplay": {
+        "correct": false,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "winner_prob": 0.0004,
+        "confidence": 1.0,
+        "predicted": "['The Banshees of Inisherin']",
+        "actual": "['Everything Everywhere All at Once']"
+      },
+      "adapted_screenplay": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 1.0,
+        "confidence": 1.0,
+        "predicted": "['Women Talking']",
+        "actual": "['Women Talking']"
+      },
+      "cinematography": {
+        "correct": false,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "winner_prob": 0.118,
+        "confidence": 0.2219,
+        "predicted": "['T\u00e1r']",
+        "actual": "['All Quiet on the Western Front']"
+      },
+      "editing": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 1.0,
+        "confidence": 1.0,
+        "predicted": "['Everything Everywhere All at Once']",
+        "actual": "['Everything Everywhere All at Once']"
+      },
+      "production_design": {
+        "correct": false,
+        "rank_of_winner": 3,
+        "n_nominees": 5,
+        "winner_prob": 0.4303,
+        "confidence": 0.5607,
+        "predicted": "['Elvis']",
+        "actual": "['All Quiet on the Western Front']"
+      },
+      "costume": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.7655,
+        "confidence": 0.7655,
+        "predicted": "['Black Panther: Wakanda Forever']",
+        "actual": "['Black Panther: Wakanda Forever']"
+      },
+      "sound": {
+        "correct": false,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "winner_prob": 0.4932,
+        "confidence": 0.634,
+        "predicted": "['All Quiet on the Western Front']",
+        "actual": "['Top Gun: Maverick']"
+      },
+      "makeup": {
+        "correct": false,
+        "rank_of_winner": 4,
+        "n_nominees": 5,
+        "winner_prob": 0.1418,
+        "confidence": 0.8778,
+        "predicted": "['Elvis']",
+        "actual": "['The Whale']"
+      },
+      "score": {
+        "correct": false,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "winner_prob": 0.7037,
+        "confidence": 0.9813,
+        "predicted": "['Babylon']",
+        "actual": "['All Quiet on the Western Front']"
+      },
+      "song": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.8698,
+        "confidence": 0.8698,
+        "predicted": "['RRR']",
+        "actual": "['RRR']"
+      },
+      "visual_effects": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.8652,
+        "confidence": 0.8652,
+        "predicted": "['Avatar: The Way of Water']",
+        "actual": "['Avatar: The Way of Water']"
+      },
+      "documentary": {
+        "correct": false,
+        "rank_of_winner": 3,
+        "n_nominees": 5,
+        "winner_prob": 0.7178,
+        "confidence": 0.9797,
+        "predicted": "['Fire of Love']",
+        "actual": "['Navalny']"
+      },
+      "animated": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.9661,
+        "confidence": 0.9661,
+        "predicted": "[\"Guillermo del Toro's Pinocchio\"]",
+        "actual": "[\"Guillermo del Toro's Pinocchio\"]"
+      },
+      "animated_short": {
+        "correct": false,
+        "rank_of_winner": 5,
+        "n_nominees": 5,
+        "winner_prob": 0.1915,
+        "confidence": 0.7416,
+        "predicted": "['Ice Merchants']",
+        "actual": "['The Boy, the Mole, the Fox and the Horse']"
+      },
+      "live_action_short": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.4828,
+        "confidence": 0.4828,
+        "predicted": "['An Irish Goodbye']",
+        "actual": "['An Irish Goodbye']"
+      },
+      "documentary_short": {
+        "correct": false,
+        "rank_of_winner": 4,
+        "n_nominees": 5,
+        "winner_prob": 0.4193,
+        "confidence": 0.4193,
+        "predicted": "['Haulout']",
+        "actual": "['The Elephant Whisperers']"
+      },
+      "international": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.693,
+        "confidence": 0.693,
+        "predicted": "['All Quiet on the Western Front']",
+        "actual": "['All Quiet on the Western Front']"
+      }
+    },
+    "2024": {
+      "picture": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 10,
+        "winner_prob": 0.9866,
+        "confidence": 0.9866,
+        "predicted": "['Oppenheimer']",
+        "actual": "['Oppenheimer']"
+      },
+      "actor": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.5569,
+        "confidence": 0.5569,
+        "predicted": "['Cillian Murphy']",
+        "actual": "['Cillian Murphy']"
+      },
+      "actress": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.7278,
+        "confidence": 0.7278,
+        "predicted": "['Emma Stone']",
+        "actual": "['Emma Stone']"
+      },
+      "supp_actor": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 1.0,
+        "confidence": 1.0,
+        "predicted": "['Robert Downey Jr.']",
+        "actual": "['Robert Downey Jr.']"
+      },
+      "supp_actress": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.3749,
+        "confidence": 0.3749,
+        "predicted": "[\"Da'Vine Joy Randolph\"]",
+        "actual": "[\"Da'Vine Joy Randolph\"]"
+      },
+      "director": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.6535,
+        "confidence": 0.6535,
+        "predicted": "['Christopher Nolan']",
+        "actual": "['Christopher Nolan']"
+      },
+      "original_screenplay": {
+        "correct": false,
+        "rank_of_winner": 3,
+        "n_nominees": 5,
+        "winner_prob": 0.0,
+        "confidence": 0.7593,
+        "predicted": "['The Holdovers']",
+        "actual": "['Anatomy of a Fall']"
+      },
+      "adapted_screenplay": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 1.0,
+        "confidence": 1.0,
+        "predicted": "['American Fiction']",
+        "actual": "['American Fiction']"
+      },
+      "cinematography": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.596,
+        "confidence": 0.596,
+        "predicted": "['Oppenheimer']",
+        "actual": "['Oppenheimer']"
+      },
+      "editing": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 1.0,
+        "confidence": 1.0,
+        "predicted": "['Oppenheimer']",
+        "actual": "['Oppenheimer']"
+      },
+      "production_design": {
+        "correct": false,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "winner_prob": 0.5956,
+        "confidence": 0.7534,
+        "predicted": "['Barbie']",
+        "actual": "['Poor Things']"
+      },
+      "costume": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.6129,
+        "confidence": 0.6129,
+        "predicted": "['Poor Things']",
+        "actual": "['Poor Things']"
+      },
+      "sound": {
+        "correct": false,
+        "rank_of_winner": 3,
+        "n_nominees": 5,
+        "winner_prob": 0.655,
+        "confidence": 0.7332,
+        "predicted": "['Oppenheimer']",
+        "actual": "['The Zone of Interest']"
+      },
+      "makeup": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.5153,
+        "confidence": 0.5153,
+        "predicted": "['Poor Things']",
+        "actual": "['Poor Things']"
+      },
+      "score": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 1.0,
+        "confidence": 1.0,
+        "predicted": "['Oppenheimer']",
+        "actual": "['Oppenheimer']"
+      },
+      "song": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 4,
+        "winner_prob": 0.4399,
+        "confidence": 0.4399,
+        "predicted": "['Barbie']",
+        "actual": "['Barbie']"
+      },
+      "visual_effects": {
+        "correct": false,
+        "rank_of_winner": 4,
+        "n_nominees": 5,
+        "winner_prob": 0.0353,
+        "confidence": 0.3968,
+        "predicted": "['Napoleon']",
+        "actual": "['Godzilla Minus One']"
+      },
+      "documentary": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.326,
+        "confidence": 0.326,
+        "predicted": "['20 Days in Mariupol']",
+        "actual": "['20 Days in Mariupol']"
+      },
+      "animated": {
+        "correct": false,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "winner_prob": 0.5114,
+        "confidence": 0.9613,
+        "predicted": "['Spider-Man: Across the Spider-Verse']",
+        "actual": "['The Boy and the Heron']"
+      },
+      "animated_short": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.556,
+        "confidence": 0.556,
+        "predicted": "['War Is Over!']",
+        "actual": "['War Is Over!']"
+      },
+      "live_action_short": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.4828,
+        "confidence": 0.4828,
+        "predicted": "['The Wonderful Story of Henry Sugar']",
+        "actual": "['The Wonderful Story of Henry Sugar']"
+      },
+      "documentary_short": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.6397,
+        "confidence": 0.6397,
+        "predicted": "['The Last Repair Shop']",
+        "actual": "['The Last Repair Shop']"
+      },
+      "international": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.6624,
+        "confidence": 0.6624,
+        "predicted": "['The Zone of Interest']",
+        "actual": "['The Zone of Interest']"
+      }
+    },
+    "2025": {
+      "picture": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 10,
+        "winner_prob": 0.5425,
+        "confidence": 0.5425,
+        "predicted": "['Anora']",
+        "actual": "['Anora']"
+      },
+      "actor": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.5357,
+        "confidence": 0.5357,
+        "predicted": "['Adrien Brody']",
+        "actual": "['Adrien Brody']"
+      },
+      "actress": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.546,
+        "confidence": 0.546,
+        "predicted": "['Mikey Madison']",
+        "actual": "['Mikey Madison']"
+      },
+      "supp_actor": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 1.0,
+        "confidence": 1.0,
+        "predicted": "['Kieran Culkin']",
+        "actual": "['Kieran Culkin']"
+      },
+      "supp_actress": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.4512,
+        "confidence": 0.4512,
+        "predicted": "['Zoe Salda\u00f1a']",
+        "actual": "['Zoe Salda\u00f1a']"
+      },
+      "director": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.2113,
+        "confidence": 0.2113,
+        "predicted": "['Sean Baker']",
+        "actual": "['Sean Baker']"
+      },
+      "original_screenplay": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.8493,
+        "confidence": 0.8493,
+        "predicted": "['Anora']",
+        "actual": "['Anora']"
+      },
+      "adapted_screenplay": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 1.0,
+        "confidence": 1.0,
+        "predicted": "['Conclave']",
+        "actual": "['Conclave']"
+      },
+      "cinematography": {
+        "correct": false,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "winner_prob": 0.099,
+        "confidence": 0.1599,
+        "predicted": "['Dune: Part Two']",
+        "actual": "['The Brutalist']"
+      },
+      "editing": {
+        "correct": false,
+        "rank_of_winner": 5,
+        "n_nominees": 5,
+        "winner_prob": 0.0,
+        "confidence": 1.0,
+        "predicted": "['Wicked']",
+        "actual": "['Anora']"
+      },
+      "production_design": {
+        "correct": false,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "winner_prob": 0.7016,
+        "confidence": 0.7896,
+        "predicted": "['Dune: Part Two']",
+        "actual": "['Wicked']"
+      },
+      "costume": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.7777,
+        "confidence": 0.7777,
+        "predicted": "['Wicked']",
+        "actual": "['Wicked']"
+      },
+      "sound": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.5527,
+        "confidence": 0.5527,
+        "predicted": "['Dune: Part Two']",
+        "actual": "['Dune: Part Two']"
+      },
+      "makeup": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.8258,
+        "confidence": 0.8258,
+        "predicted": "['The Substance']",
+        "actual": "['The Substance']"
+      },
+      "score": {
+        "correct": false,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "winner_prob": 1.0,
+        "confidence": 1.0,
+        "predicted": "['Wicked']",
+        "actual": "['The Brutalist']"
+      },
+      "song": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 4,
+        "winner_prob": 0.8037,
+        "confidence": 0.8037,
+        "predicted": "['Emilia P\u00e9rez']",
+        "actual": "['Emilia P\u00e9rez']"
+      },
+      "visual_effects": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.7406,
+        "confidence": 0.7406,
+        "predicted": "['Dune: Part Two']",
+        "actual": "['Dune: Part Two']"
+      },
+      "documentary": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.6089,
+        "confidence": 0.6089,
+        "predicted": "['No Other Land']",
+        "actual": "['No Other Land']"
+      },
+      "animated": {
+        "correct": false,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "winner_prob": 0.5457,
+        "confidence": 0.7625,
+        "predicted": "['The Wild Robot']",
+        "actual": "['Flow']"
+      },
+      "animated_short": {
+        "correct": false,
+        "rank_of_winner": 4,
+        "n_nominees": 5,
+        "winner_prob": 0.0681,
+        "confidence": 0.7607,
+        "predicted": "['Wander to Wonder']",
+        "actual": "['In the Shadow of the Cypress']"
+      },
+      "live_action_short": {
+        "correct": true,
+        "rank_of_winner": 1,
+        "n_nominees": 5,
+        "winner_prob": 0.4828,
+        "confidence": 0.4828,
+        "predicted": "[\"I'm Not a Robot\"]",
+        "actual": "[\"I'm Not a Robot\"]"
+      },
+      "documentary_short": {
+        "correct": false,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "winner_prob": 0.4077,
+        "confidence": 0.843,
+        "predicted": "['Instruments of a Beating Heart']",
+        "actual": "['The Only Girl in the Orchestra']"
+      },
+      "international": {
+        "correct": false,
+        "rank_of_winner": 2,
+        "n_nominees": 5,
+        "winner_prob": 0.4892,
+        "confidence": 0.5088,
+        "predicted": "['Emilia P\u00e9rez']",
+        "actual": "[\"I'm Still Here\"]"
+      }
+    }
+  },
+  "by_category": {
+    "picture": {
+      "accuracy": 0.833,
+      "avg_winner_prob": 0.797,
+      "loo_auc": 0.8672,
+      "best_model": "enet_a0.1_l0.1",
+      "n_years": 6
+    },
+    "actor": {
+      "accuracy": 0.833,
+      "avg_winner_prob": 0.679,
+      "loo_auc": 0.9008,
+      "best_model": "gbt_d1_n100",
+      "n_years": 6
+    },
+    "actress": {
+      "accuracy": 0.667,
+      "avg_winner_prob": 0.655,
+      "loo_auc": 0.888,
+      "best_model": "gbt_d2_n50",
+      "n_years": 6
+    },
+    "supp_actor": {
+      "accuracy": 1.0,
+      "avg_winner_prob": 0.878,
+      "loo_auc": 0.8705,
+      "best_model": "enet_a0.005_l0.1",
+      "n_years": 6
+    },
+    "supp_actress": {
+      "accuracy": 0.833,
+      "avg_winner_prob": 0.664,
+      "loo_auc": 0.9246,
+      "best_model": "gbt_d2_n50",
+      "n_years": 6
+    },
+    "director": {
+      "accuracy": 0.833,
+      "avg_winner_prob": 0.684,
+      "loo_auc": 0.9193,
+      "best_model": "gbt_d1_n100",
+      "n_years": 6
+    },
+    "original_screenplay": {
+      "accuracy": 0.667,
+      "avg_winner_prob": 0.475,
+      "loo_auc": 0.896,
+      "best_model": "enet_a0.01_l0.5",
+      "n_years": 6
+    },
+    "adapted_screenplay": {
+      "accuracy": 0.833,
+      "avg_winner_prob": 0.833,
+      "loo_auc": 0.8107,
+      "best_model": "enet_a0.01_l0.9",
+      "n_years": 6
+    },
+    "cinematography": {
+      "accuracy": 0.667,
+      "avg_winner_prob": 0.559,
+      "loo_auc": 0.9142,
+      "best_model": "gbt_d2_n50",
+      "n_years": 6
+    },
+    "editing": {
+      "accuracy": 0.667,
+      "avg_winner_prob": 0.666,
+      "loo_auc": 0.7764,
+      "best_model": "enet_a0.05_l0.9",
+      "n_years": 6
+    },
+    "production_design": {
+      "accuracy": 0.333,
+      "avg_winner_prob": 0.577,
+      "loo_auc": 0.78,
+      "best_model": "gbt_d1_n100",
+      "n_years": 6
+    },
+    "costume": {
+      "accuracy": 1.0,
+      "avg_winner_prob": 0.71,
+      "loo_auc": 0.858,
+      "best_model": "gbt_d1_n100",
+      "n_years": 6
+    },
+    "sound": {
+      "accuracy": 0.5,
+      "avg_winner_prob": 0.608,
+      "loo_auc": 0.7945,
+      "best_model": "gbt_d1_n100",
+      "n_years": 6
+    },
+    "makeup": {
+      "accuracy": 0.833,
+      "avg_winner_prob": 0.608,
+      "loo_auc": 0.8011,
+      "best_model": "gbt_d1_n100",
+      "n_years": 6
+    },
+    "score": {
+      "accuracy": 0.5,
+      "avg_winner_prob": 0.951,
+      "loo_auc": 0.8293,
+      "best_model": "enet_a0.05_l0.9",
+      "n_years": 6
+    },
+    "song": {
+      "accuracy": 0.833,
+      "avg_winner_prob": 0.649,
+      "loo_auc": 0.8551,
+      "best_model": "gbt_d2_n50",
+      "n_years": 6
+    },
+    "visual_effects": {
+      "accuracy": 0.833,
+      "avg_winner_prob": 0.723,
+      "loo_auc": 0.9017,
+      "best_model": "gbt_d1_n100",
+      "n_years": 6
+    },
+    "documentary": {
+      "accuracy": 0.833,
+      "avg_winner_prob": 0.701,
+      "loo_auc": 0.878,
+      "best_model": "enet_a0.01_l0.1",
+      "n_years": 6
+    },
+    "animated": {
+      "accuracy": 0.667,
+      "avg_winner_prob": 0.804,
+      "loo_auc": 0.9536,
+      "best_model": "enet_a0.1_l0.5",
+      "n_years": 6
+    },
+    "animated_short": {
+      "accuracy": 0.5,
+      "avg_winner_prob": 0.359,
+      "loo_auc": 0.554,
+      "best_model": "enet_a0.005_l0.1",
+      "n_years": 6
+    },
+    "live_action_short": {
+      "accuracy": 0.833,
+      "avg_winner_prob": 0.48,
+      "loo_auc": 0.5,
+      "best_model": "enet_a0.01_l0.9",
+      "n_years": 6
+    },
+    "documentary_short": {
+      "accuracy": 0.5,
+      "avg_winner_prob": 0.464,
+      "loo_auc": 0.5093,
+      "best_model": "gbt_d1_n100",
+      "n_years": 6
+    },
+    "international": {
+      "accuracy": 0.833,
+      "avg_winner_prob": 0.716,
+      "loo_auc": 0.784,
+      "best_model": "gbt_d1_n100",
+      "n_years": 6
+    }
+  },
+  "cat_meta": {
+    "picture": {
+      "auc": 0.8672,
+      "best_model": "enet_a0.1_l0.1",
+      "top_features": [
+        {
+          "feature": "__n_wins_in_cat__",
+          "coefficient": 0.3475,
+          "display": "__n_wins_in_cat__"
+        },
+        {
+          "feature": "Golden Globes, USA::supp_actor::N",
+          "coefficient": 0.3399,
+          "display": "Golden Globe Nom"
+        },
+        {
+          "feature": "Screen Actors Guild Awards::cast::W",
+          "coefficient": 0.3113,
+          "display": "SAG Win"
+        },
+        {
+          "feature": "Broadcast Film Critics Association Awards::supp_actor::N",
+          "coefficient": 0.2666,
+          "display": "Critics Choice Nom"
+        },
+        {
+          "feature": "Online Film Critics Society Awards::supp_actor::N",
+          "coefficient": 0.2572,
+          "display": "OFCS Nom"
+        },
+        {
+          "feature": "PGA Awards::picture::W",
+          "coefficient": 0.2315,
+          "display": "PGA Win"
+        },
+        {
+          "feature": "Directors Guild of America, USA::director::W",
+          "coefficient": 0.2231,
+          "display": "DGA Win"
+        },
+        {
+          "feature": "Screen Actors Guild Awards::supp_actor::W",
+          "coefficient": 0.1462,
+          "display": "SAG Win"
+        },
+        {
+          "feature": "Dallas-Fort Worth Film Critics Association Awards::picture::W",
+          "coefficient": 0.1409,
+          "display": "Dallas-Fort Worth Film Critics Association Awards Win"
+        },
+        {
+          "feature": "American Cinema Editors, USA::editing::W",
+          "coefficient": 0.1238,
+          "display": "ACE Win"
+        }
+      ],
+      "n_features": 616,
+      "n_nonzero": 51
+    },
+    "actor": {
+      "auc": 0.9008,
+      "best_model": "gbt_d1_n100",
+      "top_features": [
+        {
+          "feature": "__n_wins_in_cat__",
+          "coefficient": 0.3736,
+          "display": "__n_wins_in_cat__"
+        },
+        {
+          "feature": "Screen Actors Guild Awards::actor::W",
+          "coefficient": 0.2785,
+          "display": "SAG Win"
+        },
+        {
+          "feature": "Broadcast Film Critics Association Awards::actor::N",
+          "coefficient": 0.0782,
+          "display": "Critics Choice Nom"
+        },
+        {
+          "feature": "Golden Globes, USA::supp_actor::W",
+          "coefficient": 0.0644,
+          "display": "Golden Globe Win"
+        },
+        {
+          "feature": "__n_wins_cross__",
+          "coefficient": 0.0426,
+          "display": "__n_wins_cross__"
+        },
+        {
+          "feature": "Satellite Awards::adapted_screenplay::W",
+          "coefficient": 0.0409,
+          "display": "Satellite Win"
+        },
+        {
+          "feature": "Los Angeles Film Critics Association Awards::actor::N",
+          "coefficient": 0.0173,
+          "display": "Los Angeles Film Critics Association Awards Nom"
+        },
+        {
+          "feature": "Satellite Awards::supp_actor::N",
+          "coefficient": 0.0163,
+          "display": "Satellite Nom"
+        },
+        {
+          "feature": "BAFTA Awards::actor::W",
+          "coefficient": 0.0146,
+          "display": "BAFTA Win"
+        },
+        {
+          "feature": "Online Film Critics Society Awards::supp_actress::W",
+          "coefficient": 0.0146,
+          "display": "OFCS Win"
+        }
+      ],
+      "n_features": 523,
+      "n_nonzero": 20
+    },
+    "actress": {
+      "auc": 0.888,
+      "best_model": "gbt_d2_n50",
+      "top_features": [
+        {
+          "feature": "Screen Actors Guild Awards::actress::W",
+          "coefficient": 0.2367,
+          "display": "SAG Win"
+        },
+        {
+          "feature": "BAFTA Awards::actress::W",
+          "coefficient": 0.1234,
+          "display": "BAFTA Win"
+        },
+        {
+          "feature": "__n_wins_in_cat__",
+          "coefficient": 0.1131,
+          "display": "__n_wins_in_cat__"
+        },
+        {
+          "feature": "Broadcast Film Critics Association Awards::supp_actress::W",
+          "coefficient": 0.1037,
+          "display": "Critics Choice Win"
+        },
+        {
+          "feature": "BAFTA Awards::actress::N",
+          "coefficient": 0.065,
+          "display": "BAFTA Nom"
+        },
+        {
+          "feature": "London Critics Circle Film Awards::supp_actor::N",
+          "coefficient": 0.0591,
+          "display": "London Critics Nom"
+        },
+        {
+          "feature": "__n_noms_cross__",
+          "coefficient": 0.0413,
+          "display": "__n_noms_cross__"
+        },
+        {
+          "feature": "__n_wins_cross__",
+          "coefficient": 0.0257,
+          "display": "__n_wins_cross__"
+        },
+        {
+          "feature": "National Society of Film Critics Awards, USA::actress::N",
+          "coefficient": 0.0233,
+          "display": "NSFC Nom"
+        },
+        {
+          "feature": "London Critics Circle Film Awards::supp_actress::N",
+          "coefficient": 0.0168,
+          "display": "London Critics Nom"
+        }
+      ],
+      "n_features": 522,
+      "n_nonzero": 42
+    },
+    "supp_actor": {
+      "auc": 0.8705,
+      "best_model": "enet_a0.005_l0.1",
+      "top_features": [
+        {
+          "feature": "__n_wins_in_cat__",
+          "coefficient": 7.1032,
+          "display": "__n_wins_in_cat__"
+        },
+        {
+          "feature": "Chicago Film Critics Association Awards::original_screenplay::N",
+          "coefficient": 3.718,
+          "display": "Chicago Film Critics Association Awards Nom"
+        },
+        {
+          "feature": "BAFTA Awards::picture::N",
+          "coefficient": 3.1923,
+          "display": "BAFTA Nom"
+        },
+        {
+          "feature": "BAFTA Awards::original_screenplay::N",
+          "coefficient": 3.1641,
+          "display": "BAFTA Nom"
+        },
+        {
+          "feature": "PGA Awards::picture::W",
+          "coefficient": 3.038,
+          "display": "PGA Win"
+        },
+        {
+          "feature": "Writers Guild of America, USA::original_screenplay::W",
+          "coefficient": 2.8767,
+          "display": "WGA Win"
+        },
+        {
+          "feature": "Golden Globes, USA::director::N",
+          "coefficient": 2.8652,
+          "display": "Golden Globe Nom"
+        },
+        {
+          "feature": "Golden Globes, USA::supp_actor::W",
+          "coefficient": 2.7918,
+          "display": "Golden Globe Win"
+        },
+        {
+          "feature": "Screen Actors Guild Awards::supp_actor::W",
+          "coefficient": 2.5594,
+          "display": "SAG Win"
+        },
+        {
+          "feature": "Los Angeles Film Critics Association Awards::supp_actor::N",
+          "coefficient": 2.555,
+          "display": "Los Angeles Film Critics Association Awards Nom"
+        }
+      ],
+      "n_features": 479,
+      "n_nonzero": 414
+    },
+    "supp_actress": {
+      "auc": 0.9246,
+      "best_model": "gbt_d2_n50",
+      "top_features": [
+        {
+          "feature": "Screen Actors Guild Awards::supp_actress::W",
+          "coefficient": 0.3578,
+          "display": "SAG Win"
+        },
+        {
+          "feature": "__n_wins_in_cat__",
+          "coefficient": 0.3164,
+          "display": "__n_wins_in_cat__"
+        },
+        {
+          "feature": "BAFTA Awards::supp_actress::W",
+          "coefficient": 0.0632,
+          "display": "BAFTA Win"
+        },
+        {
+          "feature": "Screen Actors Guild Awards::supp_actress::N",
+          "coefficient": 0.0316,
+          "display": "SAG Nom"
+        },
+        {
+          "feature": "BAFTA Awards::visual_effects::N",
+          "coefficient": 0.0256,
+          "display": "BAFTA Nom"
+        },
+        {
+          "feature": "ev0000123::director::N",
+          "coefficient": 0.0254,
+          "display": "ev0000123 Nom"
+        },
+        {
+          "feature": "National Society of Film Critics Awards, USA::screenplay::N",
+          "coefficient": 0.0193,
+          "display": "NSFC Nom"
+        },
+        {
+          "feature": "San Diego Film Critics Society Awards::actress::N",
+          "coefficient": 0.0152,
+          "display": "San Diego Film Critics Society Awards Nom"
+        },
+        {
+          "feature": "London Critics Circle Film Awards::supp_actor::W",
+          "coefficient": 0.0119,
+          "display": "London Critics Win"
+        },
+        {
+          "feature": "__n_wins_cross__",
+          "coefficient": 0.0109,
+          "display": "__n_wins_cross__"
+        }
+      ],
+      "n_features": 508,
+      "n_nonzero": 40
+    },
+    "director": {
+      "auc": 0.9193,
+      "best_model": "gbt_d1_n100",
+      "top_features": [
+        {
+          "feature": "Directors Guild of America, USA::director::W",
+          "coefficient": 0.4684,
+          "display": "DGA Win"
+        },
+        {
+          "feature": "__n_wins_in_cat__",
+          "coefficient": 0.3544,
+          "display": "__n_wins_in_cat__"
+        },
+        {
+          "feature": "Art Directors Guild::production_design::W",
+          "coefficient": 0.0329,
+          "display": "ADG Win"
+        },
+        {
+          "feature": "Art Directors Guild::production_design::N",
+          "coefficient": 0.0297,
+          "display": "ADG Nom"
+        },
+        {
+          "feature": "BAFTA Awards::cinematography::W",
+          "coefficient": 0.0156,
+          "display": "BAFTA Win"
+        },
+        {
+          "feature": "Los Angeles Film Critics Association Awards::supp_actor::N",
+          "coefficient": 0.0143,
+          "display": "Los Angeles Film Critics Association Awards Nom"
+        },
+        {
+          "feature": "Academy of Science Fiction, Fantasy & Horror Films, USA::production_design::N",
+          "coefficient": 0.0126,
+          "display": "Academy of Science Fiction, Fantasy & Horror Films, USA Nom"
+        },
+        {
+          "feature": "Los Angeles Film Critics Association Awards::production_design::W",
+          "coefficient": 0.0093,
+          "display": "Los Angeles Film Critics Association Awards Win"
+        },
+        {
+          "feature": "Boston Society of Film Critics Awards::cast::W",
+          "coefficient": 0.0083,
+          "display": "Boston Society of Film Critics Awards Win"
+        },
+        {
+          "feature": "ev0000292::screenplay::N",
+          "coefficient": 0.0076,
+          "display": "ev0000292 Nom"
+        }
+      ],
+      "n_features": 565,
+      "n_nonzero": 23
+    },
+    "original_screenplay": {
+      "auc": 0.896,
+      "best_model": "enet_a0.01_l0.5",
+      "top_features": [
+        {
+          "feature": "__n_wins_in_cat__",
+          "coefficient": 6.3237,
+          "display": "__n_wins_in_cat__"
+        },
+        {
+          "feature": "Online Film Critics Society Awards::supp_actor::N",
+          "coefficient": 5.0126,
+          "display": "OFCS Nom"
+        },
+        {
+          "feature": "Writers Guild of America, USA::original_screenplay::W",
+          "coefficient": 4.5579,
+          "display": "WGA Win"
+        },
+        {
+          "feature": "PGA Awards::picture::W",
+          "coefficient": 4.2854,
+          "display": "PGA Win"
+        },
+        {
+          "feature": "Boston Society of Film Critics Awards::actor::W",
+          "coefficient": 3.7828,
+          "display": "Boston Society of Film Critics Awards Win"
+        },
+        {
+          "feature": "Online Film Critics Society Awards::picture::W",
+          "coefficient": 3.3718,
+          "display": "OFCS Win"
+        },
+        {
+          "feature": "BAFTA Awards::picture::N",
+          "coefficient": 3.2339,
+          "display": "BAFTA Nom"
+        },
+        {
+          "feature": "American Cinema Editors, USA::editing::N",
+          "coefficient": 3.1559,
+          "display": "ACE Nom"
+        },
+        {
+          "feature": "Golden Globes, USA::screenplay::W",
+          "coefficient": 2.5995,
+          "display": "Golden Globe Win"
+        },
+        {
+          "feature": "Motion Picture Sound Editors, USA::sound::N",
+          "coefficient": 2.3949,
+          "display": "Motion Picture Sound Editors, USA Nom"
+        }
+      ],
+      "n_features": 499,
+      "n_nonzero": 153
+    },
+    "adapted_screenplay": {
+      "auc": 0.8107,
+      "best_model": "enet_a0.01_l0.9",
+      "top_features": [
+        {
+          "feature": "__n_wins_in_cat__",
+          "coefficient": 34.1182,
+          "display": "__n_wins_in_cat__"
+        },
+        {
+          "feature": "Writers Guild of America, USA::adapted_screenplay::W",
+          "coefficient": 15.2589,
+          "display": "WGA Win"
+        },
+        {
+          "feature": "Screen Actors Guild Awards::cast::N",
+          "coefficient": 12.6599,
+          "display": "SAG Nom"
+        },
+        {
+          "feature": "Directors Guild of America, USA::director::N",
+          "coefficient": 11.1611,
+          "display": "DGA Nom"
+        },
+        {
+          "feature": "Online Film Critics Society Awards::actor::N",
+          "coefficient": 8.5617,
+          "display": "OFCS Nom"
+        },
+        {
+          "feature": "Broadcast Film Critics Association Awards::picture::W",
+          "coefficient": 8.3261,
+          "display": "Critics Choice Win"
+        },
+        {
+          "feature": "Screen Actors Guild Awards::actor::N",
+          "coefficient": 8.1903,
+          "display": "SAG Nom"
+        },
+        {
+          "feature": "Broadcast Film Critics Association Awards::director::W",
+          "coefficient": 7.4273,
+          "display": "Critics Choice Win"
+        },
+        {
+          "feature": "Boston Society of Film Critics Awards::picture::W",
+          "coefficient": 7.3959,
+          "display": "Boston Society of Film Critics Awards Win"
+        },
+        {
+          "feature": "Chicago Film Critics Association Awards::director::W",
+          "coefficient": 7.2985,
+          "display": "Chicago Film Critics Association Awards Win"
+        }
+      ],
+      "n_features": 537,
+      "n_nonzero": 138
+    },
+    "cinematography": {
+      "auc": 0.9142,
+      "best_model": "gbt_d2_n50",
+      "top_features": [
+        {
+          "feature": "Motion Picture Sound Editors, USA::sound::W",
+          "coefficient": 0.2302,
+          "display": "Motion Picture Sound Editors, USA Win"
+        },
+        {
+          "feature": "__n_wins_in_cat__",
+          "coefficient": 0.1315,
+          "display": "__n_wins_in_cat__"
+        },
+        {
+          "feature": "BAFTA Awards::cinematography::W",
+          "coefficient": 0.0748,
+          "display": "BAFTA Win"
+        },
+        {
+          "feature": "__n_wins_cross__",
+          "coefficient": 0.0694,
+          "display": "__n_wins_cross__"
+        },
+        {
+          "feature": "Cinema Audio Society, USA::sound::W",
+          "coefficient": 0.0663,
+          "display": "CAS Win"
+        },
+        {
+          "feature": "Broadcast Film Critics Association Awards::cinematography::N",
+          "coefficient": 0.0531,
+          "display": "Critics Choice Nom"
+        },
+        {
+          "feature": "Satellite Awards::director::W",
+          "coefficient": 0.0495,
+          "display": "Satellite Win"
+        },
+        {
+          "feature": "BAFTA Awards::picture::W",
+          "coefficient": 0.0322,
+          "display": "BAFTA Win"
+        },
+        {
+          "feature": "Broadcast Film Critics Association Awards::cinematography::W",
+          "coefficient": 0.0296,
+          "display": "Critics Choice Win"
+        },
+        {
+          "feature": "Satellite Awards::picture::W",
+          "coefficient": 0.0264,
+          "display": "Satellite Win"
+        }
+      ],
+      "n_features": 540,
+      "n_nonzero": 55
+    },
+    "editing": {
+      "auc": 0.7764,
+      "best_model": "enet_a0.05_l0.9",
+      "top_features": [
+        {
+          "feature": "Cinema Audio Society, USA::sound::W",
+          "coefficient": 2.4106,
+          "display": "CAS Win"
+        },
+        {
+          "feature": "__n_wins_in_cat__",
+          "coefficient": 1.6885,
+          "display": "__n_wins_in_cat__"
+        },
+        {
+          "feature": "BAFTA Awards::sound::W",
+          "coefficient": 1.0329,
+          "display": "BAFTA Win"
+        },
+        {
+          "feature": "Satellite Awards::production_design::N",
+          "coefficient": 0.3128,
+          "display": "Satellite Nom"
+        },
+        {
+          "feature": "Online Film Critics Society Awards::supp_actor::N",
+          "coefficient": 0.0382,
+          "display": "OFCS Nom"
+        }
+      ],
+      "n_features": 540,
+      "n_nonzero": 8
+    },
+    "production_design": {
+      "auc": 0.78,
+      "best_model": "gbt_d1_n100",
+      "top_features": [
+        {
+          "feature": "__n_wins_cross__",
+          "coefficient": 0.3529,
+          "display": "__n_wins_cross__"
+        },
+        {
+          "feature": "__n_wins_in_cat__",
+          "coefficient": 0.2302,
+          "display": "__n_wins_in_cat__"
+        },
+        {
+          "feature": "Costume Designers Guild Awards::costume::W",
+          "coefficient": 0.0684,
+          "display": "CDG Win"
+        },
+        {
+          "feature": "Broadcast Film Critics Association Awards::score::N",
+          "coefficient": 0.0462,
+          "display": "Critics Choice Nom"
+        },
+        {
+          "feature": "Broadcast Film Critics Association Awards::production_design::N",
+          "coefficient": 0.0435,
+          "display": "Critics Choice Nom"
+        },
+        {
+          "feature": "__n_noms_cross__",
+          "coefficient": 0.0382,
+          "display": "__n_noms_cross__"
+        },
+        {
+          "feature": "__n_noms_in_cat__",
+          "coefficient": 0.03,
+          "display": "__n_noms_in_cat__"
+        },
+        {
+          "feature": "BAFTA Awards::adapted_screenplay::W",
+          "coefficient": 0.02,
+          "display": "BAFTA Win"
+        },
+        {
+          "feature": "American Cinema Editors, USA::editing::W",
+          "coefficient": 0.0193,
+          "display": "ACE Win"
+        },
+        {
+          "feature": "BAFTA Awards::makeup::N",
+          "coefficient": 0.0191,
+          "display": "BAFTA Nom"
+        }
+      ],
+      "n_features": 534,
+      "n_nonzero": 28
+    },
+    "costume": {
+      "auc": 0.858,
+      "best_model": "gbt_d1_n100",
+      "top_features": [
+        {
+          "feature": "__n_wins_in_cat__",
+          "coefficient": 0.5056,
+          "display": "__n_wins_in_cat__"
+        },
+        {
+          "feature": "PGA Awards::picture::W",
+          "coefficient": 0.0874,
+          "display": "PGA Win"
+        },
+        {
+          "feature": "Golden Globes, USA::picture::N",
+          "coefficient": 0.0609,
+          "display": "Golden Globe Nom"
+        },
+        {
+          "feature": "American Cinema Editors, USA::editing::N",
+          "coefficient": 0.0487,
+          "display": "ACE Nom"
+        },
+        {
+          "feature": "Broadcast Film Critics Association Awards::costume::W",
+          "coefficient": 0.0349,
+          "display": "Critics Choice Win"
+        },
+        {
+          "feature": "BAFTA Awards::visual_effects::N",
+          "coefficient": 0.0313,
+          "display": "BAFTA Nom"
+        },
+        {
+          "feature": "American Cinema Editors, USA::editing::W",
+          "coefficient": 0.0283,
+          "display": "ACE Win"
+        },
+        {
+          "feature": "__n_noms_in_cat__",
+          "coefficient": 0.0255,
+          "display": "__n_noms_in_cat__"
+        },
+        {
+          "feature": "Satellite Awards::actor::N",
+          "coefficient": 0.0204,
+          "display": "Satellite Nom"
+        },
+        {
+          "feature": "Chicago Film Critics Association Awards::cinematography::N",
+          "coefficient": 0.0163,
+          "display": "Chicago Film Critics Association Awards Nom"
+        }
+      ],
+      "n_features": 514,
+      "n_nonzero": 32
+    },
+    "sound": {
+      "auc": 0.7945,
+      "best_model": "gbt_d1_n100",
+      "top_features": [
+        {
+          "feature": "__n_wins_in_cat__",
+          "coefficient": 0.3452,
+          "display": "__n_wins_in_cat__"
+        },
+        {
+          "feature": "BAFTA Awards::sound::W",
+          "coefficient": 0.2258,
+          "display": "BAFTA Win"
+        },
+        {
+          "feature": "Academy of Science Fiction, Fantasy & Horror Films, USA::actress::W",
+          "coefficient": 0.0782,
+          "display": "Academy of Science Fiction, Fantasy & Horror Films, USA Win"
+        },
+        {
+          "feature": "National Society of Film Critics Awards, USA::cinematography::N",
+          "coefficient": 0.0711,
+          "display": "NSFC Nom"
+        },
+        {
+          "feature": "Motion Picture Sound Editors, USA::sound::N",
+          "coefficient": 0.0463,
+          "display": "Motion Picture Sound Editors, USA Nom"
+        },
+        {
+          "feature": "Satellite Awards::editing::N",
+          "coefficient": 0.0455,
+          "display": "Satellite Nom"
+        },
+        {
+          "feature": "BAFTA Awards::editing::W",
+          "coefficient": 0.0324,
+          "display": "BAFTA Win"
+        },
+        {
+          "feature": "Online Film Critics Society Awards::sound::W",
+          "coefficient": 0.0302,
+          "display": "OFCS Win"
+        },
+        {
+          "feature": "Broadcast Film Critics Association Awards::supp_actor::N",
+          "coefficient": 0.0238,
+          "display": "Critics Choice Nom"
+        },
+        {
+          "feature": "National Society of Film Critics Awards, USA::supp_actor::N",
+          "coefficient": 0.0216,
+          "display": "NSFC Nom"
+        }
+      ],
+      "n_features": 534,
+      "n_nonzero": 19
+    },
+    "makeup": {
+      "auc": 0.8011,
+      "best_model": "gbt_d1_n100",
+      "top_features": [
+        {
+          "feature": "__n_wins_in_cat__",
+          "coefficient": 0.5221,
+          "display": "__n_wins_in_cat__"
+        },
+        {
+          "feature": "__n_wins_cross__",
+          "coefficient": 0.0906,
+          "display": "__n_wins_cross__"
+        },
+        {
+          "feature": "BAFTA Awards::makeup::W",
+          "coefficient": 0.0507,
+          "display": "BAFTA Win"
+        },
+        {
+          "feature": "BAFTA Awards::actor::N",
+          "coefficient": 0.0326,
+          "display": "BAFTA Nom"
+        },
+        {
+          "feature": "PGA Awards::picture::N",
+          "coefficient": 0.0319,
+          "display": "PGA Nom"
+        },
+        {
+          "feature": "Satellite Awards::actor::W",
+          "coefficient": 0.0292,
+          "display": "Satellite Win"
+        },
+        {
+          "feature": "__n_noms_cross__",
+          "coefficient": 0.0266,
+          "display": "__n_noms_cross__"
+        },
+        {
+          "feature": "__n_noms_in_cat__",
+          "coefficient": 0.025,
+          "display": "__n_noms_in_cat__"
+        },
+        {
+          "feature": "Academy of Science Fiction, Fantasy & Horror Films, USA::production_design::N",
+          "coefficient": 0.0244,
+          "display": "Academy of Science Fiction, Fantasy & Horror Films, USA Nom"
+        },
+        {
+          "feature": "BAFTA Awards::makeup::N",
+          "coefficient": 0.0229,
+          "display": "BAFTA Nom"
+        }
+      ],
+      "n_features": 472,
+      "n_nonzero": 24
+    },
+    "score": {
+      "auc": 0.8293,
+      "best_model": "enet_a0.05_l0.9",
+      "top_features": [
+        {
+          "feature": "__n_wins_in_cat__",
+          "coefficient": 5.6396,
+          "display": "__n_wins_in_cat__"
+        },
+        {
+          "feature": "Satellite Awards::costume::N",
+          "coefficient": 0.7497,
+          "display": "Satellite Nom"
+        },
+        {
+          "feature": "__n_noms_cross__",
+          "coefficient": 0.6558,
+          "display": "__n_noms_cross__"
+        },
+        {
+          "feature": "BAFTA Awards::editing::N",
+          "coefficient": 0.615,
+          "display": "BAFTA Nom"
+        },
+        {
+          "feature": "BAFTA Awards::sound::N",
+          "coefficient": 0.5763,
+          "display": "BAFTA Nom"
+        },
+        {
+          "feature": "Online Film Critics Society Awards::score::N",
+          "coefficient": 0.175,
+          "display": "OFCS Nom"
+        },
+        {
+          "feature": "American Society of Cinematographers, USA::cinematography::N",
+          "coefficient": 0.1254,
+          "display": "ASC Nom"
+        },
+        {
+          "feature": "Golden Globes, USA::score::W",
+          "coefficient": 0.0551,
+          "display": "Golden Globe Win"
+        },
+        {
+          "feature": "Broadcast Film Critics Association Awards::score::W",
+          "coefficient": 0.0544,
+          "display": "Critics Choice Win"
+        }
+      ],
+      "n_features": 573,
+      "n_nonzero": 12
+    },
+    "song": {
+      "auc": 0.8551,
+      "best_model": "gbt_d2_n50",
+      "top_features": [
+        {
+          "feature": "__n_wins_in_cat__",
+          "coefficient": 0.2513,
+          "display": "__n_wins_in_cat__"
+        },
+        {
+          "feature": "BAFTA Awards::picture::W",
+          "coefficient": 0.129,
+          "display": "BAFTA Win"
+        },
+        {
+          "feature": "__n_noms_cross__",
+          "coefficient": 0.0965,
+          "display": "__n_noms_cross__"
+        },
+        {
+          "feature": "Golden Globes, USA::song::W",
+          "coefficient": 0.0927,
+          "display": "Golden Globe Win"
+        },
+        {
+          "feature": "__n_wins_cross__",
+          "coefficient": 0.0907,
+          "display": "__n_wins_cross__"
+        },
+        {
+          "feature": "Broadcast Film Critics Association Awards::song::W",
+          "coefficient": 0.047,
+          "display": "Critics Choice Win"
+        },
+        {
+          "feature": "Golden Globes, USA::song::N",
+          "coefficient": 0.0457,
+          "display": "Golden Globe Nom"
+        },
+        {
+          "feature": "American Cinema Editors, USA::editing::W",
+          "coefficient": 0.0376,
+          "display": "ACE Win"
+        },
+        {
+          "feature": "Golden Globes, USA::score::N",
+          "coefficient": 0.0221,
+          "display": "Golden Globe Nom"
+        },
+        {
+          "feature": "BAFTA Awards::actor::N",
+          "coefficient": 0.0178,
+          "display": "BAFTA Nom"
+        }
+      ],
+      "n_features": 472,
+      "n_nonzero": 38
+    },
+    "visual_effects": {
+      "auc": 0.9017,
+      "best_model": "gbt_d1_n100",
+      "top_features": [
+        {
+          "feature": "BAFTA Awards::visual_effects::W",
+          "coefficient": 0.3385,
+          "display": "BAFTA Win"
+        },
+        {
+          "feature": "__n_noms_cross__",
+          "coefficient": 0.3316,
+          "display": "__n_noms_cross__"
+        },
+        {
+          "feature": "__n_wins_in_cat__",
+          "coefficient": 0.1472,
+          "display": "__n_wins_in_cat__"
+        },
+        {
+          "feature": "__n_wins_cross__",
+          "coefficient": 0.0442,
+          "display": "__n_wins_cross__"
+        },
+        {
+          "feature": "ev0000452::sound::N",
+          "coefficient": 0.0315,
+          "display": "ev0000452 Nom"
+        },
+        {
+          "feature": "__n_noms_in_cat__",
+          "coefficient": 0.0212,
+          "display": "__n_noms_in_cat__"
+        },
+        {
+          "feature": "Broadcast Film Critics Association Awards::supp_actor::N",
+          "coefficient": 0.0182,
+          "display": "Critics Choice Nom"
+        },
+        {
+          "feature": "BAFTA Awards::original_screenplay::N",
+          "coefficient": 0.0171,
+          "display": "BAFTA Nom"
+        },
+        {
+          "feature": "Broadcast Film Critics Association Awards::makeup::W",
+          "coefficient": 0.014,
+          "display": "Critics Choice Win"
+        },
+        {
+          "feature": "London Critics Circle Film Awards::supp_actress::N",
+          "coefficient": 0.0125,
+          "display": "London Critics Nom"
+        }
+      ],
+      "n_features": 364,
+      "n_nonzero": 15
+    },
+    "documentary": {
+      "auc": 0.878,
+      "best_model": "enet_a0.01_l0.1",
+      "top_features": [
+        {
+          "feature": "American Cinema Editors, USA::editing::W",
+          "coefficient": 1.1082,
+          "display": "ACE Win"
+        },
+        {
+          "feature": "Boston Society of Film Critics Awards::documentary::N",
+          "coefficient": 1.0244,
+          "display": "Boston Society of Film Critics Awards Nom"
+        },
+        {
+          "feature": "Chicago International Film Festival::documentary::W",
+          "coefficient": 0.9286,
+          "display": "Chicago International Film Festival Win"
+        },
+        {
+          "feature": "__n_wins_in_cat__",
+          "coefficient": 0.8871,
+          "display": "__n_wins_in_cat__"
+        },
+        {
+          "feature": "American Cinema Editors, USA::editing::N",
+          "coefficient": 0.8221,
+          "display": "ACE Nom"
+        },
+        {
+          "feature": "Motion Picture Sound Editors, USA::sound::N",
+          "coefficient": 0.8181,
+          "display": "Motion Picture Sound Editors, USA Nom"
+        },
+        {
+          "feature": "Satellite Awards::documentary::N",
+          "coefficient": 0.7215,
+          "display": "Satellite Nom"
+        },
+        {
+          "feature": "PGA Awards::documentary::W",
+          "coefficient": 0.6912,
+          "display": "PGA Win"
+        },
+        {
+          "feature": "Writers Guild of America, USA::documentary::W",
+          "coefficient": 0.6787,
+          "display": "WGA Win"
+        },
+        {
+          "feature": "Sundance Film Festival::documentary::N",
+          "coefficient": 0.6566,
+          "display": "Sundance Film Festival Nom"
+        }
+      ],
+      "n_features": 128,
+      "n_nonzero": 83
+    },
+    "animated": {
+      "auc": 0.9536,
+      "best_model": "enet_a0.1_l0.5",
+      "top_features": [
+        {
+          "feature": "__n_wins_cross__",
+          "coefficient": 0.706,
+          "display": "__n_wins_cross__"
+        },
+        {
+          "feature": "__n_wins_in_cat__",
+          "coefficient": 0.4608,
+          "display": "__n_wins_in_cat__"
+        }
+      ],
+      "n_features": 171,
+      "n_nonzero": 3
+    },
+    "animated_short": {
+      "auc": 0.554,
+      "best_model": "enet_a0.005_l0.1",
+      "top_features": [
+        {
+          "feature": "__n_noms_cross__",
+          "coefficient": 1.9973,
+          "display": "__n_noms_cross__"
+        },
+        {
+          "feature": "Annie Awards::animated_short::W",
+          "coefficient": 1.7381,
+          "display": "Annie Win"
+        },
+        {
+          "feature": "Annie Awards::editing::N",
+          "coefficient": 0.9632,
+          "display": "Annie Nom"
+        },
+        {
+          "feature": "Annie Awards::editing::W",
+          "coefficient": 0.931,
+          "display": "Annie Win"
+        },
+        {
+          "feature": "Annie Awards::production_design::N",
+          "coefficient": 0.931,
+          "display": "Annie Nom"
+        },
+        {
+          "feature": "Annie Awards::animated_short::N",
+          "coefficient": 0.6234,
+          "display": "Annie Nom"
+        },
+        {
+          "feature": "__n_noms_in_cat__",
+          "coefficient": 0.6234,
+          "display": "__n_noms_in_cat__"
+        },
+        {
+          "feature": "Annie Awards::director::W",
+          "coefficient": 0.125,
+          "display": "Annie Win"
+        }
+      ],
+      "n_features": 18,
+      "n_nonzero": 12
+    },
+    "live_action_short": {
+      "auc": 0.5,
+      "best_model": "enet_a0.01_l0.9",
+      "top_features": [
+        {
+          "feature": "Rhode Island International Film Festival::director::W",
+          "coefficient": 0.8904,
+          "display": "Rhode Island International Film Festival Win"
+        }
+      ],
+      "n_features": 14,
+      "n_nonzero": 1
+    },
+    "documentary_short": {
+      "auc": 0.5093,
+      "best_model": "gbt_d1_n100",
+      "top_features": [
+        {
+          "feature": "__n_noms_cross__",
+          "coefficient": 1.0,
+          "display": "__n_noms_cross__"
+        }
+      ],
+      "n_features": 18,
+      "n_nonzero": 1
+    },
+    "international": {
+      "auc": 0.784,
+      "best_model": "gbt_d1_n100",
+      "top_features": [
+        {
+          "feature": "__n_wins_in_cat__",
+          "coefficient": 0.3019,
+          "display": "__n_wins_in_cat__"
+        },
+        {
+          "feature": "Satellite Awards::picture::W",
+          "coefficient": 0.1386,
+          "display": "Satellite Win"
+        },
+        {
+          "feature": "BAFTA Awards::picture::W",
+          "coefficient": 0.1364,
+          "display": "BAFTA Win"
+        },
+        {
+          "feature": "__n_wins_cross__",
+          "coefficient": 0.0907,
+          "display": "__n_wins_cross__"
+        },
+        {
+          "feature": "Film Independent Spirit Awards::international::W",
+          "coefficient": 0.0895,
+          "display": "Spirit Win"
+        },
+        {
+          "feature": "Palm Springs International Film Festival::international::W",
+          "coefficient": 0.071,
+          "display": "Palm Springs International Film Festival Win"
+        },
+        {
+          "feature": "Golden Globes, USA::international::N",
+          "coefficient": 0.0564,
+          "display": "Golden Globe Nom"
+        },
+        {
+          "feature": "Golden Globes, USA::international::W",
+          "coefficient": 0.0326,
+          "display": "Golden Globe Win"
+        },
+        {
+          "feature": "National Board of Review, USA::international::W",
+          "coefficient": 0.0147,
+          "display": "National Board of Review, USA Win"
+        },
+        {
+          "feature": "BAFTA Awards::original_screenplay::N",
+          "coefficient": 0.0132,
+          "display": "BAFTA Nom"
+        }
+      ],
+      "n_features": 293,
+      "n_nonzero": 16
+    },
+    "cast": {
+      "auc": null,
+      "best_model": null,
+      "top_features": [],
+      "n_features": 0,
+      "n_nonzero": 0
+    }
+  }
+}

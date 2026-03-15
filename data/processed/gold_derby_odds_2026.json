@@ -1,0 +1,190 @@
+{
+  "_comment": "Gold Derby + expert consensus odds for 2026 Oscars (98th Academy Awards, March 15 2026). Compiled from Gold Derby expert/editor/top-user consensus, Variety, Deadline, IndieWire. Updated March 13, 2026 (post-ASC, post-CAS).",
+  "_sources": [
+    "Gold Derby: https://www.goldderby.com/film/2026/",
+    "Variety 2026 Oscar predictions: https://variety.com/lists/2026-oscars-predictions/",
+    "IndieWire 2026 predictions: https://www.indiewire.com/lists/2026-oscar-predictions-academy-awards/",
+    "Hollywood Reporter Feinberg Forecast"
+  ],
+  "_notes": {
+    "picture": "One Battle After Another swept PGA+DGA+BAFTA+GG+CC. Sinners record 16 noms + SAG Ensemble win gives it ~20% chance. OBAA remains dominant at ~76%.",
+    "supp_actor": "Penn surged +29 pts after SAG win; now clear frontrunner at ~63%. Skarsgård (GG only) dropped to ~27%.",
+    "actress": "Locked: Buckley swept BAFTA+GG+CC+SAG. 96% GD odds. 100% expert/editor support.",
+    "actor": "MOST CONTESTED RACE post-SAG. Jordan SAG win (43%) vs Chalamet GG+CC (42%). Razor-thin, genuine coin-flip.",
+    "supp_actress": "Madigan surged +24 pts after SAG win to ~47%. Taylor dropped to ~29%. Mosaku (BAFTA) at ~22%. Three-way race.",
+    "cinematography": "Post-ASC shift: OBAA won ASC Award (March 8) + previously won BAFTA. Now frontrunner over Sinners. ASC winner has ~65% Oscar hit rate historically."
+  },
+  "picture": {
+    "One Battle After Another": 0.7583,
+    "Sinners": 0.2045,
+    "Hamnet": 0.0124,
+    "Train Dreams": 0.0076,
+    "The Secret Agent": 0.0062,
+    "Sentimental Value": 0.0038,
+    "Marty Supreme": 0.0033,
+    "Frankenstein": 0.0019,
+    "Bugonia": 0.0014,
+    "F1: The Movie": 0.0005
+  },
+  "director": {
+    "Paul Thomas Anderson": 0.9401,
+    "Ryan Coogler": 0.0456,
+    "Chloé Zhao": 0.0087,
+    "Joachim Trier": 0.0031,
+    "Josh Safdie": 0.0026
+  },
+  "actor": {
+    "Michael B. Jordan": 0.4299,
+    "Timothée Chalamet": 0.4171,
+    "Wagner Moura": 0.1152,
+    "Leonardo DiCaprio": 0.0245,
+    "Ethan Hawke": 0.0132
+  },
+  "actress": {
+    "Jessie Buckley": 0.9602,
+    "Rose Byrne": 0.0272,
+    "Renate Reinsve": 0.0061,
+    "Emma Stone": 0.0055,
+    "Kate Hudson": 0.0010
+  },
+  "supp_actor": {
+    "Sean Penn": 0.6257,
+    "Stellan Skarsgård": 0.2666,
+    "Delroy Lindo": 0.0773,
+    "Jacob Elordi": 0.0214,
+    "Benicio Del Toro": 0.0089
+  },
+  "supp_actress": {
+    "Amy Madigan": 0.4743,
+    "Teyana Taylor": 0.2898,
+    "Wunmi Mosaku": 0.2188,
+    "Inga Ibsdotter Lilleaas": 0.0139,
+    "Elle Fanning": 0.0032
+  },
+  "original_screenplay": {
+    "Sinners": 0.700,
+    "Marty Supreme": 0.130,
+    "Blue Moon": 0.080,
+    "It Was Just an Accident": 0.060,
+    "Sentimental Value": 0.030
+  },
+  "adapted_screenplay": {
+    "One Battle After Another": 0.750,
+    "Hamnet": 0.130,
+    "Frankenstein": 0.070,
+    "Train Dreams": 0.030,
+    "Bugonia": 0.020
+  },
+  "cinematography": {
+    "One Battle After Another": 0.520,
+    "Sinners": 0.290,
+    "Train Dreams": 0.100,
+    "Marty Supreme": 0.050,
+    "Frankenstein": 0.040
+  },
+  "editing": {
+    "One Battle After Another": 0.550,
+    "Sinners": 0.250,
+    "F1: The Movie": 0.130,
+    "Marty Supreme": 0.040,
+    "Sentimental Value": 0.030
+  },
+  "production_design": {
+    "Frankenstein": 0.880,
+    "One Battle After Another": 0.060,
+    "Hamnet": 0.040,
+    "Sinners": 0.015,
+    "Marty Supreme": 0.005
+  },
+  "costume": {
+    "Frankenstein": 0.880,
+    "Hamnet": 0.070,
+    "Sinners": 0.030,
+    "Avatar: Fire and Ash": 0.015,
+    "Marty Supreme": 0.005
+  },
+  "sound": {
+    "F1: The Movie": 0.760,
+    "Sinners": 0.110,
+    "One Battle After Another": 0.080,
+    "Frankenstein": 0.030,
+    "Sirat": 0.020
+  },
+  "makeup": {
+    "Frankenstein": 0.960,
+    "The Ugly Stepsister": 0.020,
+    "Kokuho": 0.010,
+    "The Smashing Machine": 0.007,
+    "Sinners": 0.003
+  },
+  "score": {
+    "Sinners": 0.900,
+    "One Battle After Another": 0.050,
+    "Bugonia": 0.025,
+    "Frankenstein": 0.015,
+    "Hamnet": 0.010
+  },
+  "song": {
+    "KPop Demon Hunters": 0.820,
+    "Sinners": 0.090,
+    "Viva Verdi!": 0.050,
+    "Diane Warren: Relentless": 0.030,
+    "Train Dreams": 0.010
+  },
+  "visual_effects": {
+    "Avatar: Fire and Ash": 0.760,
+    "Jurassic World: Rebirth": 0.100,
+    "The Lost Bus": 0.060,
+    "F1: The Movie": 0.050,
+    "Sinners": 0.030
+  },
+  "documentary": {
+    "The Perfect Neighbor": 0.870,
+    "Come See Me in the Good Light": 0.060,
+    "Mr. Nobody Against Putin": 0.040,
+    "The Alabama Solution": 0.020,
+    "Cutting Through Rocks": 0.010
+  },
+  "animated": {
+    "KPop Demon Hunters": 0.950,
+    "Zootopia 2": 0.035,
+    "Elio": 0.010,
+    "Arco": 0.003,
+    "Little Amélie or the Character of Rain": 0.002
+  },
+  "animated_short": {
+    "The Three Sisters": 0.280,
+    "Papillon": 0.260,
+    "Retirement Plan": 0.180,
+    "Forevergreen": 0.160,
+    "The Girl Who Cried Pearls": 0.120
+  },
+  "live_action_short": {
+    "A Friend of Dorothy": 0.350,
+    "Jane Austen's Period Drama": 0.250,
+    "The Singers": 0.200,
+    "Butcher's Stain": 0.120,
+    "Two People Exchanging Saliva": 0.080
+  },
+  "documentary_short": {
+    "Armed Only with a Camera: The Life and Death of Brent Renaud": 0.350,
+    "All the Empty Rooms": 0.280,
+    "The Devil Is Busy": 0.180,
+    "Perfectly a Strangeness": 0.120,
+    "Children No More: Were and Are Gone": 0.070
+  },
+  "international": {
+    "Sentimental Value": 0.480,
+    "The Secret Agent": 0.340,
+    "The Voice of Hind Rajab": 0.100,
+    "It Was Just an Accident": 0.050,
+    "Sirat": 0.030
+  },
+  "cast": {
+    "Sinners": 0.550,
+    "One Battle After Another": 0.220,
+    "Hamnet": 0.100,
+    "Marty Supreme": 0.080,
+    "The Secret Agent": 0.050
+  }
+}
